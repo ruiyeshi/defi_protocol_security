@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/origin-arm/index.js"
+  },
+  {
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/origin-arm/index.js"
+  },
+  {
+    "address": "0x85b78aca6deae198fbf201c82daf6ca21942acc6",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/origin-arm/index.js"
+  }
+]

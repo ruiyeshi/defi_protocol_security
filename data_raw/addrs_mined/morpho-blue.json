@@ -1,0 +1,282 @@
+[
+  {
+    "address": "0x5e331e9ae6e1a5d375f699811736527222a9db15",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xf8b3fa720a9cd8abeed5a81f11f80cd8f93e6b57",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x918b9f2e4b44e20c6423105bb6cceb71473ad35c",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xce95afbb8ea029495c66020883f87aae8864af92",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x8a874eb137d99415bad95c5d4399bc691849d02f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc85ce8ffda27b646d269516b8d0fa6ec2e958b55",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xb74d4dd451e250bc325aff0556d717e4e2351c66",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xf14c4fd60765e36d63f6c8b8161bd41ba995fb44",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xa902a365fe10b4a94339b5a2dc64f60c1486a5c8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x1dca6989b0d2b0a546530b3a739e91402eee2e15",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xe75fc5ea6e74b824954349ca351eb4e671ada53a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x1bf0c2541f820e775182832f06c0b7fc27a25f67",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x857f3eefe8cbda3bc49367c996cd664a880d3042",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xadcdd085ad2887758255090589f72237bdd33d8a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x365ab7828ea541c1d6e30472a1a1e7d07600a6bd",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc2b1e031540e3f3271c5f3819f0cc7479a8ddd90",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc7cad9b1377eb8103397cb07cb5c4f03eb2ebea8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x6ee1955afb64146b126162b4ff018db1eb8f08c3",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x46415998764c29ab2a25cbea6254146d50d22687",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xd50f2dfffd62f94ee4aed9ca05c61d0753268abc",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xe741bc7c34758b4cae05062794e8ae24978af432",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x2d012edbadc37edc2bc62791b666f9193fdf5a55",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc69e948a9a5c123704580c46332f90cff1cb215b",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x01b0bd309aa75547f7a37ad7b1219a898e67a83a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xcb327b99ff831bf8223cced12b1338ff3aa322fa",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x338a4ef6953b36e67ccf7cffe50ebc74b1d64387",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xbce7364e63c3b13c73e9977a83c9704e2aca876e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc7a357293a35ce4c8d7f2000571043313987aab7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x8f5ae9cddb9f68de460c77730b018ae7e04a140a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x12fd05a9306affc946cb13301d88a102400544d2",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x316c0b5cd67aa7c2da7a576d3724e3763981d08f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xa4ca2c2e25b97da19879201ba49422bc6f181f42",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x68e37de8d93d3496ae143f2e900490f6280c57cd",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x00cd58deebd7a2f1c55daec715faf8aed5b27bf8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xda1c2c3c8fad503662e41e324fc644dc2c5e0ccd",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xadcdd085ad2887758255090589f72237bdd33d8e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x2dc205f24bcb6b311e5cdf0745b0741648aebd3d",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xd59a2e7d5110dc379910925aa0472a13e09a093e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x68d6024e5168f16d3453a23b36f393a559be7aef",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xaea7eff1bd3c875c18ef50f0387892df181431c6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc7056597f3a816202486b5082b3291a2023c9633",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x42b18785ce0aed7bf7ca43a39471ed4c0a3e0bb5",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xaffcf1312772583d9d0b9f6e68f5767154b29dfd",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xd6c916eb7542d0ad3f18aed0fcbd50c582cfa95f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xc9cdac20fceaaf616f7eb0bb6cd2c69dcfa9094c",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xa39c45a857bb82df069f63ca8741a02ebe7e9719",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x8413d2a624a9fa8b6d3ec7b22cf7f62e55d6bc83",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x6c247b1f6182318877311737bac0844baa518f5e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xa6030627d724ba78a59acf43be7550b4c5a0653b",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x45d4a31854f09a257ff6b3c3ae0d0f479a898da9",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x2faaa34f387e6485671faeda7c021ee6af961d35",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xd85ce6bd68487e0aafb0858fde1cd18c76840564",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x8183d41556be257fc7aaa4a48396168c8ef2bead",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0x63971484590b054b6abc4fee9f31bc6f68cfec04",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  },
+  {
+    "address": "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/morpho-blue/index.js"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0xe9005b078701e2a0948d2eac43010d35870ad9d2",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0xf9524bfa18c19c3e605fbfe8dfd05c6e967574aa",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0xd6c66868f937f00604d0fb860241970d6cc2cbfe",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0x821ff3a967b39bcbe8a018a9b1563eaf878bad39",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0x511ab53f793683763e5a8829738301368a2411e3",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0xe76c8b8706fac85a8fbdcac3c42e3e7823c73994",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  },
+  {
+    "address": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/moonwell-lending/index.js"
+  }
+]

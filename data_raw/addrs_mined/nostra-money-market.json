@@ -1,0 +1,342 @@
+[
+  {
+    "address": "0x063d69ae657bd2f40337c39bf35a870ac27ddf91",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x07c2e1e733f28daa23e78be3a4f6c724c0ab06af",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x053c91253bc9682c04929ca02ed00b3e423f6710",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x057146f6409deb4c9fa12866915dd952aa07c1eb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x040f5a6b7a6d3c472c12ca31ae6250b462c6d35b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0719b5092403233201aa822ce928bd4b551d0cdb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x4b036839a8769c04144cc47415c64b083a2b26e4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x044debfe17e4d9a5a1e226dabaf286e72c9cc36a",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0739760bce37f89b6c1e6b1198bb8dc7166b8cf2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x001258eae3eae5002125bebf062d611a772e8aea",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x009377fdde350e01e0397820ea83ed3b4f05df30",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x1325caf7c91ee415b8df721fb952fa88486a0fc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x07b05e8dc9c770b72befcf09599132093cf9e57b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x04f18ffc850cdfa223a530d7246d3c6fc12a5969",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x026c5994c2462770bbf940552c5824fb0e0920e2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0348cc417fc877a7868a66510e8e0d0f3f351f5e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x078a40c85846e3303bf7982289ca7def68297d4b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x02530a305dd3d92aad5cf97e373a3d07577f6c85",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x002fc2d4b41cc1f03d185e6681cbd40cced61915",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0514bd7ee8c97d4286bd481c54aa0793e43edbfb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x06eda767a143da12f70947192cd13ee0ccc07782",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x005c4676bcb21454659479b3cd0129884d914df9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x2b674ffda238279de5550d6f996bf717228d3165",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x6757ef9960c5bc711d1ba7f7a3bff44a45ba9e28",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x03fe2b97c1fd336e750087d68b9b867997fd64a2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x2589fc11f60f21af6a1dda3aeb7a44305c552928",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x7d717fb27c9856ea10068d864465a2a8f9f669f4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x066037c083c33330a8460a65e4748ceec275bbf5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0360f9786a6595137f84f2d6931aaec09ceec476",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x024e9b0d6bc79e111e6872bb1ada2a874c25712c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x6f8ad459c712873993e9ffb9013a469248343c3d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x05dcd26c25d9d8fd9fc860038dcb6e4d835e524e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x01fecadfe7cda2487c66291f2970a629be8eecdc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x049d36570d4e46f48e99674bd3fcc84644ddd6b9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x00ba3037d968790ac486f70acaa9a1cab10cf584",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x042b8f0484674ca266ac5d08e4ac6a3fe65bd312",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x067a34ff63ec38d0ccb2817c6d3f01e8b0c4792c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x04b11c750ae92c13fdcbe514f9c47ba6f8266c81",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x06669cb476aa7e6a29c18b59b54f30b8bfcfbb84",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x00c530f2c0aa4c16a0806365b0898499fba372e5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0491480f21299223b9ce770f23a2c383437f9fbf",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x035778d24792bbebcf7651146896df5f787641af",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x05f296e1b9f4cf1ab452c218e72e02a8713cee98",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0292be6baee291a148006db984f200dbdb34b12f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x59a943ca214c10234b9a3b61c558ac20c005127d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0735d0f09a4e8bf8a17005fa35061b5957dcaa56",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x02b5fd690bb9b126e3517f7abfb9db038e6a69a0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x068f5c6a61780768455de69077e07e89787839bf",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x05b7d301fa769274f20e89222169c0fad4d846c3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x05eb6de9c7461b3270d029f00046c8a10d27d4f4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x3e0576565c1b51fcac3b402eb002447f21e97abb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x022ccca3a16c9ef0df7d56cbdccd8c4a6f98356d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x00ca44c79a77bcb186f8cdd1a0cd222cc258bebc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0124aeb495b947201f5fac96fd1138e326ad8619",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x2a3a9d7bcecc6d3121e3b6180b73c7e8f4c5f81c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x46ab56ec0c6a6d42384251c97e9331aa75eb693e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x07170f54dd61ae85377f75131359e3f4a1267758",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x036b68238f3a90639d062669fdec08c4d0bdd098",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x07c535ddb7bf3d3cb7c033bd1a4c3aac02927a48",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x073132577e25b06937c64787089600886ede6202",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x04619e9ce4109590219c5263787050726be63382",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0142af5b6c97f02cac9c91be1ea9895d855c5842",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x00da114221cb83fa859dbdb4c44beeaa0bb37c75",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x000d294e16a8d24c32eed65ea63757adde543d72",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0453c4c996f1047d9370f824d68145bd5e7ce12d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x0507eb06dd372cb5885d3aaf18b980c41cd3cd46",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  },
+  {
+    "address": "0x07e2c010c0b381f347926d5a203da0335ef17aef",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/nostra-money-market/index.js"
+  }
+]

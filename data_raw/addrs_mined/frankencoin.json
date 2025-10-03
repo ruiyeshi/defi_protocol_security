@@ -1,0 +1,77 @@
+[
+  {
+    "address": "0x8e7c2a697751a1ce7a8db51f01b883a27c5c8325",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0xb519bae359727e69990c27241bef29b394a0acbd",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x79d4f0232a66c4c91b89c76362016a1707cfbf4f",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x3bf301b0e2003e75a3e86ab82bd1eff6a9dfb2ae",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x4e104918908293cd6a93e1a9bbe06c345d751235",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x3b71ba73299f925a837836160c3e1fec74340403",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x7bbe8f18040af0032f4c2435e7a76db6f1e346df",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0xb41715e54e9f0827821a149ae8ec1af70aa70180",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x1ba26788dfde592fec8bcb0eaff472a42be341b2",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x6426324af1b14df3cd03b2d500529083c5ea61bc",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0xbf594d0fed79ae56d910cb01b5dd4f4c57b04402",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0x27d9ad987bde08a0d083ef7e0e4043c857a17b38",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  },
+  {
+    "address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/frankencoin/index.js"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "address": "0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x197e90f9fad81970ba7976f33cbd77088e5d7cf7",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x3432343135343264343130303030303030303030",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x19c0976f590d67707e62397c87829d896dc0f1f1",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x65c79fcb50ca1594b025960e539ed7a9a6d434a3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x3435353434383264343130303030303030303030",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x5a464c28d19848f44199d003bef5ecc87d090f87",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x5ef30b9986345249bc32d8928b7ee64de9435e39",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  },
+  {
+    "address": "0x3078353734323534343332643433303030303030",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sky-lending/index.js"
+  }
+]

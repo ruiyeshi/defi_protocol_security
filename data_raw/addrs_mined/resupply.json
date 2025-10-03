@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x22222222e9fe38f6f1fc8c61b25228adb4d8b953",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resupply/index.js"
+  },
+  {
+    "address": "0x10101010e0c3171d894b71b3400668af311e7d94",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resupply/index.js"
+  },
+  {
+    "address": "0x419905009e4656fdc02418c7df35b1e61ed5f726",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resupply/index.js"
+  },
+  {
+    "address": "0x557ab1e003951a73c12d16f0fea8490e39c33c35",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/resupply/index.js"
+  }
+]

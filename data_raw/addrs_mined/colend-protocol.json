@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x567af83d912c85c7a66d093e41d92676fa9076e3",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/colend-protocol/index.js"
+  },
+  {
+    "address": "0x8e43df2503c69b090d385e36032814c73b746e3d",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/colend-protocol/index.js"
+  },
+  {
+    "address": "0xa839c32cf4ba69f8c0eb06fa6bfc57c40b3f3f83",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/colend-protocol/index.js"
+  },
+  {
+    "address": "0x971a4ad43a98a0d17833ab8c9fec25b93a38b9a3",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/colend-protocol/index.js"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/infinifi/index.js"
+  },
+  {
+    "address": "0x1d95cc100d6cd9c7bbdbd7cb328d99b3d6037ff7",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/infinifi/index.js"
+  }
+]

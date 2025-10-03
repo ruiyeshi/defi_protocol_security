@@ -1,0 +1,37 @@
+contract_file,delegatecall,EIP1967,implementation,proxy_contract,upgradeable
+Hyperliquid HLP.sol,False,False,False,False,False
+M0.sol,False,False,False,False,False
+GMX V2 Perps.sol,False,False,False,False,False
+JustCryptos.sol,False,False,False,False,False
+MoneyOnChain.sol,False,False,False,False,False
+JustLend.sol,False,False,False,False,False
+Balancer V2.sol,False,False,False,False,False
+Drift Trade.sol,False,False,False,False,False
+Raydium AMM.sol,False,False,False,False,False
+Synthetix V3.sol,False,False,False,False,False
+Compound V3.sol,False,False,False,False,False
+Derive V2.sol,False,False,False,False,False
+Aave V3.sol,False,False,False,False,False
+SparkLend.sol,False,False,False,False,False
+dYdX V4.sol,False,False,False,False,False
+PancakeSwap AMM V3.sol,False,False,False,False,False
+Morpho Blue.sol,False,False,False,False,False
+Arbitrum Bridge.sol,False,False,False,False,False
+Venus Core Pool.sol,False,False,False,False,False
+Uniswap V3.sol,False,False,False,False,False
+Uniswap V2.sol,False,False,False,False,False
+Reserve Protocol.sol,False,False,False,False,False
+Flat Money V1.sol,False,False,False,False,False
+fx Protocol.sol,False,False,False,False,False
+dYdX V3.sol,False,False,False,False,False
+Portal.sol,False,False,False,False,False
+Euler V2.sol,False,False,False,False,False
+Flat Money V2.sol,False,False,False,False,False
+Uniswap V4.sol,False,False,False,False,False
+Maple.sol,False,False,False,False,False
+Hyperliquid Bridge.sol,False,False,False,False,False
+Jupiter Perpetual Exchange.sol,False,False,False,False,False
+Kamino Lend.sol,False,False,False,False,False
+Curve DEX.sol,False,False,False,False,False
+PancakeSwap AMM.sol,False,False,False,False,False
+Djed Stablecoin.sol,False,False,False,False,False

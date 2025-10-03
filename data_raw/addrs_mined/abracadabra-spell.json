@@ -1,0 +1,507 @@
+[
+  {
+    "address": "0xce450a23378859fb5157f4c4cccaf48faa30865b",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x6371efe5cd6e3d2d7c477935b7669401143b7985",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x7208d9f9398d7b02c5c22c334c2a7a3a98c0a45d",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x98a84eff6e008c5ed0289655ccdca899bcb6b99f",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x692cf15f80415d83e8c0e139cabcda67fcc12c90",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x39c54bd10261d42ee1838d5fc71dd307dcb39001",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xc89958b03a55b5de2221acb25b58b89a000215e6",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xbb02a884621fb8f5bfd263a67f58b65df5b090f3",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x59e9082e068ddb27fc5ef1690f9a9f22b32e573f",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x3b63f81ad1fc724e44330b4cf5b5b6e355ad964b",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x85f60d3ea4e86af43c9d4e9cc9095281fc25c405",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xc1879bf24917ebe531fbaa20b0d05da027b592ce",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x95cce62c3ecd9a33090bbf8a9eac50b699b54210",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x68f498c230015254aff0e1eb6f85da558dff2362",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xed510639e1b07c9145cd570f8dd0ca885f760e09",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x9f026f9edc92150076bb8a0ac44c14a8412c1639",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x66805f6e719d7e67d46e8b2501c1237980996c6a",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x2b02bbeab8ecab792d3f4dda7a76f63aa21934fa",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x2d50927a6e87e517946591a137b765faba018e70",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x9617b633ef905860d919b88e1d9d9a6191795341",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x25ac30195f5b7653ddd7eb93cae6ff5d924cdaf4",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x6ff9061bb8f97d948942cef376d98b51fa38b91f",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x289424add4a1a503870eb475fd8bf1d586b134ed",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x252dcf1b621cc53bc22c256255d2be5c8c32eae4",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x3cff6f628ebc88e167640966e67314cf6466e6a8",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x7ce7d9ed62b9a6c5ace1c6ec9aeb115fa3064757",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x3cfed0439ab822530b1ffbd19536d897ef30d2a2",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x49de724d7125641f56312ebbcbf48ef107c8fa57",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x895731a0c3836a5534561268f15eba377218651d",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x8e45af6743422e488afacdad842ce75a09eaed34",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x186d76147a226a51a112bb1958e8b755ab9fd1af",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x625fe79547828b1b54467e5ed822a9a8a074bd61",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x5ec47ee69bede0b6c2a2fc0d9d094df16c192498",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xbc36fde44a7fd8f545d459452ef9539d7a14dd63",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x780db9770ddc236fd659a39430a8a7cc07d0c320",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x35fa7a723b3b39f15623ff1eb26d8701e7d6bb21",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x8439ac976ac597c71c0512d8a53697a39e8f9773",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x1062eb452f8c7a94276437ec1f4aaca9b1495b72",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xd4357d43545f793101b592bacab89943dc89d11b",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x7b7473a76d6ae86ce19f7352a1e89f6c9dc39020",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x05500e2ee779329698df35760bedcaac046e7c27",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xc319eea1e792577c319723b5e60a15da3857e7da",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xc6d3b82f9774db8f92095b5e4352a8bb8b0dc20d",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x8227965a7f42956549afaec319f4e444aa438df5",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x40d95c4b34127cf43438a963e7c066156c5b87a3",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x0a1e6a80e93e62bd0d3d3bfcf4c362c40fb1cf3d",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xf179fe36a36b32a4644587b8cdee7a23af98ed37",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x4f9737e994da9811b8830775fd73e2f1c8e40741",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x73f52bd9e59edbdf5cf0dd59126cef00ecc31528",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xc6b2b3fe7c3d7a6f823d9106e22e66660709001e",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x726413d7402ff180609d0ebc79506df8633701b1",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xd7659d913430945600dfe875434b6d80646d552a",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x207763511da879a900973a5e092382117c3c1588",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x0bca8ebcb26502b013493bf8fe53aa2b1ed401c1",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x390db10e65b5ab920c19149c919d970ad9d18a41",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x4fdffa59bf8dda3f4d5b38f260eab8bfac6d7bc1",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x7d8df3e4d06b0e19960c19ee673c0823beb90815",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x7962acfcfc2ccebc810045391d60040f635404fb",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x46f54d434063e5f1a2b2cc6d9aaa657b1b9ff82c",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xffbf4892822e0d552cff317f65e1ee7b5d3d9ae6",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xa3fc1b4b7f06c2391f7ad7d4795c1cd28a59917e",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xd31e19a0574dbf09310c3b06f3416661b4dc7324",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x5698135ca439f21a57bddbe8b582c62f090406d5",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xf53a003e863ba83424048d729460fba056c06b80",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xcc0d7af1f809dd3a589756bba36be04d19e9c6c5",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xacc6821d0f368b02d223158f8ada4824da9f28e3",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xb4fc7be1fc0a6d7b6d5d509c622f56d719cd1373",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x53375add9d2dfe19398ed65baaeffe622760a9a6",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x2450bf8e625e98e14884355205af6f97e3e68d07",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xed745b045f9495b8bfc7b58eea8e0d0597884e12",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x30d525cbb79d2baae7637ea748631a6360ce7c16",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x56984f04d2d04b2f63403f0ebedd3487716ba49d",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x0bf90b3b5cad7dfcf70de198c498b61b3ba35cff",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x6bcd99d6009ac1666b58cb68fb4a50385945cda2",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xcfc571f3203756319c231d3bc643cee807e74636",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0xf8049467f3a9d50176f4816b20cddd9bb8a93319",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x5db0ebf9feeecfd0ee82a4f27078dbce7b4cd1dc",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x86130dac04869a8201c7077270c10f3afaba1c82",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x9ff8b4c842e4a95dab5089781427c836dae94831",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/cauldrons.js"
+  },
+  {
+    "address": "0x37cf490255082ee50845ea4ff783eb9b6d1622ce",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/farms.js"
+  },
+  {
+    "address": "0xf43480afe9863da4acbd4419a47d9cc7d25a647f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/farms.js"
+  },
+  {
+    "address": "0x839de324a1ab773f76a53900d70ac1b913d2b387",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/farms.js"
+  },
+  {
+    "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/farms.js"
+  },
+  {
+    "address": "0x9e295b5b976a184b14ad8cd72413ad846c299660",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x3963ffc9dff443c2a94f21b129d429891e32ec18",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0xd2d1162512f927a7e282ef43a362659e4f2a728f",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0xd152c7f25db7f4b95b7658323c5f33d176818ee4",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x85667409a723684fe1e57dd1abde8d88c2f54214",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0xc99a4863173ef52ccb7ea05440da0e37ba39c139",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x1addd80e6039594ee970e5872d247bf0414c8903",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x5efc10c353fa30c5758037fdf0a233e971ecc2e0",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x01234181085565ed162a948b6a5e88758cd7c7b8",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x4277f8f2c384827b5273592ff7cebd9f2c1ac258",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x4e971a87900b931ff39d1aad67697f49835400b6",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x05b3b96df07b4630373ae7506e51777b547335b0",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/magic-glp.js"
+  },
+  {
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/multi-reward-farms.js"
+  },
+  {
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/multi-reward-farms.js"
+  },
+  {
+    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/multi-reward-farms.js"
+  },
+  {
+    "address": "0x6d2070b13929df15b13d96cfc509c574168988cd",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/multi-reward-farms.js"
+  },
+  {
+    "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/multi-reward-farms.js"
+  },
+  {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/abracadabra-spell/multi-reward-farms.js"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x08dcdbf7bade91ccd42cb2a4ea8e5d199d285957",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/40-acres/index.js"
+  },
+  {
+    "address": "0x124d00b1ce4453ffc5a5f65ce83af13a7709bac7",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/40-acres/index.js"
+  },
+  {
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/40-acres/index.js"
+  },
+  {
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/40-acres/index.js"
+  },
+  {
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/40-acres/index.js"
+  },
+  {
+    "address": "0xb99b6df96d4d5448cc0a5b3e0ef7896df9507cf5",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/src/adaptors/40-acres/index.js"
+  }
+]

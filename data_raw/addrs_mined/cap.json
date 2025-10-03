@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0x1058afe66bb5b79c295ccce51016586949bc4e8d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0x9bc357bc5b312aacd41a84f3c687f031b8786853",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0xbed32937d8a5d1421241f52809908f1a17d75bdb",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0xf16033d20adda47dc99ea291d0f4c4fef2ff47af",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0x958cc92297e6f087f41a86125ba8e121f0fbecf2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0xcaec650502f15c1a6bff1c2288fc8f819776b2ec",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0xc8cdd2ea6a5149ced1f2d225d16a775ee081c67d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0xe0ccd451bb57851c1b2172c07d8b4a7c6952a54e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0x031d35296154279dc1984dcd93e392b1f946737b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  },
+  {
+    "address": "0xa55eee92a46a50a4c65908f28a0be966d3e71633",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cap/index.js"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x96d33bcf84dde326014248e2896f79bbb9c13d6d",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0x49afe3abcf66cf09fab86cb1139d8811c8afe56f",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0xfdc7b8bfe0dd3513cc669bb8d601cb83e2f69cb0",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0xfffb5fb14606eb3a548c113026355020ddf27535",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0x5619ad05b0253a7e647bd2e4c01c7f40ceab0879",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0x090e7fbd87a673ee3d0b6ccacf0e1d94fb90da59",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0x5e61a079a178f0e5784107a4963baae0c5a680c6",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0xfbd2b4216f422dc1eee1cff4fb64b726f099def5",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  },
+  {
+    "address": "0x813123a13d01d3f07d434673fdc89cbba523f14d",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/toros/config.js"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/synthetix-v3/index.js"
+  },
+  {
+    "address": "0xffffffaeff0b96ea8e4f94b2253f31abdd875847",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/synthetix-v3/index.js"
+  },
+  {
+    "address": "0x32c222a9a159782afd7529c87fa34b96ca72c696",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/synthetix-v3/index.js"
+  },
+  {
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/synthetix-v3/index.js"
+  },
+  {
+    "address": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/synthetix-v3/index.js"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "address": "0xc94b752839a22d2c44e99e298671dd4b2add11b3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x8c5161f287cbc9afa48bc8972ee8cc0a755fcadc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0xdc4d99ab6c69943b4e17431357abc5b54b4c2f56",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x86c958cac8aee37de62715691c0d597c710eca51",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x09400f3a0b358eb408060f5a3272ed7e3b7664e0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0xdadeacc03a59639c0ece5ec4ff3bc0d9920a47ec",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x89653e6523fb73284353252b41ae580e6f96dfad",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x6aa8b4366d3bcfa51473677e9c961babadcec4e3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0xdeb8a9c0546a01b7e5cee8e44fd0c8d8b96a1f6e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x984408c88a9b042bf3e2ddf921cd1fafb4b735d1",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x0d6b6280915313e7322dcb4d71d511a93a75d98d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0x581aa6f8d7498e68e02d4fb6abfa7972c9d86286",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0xf4b8dcd6509b3cb87da9c491cb0728a2f3088d3f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  },
+  {
+    "address": "0xb3bad0e31e08395eaae76be47985d074a4112f38",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/termmax/index.js"
+  }
+]

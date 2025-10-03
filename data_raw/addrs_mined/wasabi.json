@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x0fdc7b5ce282763d5372a44b01db65e14830d8ff",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0xbdae5df498a45c5f058e3a09afe9ba4da7b248aa",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0x8e0edfd6d15f858adbb41677b82ab64797d5afc0",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0x0301079dabdc9a2c70b856b2c51aca02bac10c3a",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0x3ee6c6cdaa0073de6da00091329de4390b0df1ee",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0x046299143a880c4d01a318bc6c9f2c0a5c1ed355",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0xa456c77d358c9c89f4dfb294fa2a47470b7da37c",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0x0da575d3edd4e3ee1d904936f94ec043c06bb12b",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/wasabi/index.js"
+  },
+  {
+    "address": "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/wasabi/index.js"
+  }
+]

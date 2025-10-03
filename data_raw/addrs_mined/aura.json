@@ -1,0 +1,147 @@
+[
+  {
+    "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x272d6be442e30d7c87390edeb9b96f1e84cecd8d",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x6e6bb18449fcf15b79efa2cfa70acf7593088029",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x52a7239eda381264b8c24cb11d7df343236007aa",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x6306b10e032f9f81d3279d52faaf6b0cdb53292a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xc1d48bb722a22cc6abf19facbe27470f08b3db8c",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x96e334926454cd4b7b4efb8a8fcb650a738ad244",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x744be650cea753de1e69bf6bad3c98490a855f52",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xa57b8d98dae62b26ec3bcc4a365338157060b234",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x7debb37d0b199f5a365be63c228a85a22aaa72de",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x9e4cbe2eaff2fa727bc805e6cbbf2ff01ddb812b",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xc4ce391d82d164c166df9c8336ddf84206b2f812",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x39fde572a18448f8139b7788099f0a0740f51205",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000042",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x89bb794097234e5e930446c0cec0ea66b35d7570",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0x98ef32edd24e2c92525e59afc4475c1242a30184",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  },
+  {
+    "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/aura/index.js"
+  }
+]

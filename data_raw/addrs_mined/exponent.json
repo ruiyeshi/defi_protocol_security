@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0xe296db0a0e9a225202717e9812bf29ca4f333ba6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:exponent/index.js"
+  },
+  {
+    "address": "0x4ffd2b969f883679c008838329d249e295aafc3c",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/search:exponent/index.js"
+  },
+  {
+    "address": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:exponent/index.js"
+  },
+  {
+    "address": "0x6543ee07cf5dd7ad17aeecf22ba75860ef3bbaaa",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:exponent/index.js"
+  },
+  {
+    "address": "0x4d919cecfd4793c0d47866c8d0a02a0950737589",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:exponent/index.js"
+  },
+  {
+    "address": "0xef7cede2d4e053ccf2a58f977a1f1edc8782ecc5",
+    "guess": "scroll",
+    "context": "DefiLlama/yield-server/search:exponent/index.js"
+  }
+]

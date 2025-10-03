@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x79b3102173eb84e6bca182c7440afca5a41abcf8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0xdf4d3272ffae8036d9a2e1626df2db5863b4b302",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0x814c8c7ceb1411b364c2940c4b9380e739e06686",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0x9edb8d8b6db9a869c3bd913e44fa416ca7490aca",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0xd7d455d387d7840f56c65bb08ad639de9244e463",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0xc215485c572365ae87f908ad35233ec2572a3bec",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0x3af6fbec4a2fe517f56e402c65e3f4c3e18c1d86",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  },
+  {
+    "address": "0x8e72291d5e6f4aab552cc827fb857a931fc5cac1",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/fluid-lending/index.js"
+  }
+]

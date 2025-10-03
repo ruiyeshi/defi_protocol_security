@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x0a760466e1b4621579a82a39cb56dda2f4e70f03",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x051d7e5609917bd9b73f04bac0ded8dd46a74301",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x5b6c539b224014a09b3388e51caaa8e354c959c8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x9848482da3ee3076165ce6497eda906e66bb85c5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x453d92c7d4263201c69aacfaf589ed14202d83a4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0x3fe65692bfcd0e6cf84cb1e7d24108e434a7587e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0xfffae954601cff1195a8e20342db7ee66d56436b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0xf403c135812408bfbe8713b5a23a04b3d48aae31",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  },
+  {
+    "address": "0xcf50b810e57ac33b91dcf525c6ddd9881b139332",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/convex-finance/index.js"
+  }
+]

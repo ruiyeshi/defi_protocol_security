@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/overnight-finance/index.js"
+  },
+  {
+    "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/overnight-finance/index.js"
+  },
+  {
+    "address": "0x8dd3783ac3ed2cabfce0fa4347c2cab93b827317",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/overnight-finance/index.js"
+  }
+]

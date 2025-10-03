@@ -1,0 +1,57 @@
+[
+  {
+    "address": "0xf16d5142086dbf7723b0a57b8d96979810e47448",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0xaba48b3ff86645ca417f79215dbda39b5b7cf6b5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x031026064e8f0702a91318e660796139a69cb89b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x94ad8542f3f1bbb6d0dfa4b91589a264ff9b0056",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x6ba7d75ec6576f88a10be832c56f0f27dc040ddd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x8ddc12f593f1c92122d5dda9244b5e749cbfb2e4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x422e3af98bc1de5a1838be31a56f75db4ad43730",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x3f57530bdba9bcd703c8ba75c57cf7de52014036",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0xada5598d0e19b4d3c64585b4135c5860d4a0881f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x4711d9b50353fa9ff424ceca47959dcf02b3725a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  },
+  {
+    "address": "0x80861a817106665bca173db6ac2ab628a738c737",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/coinwind/index.js"
+  }
+]

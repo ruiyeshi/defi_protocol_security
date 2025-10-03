@@ -1,0 +1,2002 @@
+[
+  {
+    "address": "0x481c830edc1710e06e65c32bd7c05add5516985b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xec314d972fc771eae56ec5063a5282a554fd54a2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x34e2b546d1819fe428c072080829028af36540dd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x85790c03400b7f6d35895dbb7198c41ecde4a7f7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xc869935efe9264874baf7940449925318f193322",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xedf7a6fb0d750dd807375530096ebf2e756eaee0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xffed56a180f23fd32bc6a1d8d3c09c283ab594a8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x975aa6606f1e5179814baef22811441c5060e815",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x001f7c987996dbd4f1dba243b0d8891d0bf693a2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xf03756e7a2b088a8c5d042c764184e8748dfa10d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xa8216f6eb1f36e1de04d39c3bc7376d2385f3455",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x6e35996ae06c45e9de2736c44df9c3f1aab781af",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x5e4935fe0f1f622bfc9521c0e098898e7b8b573c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xf43211935c781d5ca1a41d2041f397b8a7366c7a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xc8ff37f7d057df1bb9ad681b53fa4726f268e0e8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x07d1718ff05a8c53c8f05adaed57c0d672945f9a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xf05e58fcea29ab4da01a495140b349f8410ba904",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x606462126e4bd5c4d153fe09967e4c46c9c7fecf",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x3cf54f3a1969be9916dad548f3c084331c4450b5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x33e411ebe366d72d058f3ef22f1d0cf8077fdab0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x50b47c4a642231dbe0b411a0b2fbc1ebd129346d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xb15ad6113264094fd9bf2238729410a07ebe5aba",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x5ea630e00d6ee438d3dea1556a110359acdc10a9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x00bac667a4ccf9089ab1db978238c555c4349545",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x59866ec5650e9ba00c51f6d681762b48b0ada3de",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xd6e3bb7b1d6fa75a71d48cfb10096d59abbf99e1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x7743e50f534a7f9f1791dde7dcd89f7783eefc39",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x549716f858aeff9cb845d4c78c67a7599b0df240",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xf3a43307dcafa93275993862aae628fcb50dc768",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xdec800c2b17c9673570fdf54450dc1bd79c8e359",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xdaf03d70fe637b91ba6e521a32e1fb39256d3ec9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x65c9a641afceb9c0e6034e558a319488fa0fa3be",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xb0903ab70a7467ee5756074b31ac88aebb8fb777",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x65d72aa8da931f047169112fcf34f52dbaae7d18",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:save/index.js"
+  },
+  {
+    "address": "0xf3aeb3abba741f0eece8a1b1d2f11b85899951cb",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:save/triggerEnrichment.js"
+  },
+  {
+    "address": "0x13c6bed5aa16823aba5bba691caec63788b19d9d",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:save/triggerEnrichment.js"
+  },
+  {
+    "address": "0xa13a9247ea42d743238089903570127dda72fe44",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:save/triggerEnrichment.js"
+  },
+  {
+    "address": "0x99c88ad7dc566616548adde8ed3effa730eb6c34",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:save/triggerEnrichment.js"
+  },
+  {
+    "address": "0x418de00ae109e6f874d872658767866d680eaa19",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x0c9a0e17eab266dcf8dcfb4bc12792a9712fed1e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x639883476960a23b38579acfd7d71561a0f408cf",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc897b98272aa23714464ea2a0bd5180f1b8c0025",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xcf8b555b7754556cf2ac2165e77ee23ed8517d79",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x362715c164d606682c4ea7e479633e419d9345eb",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8c63702d4d4a521a6a8ecec8ab8f7ce9d1d6299e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd3d5d45f4edf82ba0dfaf061d230766032a10e07",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x428e1cc3099cf461b87d124957a0d48273f334b1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd90dc295d571adc7575563d892aa96ac3811d21c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xba0e9aea8a7fa1daab4edf244191f2387a4e472b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1e550b7764da9638fdd32c8a701364de31f45ee8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc7e6389e364f4275eb442ef215ed21877028e2af",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe782b72a1157b7bea1a9452835cce214962ad43b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x904018c54b2382929b15abaae55136a392af4294",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x198a22e73aadd2d0ea8e2963799d38ae26adee2e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x178904d6f5f49074fc3fdb918f0170e0dbb1677e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9785ef59e2b499fb741674ecf6faf912df7b3c1b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x547e9ad4b824f09e9cf1c6d163cf308d4cf99812",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x593acbfb1eaf3b6ec86fa60325d816996fdcbc0d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x559d2ac340216e3a6630741147cda6a2cdbc2be1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5a6a8cffb4347ff7fc484bf5f0f8a2e234d34255",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa3b615667cbd33cfc69843bf11fbb2a1d926bd46",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x60683b05e9a39e3509d8fdb9c959f23170f8a0fa",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbd4e35784c832d0f9049b54cb3609e5907c5b495",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7079a25dec33be61bbd81b2fb69b468e80d3e72c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8b8225bfedebaf1708c55743acb4ad43fd4d0f21",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2487ef2b79f4dce0ef7c6f0da6fb805dca050c06",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa8af146d79ac0bb981e4e0d8b788ec5711b1d5d0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xea52e5eb660ba64b9ba10ad9ae55a8156aa4d29a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xafb62448929664bfccb0aae22f232520e765ba88",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9da9d8dcdac3cab214d2bd241c3835b90aa8ffde",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xfe48fefea11cceb3bdeb328428f1b25446edad70",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4c81255cc9ed7062180ea99962fe05ac0d57350b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf47f4d59c863c02cbfa3eefe6771b9c9fbe7b978",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7f40d48816711e31b71263f43a350bafa3d7a31a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xfad14c545e464e04c737d00643296144eb20c7f8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3c74c4ed512050eb843d89fb9dcd5ebb4668eb6d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4b18597d3f7c9786a133827572e6a318d55c9fd2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x949a12b95ec5b80c375b98963a5d6b33b0d0efff",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9cebf13bb702f253abf1579294694a1edad00eaa",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xde1e437e0be59b596e69ff58e2bda9209a72ce8b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe78b25c06db117fdf8f98583cdaaa6c92b79e917",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf0211cceebe6fcc45052b4e57ee95d233f5669d2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd9932a538e4c7621d9ab1b45de31a5d60e672b1c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xba309e52c154f090c34c6574b78548fd24a7e284",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8301ae4fc9c624d1d396cbdaa1ed877821d7c511",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2b5fd674f93e329d54371dba980a67f3ff3bc119",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xade6749e981ae94420956cc22c299054e05ac356",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x220cd22a10f4b1fa1b8fb42d707ff0b9642c7dd8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1379b816b9be611431d693290289c204720ca56d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xfd7abc461df4e496a25898cab0c6ea88cdd94cf9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb95829adbacd8af89e291dee78bc09e24de51d6b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4e829f8a5213c42535ab84aa40bd4adcce9cba02",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xcd7b2232b7435595bbc7fd7962f1f352fc2cc61a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5a7f39435fd9c381e4932fa2047c9a5136a5e3e7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x478946bcd4a5a22b316470f5486fafb928c0ba25",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4ce0bd7debf13434d3ae127430e9bd4291bfb61f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x19d3364a399d251e894ac732651be8b0e4e85001",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x90a3515619bab33fbccb43aa86c25a12e41524b7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd2f3b9e67c69762dd1c88f1d3dadd1649a190761",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe2d16b0a39f3fbb4389a0e8f1efcbecfb3d1e6e1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x50cf90b954958480b8df7958a9e965752f627124",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x25accb7943fd73dda5e23ba6329085a3c24bfb6a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x659110d07923e2c3fcb9d3c9e66b0a1605e7ce71",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc963ef7d977ecb0ab71d835c4cb1bf737f28d010",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x565aecf84b5d30a6e79a5cef3f0da0fc4280debc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5ddb92a5340fd0ead3987d3661afcd6104c3b757",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xffecea216f0d0d08bfe2cf572e03f217f8a2bf13",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7a5011bf1dad77a23ec35ce04dcc2ac7d29963c5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xecc53ac812123d471360ea3d90023318868b56a5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7578aa78d5c5f622800d9205e942b12d353432b7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe50341e6f27a2514908f347e743119f3dfd84ad5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8d13d878e44e8005efc0db4a831b95f84cb4b154",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x89f1146fee52b5d9166e9c83cc388b6d8f69f138",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5b3240b6be3e7487d61cd1afdfc7fe4fa1d81e64",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe191504f9127deb015910768c8a6ac71d185bf91",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xde0a77ab6689b980c30306b10f9131a007e1af81",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7fe29a818438ed2759e30f65c2302295711d66fc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc0064b291bd3d4ba0e44ccfc81bf8e7f7a579cd2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2645b13fd2c5295296e94a76280b968bdcbbdfed",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x64cee2338369aa9b36fc756ea231eb9bc242926f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf7705cd188a8ac806d28f85bdb13a38313e985ff",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x402cfdb7781fa85d52f425352661128250b79e12",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x219e6623b7bda645b95ea0b46d22c06081e2adb3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x10441785a928040b456a179691141c48356eb3a5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6da14f5acd58dd5c8e486cfa1dc1c550f5c61c1c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x42c02c24caaf42a27dd95c790073a4ea3118ea48",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x66f33ae36dd80327744207a48122f874634b3ada",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8d7ca68d9a33148daf3ad1a495ed290f4eee013e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x80ef5ef7099c69bc9fcf952217240331f96bdf5f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x522dc96e6fd6f78a4e7433d0ee05b7087e515236",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3f35b581cf7292b09fdaca648638ec8b53969e9f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x174d2608b1d794e9078ae2a4861684a38d4e7ae2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4b4b425586fa9b5cf0d06baf5ba9eb9e9b936e66",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x152d62dccc2c7c7930c4483cc2a24fefd23c24c2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe4dc3c1998ac693d68f4c77476d7c815694c3e94",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xee1bac98527a9fdd57fccf967817215b083ce1f0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc87a900078f04c45b7f14e46c520d4a6f37296b0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8216144205b2ac3523bac7a8dc46d3c970e84876",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa55318e5d8b7584b8c0e5d3636545310bf9eeb8f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa718042e5622099e5f0ace4e7122058ab39e1bbe",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc46066ff87b3861ffc5c26ad2e9705190c22aa56",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x216d6db0c28204014618482c369d7fbf0a8f3232",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x96a78983932b8739d1117b16d30c15607926b0c5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6abe4e7a497b8293c258389c1b00d177e4f257ed",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf81e1a62cbfa487e807044618661bfd4802b4982",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x252ff6a3a6fd7b5e8e999de8e3f5c3b306ed1401",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x68a69c596b3839023c0e08d09682314f582314e5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xfedb19ec000d38d92af4b21436870f115db22725",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe2272cddb2cc408e79e02a73d1db9acc24a843d5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xdb455199d96d5513d831f0029bd819597bc9d158",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1bd2f176a812e312077bca87e37c08432bb09f3e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf25bbc18a607bbe218c87ba1ff0e673d9b53dd58",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x015f34e47ca0a88675098c4d6601817403f07a32",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4c8d2e60863e8d7e1033eda2b3d84e92a6418020",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2c4a83f98d1cdbeeec825fabacd09c46e2dd3c57",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa01a2513e95263b9bace60b573ce874e1e7a5246",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x624601b34e64a48ef91a6bf888e74ef3eceb1bf9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbf2ef8bdc2fc0f3203b3a01778e3ec5009aeef33",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc6eee8cb7643ec2f05f46d569e9ec8ef8b41b389",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9a020bdc2faff5bd24c6acc2020d01ff9f2c627a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe274c9deb6ed34cfe4130f8d0a8a948dea5bb286",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe1c86d3908dc524aa3555e56adf973de7d3acdba",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa33f162da19c7273ba1205bfd9d4340da2446e3a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x133d241f225750d2c92948e464a5a80111920331",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x882c7a84231484b3e9f3fd45ac04b1eb5d35b076",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x87cd18069b6547a0e88b6155dd657e71779500ea",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x31adc46737ebb8e0e4a391ec6c26438badaee8ca",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf9b787c6e6111442778a9f6f8850f2d446d44a7c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc8a87167ca4c19210725ecd71c762891fbb4eddd",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1e2576344d49779bdbb71b1b76193d27e6f996b7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2092f4acbb18bb1649595df59b9cb601bba1ebb7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x0a7021c9843c2fb3b98c02ed7f93354774286109",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2ba7aa2213fa2c909cd9e46fed5a0059542b36b0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5427f192137405e6a4143d1c3321359bab2dbd87",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd4500f270880488a481de1b3256a19b3d9c8fd7e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x481c5fc05d63a58aa2f0f2aa417c021b5d419cb2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x980dfa8bd5c4a96e1b762fe8154b8a2045dab2d7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x26c2b83fc8535deead276f5cc3ad9c1a2192e027",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1d60d7e0987aefb69c41c98fe3233d61f8d8315a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3c42b0f384d2912661c940d46cffe1cd10f1c66f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x995eb8f1a44824e58352e6f83d4d64801243468d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x48e6b98ef6329f8f0a30ebb8c7c960330d648085",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4228290ee9cab692938ff0b4ba303fbcdb68e9f2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x88e2a551655daadd7e4e67d14cf48bfb413d7268",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7449f09c8f0ed490472d7c14b4eef235620d0270",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x75118b598433430da15fb1340e486461f2a7c07f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3f1a2c4a3a751f6626bd90ef16e104f0772d4d6b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x82321f3beb69f503380d6b233857d5c43562e2d0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xea256adb68dffd067d27e95f4ad14eba12e86079",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe15cac1df3621e001f76210ab12a7f1a1691481f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd1af4974fcc995cf36ba40b189caa92964a9126d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb3d658d5b95bf04e2932370dd1ff976fe18dd66a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9fb7d6dcac7b6aa20108bad226c35b85a9e31b63",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x39ed27d101aa4b7ce1cb4293b877954b8b5e14e5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe6d31ab5607eb7618a16b5923b67314d16bd350f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9848482da3ee3076165ce6497eda906e66bb85c5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x78ab08bf98f90f29a09c9b1d85b3b549369b03a3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x944d4ae892de4bfd38742cc8295d6d5164c5593c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc29dc26b28fff463e32834ce6325b5c74fac7098",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x054e7b0c73e1ee5aed6864fa511658fc2b54bcaa",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x04248aabca09e9a1a3d5129a7ba05b7f17de7684",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf81ebbc00b9bbc3a0b0cb1bc4e87ac157028698f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9d7f992c900fbea0ec314bdd71b7cc1becf76a33",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc4c319e2d4d66cca4464c0c2b32c9bd23ebe784e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x56897add6dc6abccf0ada1eb83d936818bc6ca4d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x09aa7178049ba617119425a80faeee12dbe121de",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4d69971ccd4a636c403a3c1b00c85e99bb9b5606",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x981fb05b738e981ac532a99e77170ecb4bc27aef",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x53bc3cba3832ebecbfa002c12023f8ab1aa3a3a0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xec3d9098bd40ec741676fc04d4bd26bccf592aa3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc5caa75d63379e4fd78b5643af419a2b8e5d0410",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc5dc1316ab670a2eed5716d7f19ced321191f382",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe5cf854f63152067059afd38e03fefb6cbe25df3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa50f89e9f439fde2a6fe05883721a00475da3c45",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9552db595b21884ffcc6851e24a7e3cbe0b638b0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1352fd97a1828093bf375f62e088bc196facd1ee",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbe0f30217be1e981add883848d0773a86d2d2cd4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb9bd68a77ccf8314c0dfe51bc291c77590c4e9e6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x62cf35db540152e94936de63efc90d880d4e241b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5470f064a19c65263b3033da3a6124fdf0a9bab8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6e6dc948ce85c62125ff7a1e543d761a88f0a4cb",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc443c15033fcb6cf72cc24f1bda0db070ddd9786",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbbf9d705b75f408cfcaee91da32966124d2c6f7d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa3ed6f78edc29f69df8a0d16b1d1ccf9871f918c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4689122d360c4725d244c5cfea22861333d862e6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa19acc3b4f11c46c2b1fc36b5f592af422ee338c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xff8f84e8c87532af96aef5582ee451572233678b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa1ea76c42b2938cfa9abea12357881006c528513",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x31bccf9e28b94e5dacebaa67fe8bc1603cecd904",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xcaa052584b462198a5a9356c28bce0634d65f65c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf52fc9d5aa16c782c9ba51be0da10f1ccf05c702",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb2cc224c1c9fee385f8ad6a55b4d94e92359dc59",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x30c016f5cf1d34c1bce4c8c9c302f66a268847fd",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x03090a9811181a2afe830a3a0b467698ccf3a8b1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x088c39ee29fc30df8adc394e9f7dea33e3a26507",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4de21b365d6543661d0e105e579a34b963862497",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x519cce718fcd11ac09194cff4517f12d263be067",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xcf88b8bf7ccce2d836878e538197eb20fc673bce",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x02d928e68d8f10c0358566152677db51e1e2dc8c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x959216bb492b2efa72b15b7aacea5b5c984c3cca",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa33c1963d74d203df6bffdfda3bff39a1d76e1d0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf28f17be00f8ca3c9b7f66a4aad5513757fb3341",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xfebb0bbf162e64fb9d0dfe186e517d84c395f016",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4fd4687ec38220f805b6363c3c1e52d0df3b5023",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x567ecfcb22205d279bb8eed3e066989902bf03d5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xac6286126044e2ee2589d394a102cb54b7ab15a7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe6909c2f18a29d97217a6146f045e1780606991f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x600bd01b6526611079e12e1ff93aba7a3e34226f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6c8c7fc50247a47038015eb1fd5dc105d05dafba",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4c36a9a52ca3baf1069e3531d57d96c171a66a23",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbec621c9ab4ceddcc2a157ca9b5c475fab65f6a4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x726e324c29a1e49309672b244bdc4ff62a270407",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x150e7b885bdfce974f2abe88a72fdbd692175c6f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf86785fe1cefd5069e6df1b4b54b72b199200311",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf13eb90f923ff0c424c4a7e917cace304b7386a0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbc2539b24bba254b9843e992a3802027275c50c2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5b2384d566d2e4a0b29b8eccb642c63199cd393c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x50fd4d5d60d6df38f5e29721bc241b537e182bf4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xdfc65c1f15ad3507754ef0fd4ba67060c108db7e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x0bc54e914f53f98d16035f4f0d948f3e09c2fac0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8a6b25e33b12d1bb6929a8793961076bd1f9d3eb",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x302b8b64795b064cadc32f74993a637249860807",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x00fcd3d55085e998e291a0005cedecf58ac14c40",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x0392ebb4aea38233e5b89acfabf7b418cdea8e43",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x45c4d1376943ab28802b995acffc04903eb5223f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc286ecd3910c62df30fbbfd2c95a3043076d3912",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf57c794f42da72b38c8f610ff3b5e8502e48cbde",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1d72b49f81832ef8155d8dedfce9cd122367e3b3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xee02583596aee94cccb7e8ccd3921d955f17982a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf572649606db4743d217a2fa6e8b8eb79742c24a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3035917be42af437cbdd774be26b9ec90a2bd677",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xff2753aaba51c9f84689b9bd0a21b3cf380a1cff",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x64b301e21d640f9bef90458b0987d81fb4cf1b9e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3dbb8d974b82e82ce79c20c0f5995f4f1f533ede",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbafb44286c5ecafb1f26a6649e15c49fc1c49882",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf42ed61450458ee4620f5ef4f29adb25a6ef0fb6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x10b040038f87219d9b42e025e3bd9b8095c87dd9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x41503c9d499ddbd1dcdf818a1b05e9774203bf46",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5b4ef67c63d091083ec4d30cfc4ac685ef051046",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x389938cf14be379217570d8e4619e51fbdafaa21",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xcba9ff45cfb9ce238afde32b0148eb82cbe63562",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6f8e210030f6ee6933b032628a0e148a1ccff6a6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4a0b73f0d13ff6d43e304a174697e3d5cfd310a4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9cf9358300e34bf9373d30129a1e718d8d058b54",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd997f35c9b1281b82c8928039d14cddab5e13c20",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2e52c64fd319e380cdbcfc4577ea1fda558a32e4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x49a0e3334496442a9706e481617724e7e37eaa08",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3eed430cd45c5e2b45aa1adc609cc77c6728d45b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x70b7d3b3209a59fb0400e17f67f3ee8c37363f49",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x326841efd63340767e02ec88e583f18a82af4a48",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x5a1401c002f67ca00557e7179d34c3fe6d753b28",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7d6bff131b359da66d92f215fd4e186003bfaa42",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x173063a30e095313eee39411f07e95a8a806014e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x11839d635e2f0270da37e8ef4324d4d5d5432957",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd0dc20e6342db2de82692b8dc842301ff9121805",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe2dc0e0f2c358d6e31836dee69a558ab8d1390e7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbe96502c9baa5aec7e4c810c13d80f75e2d669e0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe94c45de980f914904fdcfa9fbbe7c4a0ffe6ac7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3ea594548afabfb27e314e766f06d2dff819bb56",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8d628d22d298b4a6e3dc9171d4b7aa5229e2353c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xac2cae8d2f78a4a8f92f20dbe74042cd0a8d5af3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3bf4885237f857b9668d2c44fa9ccd37b9c988e7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf51776b52dfb5bf9a7f3ed150c20e78d4dff6e64",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xece571847897fd61e764d455dc15cf1cd9de8d6f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9be60b89d29613da9e5163a9f4ed9cc3738d59dc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa10285f445bcb521f1d623300dc4998b02f11c8f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc83b55bbd005f1f84906545fcdb145dee53523e0",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa611a551b95b205ccd9490657acf7899daee5db7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xeb567dde03f3da7fe185bdacd5ab495ab220769d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc9a8072e9b76b89ba30b928fd086222f282ca323",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xefb02e6287bb46ac9196de3e4120e3749e8de59a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa6ef6c45ebfdbc13f6d032fbdfec9b389c1603e5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb1c9ac57594e9b1ec0f3787d9f6744ef4cb0a024",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1ba3281b6012f0b927d4d122bda293aa3cac487f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x0c06e87c7b88d998f645b91c1f53b51294b12bca",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd7edb56f63b2a0191742aea32df1f98ca81ed9c6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xff600724d670727872a1f7483049326c111d993d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc2b021133d1b0cf07dba696fd5dd89338428225b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x12ccdd646241412f2a5d44a6994aa29086dedc61",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6f34a44fce1506352a171232163e7716dd073ade",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x59cfc2307e8b218c242ba61407a07cade73bd6d7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8fbd0f8e490735cfc3abf4f29cbddd5c3289b9a7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x216690738aac4aa0c4770253ca26a28f0115c595",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa9cb51abfbbf2ca877b290e988b453f8bf4ab630",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xbef47159fd478cdd8c34073b71f97ca796aad295",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3db543faf7a92052de7860c5c9debabee59ed5bd",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1d03d8199f43ea030a5d1c2a5d4675d18581d129",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x113138dc05b05afbe25e8c31ca9de9b445caca48",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa7423f6bec29a511d365b0c934e8000720128ae3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4cf4f433e359a343648c480b2f3952fd64616a9a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x86aef31951e0a3a54333bd9e72f9a95587d058c5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x359ea8618c405023fc4b98dab1b01f373792a126",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe39120b27e5bfec953524402c2e261763c76519e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xed35f28f837e96f81240ebb82e0e3f518c7e8a2f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe0fcbf4d98f0ad982db260f86cf28b49845403c5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa5a935833f6a5312715f182733eab088452335d7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xab269164a10fab22bc87c39946da06c870b172d6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe0042e7ee284ff355622b7660ccb34be114936fa",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa8bf1c584519be0184311c48adbdc4c15cb2e8c1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x970712708a08e8fb152be4d81b2dc586923f5369",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x23ca0306b21ea71552b148cf3c4db4fc85ae1929",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x16b98793f3e6a17d15931a2c9f98fe28d1c845a1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf4bfe9b4ef01f27920e490cea87fe2642a8da18d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x00c2a4be503869fa751c2dbcb7156cc970b5a8da",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x93c7defe51d787010babfdb19504d5a72166e112",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x74e4c08bb50619b70550733d32b7e60424e9628e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf48f01dcb2cbb3ee1f6aab0e742c2d3941039d56",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc2e840bdd02b4a1d970c87a912d8576a7e61d314",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x592fa9f9d58065096f2b7838709c116957d7b5cf",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x53dd233c2af0147846579010b7c80bf9440afff4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb0de49429fbb80c635432bbad0b3965b28560177",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x32be2d0ddeaf3333501b24a28668ce373ba8e763",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xc69771058481551261709d8db44977e9afde6450",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf4c0dd9b82da36c07605df83c8a416f11724d88b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2b4af4bb149cc06f5de580be013e86f81e4d2b30",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x04b54ea92d73de2d62d651db7d9778f0c49157d8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7839210cd48356bdd6fd400e30cfc7140e1e5ad6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x7ba1d55606900c5028fb3bb82fa0c198e3b0580e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xec54859519293b8784bc5bf28144166f313618af",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xaa500dbeda452cc2807185da993b6e3779333aca",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x1f131ec1175f023ee1534b16fa8ab237c00e2381",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe0b50b0635b90f7021d2618f76ab9a31b92d0094",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xe8c56405bc405840154d9b572927f4197d110de1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xeb480dbbdd921cd6c359e4cc4c65ddea6395e2a1",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4a77ef015ddcd972fd9ba2c7d5d658689d090f1a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4dc22588ade05c40338a9d95a6da9dcee68bcd60",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2a96254ca32020b20ed3506f8f75318da24709f9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xa5eb9166679a85bdb3eaa2941ed35c8d909484db",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x6222ae1d2a9f6894da50aa25cb7b303497f9bebd",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb3d81fad8f5092903592249d30cdebd681057153",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x165ab553871b1a6b3c706e15b6a7bb29a244b2f3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4ae3661afa119892f0cc8c43edaf6a94989ac171",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xdf2654405b27b5cf7a8f5fd78337e0440d37cbc7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb657b895b265c38c53fff00166cf7f6a3c70587d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x4ae5ce819e7d678b07e8d0f483d351e2c8e8b8d3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x2e0d46d884af4053787e1838793bf98dcb87488e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x3efb91c4f9b103ee45885695c67794591916f34e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x319c0dd36284ac24a6b2bee73929f699b9f48c38",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x8fd39252d683fdb60bddd4df4b53c9380b496d59",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9e2d87f904862671eb49cb358e74284762cc9f42",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xb211a9ddff3a10806c8fdb92dbc4c34596a23f84",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xebec4772aba30d82bc64bbb99187b4ca29928e2e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x9ffca51d23ac7f7df82da414865ef1055e5afcc3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xd00f9ca46ce0e4a63067c4657986f0167b0de1e5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0x341068a547c3cde3c09e338714010dd01b32f93f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  },
+  {
+    "address": "0xf227486361252907cb768142a2f4caed08a3d7cb",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:save/exclude.js"
+  }
+]

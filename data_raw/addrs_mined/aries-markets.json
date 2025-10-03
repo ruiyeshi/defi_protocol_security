@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x9770fa9c725cbd97eb50b2be5f7416efdfd1f155",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aries-markets/index.js"
+  },
+  {
+    "address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb87",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
+  },
+  {
+    "address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f590",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
+  },
+  {
+    "address": "0x159df6b7689437016108a019fd5bef736bac692b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
+  },
+  {
+    "address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
+  }
+]

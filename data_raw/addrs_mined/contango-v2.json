@@ -1,0 +1,37 @@
+[
+  {
+    "address": "0x555344435745544800000000000000000bffffff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  },
+  {
+    "address": "0x776545544857455448000000000000000bffffff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  },
+  {
+    "address": "0x574554485553444300000000000000000bffffff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  },
+  {
+    "address": "0xe03835dfae2644f37049c1fef13e8ced6b1bb72a",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  },
+  {
+    "address": "0x6cae28b3d09d8f8fc74ccd496ac986fc84c0c24e",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  },
+  {
+    "address": "0x415242555344540000000000000000000bffffff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  },
+  {
+    "address": "0x777374455448574554480000000000000bffffff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/contango-v2/index.js"
+  }
+]

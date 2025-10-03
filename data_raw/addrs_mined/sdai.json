@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x670daeaf0f1a5e336090504c68179670b5059088",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/src/adaptors/sdai/index.js"
+  },
+  {
+    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/src/adaptors/sdai/index.js"
+  },
+  {
+    "address": "0xaf204776c7245bf4147c2612bf6e5972ee483701",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/src/adaptors/sdai/index.js"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0x158079ee67fce2f58472a96584a73c7ab9ac95c1",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  },
+  {
+    "address": "0x7713dd9ca933848f6819f38b8352d9a15ea73f67",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/compound-v2/index.js"
+  }
+]

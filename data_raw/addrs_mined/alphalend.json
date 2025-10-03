@@ -1,0 +1,1002 @@
+[
+  {
+    "address": "0x2326d387ba8bb7d24aa4cfa31f9a1e58bf9234b0",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x643f84e0a33b19e2b511be46232610c6eb38e772",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x3b585786b13af1d8ea067ab37101b6513a05d2f9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x5b975bf7d0f0e3784a5b2db8f0a3e0b45cdcc31b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x959f6df092073b23c0ad0278a9cf070b6779f2ed",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x705c560fd1f05c64e0480af05853e27e1c3d04e2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x76cb819b01abed502bee8a702b4c2d547532c12f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6ee8f60226edf48772f81e5986994745dae249c2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0da4bcb1669ae3b6ce80f024e3a2076e2c4e2cc8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe63329f43a9474d421be85ff270bafc04667b811",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xbcc6909d2e85c06cf9cbfe5b292da36f5bfa0f31",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0b45d1e5889b524dc1a472f59651cdedb8e0a267",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x3e8937974f3dac64eb8ee9f86a80ccc24852bd2f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xaec347c096dd7e816febd8397be4cca3aabc094a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x65a167f16da65732fc71ec5b8714e5beb293e931",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x01493446093dfcdcfc6c16dc31ffe40ba9ac2e99",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb43d1defd5f76ef084d68d6b56e903b54d0a3b01",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x31cc72ec8a332d5e0ecd65c8d5d778333e1c8432",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xcf994611fd4c48e277ce3ffd4d4364c914af2c3c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb90c7250627e0113df2e60d020df477cac14ca78",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe348b843a54463afe5438fa76df127b2b78bc89c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x4b22c2fc59c7697eea08c1cc1eadf231415d66b8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb1a991064c4cbf1d7fb64a01ce8b2e3aa2f7d25b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x217a85380d0cf4b4c5a870b8f6d11b8e3bc66de8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x36cc3135c255632f9275a5b594145745f8344ce8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa0153768c7ed857ffd8bad4708da873fb7825a68",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0d9598006d37077b4935400f6525d7f1070784e2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x594f13b8f287003fd48e4264e7056e274b84709a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x07506ea66cb73fa60dbea5177c974ca6c98d7cd8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0e809689d04d87f4bd4e660cd1b84bf5448c5a79",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x4540c5e7de64088c0c2c30abc51f7e6bbe6bc487",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0254747f5ca059a1972cd7f6016485d51392a3fd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x5e195363175e4b5139749d901ddd5ef1ffc75177",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd26173539584dbce0020a9eb69dc1bf6cfe7b7be",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0f03b5c37f49c18d6e13ddc58939df17586a0b80",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x8ed765497eeedf7960af787c0c419cb2c01c471a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x4043b9e628d0cc6c2e3f322e6a7bddf603a3bcc0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc38279f945d14b4ec7f8c7b6956d0485ee8fa31a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xbdf4f673b34274f36be284bca3f765083380fefb",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xf7785cf8b3d3f9bee48bf4d90a142d7ec98b25d6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x386445d435618922939a998c59593558d576821b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa8a705f8819e01396927c1ec179a140750597ed3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa65eaadb556a80e4cb02fe35efebb2656d82d364",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xbd5b29a952040ccd47ce2822bddd4aba3affaae9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x59ec4223043e2bbbcd519bf161088b81946193b0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x3b9fe28a07e8dd5689f3762ba45dbdf10bd5f7c8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xafc0dc5166233af565e30e24755c401ff8958a28",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe553be450b7290025d5810da45102abdbaa211c5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x685c0569675bb46b838941568f1123c03eeef374",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xce921f354d7eb15f356b274c55834f9098290f08",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xcf2a8bfaafd4b50f068826e3e4217925b4280836",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6cc5e671a2a6e9b8c8635ff1fb16ae62abd78345",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0321b68a0fca8c990710d26986ba433d06b351de",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x881639630836b703aa3e04898f8a374058485983",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x62af128423465822e5a0979ccad2b0b5ee50a58c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x185c2124971c44836ce303ed5cdf8a3f614105a4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd5757d9f00db3f21a0fa38a86a5c1d52ae44828c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x045e4e3ccd383bedeb8fda54c39a7a1b1a6ed6a9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb5633adb8cfb5a4e6580002b21bc403d5d096dbc",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe171b8b8270e0e311362d55a0e21d387be6d549a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x568a47adf2b10219f0973a5600096822b38b4a46",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe1b45a0e641b9955a20aa0ad1c1f4ad86aad8afb",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd601c2d1f451a1493e8d071482272a83e6dafbcd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd1b72982e40348d069bb1ff701e634c117bb5f74",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x151d6959cb2a6d1a5b6cfec6d1eae690af0318e4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xea3c2a2d29144bf8f22e412ca5e2954c5d3021d3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x8ebe04b51e8a272d4db107ad19cfbc184d1dafee",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x29e218b46e35b4cf8eedc7478b8795d2a9bcce9c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x4b28663453af487a81d4fb2ba7c96cccd63978b8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x46d901d5e1dba34103038bd2ba789b775861ea0b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x1f9f325dfb23a3516679cd7bda58c26791b2a34c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc04ef6923ae5cf047cf853d2fa809ab56dbe712c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xdd886dd4828a44b7ae48bb7eaceca1cecedd1dcc",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x46bd2afe728ee1e64935d4c46c426237fda647b9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xfc6a11998f1acf1dd55acb58acd7716564049cfd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x676fc5cad79f51f6a7d03bfa3474ecd3c695d322",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x90364be9cca6c1df042f269fb944fd49ba1c7468",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x4b8271fc4819078e44ee9a0506a824b77464789d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x5b0b24c27ccf6d0e98f3a8704d2e577de83fa574",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x9ddb0d269d1049caf7c872846cc6d9152618d1d3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x8ceca427f6fef09f7691eb2c9f1bf41e4854230f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x56f05fc7b81cf45b8b223de9daba1ba82bf4ce32",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x74308f0de7ea1fc4aae2046940522f8f79a6a76d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa7239a0c727c40ee3a139689b16b281acfd0682a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xff496f73a1f9bf7461882fbdad0c6c6c73d301d3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6285c57b0d86cbe585abfe5b23d74f96243f4503",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc37ec956fdef6c217505e62444ab93f833c20923",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x9ae0e56aa0ebc27f9d8a17b5a9118d368ba26211",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x05fa099d1df7b5bfb2e420d5ee2d63508db17c40",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x16a5cc859b1af17b7478c79ff43e67cc5f5e5d25",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x04378cf67d21b41399dc0b6653a5f73f8d3a03cc",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x87a76889bf4ed211276b16eb482bf6df8d4e2774",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc8d7a1503dc2f9f5b05449a87d8733593e2f0f3e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xdd9018247d579bd7adfdbced4ed39c28821c6019",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd013a1a0c6f2bad46045e3a1ba05932b4a32f158",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x863909d3ced121e06053dec3fd2cb08ecda4c546",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x7a8fc71060975c6e16083c723f376eaf41aab466",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe512e692f4d48a79abcfd5970ccb44d6f7f149e8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x35f7260fefe3dde7fa5b4bf1319f15554934a94c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xee0d89310b7216a8ef86cd2af0dd22382f4be204",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd30d849bbddd0c1bc0e2eb552c2dacdf4ae998cc",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x20f27f4b4e8de8e11aef5c59a4facc8367a92b24",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe01243f37f712ef87e556afb9b1d03d0fae13f96",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x59ff9c5df31bfd0a59ac8393cf6f8db1373252e8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb0bff60783536f9dc0b38e43150a73b73b8a4f19",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x17743a10e89b108fd7c048e7737ce09082e3ef91",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x1b06371d74082856a1be71760cf49f6a377d050e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab28",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x76fb78985fae4cf24bcd933ea5e8a6e818e9d4b5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x4c0e42f1826170ad9283b321a7f9a453ef9f65aa",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x8b68333ff71fa008bb2c8bc26d5989fba51cec27",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0bc35f5b7e7b77dadc62c2630e9efafb1beb4122",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x114bf16bd3504d6f491e35152d54f5340d66d7c6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x89793208211927a4d1458a59d34b775aaec17af8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x37671a77fb00a3323304f2586d18694bb93a6bc8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb30df44907da6e9f3c531563f19e6f4a203d70f2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x82938703e493c5759c4fa1218d7b7f82fd035671",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xbc0de037958d7988710c40f4e7317f8f3ffca4fa",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc4caf2d31693974b838ffb83b0c8ae880a6b09ca",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x275e4df83f6f7b9dc75504d02e5d32f21ca03a5a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x43523544dd4e7900ac6aeb8299e1aebd5d72bf7f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x9d14a391953d5b853fb22c4135657da341f4db3b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xaa57c66ba6ee8f2219376659f727f2b13d49ead6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6595edf6d8c8b6894a5c6760843ae2fde81cb37d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x005a2ebeb982a1e569a54795bce1eeb4d88900b6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe71aa89df60e737f1b687f8dfbd51e2a9b35706e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd1125035ab6e2889239442031c130c641b75b430",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x55b7ae7eb570d3d2ee89a92dd8d958794f1e39c4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x9b7c9b6086d3baf413bccdfbb6f60f04dedd5f53",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xaa17ff01024678a94381fee24d0021a96d4f3a11",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x92454fe9c315328efb29607c30f6fb7b5ec55c0a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x1efc96c99c9d91ac0f54f0ca78d2d9a6ba11377d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x59cf0d333464ad29443d92bfd2ddfd1f794c5830",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc04f71f32a65ddf9ebf6fb69f39261457da28918",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x58c4a8c5d18c61156e1a5a82811fbf71963a4de3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xf495b997ae10b8bb0996c1ee56a1cc7832daec36",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x65e4af88e543e41c410f969801d53e40acb23da7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xf0e4772e80800550368973d1f8ab2c9a7241ace8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x81fe26939ed676dd766358a60445341a06cea407",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb251e187a4e688dd3dbbf378e4aacfdd41de6a81",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xab8585241f83c4e9cfe4d3b36af4b640a0c309b2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0bd95d012d60190a6713ae51f2d833b24ae70c5f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x2781cca45bd57e1205b46dd439baf5233a0f02c4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x1ec0aacf500624de90dd21478da12fca4726b383",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x30066d9879374276dc01177fbd239a9377b497bc",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xaa72bd551b25715b8f9d72f226fa02526bdf2e08",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb8cf0bf8b39f465c1b845e5ee8c2c53424c3faf9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x38282481e3a024c50254c31ebfc4710e003fe1b2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xddecab961380225c95e6a6089660de2e6028170f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x8051a9ce43f9c21e58331b1ba2b1925e4ae4c001",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6eec371c24ad264ced3a1f40b83d7d720aa2b0af",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xba6acd0350eab1c6bc433b6c869e5592fe0667ae",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6bd72983b0b5a77774af8c77567bb593b418ae3c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x430986b53a787362e54fa83d0ae046a984fb4285",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xdee56209e25c0eafdd3e06ee9f4aae03d173478d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x1d30d1b07d78341810a604ad34734001b3b70362",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb8d7d9e66a60c239e7a60110efcf8de6c705580e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x23c073d557e4512f1811bd7c767047de13de14c5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xc696ca5b8f21a1f8fcd62cff16bbe5a396a4bed6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd50ec46c2514bc8c588760aa7ef1446dcd37993b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x77045f1b9f811a7a8fb9ebd085b5b0c55c5cb0d1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x99b9bd1d07690a658b9723509278b83715f7c4be",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa213f04c6049f842a7ffe7d39e0c6138a863dc6e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x8d9220587b2969429c517e76b3695f01cb374984",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x1b923520f19660d4eb013242c6d03c84fdea034b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7ef",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x46de57bfaa096c674492c3892caa261cf34cc46a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xf5e643282e76af102aada38c67aae7eaec1ba2fe",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x7df346f8ef98ad20869ff6d2fc7c43c00403a524",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x95f0543f861584f1a3c3129c46901d5c5cc1d44e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x727882553d1ab69b0cabad2984331e7e39445f91",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xde705d4f3ded922b729d9b923be08e1391dd4cae",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x6876c4b19075ee774ca368a4a782c9425cca9725",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x0cbe3e6bbac59a93e4d358279dff004c98b2b8da",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x68d23ee66a167e39513747a75dd4af3fd2b5728a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xb6ca8aba0fb26ed264a3ae3d9c1461ac7c96cdcb",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x3717c637003c4274f20cde8c4eeadbffa2bbf16d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa0b4fef70ccef039b94512d6384806979d4c201c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x73549e0918d10727e324ebeed11ab81ab46f8fad",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x356a26eb9e012a68958082340d4c4116e7f55615",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xe4eef7d4d8cafa3ef90ea486ff7d1eec34771837",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xd4051b5dc76ca354e48813268aa79de38b274878",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xda7347c3192a27ddac32e659c9d9cbed6f8c9d13",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x3672719d64416d0f04575b500e853d9101dfca64",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x2c5c14b9fb21f93f36cac0f363acf59ecb21f34c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x9e59de50d9e5979fc03ac5bcacdb581c823dbd27",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x651acc1166023a08c17f24e71550982400e9b1f4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xeb44ecef39cc7873de0c418311557c6b8a60a0af",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xee6f6392cbd9e1997f6e4cf71db0c1ae1611f1f5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0xa57b9da796a2848853de7478ec64db63213cb409",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  },
+  {
+    "address": "0x187ca6f373d20465a730125c93e62a96c6a73354",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:alphalend/index.js"
+  }
+]

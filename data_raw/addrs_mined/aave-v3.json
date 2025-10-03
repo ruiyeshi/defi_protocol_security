@@ -1,0 +1,162 @@
+[
+  {
+    "address": "0xe2108b60623c6dcf7bbd535bd15a451fd0811f7b",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x08795cfe08c7a81dcdff482bbaaf474b240f31cd",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0xf2d6e38b407e31e7e7e4a16e6769728b76c7419f",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x306c124ffba5f2bc0bcaf40d249cf19d492440b9",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0xc01372469a17b6716a38f00c277533917b6859c0",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x41393e5e337606dc3821075af65aee84d7688cbd",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x5f2a704ce47b373c908fe8a29514249469b52b99",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x7f23d86ee20d869112572136221e173428dd740b",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x33b7d355613110b4e842f5f7057ccd36fb4cee28",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x2d97f8fa96886fd923c065f5457f9ddd494e3877",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0xa0208ce8356ad6c5ec6dfb8996c9a6b828212022",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0xd82a47fdebb5bf5329b09441c3dab4b5df2153ad",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0xe7d490885a68f00d9886508df281d67263ed5758",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x69fa688f1dc47d4b5d8029d5a35fb7a548310654",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x53519c32f73fe1797d10210c4950ffeba3b21504",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x23df2a19384231afd114b036c14b6b03324d79bc",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0x57038c3e3fe0a170bb72de2fd56e98e4d1a69717",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/aave-v3/index.js"
+  },
+  {
+    "address": "0xf79473ea6ef2c9537027bae2f6e07d67dd9999e0",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x3f12643d3f6f874d39c2a4c9f2cd6f2dbac877fc",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0xecda3f25b73261d1fdfa1e158967660aa29f00cc",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x497a1994c46d4f6c864904a9f1fac6328cb7c8a6",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0xa2d323dbc43f445ad2d8974f17be5dab32aad474",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x66feae868ebed74a34a7043e88742aae00d2bc53",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x9eebf28397d8becc999472fc8838cbbef54aebf6",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x1e26247502e90b4fab9d0d17e4775e90085d2a35",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x14496b405d62c24f91f04cda1c69dc526d56fde5",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0xbb4a3b6781be3650b252552dff6332efb1162152",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0xb12e82df057bf16ecfa89d7d089dc7e5c1dc057b",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0xc4fcf9893072d61cc2899c0054877cb752587981",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  },
+  {
+    "address": "0xdc3c96ef82f861b4a3f10c81d4340c75460209ca",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/aave-v3/index.js"
+  }
+]

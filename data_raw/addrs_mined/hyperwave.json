@@ -1,0 +1,117 @@
+[
+  {
+    "address": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x4de03ca1f02591b717495cfa19913ad56a2f5858",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x311db0fde558689550c68355783c95efdfe25329",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x393d0b87ed38fc779fd9611144ae649ba6082109",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x950e6bc9bba0edf4e093b761df05cf5abd0a32e7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x4e961b977085b673c293a5c022fdca2ab3a689a2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x128cc5830214abaf05a0ac178469a28de56c0ba9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0xdfc24b077bc1425ad1dea75bcb6f8158e10df303",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x2900abd73631b2f60747e687095537b673c06a76",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x2cd4aa47e778fe8fa27cdcd4ce2bc99b6bf90f61",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x0d745eaa9e70bb8b6e2a0317f85f1d536616bd34",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0x9209648ec9d448ef57116b73a2f081835643dc7a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0xc8f969ef6b51a428859f3a606e6b103dc1fb92e9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperwave/constants.js"
+  },
+  {
+    "address": "0xcf9be8bf79ad26fdd7aa73f3dd5ba73ecdee2a32",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/hyperwave/index.ts"
+  },
+  {
+    "address": "0x78e3ac5bf48dcaf1835e7f9861542c0d43d0b03e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/hyperwave/index.ts"
+  },
+  {
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/hyperwave/index.ts"
+  },
+  {
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/hyperwave/index.ts"
+  },
+  {
+    "address": "0x5555555555555555555555555555555555555555",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/hyperwave/index.ts"
+  }
+]

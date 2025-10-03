@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x1ce5d7f52a8abd23551e91248151ca5a13353c65",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/extended/index.js"
+  },
+  {
+    "address": "0x062da0780fae50d68cecaa5a051606dc21217ba2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/extended/index.js"
+  }
+]

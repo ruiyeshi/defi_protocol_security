@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x4e59541306910ad6dc1dac0ac9dfb29bd9f15c67",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/crvusd/index.js"
+  },
+  {
+    "address": "0x136e783846ef68c8bd00a3369f787df8d683a696",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/crvusd/index.js"
+  },
+  {
+    "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/crvusd/index.js"
+  },
+  {
+    "address": "0xc9332fdcb1c491dcc683bae86fe3cb70360738bc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/crvusd/index.js"
+  },
+  {
+    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/crvusd/index.js"
+  }
+]

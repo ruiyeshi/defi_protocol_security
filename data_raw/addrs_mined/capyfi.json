@@ -1,0 +1,37 @@
+[
+  {
+    "address": "0x0b9af1fd73885ad52680a1aeaa7a3f17ac702afa",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  },
+  {
+    "address": "0x465ebfceb3953e2922b686f2b4006173664d16ce",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  },
+  {
+    "address": "0xaad91abe333c4536ffbf02b83dabab49c9aa23ed",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  },
+  {
+    "address": "0x37de57183491fa9745d8fa5dcd950f0c3a4645c9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  },
+  {
+    "address": "0xbaa6bc4e24686d710b9318b49b0bb16ec7c46bfa",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  },
+  {
+    "address": "0x589d63300976759a0fc74ea6fa7d951f581252d7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  },
+  {
+    "address": "0x123abe3a273fdbcec7fc0ebedc05aaef4ee63060",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
+  }
+]

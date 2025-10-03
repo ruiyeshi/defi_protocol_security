@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/looped-hype/index.js"
+  },
+  {
+    "address": "0xce621a3ca6f72706678cff0572ae8d15e5f001c3",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/looped-hype/index.ts"
+  },
+  {
+    "address": "0x5555555555555555555555555555555555555555",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/looped-hype/index.ts"
+  }
+]

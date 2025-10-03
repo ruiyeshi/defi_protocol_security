@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x003ca23fd5f0ca87d01f6ec6cd14a8ae60c2b97d",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dolomite/index.js"
+  },
+  {
+    "address": "0x836b557cf9ef29fcf49c776841191782df34e4e5",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dolomite/index.js"
+  },
+  {
+    "address": "0x6bd780e7fdf01d77e4d475c821f1e7ae05409072",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dolomite/index.js"
+  },
+  {
+    "address": "0xe6ef4f0b2455bab92ce7cc78e35324ab58917de8",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dolomite/index.js"
+  },
+  {
+    "address": "0x43c2fdb89a1c491f9fe86e1ff05bd2be204ab4ae",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dolomite/index.js"
+  }
+]

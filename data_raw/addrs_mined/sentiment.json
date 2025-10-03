@@ -1,0 +1,112 @@
+[
+  {
+    "address": "0xc0ac97a0ea320aa1e32e9ded16fb580ef3c078da",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v1.js"
+  },
+  {
+    "address": "0x17b07cfbab33c0024040e7c299f8048f4a49679b",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v1.js"
+  },
+  {
+    "address": "0x2831775cb5e64b1d892853893858a261e898fbeb",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v2.js"
+  },
+  {
+    "address": "0xe45e7272da7208c7a137505dfb9491e330bf1a4e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v2.js"
+  },
+  {
+    "address": "0x36bfd6b40e2c9bbcfd36a6b1f1aa65974f4ffa5d",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v2.js"
+  },
+  {
+    "address": "0x9700750001ddd7c4542684bac66c64d74fa833c0",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v2.js"
+  },
+  {
+    "address": "0x34b2b0de7d288e79bbcfcee6c2a222dae25ff88d",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentiment/v2.js"
+  },
+  {
+    "address": "0x0ddb1ea478f8ef0e22c7706d2903a41e94b1299b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0xb190214d5ebac7755899f2d96e519aa7a5776bec",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x6e6a3d8f1affac703b1aef1f43b8d2321be40043",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x37e6a0ecb9e8e5d90104590049a0a197e1363b67",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x711cc1578bc995bc0e27292cb1a340835d277c18",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0xe520c46d5dab5bb80af7dc8b821f47deb4607db2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x2e9963ae673a885b6bfeda2f80132ce28b784c40",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x21202227bc15276e40d53889bc83e59c3cccc121",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0x4c8e1656e042a206eef7e8fcff99bac667e4623e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  },
+  {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/sentiment/index.js"
+  }
+]

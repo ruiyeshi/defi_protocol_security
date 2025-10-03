@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x20d419a8e12c45f88fda7c5760bb6923cee27f98",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/ostium/index.js"
+  },
+  {
+    "address": "0xccd5891083a8acd2074690f65d3024e7d13d66e7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/ostium/index.js"
+  }
+]

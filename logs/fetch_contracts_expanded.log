@@ -1,0 +1,5 @@
+🚀 Script started... loading .env and initializing asyncio
+Traceback (most recent call last):
+  File "/Users/ruiyeshi/defi_protocol_security/fetch_contracts_expanded.py", line 9, in <module>
+    import aiohttp
+ModuleNotFoundError: No module named 'aiohttp'
