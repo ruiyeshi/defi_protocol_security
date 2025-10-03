@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0xdec800c2b17c9673570fdf54450dc1bd79c8e359",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xad4cac207a0bfed10df8a4fc6a28d377cac730e0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xc5022291ca8281745d173bb855dcd34dda67f2f0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0x9b02548de409d7aaee228bfa3ff2bca70e7a2fe8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0x2c37f1dced208530a05b061a183d8937f686157e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xeb0ea9d24235ab37196111eedd656d56ce4f53b1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xb2fcee71b25b62bafe442c58af58c42143673cc1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0x6c280db098db673d30d5b34ec04b6387185d3620",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0x86e917ad6cb44f9e6c8d9fa012acf0d0cfcf114f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0xf758be28e93672d1a8482be15eaf21aa5450f979",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/config.js"
+  },
+  {
+    "address": "0x96c68d861ada016ed98c30c810879f9df7c64154",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/clever/index.js"
+  }
+]

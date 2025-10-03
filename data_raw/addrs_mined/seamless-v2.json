@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x38ba21c6bf31df1b1798fced07b4e9b07c5ec3a8",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/seamless-v2/index.js"
+  },
+  {
+    "address": "0xc3f4681fb2a57a13e121c6f24fe319c8572bb001",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/seamless-v2/index.js"
+  }
+]

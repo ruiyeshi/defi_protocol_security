@@ -1,0 +1,212 @@
+[
+  {
+    "address": "0xc4d1e935f02a44d44985e6b1c0ee1ee616fc146a",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xe893233515b7d02dd4e3d888162d4c87dc837943",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xea3b4a2da5dbe8379ad4c60aad5184df69d7c9ad",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x808c3ba97268dbf9695b1ec10729e09c7e67a9e3",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xf86d8218bcc15874f5d25c191fddd43f2334c3eb",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x8385ea36dd4bdc84b3f2ac718c332e18c1e42d36",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x829fcfb6a6eea9d14eb4c14fac5b29874bdbad13",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x8aba88e8a4ab28319b782199cb17f0001ee67984",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x829ed2a2bef8b72e648f92cbf01587c7e12e8c1e",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x4b1791422de4807b2999eeb65359f3e13fa9d11d",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xd76b7060f1b646fa14740ff6ac670a4f0a6fc5e3",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x386f2f5d9a97659c86f3ca9b8b11fc3f76efddae",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xb67c5433d234d656002f12664d15ab4b40666d9b",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x808c707c53c3d30d0247e4b8d78aa0d8b75caae1",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x942a9bf629d1e17d87294b0f20898eeb8316cdd6",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xa6ade2e6c6f50a2d9b9c4b819e84b367f88c1598",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x07970f9d979d8594b394fe12345211c376adff89",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xe0e67b991d6b5cf73d8a17a10c3de74616c1ec11",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x446881360d6d39779d292662fca9bc85c5789db3",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xcbf6065954fc17d07b28102c84902f20ffac0a33",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xa1bd1d501af7d0b146951fdff49bd4c0bd25e220",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x2168dab12a6a93181bbad9c9dc769307c36fb45c",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x93948aa8488f522d5b079af84fe411fbce476e9f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x25567603eb61a4a49f27e433652b5b8940d10682",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xcf2fc1d354018a39d5ef036aa865ad8cbf7b611e",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x488933457e89656d7ef7e69c10f2f80c7aca19b5",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xba9de5a8fd91408826616f2d6d7470a11e34c9f0",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x0b31fee8bf53bfe2f5f7083b73a4c9c8b517e32f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x26d0e4707af1c1daad8e9ba21b99cda7fd24c40b",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x2a29598cbc17ba112c8fd0e07fbf5402ef57e6b8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x168b2d7dd6b9812392f99ba01a14db03ed06dedc",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x170b6aa872166ec2f8515c2b855c34b6c7563c18",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x128647690c7733593aa3dd149eebc5e256e79217",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xf9b2f6d2a61923e61ad9f6daa78f52b7e1722b12",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x4800577a71f68ed7ef4c09cfbe7fd6e066d5f0da",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x13000c4a215efe7e414bb329b2f11c39bcf92d78",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x34da42143b0c6e321ceb76931c637c12bd865f7e",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xe03487927e137526a2db796a9b3b4048ab615043",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0x4bae7ba39e4e71660307dce780f1ec9b7b7666ee",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  },
+  {
+    "address": "0xed7b0974dc5d98b9e7c83695c415d68b8781b0f8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/bifi/index.js"
+  }
+]
