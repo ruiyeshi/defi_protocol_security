@@ -1,17 +1,17 @@
 [
   {
-    "address": "0xa2754543f69dc036764bbfad16d2a74f5cd15667",
-    "guess": "arbitrum",
+    "address": "0x36aeae0e411a1e28372e0d66f02e57744ebe7599",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/revert-lend/index.js"
   },
   {
     "address": "0x74e6afef5705beb126c6d3bf46f8fad8f3e07825",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/revert-lend/index.js"
   },
   {
-    "address": "0x36aeae0e411a1e28372e0d66f02e57744ebe7599",
-    "guess": "arbitrum",
+    "address": "0xa2754543f69dc036764bbfad16d2a74f5cd15667",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/revert-lend/index.js"
   }
 ]
