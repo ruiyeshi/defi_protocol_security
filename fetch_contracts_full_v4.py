@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 from time import sleep
 
-# 🌍 Extended mapping of Etherscan-style APIs for EVM-compatible chains
+#  Extended mapping of Etherscan-style APIs for EVM-compatible chains
 ETHERSCAN_ENDPOINTS = {
     "ethereum": "https://api.etherscan.io/api",
     "bsc": "https://api.bscscan.com/api",
@@ -19,7 +19,7 @@ ETHERSCAN_ENDPOINTS = {
     "rsk": "https://api.rsk.co/api"
 }
 
-# 🔑 Optional: Load API keys from environment variables
+#  Optional: Load API keys from environment variables
 API_KEYS = {
     "ethereum": os.getenv("ETHERSCAN_API_KEY", ""),
     "bsc": os.getenv("BSCSCAN_API_KEY", ""),
