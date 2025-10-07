@@ -1,132 +1,72 @@
 [
   {
-    "address": "0x046a9837a61d6b6263f54f4e27ee072ba4bdc7e4",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0xbad8b5bdfb2bcbcd78cc9f1573d3aad6e865e752",
-    "guess": "avalanche",
+    "address": "0x29a56a1b8214d9cf7c5561811750d5cbdb45cc8e",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
     "address": "0x7f321498a801a191a93c840750ed637149ddf8d0",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x29a56a1b8214d9cf7c5561811750d5cbdb45cc8e",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0xaf4b4c18b17f6a2b32f6c398a3910bdcd7f26181",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0xf075cc8660b51d0b8a4474e3f47edac5fa034cfb",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x2b21621b8ef1406699a99071ce04ec14ccd50677",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x42388213c6f56d7e1477632b58ae6bba9adeeea3",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x7f53e2755eb3c43824e162f7f6f087832b9c9df6",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x78df1cf5bf06a7f27f2acc580b934238c1b80d50",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x84711986fd3bf0bfe4a8e6d7f4e22e67f7f27f04",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x5c13fb43ae9bae8470f646ea647784534e9543af",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
-  },
-  {
-    "address": "0x47aaf2f062aa1d55afa602f5c9597588f71e2d76",
-    "guess": "avalanche",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
     "address": "0x238bf86bb451ec3ca69bb855f91bda001ab118b9",
-    "guess": "avalanche",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x4c7ba548032fe3ea11b7d6beaf736b3b74f69248",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0xf075cc8660b51d0b8a4474e3f47edac5fa034cfb",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x83801c7bbeefa54b91f8a07e36d81515a0fc5b60",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0xbad8b5bdfb2bcbcd78cc9f1573d3aad6e865e752",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x59d28af1fc4a52ee402c9099becef333366184df",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x046a9837a61d6b6263f54f4e27ee072ba4bdc7e4",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x2ffd260bad257c08516b649c93ea3eb6b63a5639",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x5c13fb43ae9bae8470f646ea647784534e9543af",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x94dd6a076838d6fc5031e32138b95d810793db1c",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0xaf4b4c18b17f6a2b32f6c398a3910bdcd7f26181",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0xcc5f7593a4d5974f84a30b28bd3fdb374319a254",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x7f53e2755eb3c43824e162f7f6f087832b9c9df6",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0xd40dd19ed88a949436f784877a1bb59660ee8de3",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x78df1cf5bf06a7f27f2acc580b934238c1b80d50",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0xd20e9d6cfa0431ac306cc9906896a7bc0be0db64",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x2b21621b8ef1406699a99071ce04ec14ccd50677",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0xc6b56a52e5823659d90f3020164b92d1c2de03ce",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x84711986fd3bf0bfe4a8e6d7f4e22e67f7f27f04",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x70d9bc0abd4ef6ceb7c88875b9cf4013db3d780a",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x42388213c6f56d7e1477632b58ae6bba9adeeea3",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   },
   {
-    "address": "0x84641751808f85f54344369036594e1a7301a414",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
-  },
-  {
-    "address": "0x3530da02cec2818477888fdc77e777b566b6db4c",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/euler-v2/index.js"
+    "address": "0x47aaf2f062aa1d55afa602f5c9597588f71e2d76",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/euler-v2/index.js"
   }
 ]

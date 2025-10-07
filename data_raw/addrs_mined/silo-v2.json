@@ -1,92 +1,47 @@
 [
   {
-    "address": "0xf7dc975c96b434d436b9bf45e7a45c95f0521442",
-    "guess": "optimism",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
-  },
-  {
-    "address": "0x384dc7759d35313f0b567d42bf2f611b285b657c",
-    "guess": "optimism",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
-  },
-  {
-    "address": "0x92cecb67ed267ff98026f814d813fdf3054c6ff9",
-    "guess": "optimism",
+    "address": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
     "address": "0x6543ee07cf5dd7ad17aeecf22ba75860ef3bbaaa",
-    "guess": "optimism",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
     "address": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
-    "guess": "optimism",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
     "address": "0xa42001d6d2237d2c74108fe360403c4b796b7170",
-    "guess": "optimism",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
     "address": "0x4e9de3a64c911a37f7eb2fcb06d1e68c3cbe9203",
-    "guess": "optimism",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
-    "address": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
-    "guess": "optimism",
+    "address": "0x384dc7759d35313f0b567d42bf2f611b285b657c",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
     "address": "0x22a3cf6149bfa611bafc89fd721918ec3cf7b581",
-    "guess": "optimism",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
-    "address": "0x4e216c15697c1392fe59e1014b009505e05810df",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
+    "address": "0x92cecb67ed267ff98026f814d813fdf3054c6ff9",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   },
   {
-    "address": "0x77535f73555344435f3030380000000000000000",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0x3d6b896c73b628ec6ba0bdfe3cdee1356ea2af31",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0x626b6fd8cb764f1776bf7d65049d998d5a9f6c0a",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0xb6adbb29f2d8ae731c7c72036a7fd5a7e970b198",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0xf5875422734412ebbf6d4a074b7de0a276bcdc88",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0x8fbe8229a8959d0623c73b91121b12cea79d739f",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0x925d5466d4d5b01995e20e1245924ada6415126a",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
-  },
-  {
-    "address": "0x0dd368cd6d8869f2b21ba3cb4fd7ba107a2e3752",
-    "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/silo-v2/index.js"
+    "address": "0xf7dc975c96b434d436b9bf45e7a45c95f0521442",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/silo-v2/index.js"
   }
 ]

@@ -1,312 +1,312 @@
 [
   {
-    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xaa2daccab539649d1839772c625108674154df0b",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x434153aa505959bcd5aaa7c17445eb8d835086f5",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x3175df0976dfa876431c2e9ee6bc45b65d3473cc",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x402f878bdd1f5c66fdaf0fababcf74741b68ac36",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xdc4e6dfe07efca50a197df15d9200883ef4eb1c8",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xf0a31faec2b4fc6396c65b1af1f6a71e653f11f0",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x0c2553e4b9dfa9f83b1a6d3eab96c4baab42d430",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x3b9d32d0822a6351f415beab05251c1457ff6f8d",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x3245d3204eeb67afba7b0ba9143e8081365e08a6",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x0f70eed1bb51d5edb1a2e46142638df959bafd69",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xd245678e417aee2d91763f6f4efe570ff52fd080",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x0128ea927198f39e4955ddb01fd62e8de6b3e6a4",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x371ac6db8063e6076890ef032a4a3cfcf226f548",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x57eedcb68445355e9c11a90f39012e8d4aaa89fc",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xda2d2f638d6fcbe306236583845e5822554c02ea",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xccd44983f597ae4d4e2b70cf979597d63a10870d",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x00253582b2a3fe112feec532221d9708c64cefab",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
     "address": "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x2ba5a55dbdad03023e6872a8d57c458e9399bfe1",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x55f01ddae74b60e3c255bd2f619febdfce560a9c",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x5f9f41497f9e11fd7d4c4b067413199682ee2cff",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xba3436fd341f2c8a928452db3c5a3670d1d5cc73",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
-    "guess": "polygon",
+    "guess": "gnosis",
     "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
   },
   {
     "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x43a7947a1288e65faf30d8ddb3ca61eaabd41613",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0xca30c93b02514f86d5c86a6e375e3a330b435fb5",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
-  },
-  {
-    "address": "0x222222fd79264bbe280b4986f6fefbc3524d0137",
-    "guess": "polygon",
+    "guess": "gnosis",
     "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
   },
   {
     "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
-    "guess": "polygon",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xba3436fd341f2c8a928452db3c5a3670d1d5cc73",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x3175df0976dfa876431c2e9ee6bc45b65d3473cc",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x402f878bdd1f5c66fdaf0fababcf74741b68ac36",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xaa2daccab539649d1839772c625108674154df0b",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xdc4e6dfe07efca50a197df15d9200883ef4eb1c8",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x3245d3204eeb67afba7b0ba9143e8081365e08a6",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xda2d2f638d6fcbe306236583845e5822554c02ea",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x43a7947a1288e65faf30d8ddb3ca61eaabd41613",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x0f70eed1bb51d5edb1a2e46142638df959bafd69",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x0128ea927198f39e4955ddb01fd62e8de6b3e6a4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x2ba5a55dbdad03023e6872a8d57c458e9399bfe1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x55f01ddae74b60e3c255bd2f619febdfce560a9c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x0c2553e4b9dfa9f83b1a6d3eab96c4baab42d430",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xd245678e417aee2d91763f6f4efe570ff52fd080",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x3b9d32d0822a6351f415beab05251c1457ff6f8d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xccd44983f597ae4d4e2b70cf979597d63a10870d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xf0a31faec2b4fc6396c65b1af1f6a71e653f11f0",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x371ac6db8063e6076890ef032a4a3cfcf226f548",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x434153aa505959bcd5aaa7c17445eb8d835086f5",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x3f95aa88ddbb7d9d484aa3d482bf0a80009c52c9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xca30c93b02514f86d5c86a6e375e3a330b435fb5",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x00253582b2a3fe112feec532221d9708c64cefab",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x5f9f41497f9e11fd7d4c4b067413199682ee2cff",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x222222fd79264bbe280b4986f6fefbc3524d0137",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
+  },
+  {
+    "address": "0x57eedcb68445355e9c11a90f39012e8d4aaa89fc",
+    "guess": "gnosis",
     "context": "DefiLlama/DefiLlama-Adapters/projects/angle/addresses.js"
   },
   {
     "address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0xc9daabc677f3d1301006e723bd21c60be57a5915",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0x3f66867b4b6eceba0dbb6776be15619f73bc30a2",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0x53b981389cfc5dcda2dc2e903147b5dd0e985f44",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0xa91fccc1ec9d4a2271b7a86a7509ca05057c1a98",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0x63f222079608eec2ddc7a9acdcd9344a21428ce7",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0x6b4ee7352406707003bc6f6b96595fd35925af48",
-    "guess": "polygon",
+    "guess": "gnosis",
     "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
   },
   {
     "address": "0x0c462dbb9ec8cd1630f1728b2cfd2769d09f0dd5",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
-  },
-  {
-    "address": "0xc1e8dba1cbf29f1caa8343cae96d5adfd9bca736",
-    "guess": "polygon",
+    "guess": "gnosis",
     "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
   },
   {
     "address": "0x5addc89785d75c86ab939e9e15bfbbb7fc086a87",
-    "guess": "polygon",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0xc9daabc677f3d1301006e723bd21c60be57a5915",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0x53b981389cfc5dcda2dc2e903147b5dd0e985f44",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0x6b4ee7352406707003bc6f6b96595fd35925af48",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0x3f66867b4b6eceba0dbb6776be15619f73bc30a2",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0x63f222079608eec2ddc7a9acdcd9344a21428ce7",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0xa91fccc1ec9d4a2271b7a86a7509ca05057c1a98",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
+  },
+  {
+    "address": "0xc1e8dba1cbf29f1caa8343cae96d5adfd9bca736",
+    "guess": "gnosis",
     "context": "DefiLlama/DefiLlama-Adapters/projects/angle/index.js"
   }
 ]

@@ -10,12 +10,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/asymmetry-usdaf/index.js"
   },
   {
-    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x244c422663328233a5d1bd5045ff943ba97d046e",
+    "address": "0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
@@ -25,102 +20,7 @@
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
   {
-    "address": "0x545a7ddfd863bd7ea0bfc689125169598085f75e",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x254a6a3e172a81d5825122403e1bc4d47f264a07",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
     "address": "0x27f539ec3fa3e548e10d4ac883534eba891bb212",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xfe6f765e77fd8f17ec3a985ac36c3c3ea92c946d",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xda9af112edfd837eebc1780433481426a52556e0",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x446f358e3a927cc68f342141d78aa2d1c54e18f0",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x9e601005deaaee8294c686e28e1affd04cc13830",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x9cf12ccd6020b6888e4d4c4e4c7aca33c1eb91f8",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x2538cd346429ea59902e02448bb7a7c098e4554e",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x20f29569566020d8e49c9843033c370772a93774",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xf507e264d507ef64a72aeaf4cc8c270d008fc48a",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x01e37634cbd25ec7ffe680ece5eec178ff51ef2d",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xfab7396e2a6a3364e02ed26d2f80a354aa923b88",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xb571781cedf07257d60d6b252a3d8b24150ded97",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x664507f1445657d36d8064663653b7810971f411",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x336d9c5ecb9d6ce79c8c077d35426e714969b41d",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0x08eaafd8fbb12cf12d6765e80c5b0ff8490c232d",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
-    "address": "0xd48dc7cddc481f596bd9a97755c7ac696ad4ea87",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
@@ -135,22 +35,102 @@
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
   {
-    "address": "0xb00d1d5dfd72a440b8c04a5f7b5bc3c8159a7f44",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
-  },
-  {
     "address": "0x23346b04a7f55b8760e5860aa5a77383d63491cd",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
   {
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "address": "0x244c422663328233a5d1bd5045ff943ba97d046e",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
   {
-    "address": "0x922faa141e95e43a9deeab8dade3ac8d4a32ad5c",
+    "address": "0xc20a51f66c917feff80d1e089199f727060c0369",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xd48dc7cddc481f596bd9a97755c7ac696ad4ea87",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x9e601005deaaee8294c686e28e1affd04cc13830",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x08eaafd8fbb12cf12d6765e80c5b0ff8490c232d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xfab7396e2a6a3364e02ed26d2f80a354aa923b88",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xb571781cedf07257d60d6b252a3d8b24150ded97",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x336d9c5ecb9d6ce79c8c077d35426e714969b41d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x20f29569566020d8e49c9843033c370772a93774",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xfe6f765e77fd8f17ec3a985ac36c3c3ea92c946d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x446f358e3a927cc68f342141d78aa2d1c54e18f0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x2538cd346429ea59902e02448bb7a7c098e4554e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xb00d1d5dfd72a440b8c04a5f7b5bc3c8159a7f44",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x254a6a3e172a81d5825122403e1bc4d47f264a07",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x545a7ddfd863bd7ea0bfc689125169598085f75e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0xda9af112edfd837eebc1780433481426a52556e0",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
@@ -160,12 +140,32 @@
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
   {
+    "address": "0xf507e264d507ef64a72aeaf4cc8c270d008fc48a",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x01e37634cbd25ec7ffe680ece5eec178ff51ef2d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x922faa141e95e43a9deeab8dade3ac8d4a32ad5c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
+    "address": "0x664507f1445657d36d8064663653b7810971f411",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
+  },
+  {
     "address": "0xe065bc161b90c9c4bba2de7f1e194b70a3267c47",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   },
   {
-    "address": "0xc20a51f66c917feff80d1e089199f727060c0369",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/asymmetry-usdaf/index.js"
   }

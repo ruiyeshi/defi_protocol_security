@@ -1,47 +1,47 @@
 [
   {
-    "address": "0xafa52e3860b4371ab9d8f08e801e9ea1027c0ca2",
-    "guess": "polygon",
-    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
-  },
-  {
-    "address": "0x2246c4c469735bce95c120939b0c078ec37a08d0",
-    "guess": "polygon",
-    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
-  },
-  {
-    "address": "0x25172c73958064f9abc757ffc63eb859d7dc2219",
-    "guess": "polygon",
-    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
-  },
-  {
-    "address": "0xd41d34d6b50785fdc025cad971fe940b8aa1be45",
-    "guess": "polygon",
-    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
-  },
-  {
-    "address": "0xb205e94d402742b919e851892f7d515592a7a6cc",
-    "guess": "polygon",
-    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
-  },
-  {
     "address": "0x007318dc89b314b47609c684260cfbfbcd412864",
-    "guess": "polygon",
+    "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
   },
   {
     "address": "0xd57d8eec36f0ba7d8fd693b9d97e02d8353eb1f4",
-    "guess": "polygon",
+    "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
   },
   {
-    "address": "0xdd0d135b5b52b7edd90a83d4a4112c55a1a6d23a",
-    "guess": "polygon",
+    "address": "0xafa52e3860b4371ab9d8f08e801e9ea1027c0ca2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
+  },
+  {
+    "address": "0xb205e94d402742b919e851892f7d515592a7a6cc",
+    "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
   },
   {
     "address": "0x59a696bf34eae5ad8fd472020e3bed410694a230",
-    "guess": "polygon",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
+  },
+  {
+    "address": "0x2246c4c469735bce95c120939b0c078ec37a08d0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
+  },
+  {
+    "address": "0x25172c73958064f9abc757ffc63eb859d7dc2219",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
+  },
+  {
+    "address": "0xdd0d135b5b52b7edd90a83d4a4112c55a1a6d23a",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
+  },
+  {
+    "address": "0xd41d34d6b50785fdc025cad971fe940b8aa1be45",
+    "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/vaultcraft/index.js"
   }
 ]

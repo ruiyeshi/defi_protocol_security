@@ -1,12 +1,12 @@
 [
   {
     "address": "0x5401b8620e5fb570064ca9114fd1e135fd77d57c",
-    "guess": "ethereum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/lombard-vault/index.js"
   },
   {
     "address": "0x309f25d839a2fe225e80210e110c99150db98aaf",
-    "guess": "ethereum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/lombard-vault/index.js"
   }
 ]

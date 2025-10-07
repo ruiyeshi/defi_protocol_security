@@ -1,12 +1,12 @@
 [
   {
     "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
-    "guess": "optimism",
-    "context": "DefiLlama/yield-server/src/adaptors/stake-dao/index.js"
+    "guess": "base",
+    "context": "DefiLlama/yield-server/search:stake-dao/index.js"
   },
   {
     "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "guess": "optimism",
-    "context": "DefiLlama/yield-server/src/adaptors/stake-dao/index.js"
+    "guess": "base",
+    "context": "DefiLlama/yield-server/search:stake-dao/index.js"
   }
 ]

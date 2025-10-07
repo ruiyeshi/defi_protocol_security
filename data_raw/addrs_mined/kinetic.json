@@ -1,11 +1,11 @@
 [
   {
-    "address": "0xdcce91d46ecb209645a26b5885500127819beadd",
+    "address": "0x8041680fb73e1fe5f851e76233dcdfa0f2d2d7c8",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/kinetic/index.js"
   },
   {
-    "address": "0x8041680fb73e1fe5f851e76233dcdfa0f2d2d7c8",
+    "address": "0xdcce91d46ecb209645a26b5885500127819beadd",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/kinetic/index.js"
   },
@@ -30,12 +30,12 @@
     "context": "DefiLlama/yield-server/src/adaptors/kinetic/index.js"
   },
   {
-    "address": "0x1d80c49bbbcd1c0911346656b529df9e5c2f783d",
+    "address": "0xe6505f92583103af7ed9974dec451a7af4e3a3be",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/kinetic/index.js"
   },
   {
-    "address": "0xe6505f92583103af7ed9974dec451a7af4e3a3be",
+    "address": "0x1d80c49bbbcd1c0911346656b529df9e5c2f783d",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/kinetic/index.js"
   }

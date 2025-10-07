@@ -1,51 +1,21 @@
 [
   {
-    "address": "0x4132392c57b9d2de1ba393a03f23fcb880bf8ee1",
+    "address": "0x4913dec75cc0e061ba78ebbdb2584905760be4c6",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x2c8a7592828007ef33d87b49732f174d9a0b6759",
+    "address": "0x4579587ae043131999ce3d9c66199726972e3fb7",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0xd9d0a0b8b9dc0f845797b678f00c6d7fad577b56",
+    "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x6c9cb3739d6b390a4bacc4d5f0a2629cf5c383b3",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x57496afdb38a0da228046c93695778c757075dea",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x049c15f84850fc0d76efe3b0940a44fc3edd6e2e",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x547593f6afa897bb05828fbb8d587ca31d9ff519",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xacb41b8bddf67727f07bf375b01edc40ed51c4ff",
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
@@ -55,12 +25,147 @@
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x4913dec75cc0e061ba78ebbdb2584905760be4c6",
+    "address": "0x855894fe37cfaee188a1accc5dd4b38d504f09e9",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x42b2d846785636cfb393b5ec48c6581f47c37ec3",
+    "address": "0xe44bdd3f0b69f2c294a0250825bcf31ee3af4314",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x547593f6afa897bb05828fbb8d587ca31d9ff519",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x049c15f84850fc0d76efe3b0940a44fc3edd6e2e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x4132392c57b9d2de1ba393a03f23fcb880bf8ee1",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x90476bfef61f190b54a439e2e98f8e43fb9b4a45",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0xd9d0a0b8b9dc0f845797b678f00c6d7fad577b56",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x3f38ba29acc107e6f0b059a17c9bab0598d0f249",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x7ffbcda33cd2f7812f9da4c1189e745379f95b79",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x6c9cb3739d6b390a4bacc4d5f0a2629cf5c383b3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x457a325e5c63ae73f684d9477826e07f56da749b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x89c53b34b5e6a1d0b2922941749e9ee05ce58b42",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x0a4fe32de91be99a3efac80f6576976293b95369",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x57496afdb38a0da228046c93695778c757075dea",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x0c9e2653b17b60e9ad9465d1cf478bd6d76a03f0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0xeb27c21eba6765608681ec96b0d9f697726884da",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x848204278e491f5f15b3f2dce593e6af9552b372",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0xe0eca72bee09695c82d9dd5422267270495ea0c2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0xacb41b8bddf67727f07bf375b01edc40ed51c4ff",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x9c04f5d68fc754d79fbcac8fc56469c0264f85dc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
@@ -75,82 +180,12 @@
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x4579587ae043131999ce3d9c66199726972e3fb7",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xeb27c21eba6765608681ec96b0d9f697726884da",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x674d38092d177a9b074e5caa5d45315eaacec790",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
     "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x55d398326f99059ff775485246999027b3197955",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xe44bdd3f0b69f2c294a0250825bcf31ee3af4314",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x457a325e5c63ae73f684d9477826e07f56da749b",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x90476bfef61f190b54a439e2e98f8e43fb9b4a45",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x3f38ba29acc107e6f0b059a17c9bab0598d0f249",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x848204278e491f5f15b3f2dce593e6af9552b372",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x89c53b34b5e6a1d0b2922941749e9ee05ce58b42",
+    "address": "0x42b2d846785636cfb393b5ec48c6581f47c37ec3",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
@@ -160,47 +195,7 @@
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x855894fe37cfaee188a1accc5dd4b38d504f09e9",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x9c04f5d68fc754d79fbcac8fc56469c0264f85dc",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x7ffbcda33cd2f7812f9da4c1189e745379f95b79",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0x0c9e2653b17b60e9ad9465d1cf478bd6d76a03f0",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
-  },
-  {
-    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
@@ -210,12 +205,17 @@
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0x0a4fe32de91be99a3efac80f6576976293b95369",
+    "address": "0x2c8a7592828007ef33d87b49732f174d9a0b6759",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },
   {
-    "address": "0xe0eca72bee09695c82d9dd5422267270495ea0c2",
+    "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
+  },
+  {
+    "address": "0x674d38092d177a9b074e5caa5d45315eaacec790",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/alpaca-finance-2.0/index.js"
   },

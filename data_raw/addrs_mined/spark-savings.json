@@ -5,12 +5,12 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/spark-savings/index.js"
   },
   {
-    "address": "0x940098b108fb7d0a7e374f6eded7760787464609",
+    "address": "0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858",
     "guess": "arbitrum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/spark-savings/index.js"
   },
   {
-    "address": "0x14d9143becc348920b68d123687045db49a016c6",
+    "address": "0x940098b108fb7d0a7e374f6eded7760787464609",
     "guess": "arbitrum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/spark-savings/index.js"
   },
@@ -20,7 +20,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/spark-savings/index.js"
   },
   {
-    "address": "0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858",
+    "address": "0x14d9143becc348920b68d123687045db49a016c6",
     "guess": "arbitrum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/spark-savings/index.js"
   }

@@ -5,6 +5,11 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
+    "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
     "address": "0x9717ff7406be065ea177ba9ab1be704060af8370",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
@@ -15,22 +20,22 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x094bd7b2d99711a1486fb94d4395801c6d0fddcc",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
     "address": "0xd22b04395705144fd12affd854248427a2776194",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
   {
-    "address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
+    "address": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
+  },
+  {
+    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
@@ -45,42 +50,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
   {
-    "address": "0xb28ddf1ee8ee014eafbecd8de979ac8d297931c7",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
     "address": "0x031a1d307c91fbde01005ec2ebc5fcb03b6f80ab",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
-    "address": "0x8b1da95724b1e376ae49fdb67afe33fe41093af5",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
-    "address": "0xb4018cb02e264c3fcfe0f21a1f5cfbcaaba9f61f",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
-    "address": "0x9ee8110c0aacb7f9147252d7a2d95a5ff52f8496",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
-    "address": "0xdf34bad1d3b16c8f28c9cf95f15001949243a038",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
-    "address": "0xe7cdba5e9b0d5e044aab795cd3d659aac8db869b",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
-  },
-  {
-    "address": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
@@ -90,17 +60,37 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
   {
-    "address": "0xdb06a76733528761eda47d356647297bc35a98bd",
+    "address": "0xe7cdba5e9b0d5e044aab795cd3d659aac8db869b",
     "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
   {
-    "address": "0x152de634ff2f0a6ecbd05cb591cd1eeacd2900ed",
+    "address": "0xb28ddf1ee8ee014eafbecd8de979ac8d297931c7",
     "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
   },
   {
-    "address": "0x3b7157e5e732863170597790b4c005436572570f",
+    "address": "0xb4018cb02e264c3fcfe0f21a1f5cfbcaaba9f61f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
+  },
+  {
+    "address": "0x8b1da95724b1e376ae49fdb67afe33fe41093af5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
+  },
+  {
+    "address": "0xdf34bad1d3b16c8f28c9cf95f15001949243a038",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
+  },
+  {
+    "address": "0x9ee8110c0aacb7f9147252d7a2d95a5ff52f8496",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/ethereum.js"
+  },
+  {
+    "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
@@ -110,17 +100,17 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
   {
-    "address": "0xc47ebd6c0f68fd5963005d28d0ba533750e5c11b",
+    "address": "0x3b7157e5e732863170597790b4c005436572570f",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
   {
-    "address": "0x836a808d4828586a69364065a1e064609f5078c7",
+    "address": "0xfd110cf7985f6b7cab4dc97df1932495cada9d08",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
   {
-    "address": "0x34ed182d0812d119c92907852d2b429f095a9b07",
+    "address": "0x152de634ff2f0a6ecbd05cb591cd1eeacd2900ed",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
@@ -130,7 +120,27 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
   {
-    "address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+    "address": "0x836a808d4828586a69364065a1e064609f5078c7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
+  },
+  {
+    "address": "0xc47ebd6c0f68fd5963005d28d0ba533750e5c11b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
+  },
+  {
+    "address": "0x34ed182d0812d119c92907852d2b429f095a9b07",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
+  },
+  {
+    "address": "0x9848482da3ee3076165ce6497eda906e66bb85c5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
+  },
+  {
+    "address": "0xdb06a76733528761eda47d356647297bc35a98bd",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
@@ -145,37 +155,12 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
   },
   {
-    "address": "0xfd110cf7985f6b7cab4dc97df1932495cada9d08",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
-  },
-  {
-    "address": "0x9848482da3ee3076165ce6497eda906e66bb85c5",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/jpegd.js"
-  },
-  {
-    "address": "0x65207da01293c692a37f59d1d9b1624f0f21177c",
+    "address": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
     "guess": "fantom",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
     "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
-    "guess": "fantom",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0x59bf0545fca0e5ad48e13da269facd2e8c886ba4",
-    "guess": "fantom",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0xb3667b3d1b3d4ed3d451df68c9c12a686227bada",
-    "guess": "fantom",
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0x100ec08129e0fd59959df93a8b914944a3bbd5df",
     "guess": "fantom",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -190,7 +175,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
+    "address": "0x65207da01293c692a37f59d1d9b1624f0f21177c",
     "guess": "fantom",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -200,27 +185,22 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0xf961a8f6d8c69e7321e78d254ecafbcc3a637621",
-    "guess": null,
+    "address": "0xb3667b3d1b3d4ed3d451df68c9c12a686227bada",
+    "guess": "fantom",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x857f5468398c873ecfc208765ad9632bb9ddab0c",
-    "guess": null,
+    "address": "0x59bf0545fca0e5ad48e13da269facd2e8c886ba4",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0x100ec08129e0fd59959df93a8b914944a3bbd5df",
+    "guess": "fantom",
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
     "address": "0x7716065f4f9b225bb628ae75fa42157f14bfe70c",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0x38fdd999fe8783037db1bbfe465759e312f2d809",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0xdd70a5ef7d8cfe5c5134b5f9874b09fb5ce812b4",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -230,27 +210,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x2c4a603a2aa5596287a06886862dc29d56dbc354",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0xde04c469ad658163e2a5e860a03a86b52f6fa8c8",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0xedb5180661f56077292c92ab40b1ac57a279a396",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
     "address": "0x2f8dc9f7201061f4a399fb602ce4816ffc86dde5",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0x2a9ea10b60ab02e9b8960a08b4996e6bf5ea5eab",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -260,17 +220,52 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x74f8a9dfefe855dc97a4a4962b7c6cec074aed62",
+    "address": "0x857f5468398c873ecfc208765ad9632bb9ddab0c",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x476d63ab94b4e86614df0c3d5a27e9e22631d062",
+    "address": "0x2c4a603a2aa5596287a06886862dc29d56dbc354",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x9756f095dfa27d4c2eae0937a7b8a6603d99affb",
+    "address": "0xdd70a5ef7d8cfe5c5134b5f9874b09fb5ce812b4",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0x38fdd999fe8783037db1bbfe465759e312f2d809",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0xde04c469ad658163e2a5e860a03a86b52f6fa8c8",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0xf961a8f6d8c69e7321e78d254ecafbcc3a637621",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0xedb5180661f56077292c92ab40b1ac57a279a396",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0x2a9ea10b60ab02e9b8960a08b4996e6bf5ea5eab",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0xc2d0720721d48ce85e20dc9e01b8449d7edd14ce",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0xcec2c718cefdb3a515d3cc22e430b46933922ce4",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -285,12 +280,17 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0xcec2c718cefdb3a515d3cc22e430b46933922ce4",
+    "address": "0x9756f095dfa27d4c2eae0937a7b8a6603d99affb",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0xc2d0720721d48ce85e20dc9e01b8449d7edd14ce",
+    "address": "0x74f8a9dfefe855dc97a4a4962b7c6cec074aed62",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0x476d63ab94b4e86614df0c3d5a27e9e22631d062",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -300,22 +300,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x35b99f29b3ec3276a2b3bb5863326b1c100aa160",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0x857ab0cb7449fb29429fc30596f08cfbf9f171f5",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
     "address": "0x248262ea52198643dd1512ce7a2c93b32a03e45f",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
-  },
-  {
-    "address": "0xf35f8db9b6760799db76796340aacc69dea0c644",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -325,7 +310,12 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x2cb92b1e8b2fc53b5a9165e765488e17b38c26d3",
+    "address": "0x35b99f29b3ec3276a2b3bb5863326b1c100aa160",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0x6c203a555824ec90a215f37916cf8db58ebe2fa3",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
@@ -335,7 +325,17 @@
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   },
   {
-    "address": "0x6c203a555824ec90a215f37916cf8db58ebe2fa3",
+    "address": "0x2cb92b1e8b2fc53b5a9165e765488e17b38c26d3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0x857ab0cb7449fb29429fc30596f08cfbf9f171f5",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
+  },
+  {
+    "address": "0xf35f8db9b6760799db76796340aacc69dea0c644",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/search:troves/index.js"
   }

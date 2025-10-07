@@ -3,10 +3,5 @@
     "address": "0xc7e8b36e0766d9b04c93de68a9d47dd11f260b45",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/maple/index.js"
-  },
-  {
-    "address": "0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/maple/index.ts"
   }
 ]

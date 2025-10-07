@@ -1,51 +1,6 @@
 [
   {
-    "address": "0xa932e0d8a9bf52d45b8feac2584c7738c12cf63b",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x41e537c46cc0e2f82aa69107cd72573f585602d8",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0xa5b7ae7654d5041c28cb621ee93397394c7aee6c",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0xd1485762dd5256b99530b6b07ab9d20c8d31b605",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x7506b33817b57f686e37b87b5d4c5c93fdef4cff",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x1947267c49c3629c5ed59c88c411e8cf28c4d2af",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x1bf0c2541f820e775182832f06c0b7fc27a25f67",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0xb8ae474af3b91c8143303723618b31683b52e9c8",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x267f344f5af0d85e95f253a2f250985a9fb9fca3",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x3f33f9f7e2d7cfbcbdf8ea8b870a6e3d449664c2",
+    "address": "0x781fb7f6d845e3be129289833b04d43aa8558c42",
     "guess": "polygon",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
   },
@@ -55,27 +10,22 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
   },
   {
+    "address": "0xfd06859a671c21497a2eb8c5e3fea48de924d6c8",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0x3f33f9f7e2d7cfbcbdf8ea8b870a6e3d449664c2",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0xa5b7ae7654d5041c28cb621ee93397394c7aee6c",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
     "address": "0x1cfe584af3db05c7f39d60e458a87a8b2f6b5d8c",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x2476bb905e3d94acd7b402b3d70d411eeb6ace82",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0xa8c2e5b31d1f3fb6c000bd49355d091f71e7c866",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x781fb7f6d845e3be129289833b04d43aa8558c42",
-    "guess": "polygon",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
-  },
-  {
-    "address": "0x9eacb622c6ef9c2f0fa5f1fda58a8702eb8132d8",
     "guess": "polygon",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
   },
@@ -85,12 +35,62 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
   },
   {
+    "address": "0x2476bb905e3d94acd7b402b3d70d411eeb6ace82",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0xb8ae474af3b91c8143303723618b31683b52e9c8",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0x1947267c49c3629c5ed59c88c411e8cf28c4d2af",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0x7506b33817b57f686e37b87b5d4c5c93fdef4cff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0x41e537c46cc0e2f82aa69107cd72573f585602d8",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0xa932e0d8a9bf52d45b8feac2584c7738c12cf63b",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0xd1485762dd5256b99530b6b07ab9d20c8d31b605",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0xa8c2e5b31d1f3fb6c000bd49355d091f71e7c866",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0x267f344f5af0d85e95f253a2f250985a9fb9fca3",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
+    "address": "0x9eacb622c6ef9c2f0fa5f1fda58a8702eb8132d8",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
+  },
+  {
     "address": "0x8513df298cab92cafba1bae394420b7150aa40a5",
     "guess": "polygon",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
   },
   {
-    "address": "0xfd06859a671c21497a2eb8c5e3fea48de924d6c8",
+    "address": "0x1bf0c2541f820e775182832f06c0b7fc27a25f67",
     "guess": "polygon",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-blue/index.js"
   }

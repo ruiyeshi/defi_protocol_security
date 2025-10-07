@@ -1,11 +1,11 @@
 [
   {
-    "address": "0x552b9e4bae485c4b7f540777d7d25614cdb84773",
+    "address": "0xcfa5ae7c2ce8fadc6426c1ff872ca45378fb7cf3",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/lendle-pooled-markets/index.js"
   },
   {
-    "address": "0xcfa5ae7c2ce8fadc6426c1ff872ca45378fb7cf3",
+    "address": "0x552b9e4bae485c4b7f540777d7d25614cdb84773",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/lendle-pooled-markets/index.js"
   },

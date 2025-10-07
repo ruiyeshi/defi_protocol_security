@@ -15,12 +15,12 @@
     "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
   },
   {
-    "address": "0x159df6b7689437016108a019fd5bef736bac692b",
+    "address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
   },
   {
-    "address": "0x111ae3e5bc816a5e63c2da97d0aa3886519e0cd5",
+    "address": "0x159df6b7689437016108a019fd5bef736bac692b",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/aries-markets/index.js"
   }

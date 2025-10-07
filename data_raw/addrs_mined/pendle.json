@@ -1,321 +1,6 @@
 [
   {
-    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xfab894a4df458237fe75ac82bb0682f8cd4a0155",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x3d4e7f52efafb9e0c70179b688fc3965a75bcfea",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xbeb5d47a3f720ec0a390d04b4d41ed7d9688bc7f",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xa26da78fe6c8d4ba2f1779fd36aed994a8a50bee",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xfffe5fc3e511ce11df20684aec435a3e2b7d8136",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x64ad5d9b082cfc8223dc842e6eb3a0b1b072881f",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xd836c78bef9847af68d951279c6b5df95af5b5a8",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xaf2c034c764d53005cc6cbc092518112cbd652bb",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x72283a76a0ddbb63c713f911f8568440f0b77804",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x4f30a9d41b80ecc5b94306ab4364951ae3170210",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x8b758d7fd0fc58fca8caa5e53af2c7da5f5f8de1",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x189564397643d9e6173a002f1ba98da7d40a0fa6",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb3c6772f341ad234fa41f8c4f981cf4489dfa6e9",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x11b9346eefa301e278f246d857c0a6edfbf97fb4",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x5910b40343e51422af27705d4783cbf408017d90",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xa94b02abe193e372100f667526b2c45118a681a6",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xfc3468da89cb5bdf893242ece0324b51ea6482c6",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x588dc0dd7c8be073e9da79307e023f1f756f06c6",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x47aa8d126cf5031cc68449f678edb28d61c72724",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x071dc669be57c1b3053f746db20cb3bf54383aea",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x80228b1c8799efa30f99f4a6fdfd2b2652b86e30",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x309d8cf8f7c3340b50ff0ef457075a3c5792203f",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x82922e6fbe83547c5e2e0229815942a2108e4624",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xabced2a62fd308bd1b98085c13df74b685140c0b",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xfe60eec35e3c4aad1e69f10957ad0a7d3cfc6cea",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x8fcb1783bf4b71a51f702af0c266729c4592204a",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x808507121b80c02388fad14726482e061b8da827",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x4b16d95ddf1ae4fe8227ed7b7e80cf13275e61c9",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xa660c9aaa46b696df01768e1d2d88ce2d5293778",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x5444070c9252bc6162a78fcff66cf8dcc3e729b8",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x4c5be0fea74c33455f81c85561146bdaf09633da",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x0d8a21f2ea15269b7470c347083ee1f85e6a723b",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x010a0288af52ed61e32674d82bbc7ddbfa9a1324",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xecc5748b1ff6b23f284ec81e8bf034409961d8dc",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb0aa68d8a0d56ae7276ab9e0e017965a67320c60",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x3483194ac09097463cb426d8c0fc31c1476212f9",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x5f973e06a59d0bafe464faf36d5b3b06e075c543",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x76a16d9325e9519ef1819a4e7d16b168956f325f",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x79c05da47dc20ff9376b2f7dbf8ae0c994c3a0d0",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xab30397316d06572968d068d16f1e611c46474e2",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x75db58793f3943d84716fcac1ac3258169e8d319",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x2c09fd74e80ce12bebbc8f56fab8633ea41c2bcc",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x2c80d72af9ab0bb9d98f607c817c6f512dd647e6",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x9c2082216e15b2fb32ee0648052b483f29db5ad3",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x1ef8d200e0b4127c5e1183670eab37676fedf579",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x9e382e5f78b06631e4109b5d48151f2b3f326df0",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x7d1e8650abd5f8363d63dc7ab838cec8c726dd38",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xe55e3b62005a2035d48ac0c41a5a9c799f04892c",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb69da28b6b5ddf0fd4fee4823a3ffd2243a13c92",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x31fc01529419ee9623afc5b65d7d72102d116e90",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x8315bcbc2c5c1ef09b71731ab3827b0808a2d6bd",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb7e446ff1a2eeea8cd07331c7e06b0276d0b06b7",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x94a7432b811e29128964fba993f159928744e7c7",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xbfd6b497dca3e5d1fa4bbd52996d400980c29eb7",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x1a14f2964664b9d7e45df70d09fe4007615e31c2",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x3e2737eb1b513bcee93a2144204d22695b272215",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x7d2ac45124f35260c8e7fdb0231c28655281672a",
+    "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
@@ -325,102 +10,27 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xa06634be609153b77355bfd09f9d59345939c59b",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb26c86330fc7f97533051f2f8cd0a90c2e82b5ee",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x07c87cfe096c417212eab4152d365f0f7dc6fce4",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x944d1727d0b656f497e74044ff589871c330334f",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x72972b21ce425cfd67935e07c68e84300ce3f40f",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x9e2ccb276ae94f58e430f248e494bc2d6aed8620",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xfb0e378b3ed6d7f8b73230644d945e28fd7f7b03",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x7552f903e33db53a86167c1e74f0e082bd0740d5",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
     "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
+    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86",
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x322d6c69048330247165231eb7848a5c80a48878",
+    "address": "0x808507121b80c02388fad14726482e061b8da827",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x2f16b22c839fa995375602562ba5dd15a22d349d",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xb124c4e18a282143d362a066736fd60d22393ef4",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x4556c4488cc16d5e9552cc1a99a529c1392e4fe9",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x07282f2ceebd7a65451fcd268b364300d9e6d7f5",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xd1f377b881010cb97ab0890a5ef908c45bcf13f9",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x2aa0bec34deeb6987c118ce353d14eea6def24ce",
+    "address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
@@ -430,27 +40,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x33d3071cfa7404a406edb5826a11620282021745",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x685d32f394a5f03e78a1a0f6a91b4e2bf6f52cfe",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0xd0788af7a613b81f437a51b96594a6387c7329b1",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
-    "guess": "avalanche",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
-  },
-  {
-    "address": "0x224d395e9e123bc9c37bff8bcd845562d5232713",
+    "address": "0x4b16d95ddf1ae4fe8227ed7b7e80cf13275e61c9",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
@@ -460,17 +50,167 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x80aae49b1142e2f135033829a1b647b1636c1506",
+    "address": "0x8b758d7fd0fc58fca8caa5e53af2c7da5f5f8de1",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0xbf682bd31a615123d28d611b38b0ae3d2b675c2c",
+    "address": "0x0d8a21f2ea15269b7470c347083ee1f85e6a723b",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0x82db765c214c1aab16672058a3c22b12f6a42cd0",
+    "address": "0x2c80d72af9ab0bb9d98f607c817c6f512dd647e6",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x4556c4488cc16d5e9552cc1a99a529c1392e4fe9",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x72972b21ce425cfd67935e07c68e84300ce3f40f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb124c4e18a282143d362a066736fd60d22393ef4",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x4c5be0fea74c33455f81c85561146bdaf09633da",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x1ef8d200e0b4127c5e1183670eab37676fedf579",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x33d3071cfa7404a406edb5826a11620282021745",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x75db58793f3943d84716fcac1ac3258169e8d319",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb0aa68d8a0d56ae7276ab9e0e017965a67320c60",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xa06634be609153b77355bfd09f9d59345939c59b",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xbfd6b497dca3e5d1fa4bbd52996d400980c29eb7",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x47aa8d126cf5031cc68449f678edb28d61c72724",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x9e382e5f78b06631e4109b5d48151f2b3f326df0",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x8315bcbc2c5c1ef09b71731ab3827b0808a2d6bd",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x944d1727d0b656f497e74044ff589871c330334f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb26c86330fc7f97533051f2f8cd0a90c2e82b5ee",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x79c05da47dc20ff9376b2f7dbf8ae0c994c3a0d0",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x72283a76a0ddbb63c713f911f8568440f0b77804",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x3483194ac09097463cb426d8c0fc31c1476212f9",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x76a16d9325e9519ef1819a4e7d16b168956f325f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x5444070c9252bc6162a78fcff66cf8dcc3e729b8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x2f16b22c839fa995375602562ba5dd15a22d349d",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb69da28b6b5ddf0fd4fee4823a3ffd2243a13c92",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x07c87cfe096c417212eab4152d365f0f7dc6fce4",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xfb0e378b3ed6d7f8b73230644d945e28fd7f7b03",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x071dc669be57c1b3053f746db20cb3bf54383aea",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xa660c9aaa46b696df01768e1d2d88ce2d5293778",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xa26da78fe6c8d4ba2f1779fd36aed994a8a50bee",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x94a7432b811e29128964fba993f159928744e7c7",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x31fc01529419ee9623afc5b65d7d72102d116e90",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xfc3468da89cb5bdf893242ece0324b51ea6482c6",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
@@ -480,12 +220,272 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
-    "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+    "address": "0x07282f2ceebd7a65451fcd268b364300d9e6d7f5",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x010a0288af52ed61e32674d82bbc7ddbfa9a1324",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x8fcb1783bf4b71a51f702af0c266729c4592204a",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xe55e3b62005a2035d48ac0c41a5a9c799f04892c",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x3d4e7f52efafb9e0c70179b688fc3965a75bcfea",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x322d6c69048330247165231eb7848a5c80a48878",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xbf682bd31a615123d28d611b38b0ae3d2b675c2c",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x189564397643d9e6173a002f1ba98da7d40a0fa6",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x685d32f394a5f03e78a1a0f6a91b4e2bf6f52cfe",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xab30397316d06572968d068d16f1e611c46474e2",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x309d8cf8f7c3340b50ff0ef457075a3c5792203f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x2c09fd74e80ce12bebbc8f56fab8633ea41c2bcc",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xaf2c034c764d53005cc6cbc092518112cbd652bb",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xbeb5d47a3f720ec0a390d04b4d41ed7d9688bc7f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x82922e6fbe83547c5e2e0229815942a2108e4624",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x82db765c214c1aab16672058a3c22b12f6a42cd0",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x5f973e06a59d0bafe464faf36d5b3b06e075c543",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xd1f377b881010cb97ab0890a5ef908c45bcf13f9",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x588dc0dd7c8be073e9da79307e023f1f756f06c6",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x9c2082216e15b2fb32ee0648052b483f29db5ad3",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x5910b40343e51422af27705d4783cbf408017d90",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xfab894a4df458237fe75ac82bb0682f8cd4a0155",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xd836c78bef9847af68d951279c6b5df95af5b5a8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x7552f903e33db53a86167c1e74f0e082bd0740d5",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x80aae49b1142e2f135033829a1b647b1636c1506",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x3e2737eb1b513bcee93a2144204d22695b272215",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x11b9346eefa301e278f246d857c0a6edfbf97fb4",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xa94b02abe193e372100f667526b2c45118a681a6",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x1a14f2964664b9d7e45df70d09fe4007615e31c2",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x9e2ccb276ae94f58e430f248e494bc2d6aed8620",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x7d2ac45124f35260c8e7fdb0231c28655281672a",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xd0788af7a613b81f437a51b96594a6387c7329b1",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xfe60eec35e3c4aad1e69f10957ad0a7d3cfc6cea",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x224d395e9e123bc9c37bff8bcd845562d5232713",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x2aa0bec34deeb6987c118ce353d14eea6def24ce",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xfffe5fc3e511ce11df20684aec435a3e2b7d8136",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xecc5748b1ff6b23f284ec81e8bf034409961d8dc",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xabced2a62fd308bd1b98085c13df74b685140c0b",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x7d1e8650abd5f8363d63dc7ab838cec8c726dd38",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb7e446ff1a2eeea8cd07331c7e06b0276d0b06b7",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
   {
     "address": "0xd5736ba0be93c99a10e2264e8e4ebd54633306f8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x80228b1c8799efa30f99f4a6fdfd2b2652b86e30",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x64ad5d9b082cfc8223dc842e6eb3a0b1b072881f",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0xb3c6772f341ad234fa41f8c4f981cf4489dfa6e9",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
+  },
+  {
+    "address": "0x4f30a9d41b80ecc5b94306ab4364951ae3170210",
     "guess": "avalanche",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/contracts.json"
   },
@@ -500,203 +500,168 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v1.js"
   },
   {
-    "address": "0x02adf72d5d06a9c92136562eb237c07696833a84",
-    "guess": "arbitrum",
+    "address": "0x992ec6a490a4b7f256bd59e63746951d98b29be9",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0x27b1dacd74688af24a64bd3c9c1b143118740784",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x7d20e644d2a9e149e5be9be9ad2ab243a7835d37",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x17f100fb4be2707675c6439468d38249dd993d58",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x28de02ac3c3f5ef427e55c321f73fdc7f192e8e4",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0x1a6fcc85557bc4fb7b534ed835a03ef056552d52",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x2719e657ec3b3cbe521a18e640ca55799836376f",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xdc9b87e5efd6ca2beaa33dde9c544e1e98345de4",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xc40febf5a33b8c92b187d9be0fd3fe0ac2e4b07c",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x73be47237f12f36203823bac9a4d80dc798b7015",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x2bea6bfd8fbff45aa2a893eb3b6d85d10efcc70e",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x4a2b38b9cbd83c86f261a4d64c243795d4d44abc",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x44a2ddf5339ffde8c23af4099a64def59b11b128",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xfee31a6ec6ebefa0b5a594bf5b1139e3c6faa0fb",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0x3d75bd20c983edb5fd218a1b7e0024f1056c7a2f",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xd9f5e9589016da862d2abce980a5a5b99a94f3e8",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x166ae5f55615b65bbd9a2496e98d4e4d78ca15bd",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xd228ec1f7d4313fe321fab511a872475d07f5ba6",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x70c1138b54ba212776d3a9d29b6160c54c31cd5d",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x59968008a703dc13e6beaeced644bdce4ee45d13",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0x6fcf753f2c67b83f7b09746bbc4fa0047b35d050",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x2fcb47b58350cd377f94d3821e7373df60bd9ced",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xcb02435716b0143d4ac1bdf370302d619e714126",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x5d1735b8e33bae069708cea245066de1a12cd38d",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x8a09574b0401a856d89d1b583ee22e8cb0c5530b",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0x992ec6a490a4b7f256bd59e63746951d98b29be9",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
-  },
-  {
-    "address": "0xca274a44a52241c1a8efb9f84bf492d8363929fc",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0xf5a7de2d276dbda3eef1b62a9e718eff4d29ddc8",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0x04eb6b56ff53f457c8e857ca8d4fbc8d9a531c0c",
-    "guess": "arbitrum",
+    "address": "0x2fcb47b58350cd377f94d3821e7373df60bd9ced",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0x7c7f73f7a320364dbb3c9aaa9bccd402040ee0f9",
-    "guess": "arbitrum",
+    "address": "0xd9f5e9589016da862d2abce980a5a5b99a94f3e8",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0xd29e76c6f15ada0150d10a1d3f45accd2098283b",
-    "guess": "arbitrum",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x2bea6bfd8fbff45aa2a893eb3b6d85d10efcc70e",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0xc40febf5a33b8c92b187d9be0fd3fe0ac2e4b07c",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x7d20e644d2a9e149e5be9be9ad2ab243a7835d37",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x7c7f73f7a320364dbb3c9aaa9bccd402040ee0f9",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
     "address": "0x5ec2ae0afdec891e7702344dc2a31c636b3627eb",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0x888888888889758f76e7103c6cbf23abbf58f946",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x70c1138b54ba212776d3a9d29b6160c54c31cd5d",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x04eb6b56ff53f457c8e857ca8d4fbc8d9a531c0c",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x5d1735b8e33bae069708cea245066de1a12cd38d",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x17f100fb4be2707675c6439468d38249dd993d58",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x4a2b38b9cbd83c86f261a4d64c243795d4d44abc",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   },
   {
-    "address": "0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/pendle/index.js"
+    "address": "0x73be47237f12f36203823bac9a4d80dc798b7015",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x02adf72d5d06a9c92136562eb237c07696833a84",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0xd228ec1f7d4313fe321fab511a872475d07f5ba6",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0xca274a44a52241c1a8efb9f84bf492d8363929fc",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0xcb02435716b0143d4ac1bdf370302d619e714126",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x59968008a703dc13e6beaeced644bdce4ee45d13",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0xfee31a6ec6ebefa0b5a594bf5b1139e3c6faa0fb",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x8a09574b0401a856d89d1b583ee22e8cb0c5530b",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x2719e657ec3b3cbe521a18e640ca55799836376f",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0xdc9b87e5efd6ca2beaa33dde9c544e1e98345de4",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x44a2ddf5339ffde8c23af4099a64def59b11b128",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x28de02ac3c3f5ef427e55c321f73fdc7f192e8e4",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
+  },
+  {
+    "address": "0x166ae5f55615b65bbd9a2496e98d4e4d78ca15bd",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pendle/v2.js"
   }
 ]

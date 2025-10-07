@@ -1,57 +1,57 @@
 [
   {
-    "address": "0xdcfd98a5681722df0d93fc11b9205f757576a427",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
-  },
-  {
-    "address": "0xf70f54cefdcd3c8f011865685ff49fb80a386a34",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
-  },
-  {
     "address": "0xe2fc85bfb48c4cf147921fbe110cf92ef9f26f94",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
-  },
-  {
-    "address": "0x7e586fbaf3084c0be7ab5c82c04ffd7592723153",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
-  },
-  {
-    "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   },
   {
     "address": "0x12fd502e2052cafb41eccc5b596023d9978057d6",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   },
   {
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "address": "0x7e586fbaf3084c0be7ab5c82c04ffd7592723153",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   },
   {
     "address": "0xc15697f61170fc3bb4e99eb7913b4c7893f64f13",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   },
   {
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   },
   {
-    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "address": "0xf70f54cefdcd3c8f011865685ff49fb80a386a34",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
+  },
+  {
+    "address": "0xdcfd98a5681722df0d93fc11b9205f757576a427",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   },
   {
     "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/stream-finance/index.js"
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
+  },
+  {
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
+  },
+  {
+    "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stream-finance/index.js"
   }
 ]

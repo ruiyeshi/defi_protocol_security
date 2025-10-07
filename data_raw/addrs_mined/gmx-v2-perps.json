@@ -1,37 +1,37 @@
 [
   {
-    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
-  },
-  {
-    "address": "0x73ba021acf4bb6741e82690ddb821e7936050f8c",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
-  },
-  {
     "address": "0xf60becbba223eea9495da3f606753867ec10d139",
     "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
-  },
-  {
-    "address": "0x2f0b22339414aded7d5f06f9d604c7ff5b2fe3f6",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
-  },
-  {
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
   },
   {
     "address": "0xfd70de6b91282d8017aa4e741e9ae325cab992d8",
     "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
+  },
+  {
+    "address": "0x73ba021acf4bb6741e82690ddb821e7936050f8c",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
+  },
+  {
+    "address": "0x2f0b22339414aded7d5f06f9d604c7ff5b2fe3f6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
+  },
+  {
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
   },
   {
     "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
     "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/gmx-v2-perps/index.js"
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
+  },
+  {
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/search:gmx-v2-perps/index.js"
   }
 ]

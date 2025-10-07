@@ -1,42 +1,42 @@
 [
   {
-    "address": "0xb77f1a8cb126d8567f226f990f84e2f698cc30f8",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
-  },
-  {
-    "address": "0xb827e91c5cd4d6aca2fc0cd93a07db61896af40b",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
-  },
-  {
-    "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
-  },
-  {
-    "address": "0x6bd93ee39bcc7b9baba122c2ba65246e4347bbf9",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
-  },
-  {
-    "address": "0x392fca63e58c1870fbec04eb6518a75703dd2954",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
-  },
-  {
     "address": "0x6a89228055c7c28430692e342f149f37462b478b",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
-  },
-  {
-    "address": "0x4bab31d6c557f8285eccb5167095147a36d9bafa",
-    "guess": "arbitrum",
+    "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
   },
   {
     "address": "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51",
-    "guess": "arbitrum",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
+  },
+  {
+    "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
+  },
+  {
+    "address": "0xb827e91c5cd4d6aca2fc0cd93a07db61896af40b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
+  },
+  {
+    "address": "0x392fca63e58c1870fbec04eb6518a75703dd2954",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
+  },
+  {
+    "address": "0x4bab31d6c557f8285eccb5167095147a36d9bafa",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
+  },
+  {
+    "address": "0x6bd93ee39bcc7b9baba122c2ba65246e4347bbf9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
+  },
+  {
+    "address": "0xb77f1a8cb126d8567f226f990f84e2f698cc30f8",
+    "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/spectra-v2/index.js"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "address": "0xd3a8c0b9fd44fd25a49289c631e3ac45689281f2",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/evaa-protocol/getPrices.js"
+  },
+  {
     "address": "0x2c21cabdaa89739de16bde7bc44e86401fac334a",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/evaa-protocol/getPrices.js"
@@ -11,11 +16,6 @@
   },
   {
     "address": "0xf9a0769954b4430bca95149fb3d876deb7799d8f",
-    "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/evaa-protocol/getPrices.js"
-  },
-  {
-    "address": "0xd3a8c0b9fd44fd25a49289c631e3ac45689281f2",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/evaa-protocol/getPrices.js"
   }

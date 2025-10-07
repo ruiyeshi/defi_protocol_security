@@ -2,6 +2,6 @@
   {
     "address": "0x5481bf8d3946e6a3168640c1d7523eb59f055a29",
     "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/hyperlend-pooled/index.js"
+    "context": "DefiLlama/yield-server/search:hyperlend-pooled/index.js"
   }
 ]

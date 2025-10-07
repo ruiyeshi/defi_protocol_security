@@ -1,11 +1,16 @@
 [
   {
-    "address": "0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e",
+    "address": "0x7fb0d63e84d847569ca75a6cdba283ba1401f9f6",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
   },
   {
-    "address": "0x5743aec1f06e896544d1638e0febd15098855cb5",
+    "address": "0x86ccfbec579d491e9b37354187dd48a1a9c7c1e7",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
+  },
+  {
+    "address": "0x9271a5c684330b2a6775e96b3c140fc1dc3c89be",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
   },
@@ -25,17 +30,12 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
   },
   {
-    "address": "0x9271a5c684330b2a6775e96b3c140fc1dc3c89be",
+    "address": "0x5743aec1f06e896544d1638e0febd15098855cb5",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
   },
   {
-    "address": "0x86ccfbec579d491e9b37354187dd48a1a9c7c1e7",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
-  },
-  {
-    "address": "0x7fb0d63e84d847569ca75a6cdba283ba1401f9f6",
+    "address": "0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/hyperdrive-hl/index.js"
   }

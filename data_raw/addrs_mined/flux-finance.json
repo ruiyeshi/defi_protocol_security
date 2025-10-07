@@ -1,11 +1,11 @@
 [
   {
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "address": "0x95af143a021df745bc78e845b54591c53a8b3a51",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/flux-finance/index.js"
   },
   {
-    "address": "0x95af143a021df745bc78e845b54591c53a8b3a51",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/flux-finance/index.js"
   }

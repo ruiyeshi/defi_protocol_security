@@ -10,32 +10,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/superlend/index.js"
   },
   {
-    "address": "0x49c6ed3ca10db9b36515da2052085dfb8b4863d3",
-    "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
-  },
-  {
-    "address": "0x6e9c1f88a960fe63387eb4b71bc525a9313d8461",
-    "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
-  },
-  {
-    "address": "0xd4efe420526ee7d819398b324e35cace9aa79f9c",
-    "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
-  },
-  {
-    "address": "0x193d899fa6755af844f1760530adf99b66f73154",
-    "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
-  },
-  {
-    "address": "0xd5cca8591d67180b9031f521d1858161918102f4",
-    "guess": null,
-    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
-  },
-  {
-    "address": "0x4d4d4fd27367894a1fa91e19576db99826267ecf",
+    "address": "0x9f9384ef6a1a76ae1a95df483be4b0214fda0ef9",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
   },
@@ -45,7 +20,17 @@
     "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
   },
   {
-    "address": "0x9f9384ef6a1a76ae1a95df483be4b0214fda0ef9",
+    "address": "0x193d899fa6755af844f1760530adf99b66f73154",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
+  },
+  {
+    "address": "0xd4efe420526ee7d819398b324e35cace9aa79f9c",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
+  },
+  {
+    "address": "0x49c6ed3ca10db9b36515da2052085dfb8b4863d3",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
   },
@@ -55,7 +40,22 @@
     "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
   },
   {
+    "address": "0x4d4d4fd27367894a1fa91e19576db99826267ecf",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
+  },
+  {
     "address": "0x9b8132c65008c300f60fb4b91ebb5bd710c0c8a4",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
+  },
+  {
+    "address": "0xd5cca8591d67180b9031f521d1858161918102f4",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
+  },
+  {
+    "address": "0x6e9c1f88a960fe63387eb4b71bc525a9313d8461",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/superlend/constants.js"
   }

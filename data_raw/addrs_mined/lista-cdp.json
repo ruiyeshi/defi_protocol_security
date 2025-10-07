@@ -1,117 +1,22 @@
 [
   {
-    "address": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x55d398326f99059ff775485246999027b3197955",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0xc6f28a668b7c18f921ccba4adc3d8db72bff0fe2",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x26c5e01524d2e6280a48f2c50ff6de7e52e9611c",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x92d8c63e893685cced567b23916a8726b0cef3fe",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x7c1cca5b25fa0bc9af9275fb53cba89dc172b878",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x1346b618dc92810ec74163e4c27004c921d446a5",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0xf9c4ff105803a77ecb5dae300871ad76c2794fa4",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x6c813d1d114d0cabf3f82f9e910bc29fe7f96451",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x4510aa2b3efd13bbfd78c9bfde764f224ecc7f50",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x7dc91cbd6cb5a3e6a95eed713aa6bf1d987146c8",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x581fa684d0ec11ccb46b1d92f1f24c8a3f95c0ca",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x80137510979822322193fc997d400d5a6c747bf7",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/config.js"
-  },
-  {
-    "address": "0x787bdeaa29a253e40feb35026c3d05c18cbca7b3",
+    "address": "0xb68443ee3e828bad1526b3e0bdf2dfc6b1975ec4",
     "guess": "bsc",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/index.js"
-  },
-  {
-    "address": "0x33a34eab3ee892d40420507b820347b1ca2201c4",
-    "guess": "bsc",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/index.js"
+    "context": "DefiLlama/yield-server/search:lista-cdp/index.js"
   },
   {
     "address": "0x873339a8214657175d9b128ddd57a2f2c23256fa",
     "guess": "bsc",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/index.js"
+    "context": "DefiLlama/yield-server/search:lista-cdp/index.js"
   },
   {
-    "address": "0xb68443ee3e828bad1526b3e0bdf2dfc6b1975ec4",
+    "address": "0x787bdeaa29a253e40feb35026c3d05c18cbca7b3",
     "guess": "bsc",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-cdp/index.js"
+    "context": "DefiLlama/yield-server/search:lista-cdp/index.js"
+  },
+  {
+    "address": "0x33a34eab3ee892d40420507b820347b1ca2201c4",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:lista-cdp/index.js"
   }
 ]

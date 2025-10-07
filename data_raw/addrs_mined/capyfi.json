@@ -1,6 +1,6 @@
 [
   {
-    "address": "0x0b9af1fd73885ad52680a1aeaa7a3f17ac702afa",
+    "address": "0x123abe3a273fdbcec7fc0ebedc05aaef4ee63060",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
   },
@@ -10,7 +10,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
   },
   {
-    "address": "0xaad91abe333c4536ffbf02b83dabab49c9aa23ed",
+    "address": "0x0b9af1fd73885ad52680a1aeaa7a3f17ac702afa",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
   },
@@ -30,7 +30,7 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
   },
   {
-    "address": "0x123abe3a273fdbcec7fc0ebedc05aaef4ee63060",
+    "address": "0xaad91abe333c4536ffbf02b83dabab49c9aa23ed",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/capyfi/index.js"
   }

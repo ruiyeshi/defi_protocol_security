@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "address": "0x3d0e678776e4287befb0449d344d195ad1a2c418",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/search:rollx/index.js"
+  },
+  {
+    "address": "0xa67998d867cd4b64fe9ecc1549341f1d86389c0f",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/search:rollx/index.js"
+  },
+  {
+    "address": "0x823e0f1e91f9851529ce90c23e144203a59ef40a",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/search:rollx/index.js"
+  }
+]

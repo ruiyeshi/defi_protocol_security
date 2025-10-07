@@ -1,37 +1,37 @@
 [
   {
-    "address": "0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
+    "address": "0xfc21d6d146e6086b8359705c8b28512a983db0cb",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
   },
   {
     "address": "0x2a002054a06546bb5a264d57a81347e23af91d18",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
-  },
-  {
-    "address": "0xfc21d6d146e6086b8359705c8b28512a983db0cb",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
-  },
-  {
-    "address": "0x4449524543542d535041524b2d44414900000000",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
-  },
-  {
-    "address": "0x56072c95faa701256059aa122697b133aded9279",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
   },
   {
     "address": "0x0650caf159c5a49f711e8169d4336ecb9b950275",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
   },
   {
     "address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/sparklend/index.js"
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
+  },
+  {
+    "address": "0x56072c95faa701256059aa122697b133aded9279",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
+  },
+  {
+    "address": "0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
+  },
+  {
+    "address": "0x4449524543542d535041524b2d44414900000000",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:sparklend/index.js"
   }
 ]

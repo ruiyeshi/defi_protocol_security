@@ -3,10 +3,5 @@
     "address": "0x8f73b65b4caaf64fba2af91cc5d4a2a1318e5d8c",
     "guess": "bsc",
     "context": "DefiLlama/DefiLlama-Adapters/projects/lista-lending/index.js"
-  },
-  {
-    "address": "0xfceb31a79f71ac9cbdcf853519c1b12d379edc46",
-    "guess": "bsc",
-    "context": "DefiLlama/yield-server/src/adaptors/lista-lending/index.js"
   }
 ]

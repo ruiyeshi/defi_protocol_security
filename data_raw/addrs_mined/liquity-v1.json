@@ -2,16 +2,16 @@
   {
     "address": "0xa39739ef8b0231dbfa0dcda07d7e29faabcf4bb2",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v1/index.js"
+    "context": "DefiLlama/yield-server/search:liquity-v1/index.js"
   },
   {
     "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v1/index.js"
+    "context": "DefiLlama/yield-server/search:liquity-v1/index.js"
   },
   {
     "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v1/index.js"
+    "context": "DefiLlama/yield-server/search:liquity-v1/index.js"
   }
 ]

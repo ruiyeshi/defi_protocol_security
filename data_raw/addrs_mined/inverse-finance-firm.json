@@ -1,16 +1,11 @@
 [
   {
-    "address": "0xc3dfb88ee5301cecf05761fb2728064e5b641524",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/inverse-finance-firm/index.js"
-  },
-  {
-    "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/inverse-finance-firm/index.js"
-  },
-  {
     "address": "0xad038eb671c44b853887a7e32528fab35dc5d710",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/inverse-finance-firm/index.js"
+  },
+  {
+    "address": "0xc3dfb88ee5301cecf05761fb2728064e5b641524",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/inverse-finance-firm/index.js"
   },
@@ -20,28 +15,8 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/inverse-finance-firm/index.js"
   },
   {
-    "address": "0x08d23468a467d2bb86fae0e32f247a26c7e2e994",
+    "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/inverse-finance-firm/index.js"
-  },
-  {
-    "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/inverse-finance-firm/index.js"
-  },
-  {
-    "address": "0x826bbeb1dbd9aa36cd44538cc45dcf9e93bda574",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/inverse-finance-firm/index.js"
-  },
-  {
-    "address": "0x545c963eb523199969cf0298395eeadce514b691",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/inverse-finance-firm/index.js"
-  },
-  {
-    "address": "0xb45ad160634c528cc3d2926d9807104fa3157305",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/inverse-finance-firm/index.js"
+    "context": "DefiLlama/DefiLlama-Adapters/projects/inverse-finance-firm/index.js"
   }
 ]

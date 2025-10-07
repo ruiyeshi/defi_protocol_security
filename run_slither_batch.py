@@ -1,71 +1,113 @@
-#!/usr/bin/env python3
-# /Users/ruiyeshi/defi_protocol_security/run_slither_batch.py
-# -*- coding: utf-8 -*-
-
-import os, json, subprocess, logging
+import os
+import json
+import csv
+import subprocess
 import pandas as pd
+from datetime import datetime
 from pathlib import Path
-from tqdm import tqdm
 
-ROOT = Path(__file__).resolve().parent
-LOGS = ROOT/"logs"; LOGS.mkdir(exist_ok=True)
-logging.basicConfig(filename=LOGS/"slither_run.log", level=logging.INFO, format="%(asctime)s | %(message)s")
+# ========= CONFIG ==========
+BASE_DIR = Path("/Users/ruiyeshi/defi_protocol_security")
+SRC_DIR = BASE_DIR / "data_raw" / "contracts" / "source_codes"
+OUT_JSON = BASE_DIR / "data_raw" / "slither_raw" / "slither_detailed.json"
+OUT_CSV = BASE_DIR / "data_raw" / "slither_raw" / "slither_vulnerabilities_detailed.csv"
+INPUT_CSV = BASE_DIR / "data_raw" / "contracts" / "verified_contracts_expanded.csv"
+# ===========================
 
-CONTRACTS = ROOT/"data_raw/contracts/verified_contracts_expanded.csv"
-SCAN_DIR = ROOT/"data_raw/scans_slither"; SCAN_DIR.mkdir(parents=True, exist_ok=True)
-OUT_CSV = ROOT/"outputs/slither_vulnerabilities.csv"; OUT_CSV.parent.mkdir(parents=True, exist_ok=True)
+# ensure directories exist
+OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+SRC_DIR.mkdir(parents=True, exist_ok=True)
 
-def run_slither_on_source(addr: str, src_file: Path, out_json: Path):
-    if out_json.exists(): 
-        return True
-    cmd = ["slither", str(src_file), "--json", str(out_json)]
+# DASP10/SWC mapping (simplified)
+CATEGORY_MAP = {
+    "reentrancy-eth": "Reentrancy",
+    "uninitialized-state": "Uninitialized Variable",
+    "shadowing-local": "Shadowing",
+    "tx-origin": "Authentication Flaw",
+    "controlled-delegatecall": "Delegatecall Injection",
+    "integer-overflow": "Arithmetic Issue",
+    "arbitrary-send": "Access Control",
+    "unchecked-call": "Unchecked External Call",
+    "unprotected-upgrade": "Access Control",
+    "unprotected-selfdestruct": "Denial of Service"
+}
+
+def run_slither_on_contract(contract_path):
+    """Run slither on a single Solidity file and return parsed JSON findings"""
     try:
-        subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-        return out_json.exists()
+        result = subprocess.run(
+            ["slither", contract_path, "--json", "-"],
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, timeout=120
+        )
+        data = json.loads(result.stdout) if result.stdout.strip() else None
+        return data
     except Exception as e:
-        logging.info(f"slither fail {addr}: {e}")
-        return False
+        print(f"⚠️ Error running Slither on {contract_path}: {e}")
+        return None
+
+def parse_slither_output(protocol, address, slither_json):
+    """Extract detector-level details"""
+    rows = []
+    if not slither_json or "results" not in slither_json:
+        return rows
+
+    for issue in slither_json["results"].get("detectors", []):
+        detector = issue.get("check", "")
+        impact = issue.get("impact", "")
+        confidence = issue.get("confidence", "")
+        elements = ", ".join([el.get("name", "") for el in issue.get("elements", [])])
+        source_mapping = ", ".join(
+            [f"{el.get('source_mapping', {}).get('filename', '')}:{el.get('source_mapping', {}).get('lines', '')}"
+             for el in issue.get("elements", [])]
+        )
+        category = CATEGORY_MAP.get(detector, "Other")
+
+        rows.append({
+            "protocol_name": protocol,
+            "contract_address": address,
+            "detector": detector,
+            "category": category,
+            "impact": impact,
+            "confidence": confidence,
+            "elements": elements,
+            "source_mapping": source_mapping,
+            "timestamp": datetime.utcnow().isoformat()
+        })
+    return rows
 
 def main():
-    if not CONTRACTS.exists():
-        raise SystemExit(f"Missing {CONTRACTS}")
-    df = pd.read_csv(CONTRACTS)
-    if "source_code" not in df.columns:
-        raise SystemExit("contracts CSV has no source_code column (expected from fetch step)")
-    agg=[]
-    for _,r in tqdm(df.iterrows(), total=len(df), desc="Slither"):
-        addr=r["contract_address"]; chain=r["chain"]
-        src = (ROOT/"data_raw/sources"); src.mkdir(parents=True, exist_ok=True)
-        sol_file = src/f"{addr}.sol"
-        if not sol_file.exists(): sol_file.write_text(r["source_code"] or "pragma solidity ^0.8.0;")
-        out_json = SCAN_DIR/f"{addr}.json"
-        ok = run_slither_on_source(addr, sol_file, out_json)
-        if not ok: continue
-        # parse
-        try:
-            data=json.loads(out_json.read_text())
-            for issue in data.get("results",{}).get("detectors",[]):
-                fam = issue.get("check","unknown")
-                sev = issue.get("impact","unknown")
-                agg.append({
-                    "chain": chain, "contract_address": addr,
-                    "slither_family": fam, "severity": sev
-                })
-        except Exception: pass
+    print("🚀 Running detailed Slither batch analysis...")
+    df = pd.read_csv(INPUT_CSV)
 
-    if agg:
-        out=pd.DataFrame(agg)
-        # summarize per contract
-        piv = (out
-               .assign(cnt=1)
-               .pivot_table(index=["chain","contract_address"],
-                            columns="slither_family", values="cnt", aggfunc="sum", fill_value=0)
-               .reset_index())
-        piv["slither_total"]=piv.drop(columns=["chain","contract_address"]).sum(axis=1)
-        piv.to_csv(OUT_CSV, index=False)
-        print(f"✅ Saved Slither results → {OUT_CSV} ({len(piv)} contracts)")
-    else:
-        print("⚠️ No Slither findings (or parse errors).")
+    if "address" not in df.columns:
+        raise ValueError("Missing 'address' column in verified_contracts_expanded.csv")
 
-if __name__=="__main__":
+    all_findings = []
+    n_total = len(df)
+
+    for i, row in df.iterrows():
+        protocol = row.get("slug", "")
+        address = row["address"]
+
+        contract_path = SRC_DIR / f"{address}.sol"
+        if not contract_path.exists():
+            print(f"⚠️ Missing source: {contract_path}")
+            continue
+
+        print(f"🔍 [{i+1}/{n_total}] Analyzing {protocol} ({address[:8]}...)")
+        slither_json = run_slither_on_contract(str(contract_path))
+        findings = parse_slither_output(protocol, address, slither_json)
+        all_findings.extend(findings)
+
+    print(f"✅ Finished analysis for {len(all_findings)} findings.")
+
+    # Save outputs
+    with open(OUT_JSON, "w") as f:
+        json.dump(all_findings, f, indent=2)
+
+    pd.DataFrame(all_findings).to_csv(OUT_CSV, index=False)
+    print(f"🧾 Saved detailed Slither JSON → {OUT_JSON}")
+    print(f"📊 Saved detailed CSV summary → {OUT_CSV}")
+
+if __name__ == "__main__":
     main()

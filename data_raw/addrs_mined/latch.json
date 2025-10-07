@@ -1,10 +1,5 @@
 [
   {
-    "address": "0xa116b4680b52973426b6d2a92dcc972b8dbcb46f",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/latch/index.js"
-  },
-  {
     "address": "0xfe606eec8eb8e6ad8e8654968a15650f5331a023",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/latch/index.js"
@@ -15,12 +10,17 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/latch/index.js"
   },
   {
+    "address": "0xa116b4680b52973426b6d2a92dcc972b8dbcb46f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/latch/index.js"
+  },
+  {
     "address": "0x97ca296139f114bf3040cf05d05c240b770c627e",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/latch/index.js"
   },
   {
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "address": "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/latch/index.js"
   },
@@ -30,17 +30,17 @@
     "context": "DefiLlama/yield-server/src/adaptors/latch/index.js"
   },
   {
-    "address": "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/latch/index.js"
-  },
-  {
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/latch/index.js"
   },
   {
     "address": "0x5d3920ccc068039e5b6fe680cab7aa09fe8e053c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/latch/index.js"
+  },
+  {
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/latch/index.js"
   }

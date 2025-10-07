@@ -1,16 +1,11 @@
 [
   {
+    "address": "0xa84f9f42df222da491571fb70ccc11ac84b7f29d",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
+  },
+  {
     "address": "0xee66d8c40282439f2ee855d8a3666fb73257d349",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
-  },
-  {
-    "address": "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
-    "guess": null,
-    "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
-  },
-  {
-    "address": "0x872b347cd764d46c127ffefbcab605fff3f3a48c",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
   },
@@ -20,12 +15,17 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
   },
   {
-    "address": "0xa84f9f42df222da491571fb70ccc11ac84b7f29d",
+    "address": "0x872b347cd764d46c127ffefbcab605fff3f3a48c",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
   },
   {
     "address": "0x7a6888c85edba8e38f6c7e0485212da602761c08",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
+  },
+  {
+    "address": "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
     "guess": null,
     "context": "DefiLlama/DefiLlama-Adapters/projects/btcfi-cdp/index.js"
   }

@@ -1,18 +1,28 @@
 [
   {
-    "address": "0xd6e9d27c75afd88ad24cd5edccdc76fd2fc3a751",
-    "guess": "ethereum",
+    "address": "0x8c22ebc8f9b96ceac97ea21c53f3b27ef2f45e57",
+    "guess": "arbitrum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/fraxlend/index.js"
   },
   {
-    "address": "0x8c22ebc8f9b96ceac97ea21c53f3b27ef2f45e57",
-    "guess": "ethereum",
+    "address": "0xd6e9d27c75afd88ad24cd5edccdc76fd2fc3a751",
+    "guess": "arbitrum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/fraxlend/index.js"
   },
   {
     "address": "0x0bd2ffbcb0a17de2d5a543ec2d47c772eead316d",
-    "guess": "ethereum",
+    "guess": "arbitrum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/fraxlend/index.js"
+  },
+  {
+    "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
+  },
+  {
+    "address": "0x5d6e79bcf90140585ce88c7119b7e43caaa67044",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
   },
   {
     "address": "0x38488de975b77dc1b0d4b8569f596f6fd6ca0b92",
@@ -25,22 +35,12 @@
     "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
   },
   {
-    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
-  },
-  {
     "address": "0xaa913c26dd7723fcae9dbd2036d28171a56c6251",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
   },
   {
-    "address": "0x5d6e79bcf90140585ce88c7119b7e43caaa67044",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
-  },
-  {
-    "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
     "guess": "ethereum",
     "context": "DefiLlama/yield-server/src/adaptors/fraxlend/index.js"
   }

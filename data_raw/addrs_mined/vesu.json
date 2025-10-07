@@ -1,116 +1,6 @@
 [
   {
-    "address": "0x5c678347b60b99b72f245399ba27900b5fc126af",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x3de03fafe6120a3d21dc77e101de62e165b2cdfe",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x27f2bb7fb0e232befc5aa865ee27ef82839d5fad",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x023a312ece4a275e38c9fc169e3be7b5613a0cb5",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x04be8945e61dc3e19ebadd1579a6bd53b262f51b",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x7bafdbd2939cc3f3526c587cb0092c0d9a93b07b",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x5c03e7e0ccfe79c634782388eb1e6ed4e8e2a013",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x7f135b4df21183991e9ff88380c2686dd8634fd4",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x43a35c1425a0125ef8c171f1a75c6f31ef8648ed",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x02019e47a0bc54ea6b4853c6123ffc8158ea3ae2",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x04daa17763b286d1e59b97c283c0b8c949994c36",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x580f3dc564a7b82f21d40d404b3842d490ae7205",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x036834a40984312f7f7de8d31e3f6305b325389e",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x498edfaf50ca5855666a700c25dd629d577eb9af",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x2e06b705191dbe90a3fbaad18bb005587548048b",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x2906e07881acceff9e4ae4d9dacbcd4239217e51",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x6febb313566c48e30614ddab092856a9ab35b80f",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x52fb52363939c3aa848f8f4ac28f0a51379f8d1b",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x73702fce24aba36da1eac539bd4bae62d4d6a767",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x59ae5a41c9ae05eae8d136ad3d7dc48e5a0947c1",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x2eef0c13b10b487ea5916b54c0a7f98ec43fb304",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x7dd3c80de9fcc5545f0cb83678826819c79619ed",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
-  },
-  {
-    "address": "0x3a8416bf20d036df5b1cf3447630a2e1cb04685f",
+    "address": "0x000d8d6dfec4d33bfb6895de9f3852143a17c6f9",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
@@ -120,7 +10,52 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
   {
-    "address": "0x3976cac265a12609934089004df458ea29c776d7",
+    "address": "0x7f135b4df21183991e9ff88380c2686dd8634fd4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x52fb52363939c3aa848f8f4ac28f0a51379f8d1b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x2e06b705191dbe90a3fbaad18bb005587548048b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x6febb313566c48e30614ddab092856a9ab35b80f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x59ae5a41c9ae05eae8d136ad3d7dc48e5a0947c1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x7bafdbd2939cc3f3526c587cb0092c0d9a93b07b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x27f2bb7fb0e232befc5aa865ee27ef82839d5fad",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x5c678347b60b99b72f245399ba27900b5fc126af",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x2906e07881acceff9e4ae4d9dacbcd4239217e51",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x3de03fafe6120a3d21dc77e101de62e165b2cdfe",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
@@ -130,7 +65,37 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
   {
-    "address": "0x6a567e68c805323525fe1649adb80b03cddf92c2",
+    "address": "0x2eef0c13b10b487ea5916b54c0a7f98ec43fb304",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x3976cac265a12609934089004df458ea29c776d7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x3a8416bf20d036df5b1cf3447630a2e1cb04685f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x73702fce24aba36da1eac539bd4bae62d4d6a767",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x5c03e7e0ccfe79c634782388eb1e6ed4e8e2a013",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x498edfaf50ca5855666a700c25dd629d577eb9af",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x02019e47a0bc54ea6b4853c6123ffc8158ea3ae2",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
@@ -140,17 +105,52 @@
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
   {
-    "address": "0x000d8d6dfec4d33bfb6895de9f3852143a17c6f9",
+    "address": "0x04daa17763b286d1e59b97c283c0b8c949994c36",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
   },
   {
-    "address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd",
+    "address": "0x036834a40984312f7f7de8d31e3f6305b325389e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x023a312ece4a275e38c9fc169e3be7b5613a0cb5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x6a567e68c805323525fe1649adb80b03cddf92c2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x580f3dc564a7b82f21d40d404b3842d490ae7205",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x43a35c1425a0125ef8c171f1a75c6f31ef8648ed",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x7dd3c80de9fcc5545f0cb83678826819c79619ed",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x04be8945e61dc3e19ebadd1579a6bd53b262f51b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vesu/index.js"
+  },
+  {
+    "address": "0x4e06e04b8d624d039aa1c3ca8e0aa9e21dc1ccba",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/vesu/index.js"
   },
   {
-    "address": "0x4e06e04b8d624d039aa1c3ca8e0aa9e21dc1ccba",
+    "address": "0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd",
     "guess": null,
     "context": "DefiLlama/yield-server/src/adaptors/vesu/index.js"
   }

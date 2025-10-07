@@ -2,16 +2,16 @@
   {
     "address": "0x486af39519b4dc9a7fccd318217352830e8ad9b4",
     "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/benqi-lending/index.js"
+    "context": "DefiLlama/yield-server/search:benqi-lending/index.js"
   },
   {
     "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
     "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/benqi-lending/index.js"
+    "context": "DefiLlama/yield-server/search:benqi-lending/index.js"
   },
   {
     "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
     "guess": "avalanche",
-    "context": "DefiLlama/yield-server/src/adaptors/benqi-lending/index.js"
+    "context": "DefiLlama/yield-server/search:benqi-lending/index.js"
   }
 ]

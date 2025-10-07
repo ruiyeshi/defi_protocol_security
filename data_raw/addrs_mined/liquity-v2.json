@@ -1,92 +1,12 @@
 [
   {
-    "address": "0xf949982b91c8c61e952b3ba942cbbfaef5386684",
-    "guess": "ethereum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/liquity-v2/index.js"
-  },
-  {
     "address": "0xd99de73b95236f69a559117ecd6f519af780f3f7",
     "guess": "ethereum",
     "context": "DefiLlama/DefiLlama-Adapters/projects/liquity-v2/index.js"
   },
   {
-    "address": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
+    "address": "0xf949982b91c8c61e952b3ba942cbbfaef5386684",
     "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x0b995602b5a797823f92027e8b40c0f2d97aff1c",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x5cc5cefd034fdc4728d487a72ca58a410cddcd6b",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xa351d5b9cda9eb518727c3ceff02208915fda60d",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x5721cbbd64fc7ae3ef44a0a3f9a790a9264cf9bf",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x9502b7c397e9aa22fe9db7ef7daf21cd2aebe56b",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xae78736cd615f374d3085123a210448e74fc6393",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xd796e1648526400386cc4d12fa05e5f11e6a22a1",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xd4558240d50c2e219a21c9d25afd513bb6e5b1a0",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x94c1610a7373919bd9cfb09ded19894601f4a1be",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xd442e41019b7f5c4dd78f50dc03726c446148695",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x9074d72cc82dad1e13e454755aa8f144c479532f",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0x531a8f99c70d6a56a7cee02d6b4281650d7919a0",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
-  },
-  {
-    "address": "0xeb5a8c825582965f1d84606e078620a84ab16afe",
-    "guess": "ethereum",
-    "context": "DefiLlama/yield-server/src/adaptors/liquity-v2/index.js"
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquity-v2/index.js"
   }
 ]

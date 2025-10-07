@@ -1,222 +1,117 @@
 [
   {
-    "address": "0xb125e6687d4313864e53df431d5425969c15eb2f",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x606174f62cd968d8e684c645080fa694c1d7786e",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x784efeb622244d2348d4f2522f8860b96fbece89",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x46e6b214b524310239732d51387075e0e70970bf",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0xaeb318360f27748acb200ce616e389a6c9409a07",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x4006ed4097ee51c09a04c3b0951d28ccf19e6dfe",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x3d0bb1ccab520a66e607822fc55bc921738fafe3",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0xf25212e676d1f7f89cd72ffee66158f541246445",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x2e44e174f7d53f0212823acc11c01a11d58c5bcb",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x6f7d514bbd4aff3bcd1140b7344b32f063dee486",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0xa5edbdd9646f8dff606d7448e414884c7d905dca",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x5d409e56d886231adaf00c8775665ad0f9897b56",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0xb2f97c1bd3bf02f5e74d13f02e3e26f93d77ce44",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0x2c7118c4c88b9841fcf839074c26ae8f035f2921",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0xc0afdbd1ceb621ef576ba969ce9d4cef78dbc0c0",
-    "guess": "arbitrum",
-    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
-  },
-  {
-    "address": "0xd98be00b5d27fc98112bde293e487f8d4ca57d07",
-    "guess": "arbitrum",
+    "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
     "address": "0xa17581a9e3356d9a858b789d68b4d866e593ae94",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0x6c987dde50db1dcdd32cd4175778c2a291978e2a",
-    "guess": "arbitrum",
+    "address": "0x3afdc9bca9213a35503b077a6072f3d0d5ab0840",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
-    "guess": "arbitrum",
+    "address": "0x3d0bb1ccab520a66e607822fc55bc921738fafe3",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0xe36a30d249f7761327fd973001a32010b521b6fd",
-    "guess": "arbitrum",
+    "address": "0x5d409e56d886231adaf00c8775665ad0f9897b56",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0xa5edbdd9646f8dff606d7448e414884c7d905dca",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0x6f7d514bbd4aff3bcd1140b7344b32f063dee486",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0xd98be00b5d27fc98112bde293e487f8d4ca57d07",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0xf25212e676d1f7f89cd72ffee66158f541246445",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0xaeb318360f27748acb200ce616e389a6c9409a07",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0x46e6b214b524310239732d51387075e0e70970bf",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0xb125e6687d4313864e53df431d5425969c15eb2f",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0x784efeb622244d2348d4f2522f8860b96fbece89",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0xb2f97c1bd3bf02f5e74d13f02e3e26f93d77ce44",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
+  },
+  {
+    "address": "0x2e44e174f7d53f0212823acc11c01a11d58c5bcb",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
     "address": "0x995e394b8b2437ac8ce61ee0bc610d617962b214",
-    "guess": "arbitrum",
+    "guess": "base",
     "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
+    "address": "0xe36a30d249f7761327fd973001a32010b521b6fd",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
+    "address": "0x606174f62cd968d8e684c645080fa694c1d7786e",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
+    "address": "0x4006ed4097ee51c09a04c3b0951d28ccf19e6dfe",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
+    "address": "0xc0afdbd1ceb621ef576ba969ce9d4cef78dbc0c0",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
+    "address": "0x2c7118c4c88b9841fcf839074c26ae8f035f2921",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   },
   {
-    "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x643e160a3c3e2b7eae198f0beb1bfd2441450e86",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x7e7d4467112689329f7e06571ed0e8cbad4910ee",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x4200000000000000000000000000000000000006",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
-  },
-  {
-    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-    "guess": "arbitrum",
-    "context": "DefiLlama/yield-server/src/adaptors/compound-v3/index.js"
+    "address": "0x6c987dde50db1dcdd32cd4175778c2a291978e2a",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/compound-v3/index.js"
   }
 ]

@@ -1,44 +1,36 @@
-# fetch_protocols_full.py (fixed version)
+# fetch_protocols_full.py
 import requests
 import pandas as pd
 
 print("🌍 Fetching top DeFi protocols from DeFiLlama...")
+
+# Pull full list of protocols
 url = "https://api.llama.fi/protocols"
 r = requests.get(url).json()
 df = pd.DataFrame(r)
 
-# Normalize names for fuzzy matching
-df["category"] = df["category"].str.lower()
+# --- Step 1. Define your 5 target DeFi categories ---
+target_categories = ["Dexes", "Lending", "Bridges", "Stablecoins", "Derivatives"]
 
-# Define our 5 major research categories and their aliases
-category_aliases = {
-    "dex": ["dex", "dexes", "exchange", "swap"],
-    "lending": ["lending", "loan", "money market"],
-    "bridges": ["bridge", "bridges", "cross-chain"],
-    "stablecoins": ["stablecoin", "stablecoins"],
-    "derivatives": ["derivative", "derivatives", "perpetual", "options"]
-}
+# --- Step 2. Filter relevant protocols only ---
+df = df[df["category"].isin(target_categories)]
 
-# Assign normalized category
-def normalize_category(cat):
-    for key, aliases in category_aliases.items():
-        if any(alias in str(cat) for alias in aliases):
-            return key.capitalize()
-    return None
+# --- Step 3. Keep essential metadata ---
+df = df[["name", "category", "chains", "tvl", "url"]]
+df = df[df["tvl"] > 0]  # remove inactive protocols
+df = df.sort_values("tvl", ascending=False)
 
-df["normalized_category"] = df["category"].apply(normalize_category)
-df = df[df["normalized_category"].notna()]
-
-# Select top 10 per category by TVL
-df_top = (
-    df.groupby("normalized_category", group_keys=False)
-      .apply(lambda x: x.sort_values("tvl", ascending=False).head(10))
+# --- Step 4. Sample top 10 per category (balanced sampling) ---
+df_balanced = (
+    df.groupby("category", group_keys=False)
+      .apply(lambda x: x.head(10))
+      .reset_index(drop=True)
 )
 
-# Export cleaned dataset
-df_out = df_top[["name", "normalized_category", "chain", "tvl"]]
-df_out.columns = ["protocol_name", "category", "chain", "tvl"]
+# --- Step 5. Rename and save ---
+df_balanced.columns = ["protocol_name", "category", "chain", "tvl", "project_url"]
+df_balanced.to_csv("data_raw/contracts/verified_contracts.csv", index=False)
 
-df_out.to_csv("data_raw/contracts/verified_contracts.csv", index=False)
-print(f"✅ Saved verified_contracts.csv with {len(df_out)} protocols across {df_out['category'].nunique()} categories.")
-print(df_out['category'].value_counts())
+print(f"✅ Saved verified_contracts.csv with {len(df_balanced)} protocols "
+      f"across {df_balanced['category'].nunique()} categories.")
+print(df_balanced.groupby('category').size())
