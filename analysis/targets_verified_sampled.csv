@@ -1,0 +1,2177 @@
+slug,name,category,chain_main,chains,max_tvl,tvl_bin,ever_exploited,is_exploited_eventlevel,ever_audited,any_top_firm,audit_firm_count,contract_address,compiler_version,verified_source_found
+alvey-dex,Alvey Dex,Dexs,ALV,ALV,0.0,Q1,0,0,0,0,0,,,0
+acala-swap,Acala Swap,Dexs,Acala,Acala,0.0,Q1,0,0,0,0,0,,,0
+acala-dollar,Acala Dollar,CDP,Acala,Acala,0.0,Q1,0,0,0,0,0,,,0
+astra,Astra,Dexs,AirDAO,AirDAO,0.0,Q1,0,0,0,0,0,,,0
+kosmos,Kosmos,Yield,AirDAO,AirDAO,0.0,Q1,0,0,0,0,0,,,0
+firepotswap,FirepotSwap,Dexs,AirDAO,AirDAO,0.0,Q1,0,0,0,0,0,,,0
+airdao-hera-pool,AirDAO Hera pool,Chain,AirDAO,AirDAO,0.0,Q1,0,0,0,0,0,,,0
+harbor-liquid-staking,Harbor Liquid Staking,Liquid Staking,AirDAO,AirDAO,0.0,Q1,0,0,0,0,0,,,0
+alphpad,AlphPad,Launchpad,Alephium,Alephium,0.0,Q1,0,0,0,0,0,,,0
+opulous,Opulous,Farm,Algorand,Algorand;Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+xbacked,xBacked,CDP,Algorand,Algorand,0.0,Q1,0,0,0,0,0,,,0
+yieldly,Yieldly,Yield,Algorand,Algorand,0.0,Q1,0,0,0,0,0,,,0
+apechainstake,ApeChainStake,Yield,ApeChain,ApeChain,0.0,Q1,0,0,0,0,0,,,0
+mosquitos-finance,Mosquitos Finance,Yield,Aptos,Aptos,0.0,Q1,0,0,0,0,0,,,0
+thala-vethl,Thala veTHL,Liquid Staking,Aptos,Aptos,0.0,Q1,0,0,0,0,0,,,0
+bluemove-staking,BlueMove Staking,NFT Marketplace,Aptos,Aptos,0.0,Q1,0,0,0,0,0,,,0
+movegpt,MoveGPT,Launchpad,Aptos,Aptos,0.0,Q1,0,0,0,0,0,,,0
+tribe3,Tribe3,Derivatives,Arbitrum,Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+octopus-finance,Octopus Finance,Yield Aggregator,Arbitrum,Arbitrum,3.394267702222315e-05,Q1,0,0,0,0,0,,,0
+omicron,Omicron,Reserve Currency,Arbitrum,Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+strips-finance,Strips Finance,Derivatives,Arbitrum,Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+sohei,Sohei,Lending,Arbitrum,Arbitrum,2.0009900027717867e-06,Q1,0,0,0,0,0,,,0
+artexswap,ArtexSwap,Dexs,Artela,Artela,0.0,Q1,0,0,0,0,0,,,0
+valerian,Valerian,Yield,Astar,Astar,0.0,Q1,0,0,0,0,0,,,0
+astarfarm,AstarFarm,Gaming,Astar,Astar,0.0,Q1,0,0,0,0,0,,,0
+halotrade-evm,HaloTrade EVM,Dexs,Aura Network,Aura Network,0.8519272947864089,Q1,0,0,0,0,0,,,0
+bluebit,BlueBit,Yield Aggregator,Aurora,Aurora,0.0,Q1,0,0,0,0,0,,,0
+chronicle,Chronicle,Services,Aurora,Aurora,0.0,Q1,0,0,0,0,0,,,0
+smartpad,SmartPad,Launchpad,Aurora,Aurora;Ethereum;Polygon,0.0,Q1,0,0,0,0,0,,,0
+empyrean-dao,Empyrean DAO,Reserve Currency,Aurora,Aurora,0.0,Q1,0,0,0,0,0,,,0
+ora-finance,ORA Finance,Algo-Stables,Aurora,Aurora,0.0,Q1,0,0,0,0,0,,,0
+piggybank-dao,Piggybank DAO,Reserve Currency,Avalanche,Avalanche,6.6806942100000015e-16,Q1,0,0,0,0,0,,,0
+cesta-finance,Cesta Finance,Reserve Currency,Avalanche,Avalanche,0.0,Q1,0,0,0,0,0,,,0
+polar-bear-finance,Polar Bear Finance,Algo-Stables,Avalanche,Avalanche,0.0,Q1,0,0,0,0,0,,,0
+everestdao,EverestDAO,DAO Service Provider,Avalanche,Avalanche,0.0,Q1,0,0,0,0,0,,,0
+ice-dao,Ice DAO,Reserve Currency,Avalanche,Avalanche,0.0,Q1,0,0,0,0,0,,,0
+vaultwin,VaultWin,Gaming,Bahamut,Bahamut,0.5449099727921087,Q1,0,0,0,0,0,,,0
+vertex-perps,Vertex Perps,Derivatives,Base,Base;Avalanche;Mantle;Sei;Sonic;Abstract;Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+dragon-protocol,Dragon Protocol,Farm,Base,Base,0.0,Q1,0,0,0,0,0,,,0
+pod-finance,Pod Finance,Farm,Base,Base,0.0,Q1,0,0,0,0,0,,,0
+stakin,Stakin,Ponzi,Base,Base,2.4861656164882857e-10,Q1,0,0,0,0,0,,,0
+hackenai,HackenAI,Prediction Market,Base,Base,0.0,Q1,0,0,0,0,0,,,0
+beralis-v2,Beralis V2,Dexs,Berachain,Berachain,0.0251760665421244,Q1,0,0,0,0,0,,,0
+celeron,Celeron,Yield Aggregator,Berachain,Berachain;Mode,0.7720956792816605,Q1,0,0,0,0,0,,,0
+azex,AZEX,Derivatives,Berachain,Berachain;Unichain,0.0112228168156837,Q1,0,0,0,0,0,,,0
+beralis-v3,Beralis V3,Dexs,Berachain,Berachain,0.5558341001650016,Q1,0,0,0,0,0,,,0
+gyro,Gyro,Reserve Currency,Binance,Binance,0.0,Q1,0,0,0,0,0,,,0
+amesdefi,AmesDefi,Algo-Stables,Binance,Binance,0.0,Q1,0,0,0,0,0,,,0
+laika-ai,Laika AI,AI Agents,Binance,Binance,0.0,Q1,0,0,0,0,0,,,0
+grizzly-trade-perps,Grizzly Trade Perps,Derivatives,Binance,Binance,0.0,Q1,0,0,0,0,0,,,0
+bitindi-staking,Bitindi Staking,Liquid Staking,Binance,Binance;Bitindi,0.0,Q1,0,0,0,0,0,,,0
+pstake-btc,pSTAKE BTC,Restaked BTC,Bitcoin,Bitcoin,0.5374354753660533,Q1,0,0,0,0,0,,,0
+allobtc,alloBTC,Restaked BTC,Bitcoin,Bitcoin,0.4910731886080022,Q1,0,0,0,0,0,,,0
+brise-swap,Brise Swap,Dexs,Bitgert,Bitgert,0.045812072281278,Q1,0,0,0,0,0,,,0
+bitgert-swap,Bitgert Swap,Dexs,Bitgert,Bitgert,5.265138158858488e-05,Q1,0,0,0,0,0,,,0
+bitindi-dex,Bitindi Dex,Dexs,Bitindi,Bitindi,0.0,Q1,0,0,0,0,0,,,0
+xenwave,Xenwave,Dexs,Bitnet,Bitnet,0.0,Q1,0,0,0,0,0,,,0
+rockswap,Rockswap,Dexs,Bitrock,Bitrock,0.0,Q1,0,0,0,0,0,,,0
+rock-staking,Rock Staking,Staking Pool,Bitrock,Bitrock,0.0,Q1,0,0,0,0,0,,,0
+blinkswap,Blinkswap,Dexs,Blast,Blast,0.5208299541997887,Q1,0,0,0,0,0,,,0
+alien-finance,Alien Finance,Lending,Blast,Blast,0.0,Q1,0,0,0,0,0,,,0
+leaper-finance,Leaper Finance,Lending,Blast,Blast,0.2770140000000122,Q1,0,0,0,0,0,,,0
+lemonblast,LemonBlast,Farm,Blast,Blast,1.1336376902778916e-13,Q1,0,0,0,0,0,,,0
+blastbrrr,Blastbrrr,Farm,Blast,Blast,0.0,Q1,0,0,0,0,0,,,0
+shibui-dao,Shibui DAO,NFT Marketplace,Boba,Boba,0.0,Q1,0,0,0,0,0,,,0
+bananafarm,BananaFarm,Yield,Boba,Boba,0.0,Q1,0,0,0,0,0,,,0
+boneswap-bonerium,BoneSwap Bonerium,Dexs,Bone,Bone,0.0,Q1,0,0,0,0,0,,,0
+artura-finance,Artura Finance,Derivatives,Botanix,Botanix,0.0,Q1,0,0,0,0,0,,,0
+babyboom,BabyBoom,Launchpad,BounceBit,BounceBit,0.0292008725497666,Q1,0,0,0,0,0,,,0
+bouncebit-staking,BounceBit Staking,Farm,BounceBit,BounceBit,0.0,Q1,0,0,0,0,0,,,0
+club-quanto,Club Quanto,Derivatives,BounceBit,BounceBit,3.518524638018913e-09,Q1,0,0,0,0,0,,,0
+club-btcfi,Club BTCFi,Bridge,BounceBit,BounceBit,0.0,Q1,0,0,0,0,0,,,0
+club-musangking,Club MusangKing,Farm,BounceBit,BounceBit,0.0,Q1,0,0,0,0,0,,,0
+broswap,BroSwap,Dexs,CORE,CORE,1.161418115904562e-16,Q1,0,0,0,0,0,,,0
+oreswap,OreSwap,Dexs,CORE,CORE,0.6854251515022585,Q1,0,0,0,0,0,,,0
+agus,Agus,Dexs,CORE,CORE;Binance,0.039547708994777,Q1,0,0,0,0,0,,,0
+ignore-fud,Ignore Fud,Staking Pool,CORE,CORE,0.0,Q1,0,0,0,0,0,,,0
+waterloan,WaterLoan,Lending,CSC,CSC;smartBCH,0.0,Q1,0,0,0,0,0,,,0
+1155tech,1155Tech,NFT Marketplace,Canto,Canto,0.0,Q1,0,0,0,0,0,,,0
+cadence-protocol,Cadence Protocol,Derivatives,Canto,Canto,0.3837087218256728,Q1,0,0,0,0,0,,,0
+manifesto,Manifesto,Reserve Currency,Canto,Canto,0.0,Q1,0,0,0,0,0,,,0
+orcfax,Orcfax,Oracle,Cardano,Cardano,0.0,Q1,0,0,0,0,0,,,0
+adax-pro,ADAX Pro,Dexs,Cardano,Cardano,0.0,Q1,0,0,0,0,0,,,0
+tangent-protocol,Tangent Protocol,Yield,Cardano,Cardano,0.0,Q1,0,0,0,0,0,,,0
+world-mobile-token,World Mobile Token,Services,Cardano,Cardano,0.0,Q1,0,0,0,0,0,,,0
+iagon,Iagon,Services,Cardano,Cardano,0.0,Q1,0,0,0,0,0,,,0
+impactmarket,ImpactMarket,Yield,Celo,Celo,0.0,Q1,0,0,0,0,0,,,0
+truefeedback,TrueFeedBack,Gaming,Celo,Celo;Kava,0.0,Q1,0,0,0,0,0,,,0
+nodo,NODO,Prediction Market,Celo,Celo;Polygon;Avalanche;Binance;Base,0.8447894058784089,Q1,0,0,0,0,0,,,0
+immortal,Immortal,Reserve Currency,Celo,Celo,0.0,Q1,0,0,0,0,0,,,0
+talent-protocol-v1,Talent Protocol V1,SoFi,Celo,Celo,0.0083429187478856,Q1,0,0,0,0,0,,,0
+peppercoin,Peppercoin,Governance Incentives,Chiliz,Chiliz,0.0,Q1,0,0,0,0,0,,,0
+fan-token-staking,Fan Token Staking,Farm,Chiliz,Chiliz,0.0,Q1,0,0,0,0,0,,,0
+coti-treasury,COTI Treasury,Yield,Coti,Coti,0.0,Q1,0,0,0,0,0,,,0
+agile-finance,Agile Finance,Lending,Cronos,Cronos,0.0,Q1,0,0,0,0,0,,,0
+turtle-cronos,Turtle Cronos,Meme,Cronos,Cronos,0.0,Q1,0,0,0,0,0,,,0
+papparico-finance,Papparico Finance,Farm,Cronos,Cronos,0.0,Q1,0,0,0,0,0,,,0
+bank-of-cronos-ohm,Bank of Cronos OHM,Reserve Currency,Cronos,Cronos,0.0,Q1,0,0,0,0,0,,,0
+galatea-cash,Galatea Cash,Algo-Stables,Cronos,Cronos,0.0,Q1,0,0,0,0,0,,,0
+xfi-native-staking-protocol,XFI Native Staking Protocol,Staking Pool,CrossFi,CrossFi,0.0,Q1,0,0,0,0,0,,,0
+xapp,xApp,Staking Pool,CrossFi,CrossFi,0.0,Q1,0,0,0,0,0,,,0
+capricorn-finance,Capricorn Finance,Dexs,Cube,Cube,0.0,Q1,0,0,0,0,0,,,0
+dengendex,DengenDex,Dexs,Degen,Degen,0.0,Q1,0,0,0,0,0,,,0
+zenon-finance,Zenon Finance,Dexs,Degen,Degen,0.0,Q1,0,0,0,0,0,,,0
+frogswap-amm,Frogswap AMM,Dexs,Degen,Degen,0.0,Q1,0,0,0,0,0,,,0
+degenfund,DegenFund,Farm,Degen,Degen,0.0,Q1,0,0,0,0,0,,,0
+frogswap-farm,Frogswap Farm,Farm,Degen,Degen,0.0,Q1,0,0,0,0,0,,,0
+dexit-finance-swap,Dexit Finance Swap,Dexs,Dexit,Dexit,0.0,Q1,0,0,0,0,0,,,0
+corgi-finance,Corgi Finance,Yield Aggregator,Dogechain,Dogechain,0.0,Q1,0,0,0,0,0,,,0
+cowaii-cash,Cowaii Cash,Algo-Stables,Dogechain,Dogechain,0.0,Q1,0,0,0,0,0,,,0
+dragonfruit-protocol,Dragonfruit Protocol,Farm,Dogechain,Dogechain,0.0,Q1,0,0,0,0,0,,,0
+doge-shrek,Doge Shrek,Dexs,Dogechain,Dogechain,0.0,Q1,0,0,0,0,0,,,0
+donaswap-v2,DONASWAP V2,Dexs,Dogechain,Dogechain;Binance;Polygon;Base;CMP;Heco;CORE;Ethereum;Aurora;Palm;Fantom;Conflux;Avalanche;Kardia;Kava;Polygon zkEVM;Metis;Fuse;Linea;Celo;Flare;Kucoin;Arbitrum;ThunderCore;Astar;Moonbeam;Optimism;Moonriver;Fusion,1.0180186883660742,Q1,0,0,0,0,0,,,0
+obswap,OBSwap,Dexs,EOS,EOS,0.0887249939950513,Q1,0,0,0,0,0,,,0
+pizza,Pizza,Lending,EOS,EOS,0.0,Q1,0,0,0,0,0,,,0
+eos-evm-bridge,EOS EVM Bridge,Bridge,EOS,EOS,0.0,Q1,0,0,0,0,0,,,0
+ogx,OGX,Synthetics,EOS,EOS,0.0,Q1,0,0,0,0,0,,,0
+frogge.finance,Frogge.Finance,Dexs,EOS EVM,EOS EVM,0.0,Q1,0,0,0,0,0,,,0
+noah-swap,Noah Swap,Dexs,EOS EVM,EOS EVM,0.0,Q1,0,0,0,0,0,,,0
+jlswap,JLSwap,Dexs,EOS EVM,EOS EVM,0.0,Q1,0,0,0,0,0,,,0
+eoswap-finance,EOSWAP Finance,Dexs,EOS EVM,EOS EVM,0.0,Q1,0,0,0,0,0,,,0
+neutroswap,Neutroswap,Dexs,EOS EVM,EOS EVM,0.0,Q1,0,0,0,0,0,,,0
+sdex,Sdex,Dexs,ETHF,ETHF,0.0,Q1,0,0,0,0,0,,,0
+echswap,ECHSWAP,Dexs,Echelon,Echelon,0.0,Q1,0,0,0,0,0,,,0
+hatom-booster,Hatom Booster,Yield,Elrond,Elrond,0.0,Q1,0,0,0,0,0,,,0
+embr-bridge,Embr Bridge,Canonical Bridge,Embr,Embr,0.0,Q1,0,0,0,0,0,,,0
+mewfi,MewFi,Dexs,Ergo,Ergo,0.0,Q1,0,0,0,0,0,,,0
+ergopad,ErgoPad,Launchpad,Ergo,Ergo,0.0,Q1,0,0,0,0,0,,,0
+base-protocol,Base Protocol,Indexes,Ethereum,Ethereum,0.0,Q1,0,0,0,0,0,,,0
+civfund,CivFund,Yield,Ethereum,Ethereum,0.0,Q1,0,0,0,0,0,,,0
+synlev,SynLev,Synthetics,Ethereum,Ethereum,0.0,Q1,0,0,0,0,0,,,0
+houdini-swap,Houdini Swap,DEX Aggregator,Ethereum,Ethereum,0.0,Q1,0,0,0,0,0,,,0
+stand-cash,Stand Cash,Yield,Ethereum,Ethereum,0.0,Q1,0,0,0,0,0,,,0
+fliperino,Fliperino,Luck Games,EthereumPoW,EthereumPoW,0.4849924901179057,Q1,0,0,0,0,0,,,0
+paperdao,PaperDAO,Lending,EthereumPoW,EthereumPoW,0.1167216220107056,Q1,0,0,0,0,0,,,0
+ethwswap,EthwSwap,Dexs,EthereumPoW,EthereumPoW,0.0,Q1,0,0,0,0,0,,,0
+real-protocol,Real Protocol,CDP,EthereumPoW,EthereumPoW,0.0559998612273807,Q1,0,0,0,0,0,,,0
+hippowswap,HipPoWSwap,Dexs,EthereumPoW,EthereumPoW,0.0018120201804419,Q1,0,0,0,0,0,,,0
+earnmos,Earnmos,Yield Aggregator,Evmos,Evmos;Kava,0.0,Q1,0,0,0,0,0,,,0
+rosswap,RosSwap,Dexs,FSC,FSC,0.0,Q1,0,0,0,0,0,,,0
+2doge-finance,2Doge Finance,Algo-Stables,Fantom,Fantom,0.0,Q1,0,0,0,0,0,,,0
+bear-finance,Bear Finance,Yield,Fantom,Fantom,0.0,Q1,0,0,0,0,0,,,0
+pdollar,pDollar,Algo-Stables,Fantom,Fantom,0.0,Q1,0,0,0,0,0,,,0
+ester-finance,Ester Finance,Yield,Fantom,Fantom,0.0,Q1,0,0,0,0,0,,,0
+scranton-finance,Scranton Finance,Yield,Fantom,Fantom,0.7477854045289853,Q1,0,0,0,0,0,,,0
+themis-staking,Themis Staking,Reserve Currency,Filecoin,Filecoin,0.0,Q1,0,0,0,0,0,,,0
+teralend,Teralend,Lending,Flare,Flare,0.0,Q1,0,0,0,0,0,,,0
+oxiswap,OxiSwap,Dexs,Fuel,Fuel,0.3125041505807907,Q1,0,0,0,0,0,,,0
+marginx-perp,MarginX Perp,Derivatives,FunctionX,FunctionX,0.0,Q1,0,0,0,0,0,,,0
+ampere,Ampere,Algo-Stables,Fuse,Fuse,0.0,Q1,0,0,0,0,0,,,0
+fusefi-lending,Fusefi Lending,Lending,Fuse,Fuse,0.7036140635571464,Q1,0,0,0,0,0,,,0
+mirakle-defi,Mirakle Defi,Derivatives,Fuse,Fuse,0.0380251853072961,Q1,0,0,0,0,0,,,0
+genshiro,Genshiro,Lending,Genshiro,Genshiro,0.0,Q1,0,0,0,0,0,,,0
+darumadao,DarumaDAO,Reserve Currency,Godwoken,Godwoken,0.0,Q1,0,0,0,0,0,,,0
+firoza-finance,Firoza Finance,Lending,HAQQ,HAQQ,0.0,Q1,0,0,0,0,0,,,0
+hpdex,Hpdex,Dexs,HPB,HPB,0.0,Q1,0,0,0,0,0,,,0
+cheesedao,CheeseDAO,Reserve Currency,Harmony,Harmony,0.0,Q1,0,0,0,0,0,,,0
+comfy-money,Comfy Money,Algo-Stables,Harmony,Harmony,0.0,Q1,0,0,0,0,0,,,0
+unifi-staking,UniFi Staking,Staking Pool,Harmony,Harmony;Icon;Ontology;Tron;IoTeX,0.0,Q1,0,0,0,0,0,,,0
+euphoria,Euphoria,Reserve Currency,Harmony,Harmony,0.0072249481322661,Q1,0,0,0,0,0,,,0
+reverse,Reverse,Reserve Currency,Harmony,Harmony,0.0,Q1,0,0,0,0,0,,,0
+hfione,HFIone,Yield,Heco,Heco,0.0,Q1,0,0,0,0,0,,,0
+pilot-protocol,Pilot Protocol,Lending,Heco,Heco,0.0,Q1,0,0,0,0,0,,,0
+hswap,HSwap,Dexs,Heco,Heco,0.0,Q1,0,0,0,0,0,,,0
+back-finance,Back Finance,Yield,Heco,Heco,0.0,Q1,0,0,0,0,0,,,0
+minto,Minto,Yield,Heco,Heco;Binance,0.0,Q1,0,0,0,0,0,,,0
+bubbleswap-v2,Bubbleswap V2,Dexs,Hedera,Hedera,0.0,Q1,0,0,0,0,0,,,0
+tangent,Tangent,Dexs,Hedera,Hedera,0.0,Q1,0,0,0,0,0,,,0
+hliquity,HLiquity,CDP,Hedera,Hedera,4.7850516468693703e-05,Q1,0,0,0,0,0,,,0
+bubbleswap-v1,Bubbleswap V1,Dexs,Hedera,Hedera,0.0,Q1,0,0,0,0,0,,,0
+kea-credit,Kea Credit,RWA,Hedera,Hedera,0.0,Q1,0,0,0,0,0,,,0
+parallel-polkadot-crowdloan,Parallel Polkadot Crowdloan,Liquid Staking,Heiko,Heiko;Parallel,0.0,Q1,0,0,0,0,0,,,0
+parallel-polkadot-liquid-staking,Parallel Polkadot Liquid Staking,Liquid Staking,Heiko,Heiko;Parallel,0.0,Q1,0,0,0,0,0,,,0
+parallel-polkadot-daofi,Parallel Polkadot DAOfi,Payments,Heiko,Heiko;Parallel,0.0,Q1,0,0,0,0,0,,,0
+parallel-polkadot-amm,Parallel Polkadot AMM,Dexs,Heiko,Heiko;Parallel,0.0,Q1,0,0,0,0,0,,,0
+parallel-polkadot-lending,Parallel Polkadot Lending,Lending,Heiko,Heiko;Parallel,0.0,Q1,0,0,0,0,0,,,0
+puddingswap,PuddingSwap,Dexs,Hoo,Hoo,0.0,Q1,0,0,0,0,0,,,0
+ascent-exchange-v1,Ascent Exchange V1,Dexs,Horizen EON,Horizen EON,0.0,Q1,0,0,0,0,0,,,0
+ascent-exchange-v3,Ascent Exchange V3,Dexs,Horizen EON,Horizen EON,0.0,Q1,0,0,0,0,0,,,0
+yuzu-market,Yuzu Market,Lending,Horizen EON,Horizen EON,0.0,Q1,0,0,0,0,0,,,0
+helix-markets,Helix Markets,Dexs,ICP,ICP,0.0,Q1,0,0,0,0,0,,,0
+ninjavault,NinjaVault,Yield Aggregator,Injective,Injective,0.0,Q1,0,0,0,0,0,,,0
+ninjaroll,NinjaRoll,Luck Games,Injective,Injective,0.0,Q1,0,0,0,0,0,,,0
+interlay-staking,Interlay Staking,Liquid Staking,Interlay,Interlay,0.0,Q1,0,0,0,0,0,,,0
+iotex-monster-go,IoTeX Monster Go,Gaming,IoTeX,IoTeX,0.0,Q1,0,0,0,0,0,,,0
+know-to-earn,Know-To-Earn,Services,IoTeX,IoTeX,0.0,Q1,0,0,0,0,0,,,0
+starcrazy,StarCrazy,Gaming,IoTeX,IoTeX,0.0,Q1,0,0,0,0,0,,,0
+joltify-rwa,Joltify RWA,RWA Lending,Joltify,Joltify,-22495.78498080607,Q1,0,0,0,0,0,,,0
+wynd-lsd,WYND LSD,Liquid Staking,Juno,Juno,0.0,Q1,0,0,0,0,0,,,0
+junoswap,Junoswap,Dexs,Juno,Juno,0.0,Q1,0,0,0,0,0,,,0
+anedak,Anedak,Dexs,Kadena,Kadena,0.0,Q1,0,0,0,0,0,,,0
+babena,Babena,CDP,Kadena,Kadena,0.0,Q1,0,0,0,0,0,,,0
+kdswap,KDSwap,Dexs,Kadena,Kadena,0.0,Q1,0,0,0,0,0,,,0
+chips,Chips,RWA,Kadena,Kadena,0.0,Q1,0,0,0,0,0,,,0
+kdlaunch,KDLaunch,Launchpad,Kadena,Kadena,0.0,Q1,0,0,0,0,0,,,0
+karura-swap,Karura Swap,Dexs,Karura,Karura,0.0,Q1,0,0,0,0,0,,,0
+karura-dollar-(kusd),Karura Dollar (kUSD),Lending,Karura,Karura,0.0,Q1,0,0,0,0,0,,,0
+kperp-exchange,KPerp Exchange,Derivatives,Kava,Kava,0.0,Q1,0,0,0,0,0,,,0
+selfex,Selfex,Dexs,Kava,Kava,6.32922660136404e-10,Q1,0,0,0,0,0,,,0
+toreus,Toreus,Lending,Kava,Kava,1.106220609e-15,Q1,0,0,0,0,0,,,0
+kavacave,Kavacave,Yield,Kava,Kava,0.0,Q1,0,0,0,0,0,,,0
+stakerz,Stakerz,Yield Aggregator,Kava,Kava,0.0,Q1,0,0,0,0,0,,,0
+bridgekek,BridgeKek,Bridge,Kekchain,Kekchain;Ethereum,0.0,Q1,0,0,0,0,0,,,0
+frog-swap,Frog Swap,Dexs,Kekchain,Kekchain,0.0,Q1,0,0,0,0,0,,,0
+kekswap,KekSwap,Dexs,Kekchain,Kekchain,0.0,Q1,0,0,0,0,0,,,0
+swapscanner-dex,Swapscanner Dex,Dexs,Klaytn,Klaytn,0.0,Q1,0,0,0,0,0,,,0
+ignite-finance,Ignite Finance,Reserve Currency,Klaytn,Klaytn,0.0,Q1,0,0,0,0,0,,,0
+kumu-finance,Kumu Finance,Yield,Klaytn,Klaytn,0.326823677558172,Q1,0,0,0,0,0,,,0
+electrik-finance,Electrik Finance,Yield Aggregator,Klaytn,Klaytn,0.0,Q1,0,0,0,0,0,,,0
+zombie-network,Zombie Network,Yield,Klaytn,Klaytn,0.0,Q1,0,0,0,0,0,,,0
+kopi-dex,Kopi DEX,Dexs,Kopi,Kopi,0.0829670920391283,Q1,0,0,0,0,0,,,0
+wemix-on-kroma,WEMIX on Kroma,Liquid Staking,Kroma,Kroma,0.0,Q1,0,0,0,0,0,,,0
+prixmswap,Prixmswap,Dexs,Kroma,Kroma,0.0,Q1,0,0,0,0,0,,,0
+fuzion-bonds,Fuzion Bonds,Services,Kujira,Kujira,9.359265767919014e-07,Q1,0,0,0,0,0,,,0
+bow-leverage,Bow Leverage,Leveraged Farming,Kujira,Kujira,0.0,Q1,0,0,0,0,0,,,0
+universal-swaps,Universal Swaps,Dexs,LUKSO,LUKSO,0.0,Q1,0,0,0,0,0,,,0
+mateswap,MateSwap,Dexs,LaChain Network,LaChain Network,0.0019680565299573,Q1,0,0,0,0,0,,,0
+xweowns,xWeowns,Yield,Lachain,Lachain,0.0,Q1,0,0,0,0,0,,,0
+lachain-yield-market,Lachain Yield Market,Yield,Lachain,Lachain,0.0,Q1,0,0,0,0,0,,,0
+rocketswap,RocketSwap,Dexs,Lamden,Lamden,0.0,Q1,0,0,0,0,0,,,0
+linehub-perps,LineHub Perps,Derivatives,Linea,Linea,0.0,Q1,0,0,0,0,0,,,0
+bagful,Bagful,Yield Aggregator,Linea,Linea,0.0,Q1,0,0,0,0,0,,,0
+faet,FAET,Farm,Lisk,Lisk,0.0,Q1,0,0,0,0,0,,,0
+lunagens,Lunagens,Dexs,Lung,Lung,0.0,Q1,0,0,0,0,0,,,0
+candyswap,CandySwap,Dexs,MEER,MEER,0.0,Q1,0,0,0,0,0,,,0
+barnswap,BarnSwap,Dexs,MUUCHAIN,MUUCHAIN,0.0,Q1,0,0,0,0,0,,,0
+amet-finance,Amet Finance,Services,Manta,Manta;Polygon;Polygon zkEVM;Base,0.0,Q1,0,0,0,0,0,,,0
+muito-finance,Muito Finance,Yield Aggregator,Mantle,Mantle,0.4718917287770545,Q1,0,0,0,0,0,,,0
+usury-finance,Usury Finance,Lending,Mantle,Mantle;Sonic,1.0030249371409692,Q1,0,0,0,0,0,,,0
+reax-assets,Reax Assets,Synthetics,Mantle,Mantle,8.133451418938212e-06,Q1,0,0,0,0,0,,,0
+ferdyflip,FerdyFlip,Luck Games,Mantle,Mantle;Base;Avalanche,0.424411846152343,Q1,0,0,0,0,0,,,0
+reax-lending,Reax Lending,Lending,Mantle,Mantle,0.0529384713353918,Q1,0,0,0,0,0,,,0
+pu239,Pu239,Lending,Map,Map,0.6459758093152549,Q1,0,0,0,0,0,,,0
+lessgas,LessGas,Launchpad,Map,Map,0.0,Q1,0,0,0,0,0,,,0
+matstake,MatStake,Staking Pool,Matchain,Matchain,0.0,Q1,0,0,0,0,0,,,0
+dont-fomo,Dont FOMO,Farm,Matchain,Matchain,0.0,Q1,0,0,0,0,0,,,0
+merchant-finance,Merchant Finance,Lending,Merlin,Merlin;Linea,5.04e-06,Q1,0,0,0,0,0,,,0
+hera-finance,Hera Finance,Dexs,Metis,Metis,0.0,Q1,0,0,0,0,0,,,0
+peak-finance,Peak Finance,Algo-Stables,Metis,Metis,0.0,Q1,0,0,0,0,0,,,0
+maia-dao,Maia DAO,Yield,Metis,Metis;Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+hades-money,Hades Money,Algo-Stables,Metis,Metis,0.0,Q1,0,0,0,0,0,,,0
+oceanus,Oceanus,Algo-Stables,Metis,Metis,0.0,Q1,0,0,0,0,0,,,0
+milky-cow,Milky Cow,Algo-Stables,Milkomeda,Milkomeda,0.0,Q1,0,0,0,0,0,,,0
+adaswap,AdaSwap,Dexs,Milkomeda,Milkomeda,0.0,Q1,0,0,0,0,0,,,0
+occamx,OccamX,Dexs,Milkomeda,Milkomeda,0.0,Q1,0,0,0,0,0,,,0
+ravcube-finance,Ravcube Finance,Algo-Stables,Milkomeda,Milkomeda,0.0,Q1,0,0,0,0,0,,,0
+milko-farm,Milko Farm,Farm,Milkomeda,Milkomeda,0.0,Q1,0,0,0,0,0,,,0
+option-dance,Option Dance,Options,Mixin,Mixin,0.01,Q1,0,0,0,0,0,,,0
+modemax-perps-v2,ModeMax Perps V2,Derivatives,Mode,Mode,0.0,Q1,0,0,0,0,0,,,0
+athos-finance,Athos Finance,Derivatives,Moonbeam,Moonbeam,0.0,Q1,0,0,0,0,0,,,0
+chaotic-finance,Chaotic Finance,Derivatives,Moonriver,Moonriver,0.0,Q1,0,0,0,0,0,,,0
+rivrkitty,RivrKitty,Yield,Moonriver,Moonriver,0.0,Q1,0,0,0,0,0,,,0
+houses-of-rome,Houses of Rome,Reserve Currency,Moonriver,Moonriver,0.0007468355453413,Q1,0,0,0,0,0,,,0
+athena-money,Athena Money,Algo-Stables,Moonriver,Moonriver,0.0,Q1,0,0,0,0,0,,,0
+nileriver,Nileriver,Yield,Moonriver,Moonriver,0.0,Q1,0,0,0,0,0,,,0
+nudes,NUDES,Liquid Staking,NEO,NEO,0.0,Q1,0,0,0,0,0,,,0
+ghostmarket,GhostMarket,NFT Marketplace,NEO,NEO,0.0,Q1,0,0,0,0,0,,,0
+neko,NEKO,Farm,Near,Near,0.0,Q1,0,0,0,0,0,,,0
+octopus-network,Octopus Network,Restaking,Near,Near,0.0,Q1,0,0,0,0,0,,,0
+pembrock-finance,PembRock Finance,Yield,Near,Near,0.0,Q1,0,0,0,0,0,,,0
+jade-money,Jade Money,CDP,Neutron,Neutron,0.0,Q1,0,0,0,0,0,,,0
+quasarswap,QuasarSwap,Dexs,Nova Network,Nova Network,0.0,Q1,0,0,0,0,0,,,0
+nuls-pocm,NULS POCM,Services,Nuls,Nuls,0.0,Q1,0,0,0,0,0,,,0
+nuls,Nuls,Chain,Nuls,Nuls,0.0,Q1,0,0,0,0,0,,,0
+xensa,Xensa,Lending,OKExChain,OKExChain,0.0,Q1,0,0,0,0,0,,,0
+okc-liquid-staking,OKC Liquid Staking,Liquid Staking,OKExChain,OKExChain,0.0,Q1,0,0,0,0,0,,,0
+ssap,SSAP,Lending,Oasis,Oasis;CLV,1.003219546661836,Q1,0,0,0,0,0,,,0
+heraswap,Heraswap,Dexs,Onus,Onus,0.0,Q1,0,0,0,0,0,,,0
+omt-finance,OMT Finance,Derivatives,Onus,Onus,0.0,Q1,0,0,0,0,0,,,0
+defily-dex,Defily Dex,Dexs,Onus,Onus,0.0,Q1,0,0,0,0,0,,,0
+miaswap,MiaSwap,Dexs,Onus,Onus,0.0,Q1,0,0,0,0,0,,,0
+balloonswap,BalloonSwap,Dexs,Op_Bnb,Op_Bnb,1.763026498214373e-15,Q1,0,0,0,0,0,,,0
+pyswap,PySwap,Dexs,Op_Bnb,Op_Bnb,0.0,Q1,0,0,0,0,0,,,0
+white-protocol,White Protocol,Farm,Op_Bnb,Op_Bnb,0.0001893434365302,Q1,0,0,0,0,0,,,0
+tempest-capital,Tempest Capital,Lending,Optimism,Optimism;Base,0.972585515186958,Q1,0,0,0,0,0,,,0
+neuron,neuron,Bridge,Optimism,Optimism;Base;Linea;Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+opx-finance,OPX Finance,Derivatives,Optimism,Optimism,0.0,Q1,0,0,0,0,0,,,0
+cthulhu.finance,Cthulhu.Finance,Yield Aggregator,Optimism,Optimism,0.0588177428820368,Q1,0,0,0,0,0,,,0
+superswap-v2,SuperSwap V2,Dexs,Optimism,Optimism,0.0086465166113085,Q1,0,0,0,0,0,,,0
+mystic-finance-myplume,Mystic Finance myPLUME,Liquid Staking,Plume Mainnet,Plume Mainnet,1.035637139430985,Q1,0,0,0,0,0,,,0
+hades-swap,Hades Swap,Dexs,Polis,Polis,0.0,Q1,0,0,0,0,0,,,0
+infy-protocol,Infy Protocol,NFT Lending,Polygon,Polygon;Kava,1.0413554094830109,Q1,0,0,0,0,0,,,0
+sapphire-mine,Sapphire Mine,Yield,Polygon,Polygon,1.0973297631786505,Q1,0,0,0,0,0,,,0
+tetu-pawnshop,Tetu Pawnshop,NFT Lending,Polygon,Polygon,0.3539798599204135,Q1,0,0,0,0,0,,,0
+dawn-star-finance,Dawn Star Finance,Algo-Stables,Polygon,Polygon,0.0,Q1,0,0,0,0,0,,,0
+solid-world,Solid World,RWA,Polygon,Polygon,0.0,Q1,0,0,0,0,0,,,0
+quickperps,QuickPerps,Derivatives,Polygon zkEVM,Polygon zkEVM,0.0,Q1,0,0,0,0,0,,,0
+quickswap-hydra,Quickswap Hydra,Dexs,Polygon zkEVM,Polygon zkEVM;Manta,0.0,Q1,0,0,0,0,0,,,0
+vaporwave,Vaporwave,Yield Aggregator,Polygon zkEVM,Polygon zkEVM;Arbitrum;Aurora,0.0,Q1,0,0,0,0,0,,,0
+soarpls,SoarPLS,Staking Pool,Pulse,Pulse,0.4896344735359642,Q1,0,0,0,0,0,,,0
+component-swap,Component Swap,Dexs,Pulse,Pulse,0.0,Q1,0,0,0,0,0,,,0
+pulsegun-amm,PulseGun AMM,Dexs,Pulse,Pulse,0.5163761442473117,Q1,0,0,0,0,0,,,0
+bluemeteor,BlueMeteor,Dexs,Pulse,Pulse,0.0016033107125765,Q1,0,0,0,0,0,,,0
+solidpulse,SolidPulse,Dexs,Pulse,Pulse,9.841925250022338e-18,Q1,0,0,0,0,0,,,0
+qomswap,QOMSWAP,Dexs,QL1,QL1,0.0,Q1,0,0,0,0,0,,,0
+rootstock-collective,Rootstock Collective,Governance Incentives,RSK,RSK,0.0,Q1,0,0,0,0,0,,,0
+openswap-vsl,Openswap VSL,Dexs,RSS3,RSS3,0.0,Q1,0,0,0,0,0,,,0
+rangers-bridge,Rangers Bridge,Bridge,Rangers,Rangers,0.0,Q1,0,0,0,0,0,,,0
+ponytaswap,PonytaSwap,Dexs,Rangers,Rangers,0.0,Q1,0,0,0,0,0,,,0
+superdapp,SuperDapp,Farm,Rollux,Rollux,0.0,Q1,0,0,0,0,0,,,0
+rosy-stake,Rosy Stake,Farm,Sapphire,Sapphire,0.0,Q1,0,0,0,0,0,,,0
+chimeradex-lend,Chimeradex Lend,Lending,Scroll,Scroll;Arbitrum,0.0,Q1,0,0,0,0,0,,,0
+lendora-protocol,Lendora Protocol,Lending,Scroll,Scroll,0.0,Q1,0,0,0,0,0,,,0
+zksynth,ZKSynth,Synthetics,Scroll,Scroll,0.0,Q1,0,0,0,0,0,,,0
+scribeswap,Scribeswap,Dexs,Scroll,Scroll,0.0836719502235111,Q1,0,0,0,0,0,,,0
+z-protocol-masterchef,Z Protocol Masterchef,Yield,Scroll,Scroll,0.0,Q1,0,0,0,0,0,,,0
+stakeeasy,StakeEasy,Liquid Staking,Secret,Secret;Juno,0.0,Q1,0,0,0,0,0,,,0
+filament-v1,Filament V1,Derivatives,Sei,Sei,0.0,Q1,0,0,0,0,0,,,0
+filament-beta,Filament Beta,Derivatives,Sei,Sei,0.0,Q1,0,0,0,0,0,,,0
+shibfi,ShibFi,Farm,Shibarium,Shibarium,0.0,Q1,0,0,0,0,0,,,0
+bonedex,BoneDex,Dexs,Shibarium,Shibarium,0.0,Q1,0,0,0,0,0,,,0
+sifchain,Sifchain,Dexs,Sifchain,Sifchain,0.0,Q1,0,0,0,0,0,,,0
+hxro-network,HXRO Network,Derivatives,Solana,Solana,0.0,Q1,0,0,0,0,0,,,0
+only1,Only1,NFT Marketplace,Solana,Solana,0.0,Q1,0,0,0,0,0,,,0
+solanax,Solanax,Dexs,Solana,Solana,0.0,Q1,0,0,0,0,0,,,0
+solana-miner,Solana Miner,Staking Pool,Solana,Solana,0.0,Q1,0,0,0,0,0,,,0
+drachma-exchange,Drachma Exchange,Dexs,Solana,Solana,0.0,Q1,0,0,0,0,0,,,0
+aurum,Aurum,Lending,Sonic,Sonic,0.0002032000911987,Q1,0,0,0,0,0,,,0
+matrixai,MatrixAI,Algo-Stables,Sonic,Sonic,0.1794871041862198,Q1,0,0,0,0,0,,,0
+atoll,Atoll,Yield,Sonic,Sonic,0.0,Q1,0,0,0,0,0,,,0
+yoko,Yoko,AI Agents,Sonic,Sonic,0.0,Q1,0,0,0,0,0,,,0
+chickendefi,ChickenDefi,Dexs,Sonic,Sonic,0.0012734711969809,Q1,0,0,0,0,0,,,0
+polkaswap,Polkaswap,Dexs,Sora,Sora,0.0,Q1,0,0,0,0,0,,,0
+xfam.tech,xfam.tech,SoFi,Starknet,Starknet,0.5125586452066455,Q1,0,0,0,0,0,,,0
+nimbora-lending,Nimbora Lending,Lending,Starknet,Starknet,0.0,Q1,0,0,0,0,0,,,0
+blend-backstop-v2,Blend Backstop V2,Insurance,Stellar,Stellar,0.0,Q1,0,0,0,0,0,,,0
+blend-backstop,Blend Backstop,Insurance,Stellar,Stellar,0.0,Q1,0,0,0,0,0,,,0
+deepbook-v2,DeepBook V2,Dexs,Sui,Sui,0.0,Q1,0,0,0,0,0,,,0
+suimarket,SuiMarket,Prediction Market,Sui,Sui,0.0,Q1,0,0,0,0,0,,,0
+alkimi,Alkimi,Services,Sui,Sui,0.0,Q1,0,0,0,0,0,,,0
+fountain-finance,Fountain Finance,Yield,Sui,Sui,0.0,Q1,0,0,0,0,0,,,0
+pegasys-v2,PegaSys V2,Dexs,Syscoin,Syscoin,0.0,Q1,0,0,0,0,0,,,0
+forge-game,Forge Game,Gaming,TON,TON,0.2390859835230698,Q1,0,0,0,0,0,,,0
+tonstakers-token-staking,Tonstakers Token Staking,Farm,TON,TON,0.0,Q1,0,0,0,0,0,,,0
+jvault,JVault,Farm,TON,TON,0.0,Q1,0,0,0,0,0,,,0
+bagel-finance-v1,Bagel Finance V1,Dexs,TON,TON,0.3218474187642186,Q1,0,0,0,0,0,,,0
+ton-locker,TON Locker,Chain,TON,TON,0.0,Q1,0,0,0,0,0,,,0
+taiko-drips,Taiko Drips,Farm,Taiko,Taiko,0.0,Q1,0,0,0,0,0,,,0
+axion-finance-v2,Axion Finance V2,Dexs,Taiko,Taiko,0.002012498038863,Q1,0,0,0,0,0,,,0
+fomoswap-v4,FomoSwap V4,Dexs,Taraxa,Taraxa,0.442299149116828,Q1,0,0,0,0,0,,,0
+omnidex-lend,Omnidex Lend,Lending,Telos,Telos,0.0016333459164284,Q1,0,0,0,0,0,,,0
+jumpdefi,JumpDefi,Dexs,Telos,Telos,0.0828571325743816,Q1,0,0,0,0,0,,,0
+tenx,Tenx,Dexs,Tenet,Tenet,0.0,Q1,0,0,0,0,0,,,0
+tendie-swap,Tendie Swap,Dexs,Tenet,Tenet,0.0,Q1,0,0,0,0,0,,,0
+nexus-protocol,Nexus Protocol,Yield,Terra,Terra,0.0,Q1,0,0,0,0,0,,,0
+anchor,Anchor,Lending,Terra,Terra;Avalanche,0.0,Q1,0,0,0,0,0,,,0
+terrafloki,TerraFloki,Dexs,Terra,Terra,0.0,Q1,0,0,0,0,0,,,0
+valkyrie,Valkyrie,Launchpad,Terra,Terra,0.0,Q1,0,0,0,0,0,,,0
+astroport-classic,Astroport Classic,Dexs,Terra,Terra,0.0,Q1,0,0,0,0,0,,,0
+crunchy-liquid-staking,Crunchy Liquid Staking,Liquid Staking,Tezos,Tezos,0.0,Q1,0,0,0,0,0,,,0
+octoplace,OCTOplace,NFT Marketplace,Theta,Theta;Kava,0.9774437051744252,Q1,0,0,0,0,0,,,0
+thorchain-lending,Thorchain Lending,CDP,Thorchain,Thorchain,0.0,Q1,0,0,0,0,0,,,0
+decryption,Decryption,Dexs,Tlchain,Tlchain,0.0,Q1,0,0,0,0,0,,,0
+tomofinance,TomoFinance,CDP,TomoChain,TomoChain,0.0,Q1,0,0,0,0,0,,,0
+coin98,Coin98,Farm,TomoChain,TomoChain,0.0,Q1,0,0,0,0,0,,,0
+juststables,JustStables,CDP,Tron,Tron,0.0,Q1,0,0,0,0,0,,,0
+luminous-finance,Luminous Finance,Dexs,Tron,Tron,0.0,Q1,0,0,0,0,0,,,0
+raidshift-marketplace,RAIDSHIFT Marketplace,Dexs,Tron,Tron,0.0599704130520059,Q1,0,0,0,0,0,,,0
+shinobi,Shinobi,Dexs,Ubiq,Ubiq,0.0,Q1,0,0,0,0,0,,,0
+ultron-staking-hub-nft,Ultron Staking Hub NFT,Staking Pool,Ultron,Ultron,0.0,Q1,0,0,0,0,0,,,0
+uniderp,UniDerp,Launchpad,Unichain,Unichain,0.0,Q1,0,0,0,0,0,,,0
+betswirl,BetSwirl,Prediction Market,Unichain,Unichain;Polygon;Avalanche;Base;Arbitrum;Binance,0.0,Q1,0,0,0,0,0,,,0
+velaspad,VelasPad,Launchpad,Velas,Velas,0.0,Q1,0,0,0,0,0,,,0
+velerodao,VeleroDAO,CDP,Velas,Velas,0.0,Q1,0,0,0,0,0,,,0
+velhalla,Velhalla,Gaming,Velas,Velas,0.0,Q1,0,0,0,0,0,,,0
+konverter,Konverter,Dexs,WEMIX,WEMIX,0.0,Q1,0,0,0,0,0,,,0
+pluto-on-waves,Pluto on Waves,Reserve Currency,Waves,Waves,0.0,Q1,0,0,0,0,0,,,0
+wdjc,WDJC,Gaming,Wax,Wax,0.0444253615989103,Q1,0,0,0,0,0,,,0
+golden-otter-hub,Golden Otter Hub,Farm,World Chain,World Chain,0.0,Q1,0,0,0,0,0,,,0
+dna,DNA,Farm,World Chain,World Chain,0.0,Q1,0,0,0,0,0,,,0
+zyxswap,ZYXSwap,Dexs,ZYX,ZYX,0.0,Q1,0,0,0,0,0,,,0
+zeniq-swap,Zeniq Swap,Dexs,Zeniq,Zeniq,0.0,Q1,0,0,0,0,0,,,0
+hyperion-exchange,Hyperion Exchange,Derivatives,Zkfair,Zkfair,0.0,Q1,0,0,0,0,0,,,0
+pearl-v1.5,Pearl V1.5,Dexs,re.al,re.al,0.0,Q1,0,0,0,0,0,,,0
+pearl-v2,Pearl V2,Dexs,re.al,re.al,0.0,Q1,0,0,0,0,0,,,0
+tangible-arcana,Tangible Arcana,Basis Trading,re.al,re.al,0.0,Q1,0,0,0,0,0,,,0
+re.al-protocol,re.al protocol,RWA,re.al,re.al,0.0,Q1,0,0,0,0,0,,,0
+sturgeon,Sturgeon,Yield,re.al,re.al,0.0,Q1,0,0,0,0,0,,,0
+bchpad,BCHPad,Launchpad,smartBCH,smartBCH,0.0,Q1,0,0,0,0,0,,,0
+celerycash,Celerycash,Services,smartBCH,smartBCH,0.0,Q1,0,0,0,0,0,,,0
+lns,LNS,Dexs,smartBCH,smartBCH,0.0,Q1,0,0,0,0,0,,,0
+coinflex,CoinFLEX,Yield,smartBCH,smartBCH,0.0,Q1,0,0,0,0,0,,,0
+joystick-club,Joystick Club,Gaming,smartBCH,smartBCH,0.0,Q1,0,0,0,0,0,,,0
+rarify,Rarify,Yield,xDai,xDai,0.0,Q1,0,0,0,0,0,,,0
+hopr,HOPR,Privacy,xDai,xDai,0.0,Q1,0,0,0,0,0,,,0
+allspark,Allspark,Derivatives,zkLink,zkLink,1.7666904884255763e-11,Q1,0,0,0,0,0,,,0
+zklite-exchange,zkLite Exchange,Dexs,zkSync,zkSync,0.0,Q1,0,0,0,0,0,,,0
+superlauncher,SuperLauncher,Launchpad,zkSync Era,zkSync Era,0.0,Q1,0,0,0,0,0,,,0
+froggy-protocol,Froggy Protocol,Yield Aggregator,zkSync Era,zkSync Era,0.0,Q1,0,0,0,0,0,,,0
+zilch-capital,Zilch Capital,Dexs,zkSync Era,zkSync Era,0.0,Q1,0,0,0,0,0,,,0
+zks-miner,Zks Miner,Ponzi,zkSync Era,zkSync Era,0.0,Q1,0,0,0,0,0,,,0
+rfx-exchange-v1,RFX Exchange V1,Derivatives,zkSync Era,zkSync Era,0.0,Q1,0,0,0,0,0,,,0
+mondrian-swap,Mondrian Swap,Dexs,Abstract,Abstract,4742.283692175324,Q2,0,0,0,0,0,,,0
+superhero-dex,Superhero DEX,Dexs,Aeternity,Aeternity,220.30775416838185,Q2,0,0,0,0,0,,,0
+algodex,Algodex,Dexs,Algorand,Algorand,3955.218021799081,Q2,0,0,0,0,0,,,0
+algomint,Algomint,Algo-Stables,Algorand,Algorand,265.4693153187511,Q2,0,0,0,0,0,,,0
+silo-protocol,Silo Protocol,Options Vault,Algorand,Algorand,60.87739079833709,Q2,0,0,0,0,0,,,0
+compx-streaming,Compx Streaming,Payments,Algorand,Algorand,37.970527638220155,Q2,0,0,0,0,0,,,0
+deridex,Deridex,Derivatives,Algorand,Algorand,187.4086783872766,Q2,0,0,0,0,0,,,0
+zenolend,ZenoLend,Lending,ApeChain,ApeChain;Hemi;Unichain;Soneium;Story,3967.63182870086,Q2,0,0,0,0,0,,,0
+saru,Saru,Dexs,ApeChain,ApeChain,2759.6631028525658,Q2,0,0,0,0,0,,,0
+jujube-finance,Jujube Finance,Dexs,Aptos,Aptos,61.252681595784416,Q2,0,0,0,0,0,,,0
+movepump,MovePump,Launchpad,Aptos,Aptos,1410.1357460838476,Q2,0,0,0,0,0,,,0
+agdex,AGDEX,Derivatives,Aptos,Aptos,125.94556178377432,Q2,0,0,0,0,0,,,0
+obric,Obric,Dexs,Aptos,Aptos,2590.8828868458104,Q2,0,0,0,0,0,,,0
+baptswap-v2,BaptSwap V2,Dexs,Aptos,Aptos,51.06365470196481,Q2,0,0,0,0,0,,,0
+sterling-finance,Sterling Finance,Dexs,Arbitrum,Arbitrum,10571.779021883904,Q2,0,0,0,0,0,,,0
+mm-finance-arbitrum,MM Finance Arbitrum,Dexs,Arbitrum,Arbitrum,2439.8703589607085,Q2,0,0,0,0,0,,,0
+diamond-protocol-v2,Diamond Protocol V2,Liquidity manager,Arbitrum,Arbitrum;Binance,8280.228466207083,Q2,0,0,0,0,0,,,0
+trainswap,TrainSwap,Dexs,Arbitrum,Arbitrum,1241.6185348040826,Q2,0,0,0,0,0,,,0
+gast,Gast,Dexs,Arbitrum,Arbitrum,4638.9966644317365,Q2,0,0,0,0,0,,,0
+archly-v1,Archly V1,Dexs,Arbitrum Nova,Arbitrum Nova;Telos;Base;Binance;Polygon;Arbitrum;Optimism;Fantom;Kava,4276.96450674334,Q2,0,0,0,0,0,,,0
+arbswap-stableswap,Arbswap StableSwap,Dexs,Arbitrum Nova,Arbitrum Nova;Arbitrum,1185.767661338857,Q2,0,0,0,0,0,,,0
+liquid-finance-protocol,Liquid Finance Protocol,Liquid Staking,Archway,Archway,9795.80628671021,Q2,0,0,0,0,0,,,0
+eden-finance,Eden Finance,Lending,Asset Chain,Asset Chain,99.95356828156676,Q2,0,0,0,0,0,,,0
+sirius-finance,Sirius Finance,Dexs,Astar,Astar,7547.289368044697,Q2,0,0,0,0,0,,,0
+starfish-finance,Starfish Finance,Dexs,Astar,Astar,1412.17044907656,Q2,0,0,0,0,0,,,0
+adao,ADAO,Yield,Astar,Astar,1717.3624255024824,Q2,0,0,0,0,0,,,0
+versa-finance,Versa Finance,Dexs,Astar,Astar,3756.395513302914,Q2,0,0,0,0,0,,,0
+avault,Avault,Yield Aggregator,Astar,Astar,4404.4887196747695,Q2,0,0,0,0,0,,,0
+c14,C14,Lending,Astar zkEVM,Astar zkEVM,2143.9692164987464,Q2,0,0,0,0,0,,,0
+l2x.pro,L2X.pro,Dexs,Astar zkEVM,Astar zkEVM,1432.595910571275,Q2,0,0,0,0,0,,,0
+verylongswap-farm,VeryLongSwap Farm,Farm,Astar zkEVM,Astar zkEVM,861.367873286551,Q2,0,0,0,0,0,,,0
+amaterasu-finance,Amaterasu Finance,Dexs,Aurora,Aurora,7779.845050530012,Q2,0,0,0,0,0,,,0
+arctic,Arctic,Dexs,Aurora,Aurora,1653.696468768192,Q2,0,0,0,0,0,,,0
+polaris-finance,Polaris Finance,Dexs,Aurora,Aurora;Telos,11728.901060075365,Q2,0,0,0,0,0,,,0
+crafting-finance,Crafting Finance,Synthetics,Aurora,Aurora;Ethereum,9923.286579189273,Q2,0,0,0,0,0,,,0
+pinkpea-finance,PinkPea Finance,Yield Aggregator,Aurora,Aurora,3300.2909328153783,Q2,0,0,0,0,0,,,0
+spiritdao,SpiritDAO,Reserve Currency,Avalanche,Avalanche,2031.94661249736,Q2,0,0,0,0,0,,,0
+the-dragons-lair,The Dragon's Lair,Yield,Avalanche,Avalanche,117.1495725768156,Q2,0,0,0,0,0,,,0
+alligator,Alligator,Dexs,Avalanche,Avalanche,8385.383029567452,Q2,0,0,0,0,0,,,0
+piratedao,PirateDAO,Reserve Currency,Avalanche,Avalanche,809.2157339383818,Q2,0,0,0,0,0,,,0
+augmented-finance,Augmented Finance,Lending,Avalanche,Avalanche;Ethereum;Binance;xDai,326.65169644014406,Q2,0,0,0,0,0,,,0
+bitdrome-finance,Bitdrome Finance,Dexs,BEVM,BEVM,778.5111140034829,Q2,0,0,0,0,0,,,0
+capy-finance,Capy Finance,Farm,BSquared,BSquared,1592.4871650829512,Q2,0,0,0,0,0,,,0
+bitlen-finance,Bitlen Finance,Lending,BSquared,BSquared;CORE,3.274738801465434,Q2,0,0,0,0,0,,,0
+tower-dex,Tower DEX,Dexs,Babylon Genesis,Babylon Genesis,6574.265593669287,Q2,0,0,0,0,0,,,0
+sharesgram,SharesGram,SoFi,Base,Base,12604.026975413652,Q2,0,0,0,0,0,,,0
+chedda-finance,Chedda Finance,Lending,Base,Base,877.3925376872381,Q2,0,0,0,0,0,,,0
+spooky-base,Spooky Base,Dexs,Base,Base,316.2689241767833,Q2,0,0,0,0,0,,,0
+squadefi,SquaDeFi,SoFi,Base,Base,38.08414298174628,Q2,0,0,0,0,0,,,0
+a51-finance-v3,A51 Finance V3,Liquidity manager,Base,Base;Arbitrum;Linea;Optimism;Blast;Mode;Scroll;Manta;Binance;Polygon;Polygon zkEVM,5754.960945225807,Q2,0,0,0,0,0,,,0
+inferno-swap,Inferno Swap,Dexs,Beam,Beam,6.642399254862693,Q2,0,0,0,0,0,,,0
+twin-finance,Twin Finance,Yield,Berachain,Berachain,6695.811212536572,Q2,0,0,0,0,0,,,0
+berancia,Berancia,Yield Aggregator,Berachain,Berachain,866.3073739312656,Q2,0,0,0,0,0,,,0
+dahlia,Dahlia,Lending,Berachain,Berachain,4228.7961745142675,Q2,0,0,0,0,0,,,0
+beracaine,Beracaine,Dexs,Berachain,Berachain,836.3154844549803,Q2,0,0,0,0,0,,,0
+wasabee,Wasabee,Dexs,Berachain,Berachain,9661.41125111062,Q2,0,0,0,0,0,,,0
+btcfi-farm,BTCFi Farm,Farm,Bifrost Network,Bifrost Network,34.43184002141883,Q2,0,0,0,0,0,,,0
+produs,PRODUS,Dexs,Binance,Binance,25.68714316866888,Q2,0,0,0,0,0,,,0
+liquid-bolt,Liquid Bolt,Yield,Binance,Binance;Arbitrum;Fantom;Polygon,295.9196932638074,Q2,0,0,0,0,0,,,0
+rubikfarm,RubikFarm,Farm,Binance,Binance,30.6420195809035,Q2,0,0,0,0,0,,,0
+bonsai-strike,Bonsai Strike,Options Vault,Binance,Binance,9539.26768197388,Q2,0,0,0,0,0,,,0
+dungeonswap,DungeonSwap,Yield,Binance,Binance,11996.479929039217,Q2,0,0,0,0,0,,,0
+simitciswap,SimitciSwap,Dexs,Bitcichain,Bitcichain,1254.161245717737,Q2,0,0,0,0,0,,,0
+bevm,BEVM,Chain,Bitcoin,Bitcoin,31.749183391447897,Q2,0,0,0,0,0,,,0
+roup,ROUP,Bridge,Bitcoin,Bitcoin,163.248299864724,Q2,0,0,0,0,0,,,0
+xrgb,XRGB,Bridge,Bitcoin,Bitcoin,312.30503820145356,Q2,0,0,0,0,0,,,0
+bitzap,BitZap,Dexs,Bitlayer,Bitlayer,294.57598444913015,Q2,0,0,0,0,0,,,0
+bitzap-yusd,BitZap yUSD,CDP,Bitlayer,Bitlayer,53.902585352558326,Q2,0,0,0,0,0,,,0
+yyex,YYEX,Derivatives,Bitlayer,Bitlayer,133.13631453295787,Q2,0,0,0,0,0,,,0
+iswap-tech,iSwap Tech,Dexs,Bitlayer,Bitlayer,2224.786876486203,Q2,0,0,0,0,0,,,0
+trustin-finance,Trustin Finance,Lending,Bitlayer,Bitlayer,1167.9730128801607,Q2,0,0,0,0,0,,,0
+infinitorr,InfiniTORR,Dexs,Bittorrent,Bittorrent,1673.2779009086937,Q2,0,0,0,0,0,,,0
+bitlend,Bitlend,Lending,Bittorrent,Bittorrent,447.5143686178824,Q2,0,0,0,0,0,,,0
+windfall,Windfall,Yield Lottery,Blast,Blast;Canto,9.790925872509137,Q2,0,0,0,0,0,,,0
+fenix-standard-pools,Fenix Standard Pools,Dexs,Blast,Blast,6014.55932813368,Q2,0,0,0,0,0,,,0
+plur,Plur,SoFi,Blast,Blast,1252.6834747433595,Q2,0,0,0,0,0,,,0
+solidblast,SolidBlast,Dexs,Blast,Blast,19.971239119340556,Q2,0,0,0,0,0,,,0
+ghostex,GhostEx,Dexs,Blast,Blast,8723.202212331606,Q2,0,0,0,0,0,,,0
+gin-finance,Gin Finance,Dexs,Boba,Boba,8972.458895217484,Q2,0,0,0,0,0,,,0
+senpaiswap,SenpaiSwap,Reserve Currency,Boba,Boba,381.33577973853255,Q2,0,0,0,0,0,,,0
+bodh-finance,Bodh Finance,Lending,Boba,Boba,124.86609998349138,Q2,0,0,0,0,0,,,0
+koyo-finance,Koyo Finance,Dexs,Boba,Boba,1169.210248768379,Q2,0,0,0,0,0,,,0
+warp-dex,Warp Dex,Dexs,Bostrom,Bostrom,5455.75930529223,Q2,0,0,0,0,0,,,0
+arch-swap,Arch Swap,Dexs,Botanix,Botanix,4993.977074266347,Q2,0,0,0,0,0,,,0
+aidapp,AIDApp,Launchpad,CORE,CORE,1.848485370863483,Q2,0,0,0,0,0,,,0
+auto-core,Auto Core,Yield Aggregator,CORE,CORE,1003.2536355886618,Q2,0,0,0,0,0,,,0
+dexland,Dexland,Dexs,CORE,CORE,1.2209500537409264,Q2,0,0,0,0,0,,,0
+viridian-exchange,Viridian Exchange,Dexs,CORE,CORE,396.0651889451773,Q2,0,0,0,0,0,,,0
+nlx-protocol,NLX Protocol,Derivatives,CORE,CORE,1583.4359711643635,Q2,0,0,0,0,0,,,0
+ifswap,IFSwap,Dexs,CSC,CSC,498.7647052590361,Q2,0,0,0,0,0,,,0
+soy-finance,Soy Finance,Dexs,Callisto,Callisto;EthereumClassic;Bittorrent;Binance,3256.2559513591355,Q2,0,0,0,0,0,,,0
+summitx-finance,SummitX Finance,Dexs,Camp,Camp,7213.40484617609,Q2,0,0,0,0,0,,,0
+cantohm,cantOHM,Reserve Currency,Canto,Canto,5.377357338681281,Q2,0,0,0,0,0,,,0
+cantoswap,CantoSwap,Dexs,Canto,Canto,1511.2179817848348,Q2,0,0,0,0,0,,,0
+y2r,Y2R,Yield Aggregator,Canto,Canto,1096.2836701003605,Q2,0,0,0,0,0,,,0
+csrfi,CSRfi,Yield,Canto,Canto,8.432259127180759,Q2,0,0,0,0,0,,,0
+velocimeter-v1,Velocimeter V1,Dexs,Canto,Canto,377.9145822325422,Q2,0,0,0,0,0,,,0
+cerra,Cerra,Lending,Cardano,Cardano,685.9243248296631,Q2,0,0,0,0,0,,,0
+encoins,Encoins,Privacy,Cardano,Cardano,6090.666426557742,Q2,0,0,0,0,0,,,0
+mayz-protocol,MAYZ Protocol,Indexes,Cardano,Cardano,27.95107536239538,Q2,0,0,0,0,0,,,0
+genius-yield,Genius Yield,Dexs,Cardano,Cardano,8304.01798371591,Q2,0,0,0,0,0,,,0
+levvy-for-nfts,Levvy for NFTs,NFT Lending,Cardano,Cardano,8957.237738994922,Q2,0,0,0,0,0,,,0
+chee-finance,Chee Finance,Lending,Celo,Celo;Binance;Meter,9072.193968252406,Q2,0,0,0,0,0,,,0
+immortalx,ImmortalX,Derivatives,Celo,Celo,6947.834120064947,Q2,0,0,0,0,0,,,0
+untangled-rwa,Untangled RWA,RWA,Celo,Celo,12.017196057988,Q2,0,0,0,0,0,,,0
+stars-league,Stars League,SoFi,Chiliz,Chiliz,4226.0452695664335,Q2,0,0,0,0,0,,,0
+chilizswap,ChilizSwap,Dexs,Chiliz,Chiliz,303.5882738772197,Q2,0,0,0,0,0,,,0
+cswap,cSwap,Dexs,Comdex,Comdex,10691.212669678387,Q2,0,0,0,0,0,,,0
+commodo,Commodo,Lending,Comdex,Comdex,4956.788317739523,Q2,0,0,0,0,0,,,0
+concordex,Concordex,Dexs,Concordium,Concordium,1454.9542121835188,Q2,0,0,0,0,0,,,0
+goledo,Goledo,Lending,Conflux,Conflux,121.0519378804233,Q2,0,0,0,0,0,,,0
+ginseng-swap,Ginseng Swap,Dexs,Conflux,Conflux,101.90423295373613,Q2,0,0,0,0,0,,,0
+swapp,SWAPP,Dexs,Cronos,Cronos,5012.06309212286,Q2,0,0,0,0,0,,,0
+hopswap,HopSwap,Dexs,Cronos,Cronos,11886.616598814036,Q2,0,0,0,0,0,,,0
+savanna-finance,Savanna Finance,Algo-Stables,Cronos,Cronos,1116.9220318727082,Q2,0,0,0,0,0,,,0
+lume-finance,Lume Finance,Farm,Cronos,Cronos,246.7971088307145,Q2,0,0,0,0,0,,,0
+croswap,CroSwap,Dexs,Cronos,Cronos;Arbitrum,8664.156717857553,Q2,0,0,0,0,0,,,0
+microswap,MicroSwap,Yield,Cronos zkEVM,Cronos zkEVM,2912.5942428666517,Q2,0,0,0,0,0,,,0
+pholend,PhoLend,Lending,CrossFi,CrossFi,159.28249746522084,Q2,0,0,0,0,0,,,0
+vanillaswap-v3,VanillaSwap V3,Dexs,DeFiChain EVM,DeFiChain EVM,12498.84038574926,Q2,0,0,0,0,0,,,0
+degenswap,DegenSwap,Dexs,Degen,Degen,89.11643138815538,Q2,0,0,0,0,0,,,0
+autobark,AutoBark,Yield Aggregator,Dogechain,Dogechain,190.2202631249501,Q2,0,0,0,0,0,,,0
+darkswap,DarkSwap,Dexs,Dogechain,Dogechain,1095.1979719989845,Q2,0,0,0,0,0,,,0
+dogium-farm,Dogium Farm,Dexs,Dogechain,Dogechain,71.75801500349084,Q2,0,0,0,0,0,,,0
+bakedpotatoes,BakedPotatoes,Yield,Dogechain,Dogechain,1.6607416526289405,Q2,0,0,0,0,0,,,0
+dogedollar,DogeDollar,Dual-Token Stablecoin,Dogechain,Dogechain,4749.2988171332745,Q2,0,0,0,0,0,,,0
+duckswap,DuckSwap,Dexs,DuckChain,DuckChain,11994.583341552268,Q2,0,0,0,0,0,,,0
+moveflow,MoveFlow,Payments,EDU Chain,EDU Chain;Aptos,47.81858357927813,Q2,0,0,0,0,0,,,0
+pheasantswap,PheasantSwap,Dexs,ENULS,ENULS,2327.093768378018,Q2,0,0,0,0,0,,,0
+dapp-account-dao,Dapp Account DAO,Yield,EOS,EOS,726.8479810148167,Q2,0,0,0,0,0,,,0
+sportbet,SportBet,Prediction Market,EOS,EOS,30.7039292250368,Q2,0,0,0,0,0,,,0
+dolphinswap,DolphinSwap,Dexs,EOS,EOS,2609.004939011932,Q2,0,0,0,0,0,,,0
+a-dex,A-DEX,Dexs,EOS,EOS;Wax,26.501189391760057,Q2,0,0,0,0,0,,,0
+newdex,NewDex,Dexs,EOS,EOS,4381.929778872339,Q2,0,0,0,0,0,,,0
+metaswap,MetaSwap,Dexs,EOS EVM,EOS EVM,440.3473304768799,Q2,0,0,0,0,0,,,0
+solar-dex,Solar Dex,Dexs,Eclipse,Eclipse,653.875576060024,Q2,0,0,0,0,0,,,0
+neptune-protocol,Neptune Protocol,CDP,Eclipse,Eclipse,6706.9419655515585,Q2,0,0,0,0,0,,,0
+coindrip,CoinDrip,Payments,Elrond,Elrond,47.00770431410841,Q2,0,0,0,0,0,,,0
+pulsar-money,Pulsar Money,Payments,Elrond,Elrond,1876.1849380127087,Q2,0,0,0,0,0,,,0
+artcpaclub,ArtCPAClub,NFT Marketplace,Elrond,Elrond,1674.993326209344,Q2,0,0,0,0,0,,,0
+valoro,Valoro,Indexes,Elrond,Elrond,2646.5486772776303,Q2,0,0,0,0,0,,,0
+esdtmarket,EsdtMarket,Dexs,Elrond,Elrond,292.4931203673826,Q2,0,0,0,0,0,,,0
+tesseract-world,Tesseract World,Dexs,Endurance,Endurance,2.334006086539218,Q2,0,0,0,0,0,,,0
+catalist-dex,Catalist DEX,Dexs,Endurance,Endurance,4178.483340937709,Q2,0,0,0,0,0,,,0
+gluon-gold,Gluon Gold,Algo-Stables,Ergo,Ergo,6603.017381626805,Q2,0,0,0,0,0,,,0
+sigmafi,SigmaFi,Lending,Ergo,Ergo,13523.477687362674,Q2,0,0,0,0,0,,,0
+sigmao,Sigmao,Options Vault,Ergo,Ergo,13.247646898093562,Q2,0,0,0,0,0,,,0
+swft,SWFT,Bridge,Ethereum,Ethereum;Binance;Polygon;Kava;OKExChain;Fantom;Heco,1933.6941456081152,Q2,0,0,0,0,0,,,0
+bullionfx,BullionFX,Dexs,Ethereum,Ethereum,503.31304704312095,Q2,0,0,0,0,0,,,0
+paladin-dullahan,Paladin Dullahan,Yield,Ethereum,Ethereum,5843.563607352157,Q2,0,0,0,0,0,,,0
+rubydex,RubyDex,Derivatives,Ethereum,Ethereum;Optimism;Avalanche;Binance;Polygon;Arbitrum;zkSync Era;Mantle;Manta;Linea,24.126535119016516,Q2,0,0,0,0,0,,,0
+logium,Logium,Derivatives,Ethereum,Ethereum,6382.713318602222,Q2,0,0,0,0,0,,,0
+ethereum-classic-stable-dollar,Ethereum Classic Stable Dollar,Dual-Token Stablecoin,EthereumClassic,EthereumClassic,3875.4675362489024,Q2,0,0,0,0,0,,,0
+stip-flip,Stip Flip,Synthetics,EthereumClassic,EthereumClassic,2059.1682441709304,Q2,0,0,0,0,0,,,0
+etcswap-v2,ETCswap V2,Dexs,EthereumClassic,EthereumClassic,5678.846527864865,Q2,0,0,0,0,0,,,0
+nyke-finance,Nyke Finance,Lending,EthereumClassic,EthereumClassic,8.952727523382535,Q2,0,0,0,0,0,,,0
+billion-happiness,Billion Happiness,Yield,EthereumPoW,EthereumPoW;Binance,123.25443537596357,Q2,0,0,0,0,0,,,0
+cakewswap,CakeWSwap,Dexs,EthereumPoW,EthereumPoW,40.79113491881797,Q2,0,0,0,0,0,,,0
+uniwswap-amm,UniWswap AMM,Dexs,EthereumPoW,EthereumPoW,3.740103815504852,Q2,0,0,0,0,0,,,0
+octopow-finance,OctoPow Finance,Dexs,EthereumPoW,EthereumPoW,4.597828294486095,Q2,0,0,0,0,0,,,0
+powswap,PoWSwap,Dexs,EthereumPoW,EthereumPoW,812.3414202646063,Q2,0,0,0,0,0,,,0
+iguana-stableswap,Iguana Stableswap,Dexs,Etherlink,Etherlink,182.6749987078008,Q2,0,0,0,0,0,,,0
+iguanadex-v2,IguanaDEX V2,Dexs,Etherlink,Etherlink,250.95704273484836,Q2,0,0,0,0,0,,,0
+tachyswap,TachySwap,Dexs,Etherlink,Etherlink,560.104300911542,Q2,0,0,0,0,0,,,0
+ruby.exchange-stable,Ruby.Exchange Stable,Dexs,Europa,Europa,6096.16155831784,Q2,0,0,0,0,0,,,0
+aquas-trade,Aquas Trade,Dexs,Europa,Europa,49.9572285563094,Q2,0,0,0,0,0,,,0
+forge,Forge,Dexs,Evmos,Evmos,4858.53635810115,Q2,0,0,0,0,0,,,0
+spacefi-evmos,SpaceFi Evmos,Dexs,Evmos,Evmos,5805.313387973756,Q2,0,0,0,0,0,,,0
+cronus-finance,Cronus Finance,Dexs,Evmos,Evmos,6579.709424637238,Q2,0,0,0,0,0,,,0
+kinesis-labs,Kinesis Labs,Dexs,Evmos,Evmos,13433.68311758626,Q2,0,0,0,0,0,,,0
+kyrios-finance,Kyrios Finance,Yield,Fantom,Fantom,145.96259725418383,Q2,0,0,0,0,0,,,0
+epsylon-finance,Epsylon Finance,Yield Aggregator,Fantom,Fantom,1261.6573686916342,Q2,0,0,0,0,0,,,0
+raven,Raven,Yield,Fantom,Fantom,313.3098552179087,Q2,0,0,0,0,0,,,0
+wraithswap,WraithSwap,Dexs,Fantom,Fantom,1082.809980817287,Q2,0,0,0,0,0,,,0
+apedao,ApeDAO,Farm,Fantom,Fantom,14.850911248383982,Q2,0,0,0,0,0,,,0
+collectif-dao,Collectif DAO,Liquid Staking,Filecoin,Filecoin,7236.988532187068,Q2,0,0,0,0,0,,,0
+mfil-protocol,MFIL Protocol,Liquid Staking,Filecoin,Filecoin,636.05558079249,Q2,0,0,0,0,0,,,0
+themis-lsdfil,Themis-lsdFil,Liquid Staking,Filecoin,Filecoin,298.1160328145588,Q2,0,0,0,0,0,,,0
+forlend,forlend,Lending,Findora,Findora,1737.7839832540385,Q2,0,0,0,0,0,,,0
+veniceswap,VeniceSwap,Dexs,Findora,Findora,281.51034911803885,Q2,0,0,0,0,0,,,0
+fairyswap-v2,FairySwap V2,Dexs,Findora,Findora,2710.2417833544205,Q2,0,0,0,0,0,,,0
+future-swap,Future Swap,Dexs,Findora,Findora,300.7856832885336,Q2,0,0,0,0,0,,,0
+nexapia,Nexapia,Dexs,Flare,Flare,517.4344850049654,Q2,0,0,0,0,0,,,0
+sparkdex-v2,SparkDEX V2,Dexs,Flare,Flare,4014.549413374031,Q2,0,0,0,0,0,,,0
+sparkdex-v3,SparkDEX V3,Dexs,Flare,Flare,7896.636273529589,Q2,0,0,0,0,0,,,0
+fixes-frc20,Fixes frc20,Services,Flow,Flow,6544.125391914858,Q2,0,0,0,0,0,,,0
+fixes-frc20-staking,Fixes frc20 Staking,Staking Pool,Flow,Flow,5244.6137677015195,Q2,0,0,0,0,0,,,0
+fixes-launchpad,Fixes Launchpad,Launchpad,Flow,Flow,226.9739193789117,Q2,0,0,0,0,0,,,0
+curves-protocol,Curves Protocol,SoFi,Form Network,Form Network,229.78854960062205,Q2,0,0,0,0,0,,,0
+fibonacci-dex,Fibonacci Dex,Dexs,Form Network,Form Network,1523.91723140898,Q2,0,0,0,0,0,,,0
+roll-fun,Roll Fun,Launchpad,Form Network,Form Network,4183.223611696303,Q2,0,0,0,0,0,,,0
+glyph,Glyph,Lending,Fraxtal,Fraxtal,1131.2794876318253,Q2,0,0,0,0,0,,,0
+diesel-dex,Diesel Dex,Dexs,Fuel,Fuel,13565.433825133465,Q2,0,0,0,0,0,,,0
+ruscet,Ruscet,Derivatives,Fuel,Fuel,7455.397813863871,Q2,0,0,0,0,0,,,0
+v12,V12,Dexs,Fuel,Fuel,13217.493576658717,Q2,0,0,0,0,0,,,0
+marginx-dex,MarginX DEX,Dexs,FunctionX,FunctionX,5871.2312306273225,Q2,0,0,0,0,0,,,0
+voltage-v3,Voltage V3,Dexs,Fuse,Fuse,4857.713258645574,Q2,0,0,0,0,0,,,0
+goswap,GoSwap,Dexs,GoChain,GoChain,6520.8456695748555,Q2,0,0,0,0,0,,,0
+brainiac-finance,Brainiac Finance,Lending,GodwokenV1,GodwokenV1,849.4619804566582,Q2,0,0,0,0,0,,,0
+micro-credit-project,Micro Credit Project,Uncollateralized Lending,HAQQ,HAQQ,10.996325713845431,Q2,0,0,0,0,0,,,0
+bbqswap,BBQSwap,Dexs,Ham,Ham,2929.1674665482674,Q2,0,0,0,0,0,,,0
+sonicswap,SonicSwap,Dexs,Harmony,Harmony,4463.938917664673,Q2,0,0,0,0,0,,,0
+openswap,OpenSwap,Dexs,Harmony,Harmony,6456.884811734662,Q2,0,0,0,0,0,,,0
+adena-finance,Adena Finance,Dexs,Harmony,Harmony,44.76541291581891,Q2,0,0,0,0,0,,,0
+lootswap,LootSwap,Dexs,Harmony,Harmony,11261.70531943979,Q2,0,0,0,0,0,,,0
+elephantdex,Elephantdex,Dexs,Harmony,Harmony,4562.180985231873,Q2,0,0,0,0,0,,,0
+haven1-hswap,Haven1 hSwap,Dexs,Haven1,Haven1,6670.228774145524,Q2,0,0,0,0,0,,,0
+haven1-hlend,Haven1 hLend,Lending,Haven1,Haven1,218.2208594895514,Q2,0,0,0,0,0,,,0
+westarter,WeStarter,Launchpad,Heco,Heco,4.447550145263054,Q2,0,0,0,0,0,,,0
+makiswap,MakiSwap,Dexs,Heco,Heco,13533.140811721856,Q2,0,0,0,0,0,,,0
+atlas-exchange,Atlas Exchange,Dexs,Hemi,Hemi,70.69880543839807,Q2,0,0,0,0,0,,,0
+mjolnir-exchange,Mjolnir Exchange,Derivatives,Hemi,Hemi,6.388663970859637,Q2,0,0,0,0,0,,,0
+perpstreet,Perpstreet,Derivatives,Hemi,Hemi,522.1468919730742,Q2,0,0,0,0,0,,,0
+hx-finance,HX Finance,Dexs,Hyperliquid L1,Hyperliquid L1,5086.448447219275,Q2,0,0,0,0,0,,,0
+hybra-v2,Hybra V2,Dexs,Hyperliquid L1,Hyperliquid L1,6092.993060245638,Q2,0,0,0,0,0,,,0
+upheaval-v2,Upheaval V2,Dexs,Hyperliquid L1,Hyperliquid L1,64.41564308116844,Q2,0,0,0,0,0,,,0
+hypercat,HyperCat,Dexs,Hyperliquid L1,Hyperliquid L1,2469.1467726725114,Q2,0,0,0,0,0,,,0
+ultrasolid-v2,Ultrasolid V2,Dexs,Hyperliquid L1,Hyperliquid L1,48.14989060745403,Q2,0,0,0,0,0,,,0
+velocimeter-v4,Velocimeter V4,Dexs,IOTA EVM,IOTA EVM,10416.247704042991,Q2,0,0,0,0,0,,,0
+iolend,IOLEND,Lending,IOTA EVM,IOTA EVM,13621.337617990712,Q2,0,0,0,0,0,,,0
+warpgate,WarpGate,Dexs,Immutable zkEVM,Immutable zkEVM,1500.767951066175,Q2,0,0,0,0,0,,,0
+milkyway-rollup-bridge,Milkyway Rollup Bridge,Canonical Bridge,Initia,Initia,9843.869908970011,Q2,0,0,0,0,0,,,0
+ilend-v1,iLend V1,Lending,Injective,Injective,1839.1233708696907,Q2,0,0,0,0,0,,,0
+ilend-v2,iLend V2,Lending,Injective,Injective,154.2189293638901,Q2,0,0,0,0,0,,,0
+injera,Injera,CDP,Injective,Injective,1951.2585017687072,Q2,0,0,0,0,0,,,0
+interlay-dex,Interlay Dex,Dexs,Interlay,Interlay,4255.1788243825695,Q2,0,0,0,0,0,,,0
+interlay-collateral,Interlay Collateral,Cross Chain Bridge,Interlay,Interlay,4264.91317029871,Q2,0,0,0,0,0,,,0
+quenta,Quenta,Derivatives,IoTeX,IoTeX,967.1017790166484,Q2,0,0,0,0,0,,,0
+loxodrome-perp,Loxodrome Perp,Derivatives,IoTeX,IoTeX,1960.0861477112944,Q2,0,0,0,0,0,,,0
+jibswap,JIBSWAP,Dexs,JBC,JBC,2987.209339359703,Q2,0,0,0,0,0,,,0
+jiblend,JIBLEND,Lending,JBC,JBC,624.2556155160034,Q2,0,0,0,0,0,,,0
+joltify-lend,Joltify Lend,Lending,Joltify,Joltify,5653.6873534430815,Q2,0,0,0,0,0,,,0
+sleepearn-finance,SleepEarn Finance,Yield,Kardia,Kardia,625.4790973389988,Q2,0,0,0,0,0,,,0
+becoswap,BecoSwap,Dexs,Kardia,Kardia,2008.5563151189333,Q2,0,0,0,0,0,,,0
+surfswap-classic,Surfswap Classic,Dexs,Kava,Kava,226.1172492840961,Q2,0,0,0,0,0,,,0
+lockless-protocol,Lockless Protocol,Liquid Staking,Kava,Kava;Echelon,1114.1188966640525,Q2,0,0,0,0,0,,,0
+coffer-city,Coffer City,Services,Kava,Kava,10.963285062347426,Q2,0,0,0,0,0,,,0
+line-token,LINE Token,CDP,Kava,Kava,7217.178723672393,Q2,0,0,0,0,0,,,0
+kasava-dex,Kasava Dex,Dexs,Kava,Kava,4.592086546614093,Q2,0,0,0,0,0,,,0
+kaiafun,KaiaFun,Launchpad,Klaytn,Klaytn,5192.030819901603,Q2,0,0,0,0,0,,,0
+klap,Klap,Lending,Klaytn,Klaytn,173.1423014241787,Q2,0,0,0,0,0,,,0
+weero-v2,Weero V2,Dexs,Klaytn,Klaytn,8230.58376828779,Q2,0,0,0,0,0,,,0
+neuronswap,Neuronswap,Dexs,Klaytn,Klaytn,4491.097075527159,Q2,0,0,0,0,0,,,0
+shoebill-v1,Shoebill V1,Lending,Klaytn,Klaytn;Kava,7743.4338958236385,Q2,0,0,0,0,0,,,0
+abcdefx,ABcDeFX,Dexs,Kucoin,Kucoin;Fantom;Kava;MultiVAC;Echelon,32.14911763067502,Q2,0,0,0,0,0,,,0
+black-whale,Black Whale,Yield,Kujira,Kujira,1421.4778289690237,Q2,0,0,0,0,0,,,0
+fuzion-ignition,Fuzion Ignition,Launchpad,Kujira,Kujira,2.3178553711922745,Q2,0,0,0,0,0,,,0
+fuzion-plasma,Fuzion Plasma,Services,Kujira,Kujira,108.5629344143398,Q2,0,0,0,0,0,,,0
+sigmaswap,SigmaSwap,Bridge,LUKSO,LUKSO,5874.855874799823,Q2,0,0,0,0,0,,,0
+zkex,ZKEX,Dexs,Linea,Linea;Avalanche;Arbitrum;Base;Binance;Polygon;Op_Bnb;zkSync Era;Optimism,2.0466680762820415,Q2,0,0,0,0,0,,,0
+satori-spots,Satori Spots,Dexs,Linea,Linea;Base;X Layer,3191.2969843431356,Q2,0,0,0,0,0,,,0
+3a-dao,3A DAO,CDP,Linea,Linea;Polygon,9379.554551288717,Q2,0,0,0,0,0,,,0
+moth-finance,Moth Finance,Algo-Stables,Linea,Linea,5.0989251102252435,Q2,0,0,0,0,0,,,0
+linehub-v2,LineHub V2,Dexs,Linea,Linea,352.31100107807777,Q2,0,0,0,0,0,,,0
+zukeswap,ZukeSwap,Dexs,Loop,Loop,298.2361326225528,Q2,0,0,0,0,0,,,0
+yaakoswap,Yaakoswap,Dexs,MTT Network,MTT Network,23.327080948515277,Q2,0,0,0,0,0,,,0
+rivera-money,Rivera Money,Liquidity manager,Manta,Manta;Degen;Arbitrum;Mantle;Telos;CORE;Polygon;BSquared,11646.676803359338,Q2,0,0,0,0,0,,,0
+circlepacific,CirclePacific,Dexs,Manta,Manta,9.021000720314085,Q2,0,0,0,0,0,,,0
+memeta,Memeta,Launchpad,Manta,Manta,2329.3930178791206,Q2,0,0,0,0,0,,,0
+ceto-swap,Ceto Swap,Dexs,Manta,Manta,9765.820648575414,Q2,0,0,0,0,0,,,0
+zendex,ZenDEX,CDP,Manta,Manta,538.1666933939239,Q2,0,0,0,0,0,,,0
+mantadex,MantaDEX,Dexs,Manta Atlantic,Manta Atlantic,2243.2457498016,Q2,0,0,0,0,0,,,0
+ammos-finance,Ammos Finance,Dexs,Mantle,Mantle,2414.461334553242,Q2,0,0,0,0,0,,,0
+chat3,Chat3,SoFi,Mantle,Mantle,11619.797330807256,Q2,0,0,0,0,0,,,0
+esper-finance,Esper Finance,Dexs,Mantle,Mantle,27.252243084127617,Q2,0,0,0,0,0,,,0
+swapsicle-v2,Swapsicle V2,Dexs,Mantle,Mantle;Telos;Taiko,10327.110663773392,Q2,0,0,0,0,0,,,0
+methlab,MethLab,Lending,Mantle,Mantle,10791.970196597937,Q2,0,0,0,0,0,,,0
+luckystake.app,LuckyStake.app,Yield Lottery,Mantra,Mantra,478.991466741022,Q2,0,0,0,0,0,,,0
+satsat,Satsat,Farm,Map,Map,689.2735069533798,Q2,0,0,0,0,0,,,0
+hiveswap-v2,HiveSwap V2,Dexs,Map,Map,1944.193105564534,Q2,0,0,0,0,0,,,0
+eaglefi,EagleFi,Dexs,Massa,Massa,11888.962459691367,Q2,0,0,0,0,0,,,0
+p2pflip,P2PFlip,Luck Games,Matchain,Matchain,75.90055785272355,Q2,0,0,0,0,0,,,0
+bitgenie-farm,BitGenie Farm,Farm,Merlin,Merlin,5862.26209985028,Q2,0,0,0,0,0,,,0
+jioswap,JioSwap,Dexs,Meter,Meter;Ethereum;GodwokenV1,27.119137909273284,Q2,0,0,0,0,0,,,0
+agora,Agora,Lending,Metis,Metis,7909.855089755016,Q2,0,0,0,0,0,,,0
+arena-of-faith,Arena of Faith,Farm,Metis,Metis,175.24234217165417,Q2,0,0,0,0,0,,,0
+hummus-amm,Hummus AMM,Dexs,Metis,Metis,506.7680246970471,Q2,0,0,0,0,0,,,0
+athena-finance,Athena Finance,Yield,Metis,Metis,3007.2226761941715,Q2,0,0,0,0,0,,,0
+drachma,Drachma,Dexs,Metis,Metis,5278.263565405738,Q2,0,0,0,0,0,,,0
+brightside,BrightSide,Dexs,Milkomeda A1,Milkomeda A1,1145.6817721721031,Q2,0,0,0,0,0,,,0
+mintswap-finance,MintSwap Finance,Dexs,Mint,Mint,13640.91180946531,Q2,0,0,0,0,0,,,0
+hodl-fox,Hodl Fox,Services,Mixin,Mixin,1.16,Q2,0,0,0,0,0,,,0
+supswap-v2,SupSwap V2,Dexs,Mode,Mode,892.2178720577193,Q2,0,0,0,0,0,,,0
+print3r,PRINT3R,Derivatives,Mode,Mode;Base,9.817804516447772,Q2,0,0,0,0,0,,,0
+ebisu-v1,Ebisu V1,CDP,Mode,Mode;Ethereum,8979.952798063634,Q2,0,0,0,0,0,,,0
+netweave-vaults,NetWeave Vaults,Yield,Mode,Mode,9.997018718038088,Q2,0,0,0,0,0,,,0
+modswap,Modswap,Dexs,Mode,Mode,36.025675473486814,Q2,0,0,0,0,0,,,0
+narwhal-finance,Narwhal Finance,Derivatives,Monad,Monad;Arbitrum;Binance,1657.434957486358,Q2,0,0,0,0,0,,,0
+sunflowerswap,SunflowerSwap,Farm,Moonbeam,Moonbeam,941.4921691717786,Q2,0,0,0,0,0,,,0
+beamex-perps,Beamex Perps,Derivatives,Moonbeam,Moonbeam,5083.963359652296,Q2,0,0,0,0,0,,,0
+manhattan,Manhattan,Yield,Moonbeam,Moonbeam;Polygon,650.9836409702575,Q2,0,0,0,0,0,,,0
+1beam,1Beam,Dexs,Moonbeam,Moonbeam,3303.7574681172773,Q2,0,0,0,0,0,,,0
+zoodao,ZooDAO,Yield,Moonbeam,Moonbeam;Arbitrum,9023.9835941058,Q2,0,0,0,0,0,,,0
+moonchain-swap,Moonchain Swap,Dexs,Moonchain,Moonchain,135.34139828388874,Q2,0,0,0,0,0,,,0
+1swap,1Swap,Dexs,Moonriver,Moonriver,974.7834496538154,Q2,0,0,0,0,0,,,0
+freeriver,FreeRiver,Dexs,Moonriver,Moonriver,7232.513007110165,Q2,0,0,0,0,0,,,0
+seadex,SeaDex,Dexs,Moonriver,Moonriver,1514.815566696415,Q2,0,0,0,0,0,,,0
+huckleberry-lending,Huckleberry Lending,Lending,Moonriver,Moonriver,9048.962605832065,Q2,0,0,0,0,0,,,0
+scion-finance,Scion Finance,Yield Aggregator,Moonriver,Moonriver;Fantom,1596.548509505268,Q2,0,0,0,0,0,,,0
+quokkalend,QuokkaLend,Lending,Morph,Morph,36.88548871086527,Q2,0,0,0,0,0,,,0
+momodrome,Momodrome,Dexs,Morph,Morph,7610.021989616051,Q2,0,0,0,0,0,,,0
+interest-dex,Interest DEX,Dexs,Movement,Movement,22.417677919287875,Q2,0,0,0,0,0,,,0
+interest-curve,Interest Curve,Dexs,Movement,Movement,5138.548618391916,Q2,0,0,0,0,0,,,0
+lazyfi,LazyFi,Gaming,Near,Near,25.69608767268239,Q2,0,0,0,0,0,,,0
+meme-cooking,Meme Cooking,Launchpad,Near,Near,1703.6797860809236,Q2,0,0,0,0,0,,,0
+spin-perps,Spin Perps,Derivatives,Near,Near,9788.420992252688,Q2,0,0,0,0,0,,,0
+nearlend-dao,Nearlend DAO,Lending,Near,Near,10.840250931160638,Q2,0,0,0,0,0,,,0
+spin-dov,Spin DOV,Options Vault,Near,Near,12658.664954895348,Q2,0,0,0,0,0,,,0
+carrot-swap,Carrot Swap,Dexs,Neo X Mainnet,Neo X Mainnet,12536.272585255756,Q2,0,0,0,0,0,,,0
+asteroneo,Asteroneo,Dexs,Neo X Mainnet,Neo X Mainnet,1860.0883465112777,Q2,0,0,0,0,0,,,0
+lumen-money,Lumen Money,Lending,Neon,Neon,9950.594557397715,Q2,0,0,0,0,0,,,0
+moraswap-v2,Moraswap V2,Dexs,Neon,Neon,11466.45600240029,Q2,0,0,0,0,0,,,0
+moraswap-v3,Moraswap V3,Dexs,Neon,Neon,6236.72042200965,Q2,0,0,0,0,0,,,0
+eclipsefi,EclipseFi,Launchpad,Neutron,Neutron,9894.066178394336,Q2,0,0,0,0,0,,,0
+ngmi-zone,NGMI Zone,Luck Games,Neutron,Neutron,31.67351477642625,Q2,0,0,0,0,0,,,0
+apollodao,ApolloDAO,Yield,Neutron,Neutron;Osmosis;Terra,10940.345815879908,Q2,0,0,0,0,0,,,0
+nfa-zone,NFA Zone,Launchpad,Neutron,Neutron,728.9576443101646,Q2,0,0,0,0,0,,,0
+elyx-finance,Elyx Finance,Indexes,Nibiru,Nibiru,4554.592902692497,Q2,0,0,0,0,0,,,0
+nebula-lending,Nebula Lending,Lending,Nibiru,Nibiru,573.648593577374,Q2,0,0,0,0,0,,,0
+omniswap,OmniSwap,Dexs,Nibiru,Nibiru,97.6053556987902,Q2,0,0,0,0,0,,,0
+flux-protocol,Flux Protocol,Lending,OKExChain,OKExChain;Binance;Polygon;Arbitrum;Ethereum;Conflux,71.63045172744869,Q2,0,0,0,0,0,,,0
+oakfarm,OakFarm,Yield,OKExChain,OKExChain,20.20653036756261,Q2,0,0,0,0,0,,,0
+dogeclaw,DogeClaw,Gaming,OKExChain,OKExChain,9.983594417415787,Q2,0,0,0,0,0,,,0
+klend,KLend,Lending,OKExChain,OKExChain;Binance,1447.0128382959713,Q2,0,0,0,0,0,,,0
+oaswap,Oaswap,Dexs,Oasis,Oasis,539.3645532648515,Q2,0,0,0,0,0,,,0
+valleyswap,ValleySwap,Dexs,Oasis,Oasis,105.4830768655686,Q2,0,0,0,0,0,,,0
+sahara-exchange,Sahara Exchange,Dexs,Oasis,Oasis,107.20366631672736,Q2,0,0,0,0,0,,,0
+lizard,Lizard,Dexs,Oasis,Oasis,876.5145403969443,Q2,0,0,0,0,0,,,0
+tulip,Tulip,Algo-Stables,Oasis,Oasis,12667.3827189432,Q2,0,0,0,0,0,,,0
+tealswap-v2,Tealswap V2,Dexs,Oasys,Oasys,4046.942433090359,Q2,0,0,0,0,0,,,0
+oas-jumbo,OAS Jumbo,Farm,Oasys,Oasys,9500.870062011028,Q2,0,0,0,0,0,,,0
+kivach,Kivach,Payments,Obyte,Obyte,678.4597993430383,Q2,0,0,0,0,0,,,0
+prophet,Prophet,Prediction Market,Obyte,Obyte,1326.5594053543928,Q2,0,0,0,0,0,,,0
+pythagorean,Pythagorean,Dexs,Obyte,Obyte,257.47635913424983,Q2,0,0,0,0,0,,,0
+omax-swap,Omax Swap,Dexs,Omax,Omax,13945.60049153593,Q2,0,0,0,0,0,,,0
+opbanana,opBANANA,Dexs,Op_Bnb,Op_Bnb,88.62823162882157,Q2,0,0,0,0,0,,,0
+v2swap,v2swap,Dexs,Op_Bnb,Op_Bnb,43.14910163329879,Q2,0,0,0,0,0,,,0
+allinxswap,AllInXSwap,Dexs,Op_Bnb,Op_Bnb;Binance,366.78659191985616,Q2,0,0,0,0,0,,,0
+xops-finance,Xops Finance,Dexs,Op_Bnb,Op_Bnb,186.2773550244337,Q2,0,0,0,0,0,,,0
+grokswap,GrokSwap,Dexs,Op_Bnb,Op_Bnb,6.029183860764129,Q2,0,0,0,0,0,,,0
+2pi-network,2Pi Network,Yield,Optimism,Optimism;Polygon;Binance;Avalanche,2390.645429893856,Q2,0,0,0,0,0,,,0
+synthetix-v1+v2,Synthetix v1+v2,Synthetics,Optimism,Optimism;Ethereum,1789.2176490690797,Q2,0,0,0,0,0,,,0
+superswap-v3,SuperSwap V3,Dexs,Optimism,Optimism,542.7387116357232,Q2,0,0,0,0,0,,,0
+betmode,BetMode,Luck Games,Optimism,Optimism;Mode;Base,945.0204454289872,Q2,0,0,0,0,0,,,0
+lemma,Lemma,Derivatives,Optimism,Optimism,9966.724234659485,Q2,0,0,0,0,0,,,0
+ibcx,IBCX,Indexes,Osmosis,Osmosis,4657.69326836836,Q2,0,0,0,0,0,,,0
+machinex-legacy,MachineX Legacy,Dexs,Peaq,Peaq,12061.038853604146,Q2,0,0,0,0,0,,,0
+penumbra-dex,Penumbra Dex,Dexs,Penumbra,Penumbra,10999.3843775574,Q2,0,0,0,0,0,,,0
+physica-finance,Physica Finance,Dexs,Planq,Planq,2406.174552344141,Q2,0,0,0,0,0,,,0
+ciento-exchange,Ciento Exchange,Dexs,Planq,Planq,3303.8684577847425,Q2,0,0,0,0,0,,,0
+fuseon,Fuseon,Dexs,Plasma,Plasma,5298.874685409311,Q2,0,0,0,0,0,,,0
+fractit-fleet,Fractit Fleet,RWA,Plume Mainnet,Plume Mainnet;Botanix,9.007443195509074,Q2,0,0,0,0,0,,,0
+iziswap-classic,iZiSwap Classic,Dexs,Plume Mainnet,Plume Mainnet,158.4073216699823,Q2,0,0,0,0,0,,,0
+legacy-canary-protocol,Legacy Canary Protocol,Yield Aggregator,Plume Mainnet,Plume Mainnet,8543.028760002428,Q2,0,0,0,0,0,,,0
+smartdex,SmartDEX,Dexs,Polygon,Polygon,8951.524315962639,Q2,0,0,0,0,0,,,0
+vesq,Vesq,Reserve Currency,Polygon,Polygon,2.4548131673470857,Q2,0,0,0,0,0,,,0
+ajira-pay-finance-v1,Ajira Pay Finance V1,Payments,Polygon,Polygon;Kava,36.63206240288253,Q2,0,0,0,0,0,,,0
+polyshield,PolyShield,Yield,Polygon,Polygon,11016.581221218208,Q2,0,0,0,0,0,,,0
+bob-cdp,BOB CDP,CDP,Polygon,Polygon,612.6541181241345,Q2,0,0,0,0,0,,,0
+zkdefi,zkDefi,Dexs,Polygon zkEVM,Polygon zkEVM,61.810162567710854,Q2,0,0,0,0,0,,,0
+dirac-finance,Dirac Finance,Options Vault,Polygon zkEVM,Polygon zkEVM,2084.0131689550967,Q2,0,0,0,0,0,,,0
+sandyswap,SandySwap,Dexs,Polygon zkEVM,Polygon zkEVM,751.1564880563313,Q2,0,0,0,0,0,,,0
+cygnusdao,CygnusDAO,Lending,Polygon zkEVM,Polygon zkEVM;Polygon;Arbitrum,2340.883917735682,Q2,0,0,0,0,0,,,0
+tropykus-zkevm,Tropykus zkEVM,Lending,Polygon zkEVM,Polygon zkEVM,2893.85786701705,Q2,0,0,0,0,0,,,0
+pryzm-protocol,Pryzm Protocol,Yield,Pryzm,Pryzm,10717.10941171237,Q2,0,0,0,0,0,,,0
+plsprint,PlsPrint,Staking Pool,Pulse,Pulse,6.036773826365815,Q2,0,0,0,0,0,,,0
+shibshift,ShibShift,Dexs,Pulse,Pulse,3414.188430602174,Q2,0,0,0,0,0,,,0
+1pulse,1Pulse,Dexs,Pulse,Pulse,7.126674169151049,Q2,0,0,0,0,0,,,0
+yieldpulse-finance,YieldPulse Finance,Farm,Pulse,Pulse,168.32937467934346,Q2,0,0,0,0,0,,,0
+eazyswap,EazySwap,Dexs,Pulse,Pulse,2047.5916459757152,Q2,0,0,0,0,0,,,0
+q-infinity,Q Infinity,Farm,Q Protocol,Q Protocol,2249.2738594947295,Q2,0,0,0,0,0,,,0
+q-borrowing,Q Borrowing,Lending,Q Protocol,Q Protocol,9381.00690407208,Q2,0,0,0,0,0,,,0
+oortswap,OortSwap,Dexs,REI,REI,1191.7402290289815,Q2,0,0,0,0,0,,,0
+nava-finance,Nava finance,Algo-Stables,REI,REI,416.1938047136469,Q2,0,0,0,0,0,,,0
+blindex,Blindex,Algo-Stables,RSK,RSK,13683.252275438064,Q2,0,0,0,0,0,,,0
+flux,Flux,CDP,Radix,Radix,10945.002749846231,Q2,0,0,0,0,0,,,0
+stab-protocol,STAB Protocol,CDP,Radix,Radix,5619.498845998356,Q2,0,0,0,0,0,,,0
+gable-finance,Gable Finance,Yield,Radix,Radix,4632.096420293144,Q2,0,0,0,0,0,,,0
+astrolescent,Astrolescent,Dexs,Radix,Radix,210.79512182613473,Q2,0,0,0,0,0,,,0
+srwa-lending,SRWA Lending,Lending,Radix,Radix,879.059600734457,Q2,0,0,0,0,0,,,0
+tradeogre,TradeOgre,CEX,Ripple,Ripple;Ethereum;Tron;Avalanche;Polygon;Binance,422.3625368675641,Q2,0,0,0,0,0,,,0
+firi,Firi,CEX,Ripple,Ripple;Ethereum;Cardano;Solana;Bitcoin,41.33352645721633,Q2,0,0,0,0,0,,,0
+vine-money,Vine Money,CDP,Sapphire,Sapphire,2979.939668702289,Q2,0,0,0,0,0,,,0
+neby-dex,NEBY DEX,Dexs,Sapphire,Sapphire,4722.381090915303,Q2,0,0,0,0,0,,,0
+lolpad-finance,LolPad Finance,Dexs,Scroll,Scroll,3.91076130657592,Q2,0,0,0,0,0,,,0
+voltageswap,VoltageSwap,Dexs,Scroll,Scroll,93.06195113197532,Q2,0,0,0,0,0,,,0
+loanshark-core,Loanshark Core,Lending,Scroll,Scroll,12751.3799982415,Q2,0,0,0,0,0,,,0
+scroll-swap,Scroll Swap,Dexs,Scroll,Scroll,9182.426768082256,Q2,0,0,0,0,0,,,0
+asteria-finance,Asteria Finance,Dexs,Scroll,Scroll,220.81860601298655,Q2,0,0,0,0,0,,,0
+seaswap,SeaSwap,Dexs,Sei,Sei,615.9085924819462,Q2,0,0,0,0,0,,,0
+citrex-markets,Citrex Markets,Derivatives,Sei,Sei,1908.4377750464232,Q2,0,0,0,0,0,,,0
+kawa-finance,Kawa Finance,Lending,Sei,Sei,788.7608988716535,Q2,0,0,0,0,0,,,0
+apollon,Apollon,Synthetics,Sei,Sei,4621.681435465034,Q2,0,0,0,0,0,,,0
+kuraswap-legacy,KuraSwap Legacy,Dexs,Sei,Sei,36.900608371390064,Q2,0,0,0,0,0,,,0
+multex,MultEX,Dexs,Shape,Shape,112.09745182206792,Q2,0,0,0,0,0,,,0
+ball-exchange,Ball Exchange,Dexs,Shibarium,Shibarium,109.00830879880354,Q2,0,0,0,0,0,,,0
+bondle,Bondle,Launchpad,Shibarium,Shibarium,112.64612182392888,Q2,0,0,0,0,0,,,0
+woof-finance,Woof Finance,Dexs,Shibarium,Shibarium,336.3891152800403,Q2,0,0,0,0,0,,,0
+dalmatian,Dalmatian,Dexs,Shibarium,Shibarium,327.603658322705,Q2,0,0,0,0,0,,,0
+shibex,Shibex,Dexs,Shibarium,Shibarium,7151.598565433401,Q2,0,0,0,0,0,,,0
+kaco-finance,KACO Finance,Dexs,Shiden,Shiden;Binance,13767.414308558324,Q2,0,0,0,0,0,,,0
+iotabee,Iotabee,Dexs,ShimmerEVM,ShimmerEVM,9519.514699677704,Q2,0,0,0,0,0,,,0
+tangleswap,TangleSwap,Dexs,ShimmerEVM,ShimmerEVM;Milkomeda,1635.6766743450858,Q2,0,0,0,0,0,,,0
+accumulator,Accumulator,Yield Aggregator,ShimmerEVM,ShimmerEVM,2165.0761195816435,Q2,0,0,0,0,0,,,0
+swapline-v1,Swapline V1,Dexs,ShimmerEVM,ShimmerEVM;Optimism;Fantom;Base;Arbitrum;Polygon zkEVM,3179.076648804328,Q2,0,0,0,0,0,,,0
+fizzswap-v3,Fizzswap V3,Dexs,Silicon zkEVM,Silicon zkEVM,6172.232304997906,Q2,0,0,0,0,0,,,0
+fizzswap-v2,Fizzswap V2,Dexs,Silicon zkEVM,Silicon zkEVM,1904.6036950799064,Q2,0,0,0,0,0,,,0
+beluga-protocol,Beluga Protocol,Dexs,Solana,Solana,302.38681465544,Q2,0,0,0,0,0,,,0
+opendelta-perpetual-bond,OpenDelta Perpetual Bond,Basis Trading,Solana,Solana,12.29741232557116,Q2,0,0,0,0,0,,,0
+goosefx-v1,GooseFX V1,Dexs,Solana,Solana,54.501222610311586,Q2,0,0,0,0,0,,,0
+boop.fun,boop.fun,Launchpad,Solana,Solana,12723.46963258518,Q2,0,0,0,0,0,,,0
+renec-lend,Renec Lend,Lending,Solana,Solana;RENEC,11031.95403249613,Q2,0,0,0,0,0,,,0
+standard-spot-clob,Standard Spot CLOB,Dexs,Somnia,Somnia,173.66968443602127,Q2,0,0,0,0,0,,,0
+copump,Copump,Launchpad,Soneium,Soneium;Morph;Linea;Taiko;Sophon;CORE;Celo;Scroll;Sonic,3100.3604445424057,Q2,0,0,0,0,0,,,0
+sonus-exchange-clmm,Sonus Exchange CLMM,Dexs,Soneium,Soneium,13427.742957612025,Q2,0,0,0,0,0,,,0
+synstation,SynStation,Prediction Market,Soneium,Soneium;Ethereum;Astar,11601.526833429816,Q2,0,0,0,0,0,,,0
+oracle-swap,Oracle Swap,Dexs,Songbird,Songbird,12494.633103927325,Q2,0,0,0,0,0,,,0
+flrloans,FLRLoans,CDP,Songbird,Songbird,980.328777557074,Q2,0,0,0,0,0,,,0
+amped-finance,Amped Finance,Derivatives,Sonic,Sonic;Superseed;Base;LightLink;Binance;Berachain,10892.003153562848,Q2,0,0,0,0,0,,,0
+sonicxswap,Sonicxswap,Dexs,Sonic,Sonic,3150.6352109120785,Q2,0,0,0,0,0,,,0
+sonic-market-liquidity-vault,Sonic Market Liquidity Vault,Dexs,Sonic,Sonic,2808.543129922404,Q2,0,0,0,0,0,,,0
+angles-liquid,Angles Liquid,Onchain Capital Allocator,Sonic,Sonic,416.5348765780339,Q2,0,0,0,0,0,,,0
+magsinio,Magsinio,Lending,Sonic,Sonic,138.09625519793224,Q2,0,0,0,0,0,,,0
+scoreplay.xyz,ScorePlay.xyz,Prediction Market,Sophon,Sophon;Base,3091.910977225618,Q2,0,0,0,0,0,,,0
+uwu-protocol,UWU Protocol,CDP,Stacks,Stacks,3028.808872849884,Q2,0,0,0,0,0,,,0
+satoshi-dex,Satoshi DEX,Dexs,Stacks,Stacks,4584.2238620798435,Q2,0,0,0,0,0,,,0
+cairofi,CairoFi,Dexs,Starknet,Starknet,1569.1859197057515,Q2,0,0,0,0,0,,,0
+starksport,Starksport,Dexs,Starknet,Starknet,369.8952760143351,Q2,0,0,0,0,0,,,0
+zklend-lst,zkLend LST,Liquid Staking,Starknet,Starknet,390.17609337144074,Q2,0,0,0,0,0,,,0
+liquid-agents,Liquid Agents,Liquid Staking,Sui,Sui,8475.369558293383,Q2,0,0,0,0,0,,,0
+degenhive-lst,DegenHive LST,Liquid Staking,Sui,Sui,302.6559937840636,Q2,0,0,0,0,0,,,0
+jackson-protocol,Jackson Protocol,Prediction Market,Sui,Sui,4690.886796638578,Q2,0,0,0,0,0,,,0
+degenhive-amm,DegenHive AMM,Dexs,Sui,Sui,168.92083697027232,Q2,0,0,0,0,0,,,0
+poseidollar,Poseidollar,Algo-Stables,Sui,Sui,2.4798086360034604,Q2,0,0,0,0,0,,,0
+seedfi-perp,SeedFi Perp,Derivatives,Superseed,Superseed,2685.216615129437,Q2,0,0,0,0,0,,,0
+seedfi-amm,SeedFi AMM,Dexs,Superseed,Superseed,12367.875078633404,Q2,0,0,0,0,0,,,0
+neptune,Neptune,Dexs,Swellchain,Swellchain,1526.5353200833445,Q2,0,0,0,0,0,,,0
+aqua-protocol,Aqua Protocol,CDP,TON,TON,112.27182739250186,Q2,0,0,0,0,0,,,0
+tegro-finance,Tegro Finance,Dexs,TON,TON,13266.88279568802,Q2,0,0,0,0,0,,,0
+mugglelink,MuggleLink,Services,TON,TON,598.0935418415377,Q2,0,0,0,0,0,,,0
+bagel-finance-v2,Bagel Finance V2,Indexes,TON,TON,61.22893247258936,Q2,0,0,0,0,0,,,0
+tonnel-network,Tonnel Network,Privacy,TON,TON,11026.981258454682,Q2,0,0,0,0,0,,,0
+henjin-dex,Henjin DEX,Dexs,Taiko,Taiko;Base,2315.3883984374415,Q2,0,0,0,0,0,,,0
+axion-finance-v3,Axion Finance V3,Dexs,Taiko,Taiko,8.932292113840338,Q2,0,0,0,0,0,,,0
+tanukix,TanukiX,Dexs,Taiko,Taiko,37.09443982040469,Q2,0,0,0,0,0,,,0
+unagiswap,unagiswap,Dexs,Taiko,Taiko,308.97067871579713,Q2,0,0,0,0,0,,,0
+daikodex,DaikoDEX,Dexs,Taiko,Taiko,3125.2509549702445,Q2,0,0,0,0,0,,,0
+taraperps,TaraPerps,Derivatives,Taraxa,Taraxa,650.9529320279187,Q2,0,0,0,0,0,,,0
+fomoswap-v2,FomoSwap V2,Dexs,Taraxa,Taraxa,5392.804570133143,Q2,0,0,0,0,0,,,0
+archly-v2,Archly V2,Dexs,Telos,Telos;Arbitrum;Base;Optimism;Kava;Arbitrum Nova;Zora;Binance;Avalanche;Cronos;Fantom;Polygon;Neon;zkSync Era;Fraxtal;Sonic;Ethereum;Mode;Metis;Filecoin;Blast;Mantle,2705.8477114107936,Q2,0,0,0,0,0,,,0
+hexaswap,Hexaswap,Dexs,Telos,Telos,3.9864258679233737,Q2,0,0,0,0,0,,,0
+yieldhub-finance,YieldHub Finance,Yield Aggregator,Telos,Telos,115.3653645231345,Q2,0,0,0,0,0,,,0
+meridian-swap,Meridian Swap,Dexs,Telos,Telos,12446.118726431032,Q2,0,0,0,0,0,,,0
+omnidex-swap,OmniDex Swap,Dexs,Telos,Telos,881.6757326906101,Q2,0,0,0,0,0,,,0
+edge-protocol,Edge Protocol,Lending,Terra,Terra,4355.100955656045,Q2,0,0,0,0,0,,,0
+loop-finance,Loop Finance,Dexs,Terra,Terra;Juno,13307.912937004006,Q2,0,0,0,0,0,,,0
+white-whale-vaults,White Whale Vaults,Yield,Terra,Terra,98.38899518526712,Q2,0,0,0,0,0,,,0
+soluna,Soluna,Yield,Terra,Terra,2330.315199036256,Q2,0,0,0,0,0,,,0
+tfm,TFM,Dexs,Terra,Terra,1486.7039771427585,Q2,0,0,0,0,0,,,0
+prism-protocol,PRISM Protocol,Yield,Terra2,Terra2;Terra,4947.039187447534,Q2,0,0,0,0,0,,,0
+ura-dex,Ura Dex,Dexs,Terra2,Terra2,4619.544945310883,Q2,0,0,0,0,0,,,0
+phoenix-dex,Phoenix DEX,Dexs,Terra2,Terra2,6754.96449266494,Q2,0,0,0,0,0,,,0
+spectrum-protocol,Spectrum Protocol,Yield,Terra2,Terra2;Terra,11158.978072972694,Q2,0,0,0,0,0,,,0
+aliensfarm,AliensFarm,Dexs,Tezos,Tezos,1271.4151593627869,Q2,0,0,0,0,0,,,0
+flame-defi,Flame DeFi,Yield,Tezos,Tezos,1710.2219409951315,Q2,0,0,0,0,0,,,0
+vortex-protocol,Vortex Protocol,Dexs,Tezos,Tezos,10376.98204091912,Q2,0,0,0,0,0,,,0
+mori-protocol,Mori Protocol,Dexs,TomoChain,TomoChain,477.2075056610205,Q2,0,0,0,0,0,,,0
+garble.money,Garble.Money,Privacy,Tron,Tron,1003.651820452812,Q2,0,0,0,0,0,,,0
+flatcoin-dex,FlatCoin DEX,Farm,Tron,Tron,12.497218566006987,Q2,0,0,0,0,0,,,0
+vii-finance,VII Finance,Leveraged Farming,Unichain,Unichain,3170.958146358904,Q2,0,0,0,0,0,,,0
+symblox,Symblox,Synthetics,Velas,Velas,10172.78848784604,Q2,0,0,0,0,0,,,0
+earnifty,Earnifty,Yield Aggregator,Velas,Velas,67.48058587580759,Q2,0,0,0,0,0,,,0
+vinuswap,VinuSwap,Dexs,VinuChain,VinuChain,9720.854370630002,Q2,0,0,0,0,0,,,0
+vinufinance,VinuFinance,Lending,VinuChain,VinuChain,131.59552182665402,Q2,0,0,0,0,0,,,0
+vitcswap,VITCSwap,Dexs,Vite,Vite,4777.542523288058,Q2,0,0,0,0,0,,,0
+beefstake,BeefStake,Yield,Vite,Vite,10059.582075721108,Q2,0,0,0,0,0,,,0
+deltafi,DELTAFi,Synthetics,WEMIX,WEMIX,152.32644524098984,Q2,0,0,0,0,0,,,0
+rexdex,RexDex,Dexs,Wanchain,Wanchain,8298.10454675874,Q2,0,0,0,0,0,,,0
+aquadex,Aquadex,Dexs,Waterfall,Waterfall,1.2183562349753696,Q2,0,0,0,0,0,,,0
+neftyblocks,NeftyBlocks,NFT Marketplace,Wax,Wax,4732.547487655083,Q2,0,0,0,0,0,,,0
+nft-hive,NFT Hive,NFT Marketplace,Wax,Wax,4346.7942179916245,Q2,0,0,0,0,0,,,0
+waxdao,WaxDAO,Services,Wax,Wax,246.07969961669045,Q2,0,0,0,0,0,,,0
+r-planet,R-Planet,Gaming,Wax,Wax,2427.484982776499,Q2,0,0,0,0,0,,,0
+wax.fun,WAX.FUN,Launchpad,Wax,Wax,2752.87559461622,Q2,0,0,0,0,0,,,0
+fisclend-finance,Fisclend Finance,Lending,World Chain,World Chain;Sonic;ApeChain,59.09373034621911,Q2,0,0,0,0,0,,,0
+magnify-cash,Magnify Cash,Lending,World Chain,World Chain,157.04351124861338,Q2,0,0,0,0,0,,,0
+z3z,Z3Z,Gaming,World Chain,World Chain,1807.965863723265,Q2,0,0,0,0,0,,,0
+meme-wallet,Meme Wallet,Launchpad,World Chain,World Chain,4881.483331051999,Q2,0,0,0,0,0,,,0
+x3x,X3X,Prediction Market,World Chain,World Chain,2718.8288847009053,Q2,0,0,0,0,0,,,0
+jaceswap,JaceSwap,Dexs,X Layer,X Layer,9883.26516257027,Q2,0,0,0,0,0,,,0
+lfgswap-xlayer,LFGSwap XLayer,Dexs,X Layer,X Layer,5264.53699402754,Q2,0,0,0,0,0,,,0
+xtrade,XTrade,Dexs,X Layer,X Layer,187.64752888831757,Q2,0,0,0,0,0,,,0
+okielaunch,OkieLaunch,Launchpad,X Layer,X Layer,849.4369930955997,Q2,0,0,0,0,0,,,0
+stationdex-v3,StationDEX V3,Dexs,X Layer,X Layer,1192.6587511058744,Q2,0,0,0,0,0,,,0
+nexus-portal,Nexus Portal,Dexs,XDC,XDC,10240.930204635602,Q2,0,0,0,0,0,,,0
+globiance,Globiance,Dexs,XDC,XDC,11469.705126273291,Q2,0,0,0,0,0,,,0
+blaze-swap,Blaze Swap,Dexs,XION,XION,4936.087205759801,Q2,0,0,0,0,0,,,0
+moai-v2,Moai V2,Dexs,XRPL EVM,XRPL EVM,321.1459599996224,Q2,0,0,0,0,0,,,0
+moai-v3,Moai V3,Dexs,XRPL EVM,XRPL EVM,1847.5712210433687,Q2,0,0,0,0,0,,,0
+surgedefi,SurgeDefi,Dexs,XRPL EVM,XRPL EVM,6698.970913709762,Q2,0,0,0,0,0,,,0
+kaleidocube,KaleidoCube,Dexs,Xai,Xai;Arbitrum,13649.88965194044,Q2,0,0,0,0,0,,,0
+dopin-protocol,Dopin Protocol,Dexs,Xphere,Xphere;Taraxa,5.952788353278127,Q2,0,0,0,0,0,,,0
+eddyfinance-v3,EddyFinance V3,Dexs,ZetaChain,ZetaChain,9314.150887248616,Q2,0,0,0,0,0,,,0
+omnipool,Omnipool,Liquid Staking,ZetaChain,ZetaChain,636.0835265740719,Q2,0,0,0,0,0,,,0
+beam-dex,Beam Dex,Dexs,ZetaChain,ZetaChain,1123.9484021095952,Q2,0,0,0,0,0,,,0
+zedaswap,ZedaSwap,Dexs,ZetaChain,ZetaChain,1008.3251279719078,Q2,0,0,0,0,0,,,0
+golden-finance,Golden Finance,Derivatives,ZetaChain,ZetaChain,13399.282007264495,Q2,0,0,0,0,0,,,0
+ionise,Ionise,Lending,Zilliqa,Zilliqa,4357.775393723402,Q2,0,0,0,0,0,,,0
+plunderswap-v2,PlunderSwap V2,Dexs,Zilliqa,Zilliqa,4352.570451969011,Q2,0,0,0,0,0,,,0
+avely-swap,Avely Swap,Dexs,Zilliqa,Zilliqa,844.5737657768357,Q2,0,0,0,0,0,,,0
+pillar,Pillar,Algo-Stables,Zilliqa,Zilliqa,1251.9191677944,Q2,0,0,0,0,0,,,0
+pumpxy,PumpXY,Launchpad,Zircuit,Zircuit,243.33188238843948,Q2,0,0,0,0,0,,,0
+ocelex-v1,Ocelex V1,Dexs,Zircuit,Zircuit,3021.164684674599,Q2,0,0,0,0,0,,,0
+inu-fair,INU FAIR,Dexs,Zkfair,Zkfair,803.0677254136896,Q2,0,0,0,0,0,,,0
+venuswap,Venuswap,Dexs,Zkfair,Zkfair,1479.859681529829,Q2,0,0,0,0,0,,,0
+zkfairswap,ZKFairSwap,Dexs,Zkfair,Zkfair,263.36155387391307,Q2,0,0,0,0,0,,,0
+ibtc-finance,iBTC Finance,Liquid Restaking,exSat,exSat,366.6783845306851,Q2,0,0,0,0,0,,,0
+emberswap,EmberSwap,Dexs,smartBCH,smartBCH,1651.8941823912292,Q2,0,0,0,0,0,,,0
+smartdexbch,SmartDEXBCH,Dexs,smartBCH,smartBCH,1244.852616710721,Q2,0,0,0,0,0,,,0
+honkswap,HonkSwap,Dexs,smartBCH,smartBCH,1588.6014769641492,Q2,0,0,0,0,0,,,0
+catsluck,CatsLuck,Prediction Market,smartBCH,smartBCH,2962.048362760805,Q2,0,0,0,0,0,,,0
+mantra-protocol,Mantra Protocol,NFT Lending,smartBCH,smartBCH;Shibarium;Dogechain;Cronos,2445.135408841056,Q2,0,0,0,0,0,,,0
+dumpex,DumpEX,Farm,xDai,xDai;Binance;Blast;Linea;Ethereum;Base;Optimism;Arbitrum;Avalanche;Polygon;Fantom,6.900972725731524,Q2,0,0,0,0,0,,,0
+fuji-v2,Fuji V2,Lending,xDai,xDai;Arbitrum;Ethereum;Polygon;Optimism,2683.2635350531114,Q2,0,0,0,0,0,,,0
+mu-exchange,Mu Exchange,Derivatives,xDai,xDai,942.8089129817062,Q2,0,0,0,0,0,,,0
+desyn-safe,DeSyn Safe,Farm,zkLink,zkLink;Merlin;Bitlayer;Arbitrum;Mode;CORE;AILayer;BSquared;Hemi;Binance;Goat;Plume Mainnet;Linea;Scroll;exSat;HashKey Chain,9010.024048668034,Q2,0,0,0,0,0,,,0
+logx-v1,LogX V1,Derivatives,zkLink,zkLink;Telos;Manta;Mode;Linea;Mantle;Fuse;Kroma,3656.433485849376,Q2,0,0,0,0,0,,,0
+novaswap-v1,NovaSwap V1,Dexs,zkLink,zkLink,1026.037506204705,Q2,0,0,0,0,0,,,0
+ko.one,ko.one,Dexs,zkSync Era,zkSync Era,425.5084543770607,Q2,0,0,0,0,0,,,0
+syncus,Syncus,Reserve Currency,zkSync Era,zkSync Era;Ethereum,13.968303208717582,Q2,0,0,0,0,0,,,0
+dexilla,Dexilla,Dexs,zkSync Era,zkSync Era;Mode;Optimism;Arbitrum;Base,149.0271254030552,Q2,0,0,0,0,0,,,0
+zk-swap,zk-Swap,Dexs,zkSync Era,zkSync Era,4534.49029466128,Q2,0,0,0,0,0,,,0
+rfx-exchange-v2,RFX Exchange V2,Derivatives,zkSync Era,zkSync Era;Sonic,499.22198387974447,Q2,0,0,0,0,0,,,0
+ainn-swap,AINN Swap,Dexs,AILayer,AILayer,72907.80434189999,Q3,0,0,0,0,0,,,0
+liquidops,LiquidOps,Lending,AO,AO,45211.39256484981,Q3,0,0,0,0,0,,,0
+kona-v2,Kona V2,Dexs,Abstract,Abstract,393040.760828028,Q3,0,0,0,0,0,,,0
+zoo.fun,ZOO.FUN,Launchpad,Abstract,Abstract,25854.339526697247,Q3,0,0,0,0,0,,,0
+noxa,NOXA,Dexs,Abstract,Abstract,73720.20098958493,Q3,0,0,0,0,0,,,0
+gacha,Gacha,Prediction Market,Abstract,Abstract,33859.49869026223,Q3,0,0,0,0,0,,,0
+witty,Witty,Gaming,Abstract,Abstract,37000.70535479984,Q3,0,0,0,0,0,,,0
+taiga-acala,Taiga Acala,Synthetics,Acala,Acala,220064.8300546735,Q3,0,0,0,0,0,,,0
+acala-euphrates,Acala Euphrates,Yield,Acala,Acala,519074.4134650874,Q3,0,0,0,0,0,,,0
+inter-protocol,Inter Protocol,CDP,Agoric,Agoric,110462.52156918313,Q3,0,0,0,0,0,,,0
+ayin,AYIN,Dexs,Alephium,Alephium,86191.32205530563,Q3,0,0,0,0,0,,,0
+elexium,Elexium,Dexs,Alephium,Alephium,239743.16180810193,Q3,0,0,0,0,0,,,0
+nightshade-finance,Nightshade Finance,Dexs,Alephium,Alephium,278306.2975405672,Q3,0,0,0,0,0,,,0
+tardly,Tardly,Yield Lottery,Algorand,Algorand,73781.20467581878,Q3,0,0,0,0,0,,,0
+algorai-finance,AlgoRai Finance,Options Vault,Algorand,Algorand,17357.80190111035,Q3,0,0,0,0,0,,,0
+gard,GARD,CDP,Algorand,Algorand,22199.994920420304,Q3,0,0,0,0,0,,,0
+algofi-swap,Algofi Swap,Dexs,Algorand,Algorand,69446.35606093271,Q3,0,0,0,0,0,,,0
+myth-finance-dualstake,Myth Finance dualSTAKE,Liquid Staking,Algorand,Algorand,297583.20839550346,Q3,0,0,0,0,0,,,0
+ancient8-swap,Ancient8 Swap,Dexs,Ancient8,Ancient8,86849.9971134159,Q3,0,0,0,0,0,,,0
+ape-express,Ape Express,Launchpad,ApeChain,ApeChain,43073.49468824729,Q3,0,0,0,0,0,,,0
+apebank,ApeBank,Lending,ApeChain,ApeChain,159556.82791832878,Q3,0,0,0,0,0,,,0
+clutch-markets,Clutch Markets,Prediction Market,ApeChain,ApeChain;Arbitrum,410653.62986339186,Q3,0,0,0,0,0,,,0
+abel-finance,ABEL Finance,Lending,Aptos,Aptos,256435.5155908135,Q3,0,0,0,0,0,,,0
+aptin-finance-v1,Aptin Finance V1,Lending,Aptos,Aptos,50454.49952018403,Q3,0,0,0,0,0,,,0
+aux-exchange,AUX Exchange,Dexs,Aptos,Aptos,15277.681243665797,Q3,0,0,0,0,0,,,0
+tortuga,Tortuga,Liquid Staking,Aptos,Aptos,32722.24222881686,Q3,0,0,0,0,0,,,0
+moneyfi,MoneyFi,Yield Aggregator,Aptos,Aptos;CORE;Base;Binance;Soneium;Optimism;Arbitrum;Ethereum,396951.2206803263,Q3,0,0,0,0,0,,,0
+fluidity-money,Fluidity Money,CDP,Arbitrum,Arbitrum;Ethereum;Solana,66698.87981248011,Q3,0,0,0,0,0,,,0
+rho-protocol,Rho Protocol,Derivatives,Arbitrum,Arbitrum,61329.364024000555,Q3,0,0,0,0,0,,,0
+renegade,Renegade,Dexs,Arbitrum,Arbitrum;Base,342130.8504645041,Q3,0,0,0,0,0,,,0
+ordernchaos,OrderNChaos,Algo-Stables,Arbitrum,Arbitrum;Avalanche;Binance;zkSync Era;Kava,60685.70180730559,Q3,0,0,0,0,0,,,0
+lsp.finance,LSP.Finance,Staking Pool,Arbitrum,Arbitrum,219763.27047124747,Q3,0,0,0,0,0,,,0
+rcpswap,RCPswap,Dexs,Arbitrum Nova,Arbitrum Nova,69107.89503585856,Q3,0,0,0,0,0,,,0
+arbswap-amm,Arbswap AMM,Dexs,Arbitrum Nova,Arbitrum Nova;Arbitrum,342842.4758031658,Q3,0,0,0,0,0,,,0
+astrovault,Astrovault,Dexs,Archway,Archway;Nibiru;Neutron,317385.74582208466,Q3,0,0,0,0,0,,,0
+hyperswap-on-areon-network,hyperswap on Areon Network,Dexs,Areon Network,Areon Network,18001.496564100722,Q3,0,0,0,0,0,,,0
+asset-chain-swap,Asset Chain Swap,Dexs,Asset Chain,Asset Chain,227612.05241853851,Q3,0,0,0,0,0,,,0
+starlay-finance,Starlay Finance,Lending,Astar,Astar;Acala,313897.04532253905,Q3,0,0,0,0,0,,,0
+arthswap-v3,ArthSwap V3,Dexs,Astar,Astar;Astar zkEVM,185302.01306079887,Q3,0,0,0,0,0,,,0
+omni-liquid-staking,Omni Liquid Staking,Liquid Staking,Astar,Astar;Moonbeam;Moonriver;Astar zkEVM,487904.7842723995,Q3,0,0,0,0,0,,,0
+algem,Algem,Liquid Staking,Astar,Astar,42448.20044143488,Q3,0,0,0,0,0,,,0
+sio2-finance,SiO2 Finance,Lending,Astar,Astar,244251.89673877464,Q3,0,0,0,0,0,,,0
+verylongswap-amm,VeryLongSwap AMM,Dexs,Astar zkEVM,Astar zkEVM,16181.891995966416,Q3,0,0,0,0,0,,,0
+halotrade-cosmos,HaloTrade Cosmos,Dexs,Aura Network,Aura Network,32428.60891282095,Q3,0,0,0,0,0,,,0
+auroraswap,AuroraSwap,Dexs,Aurora,Aurora,91376.77828388262,Q3,0,0,0,0,0,,,0
+wannaswap,WannaSwap,Dexs,Aurora,Aurora,81259.65994715848,Q3,0,0,0,0,0,,,0
+nearpad,Nearpad,Dexs,Aurora,Aurora,32866.205697584686,Q3,0,0,0,0,0,,,0
+aurigami,Aurigami,Lending,Aurora,Aurora,470413.78683282697,Q3,0,0,0,0,0,,,0
+rose,Rose,Dexs,Aurora,Aurora,126308.32511763378,Q3,0,0,0,0,0,,,0
+swapsicle-v1,Swapsicle V1,Dexs,Avalanche,Avalanche;Telos;Arbitrum;Binance;Polygon;Optimism;Fantom;Ethereum,32721.920435315275,Q3,0,0,0,0,0,,,0
+lydia,Lydia,Dexs,Avalanche,Avalanche,58620.39531890927,Q3,0,0,0,0,0,,,0
+mushrooms-finance,Mushrooms Finance,Yield Aggregator,Avalanche,Avalanche;Ethereum;Polygon;Binance;Fantom,34738.68263875613,Q3,0,0,0,0,0,,,0
+waterfall-defi,Waterfall DeFi,Yield Aggregator,Avalanche,Avalanche;Binance,25597.59105481395,Q3,0,0,0,0,0,,,0
+stabilize,Stabilize,CDP,Avalanche,Avalanche,23725.680879614854,Q3,0,0,0,0,0,,,0
+bido-finance,Bido Finance,Liquid Staking,BEVM,BEVM,71525.67281963641,Q3,0,0,0,0,0,,,0
+savmdex,SavmDEX,Dexs,BEVM,BEVM,19276.9375229921,Q3,0,0,0,0,0,,,0
+bevmswap,Bevmswap,Dexs,BEVM,BEVM,20256.06393105573,Q3,0,0,0,0,0,,,0
+bswap-dex,BSwap Dex,Dexs,BEVM,BEVM,32313.39384294901,Q3,0,0,0,0,0,,,0
+bob-gateway,BOB Gateway,Dexs,BOB,BOB,82762.87669516305,Q3,0,0,0,0,0,,,0
+persistence-dex,Persistence DEX,Dexs,Babylon Genesis,Babylon Genesis;Persistence,136369.80845868104,Q3,0,0,0,0,0,,,0
+kujata,Kujata,Dexs,Bahamut,Bahamut,15801.43141091356,Q3,0,0,0,0,0,,,0
+percentme,Percentme,Lending,Bahamut,Bahamut,77622.12929468844,Q3,0,0,0,0,0,,,0
+silkswap,SilkSwap,Dexs,Bahamut,Bahamut,52445.033383554735,Q3,0,0,0,0,0,,,0
+t2t2,T2T2,SoFi,Base,Base;Ethereum,15186.984846740168,Q3,0,0,0,0,0,,,0
+velocimeter-v2,Velocimeter V2,Dexs,Base,Base;Canto;Mantle;Pulse,54463.254680076694,Q3,0,0,0,0,0,,,0
+8lends,8lends,RWA Lending,Base,Base,205326.43015638329,Q3,0,0,0,0,0,,,0
+songtech,SongTech,SoFi,Base,Base,20357.21893266913,Q3,0,0,0,0,0,,,0
+autoearn-finance,Autoearn Finance,Yield Aggregator,Base,Base;zkSync Era;Arbitrum,52490.0874979817,Q3,0,0,0,0,0,,,0
+ivx-protocol,IVX Protocol,Options,Berachain,Berachain,33744.51006476615,Q3,0,0,0,0,0,,,0
+kodiak-v2,Kodiak V2,Dexs,Berachain,Berachain,246015.26878498553,Q3,0,0,0,0,0,,,0
+aquabera,AquaBera,Liquidity manager,Berachain,Berachain,28645.75645769745,Q3,0,0,0,0,0,,,0
+webera-finance,WeBera Finance,Yield,Berachain,Berachain,32145.0126955331,Q3,0,0,0,0,0,,,0
+brownfi,BrownFi,Dexs,Berachain,Berachain;Linea;Hyperliquid L1;Base;Arbitrum;Binance,346458.11220775836,Q3,0,0,0,0,0,,,0
+stonedefi,StoneDefi,Yield Aggregator,Binance,Binance;Polygon;Avalanche;Ethereum,80888.30755168153,Q3,0,0,0,0,0,,,0
+cafeswap,CafeSwap,Dexs,Binance,Binance;Polygon,41259.41871034847,Q3,0,0,0,0,0,,,0
+nusa,Nusa,Lending,Binance,Binance;Lisk,160627.9240208627,Q3,0,0,0,0,0,,,0
+pell-network,Pell Network,Restaking,Binance,Binance;Bitlayer;BOB;IoTeX;BSquared;Ethereum;CORE;Merlin;RSK;Arbitrum;Mantle;Base;BEVM;Scroll;ZetaChain;AILayer;Goat;Hemi;HashKey Chain;Plume Mainnet,570188.6868449514,Q3,0,0,0,0,0,,,0
+hyperjump,HyperJump,Dexs,Binance,Binance;Fantom;Metis,346528.44566759845,Q3,0,0,0,0,0,,,0
+21.co,21.co,Bridge,Bitcoin,Bitcoin;Ripple;Doge;Binance;Cardano;Litecoin;Polkadot;Solana,470993.8919886968,Q3,0,0,0,0,0,,,0
+klever-exchange,Klever Exchange,CEX,Bitcoin,Bitcoin;Ethereum;Tron,76212.46334273026,Q3,0,0,0,0,0,,,0
+the-tokenized-bitcoin,The Tokenized Bitcoin,Bridge,Bitcoin,Bitcoin;Ethereum,412171.695402977,Q3,0,0,0,0,0,,,0
+lisa-btc-lst,LISA BTC LST,Restaked BTC,Bitcoin,Bitcoin,430895.59698108264,Q3,0,0,0,0,0,,,0
+multibit-protocol,MultiBit Protocol,Bridge,Bitcoin,Bitcoin;Ethereum;BounceBit;Polygon;Binance,171255.71604125656,Q3,0,0,0,0,0,,,0
+cmswap,CMswap,Dexs,Bitkub,Bitkub;JBC,54055.89405064455,Q3,0,0,0,0,0,,,0
+bitparty,Bitparty,Farm,Bitlayer,Bitlayer,32172.489797863727,Q3,0,0,0,0,0,,,0
+macaron-amm,Macaron AMM,Dexs,Bitlayer,Bitlayer,115122.94395240302,Q3,0,0,0,0,0,,,0
+bitsmiley,bitSmiley,CDP,Bitlayer,Bitlayer,460494.94646974874,Q3,0,0,0,0,0,,,0
+bitcow,bitCow,Dexs,Bitlayer,Bitlayer,121648.36207419976,Q3,0,0,0,0,0,,,0
+enzo-finance,ENZO Finance,Lending,Bitlayer,Bitlayer,22573.61165591205,Q3,0,0,0,0,0,,,0
+agentfi,AgentFi,AI Agents,Blast,Blast,179886.5567559167,Q3,0,0,0,0,0,,,0
+akitaswap,AkitaSwap,Dexs,Blast,Blast,62271.48259405616,Q3,0,0,0,0,0,,,0
+blasterswap-v2,Blasterswap V2,Dexs,Blast,Blast,485946.2302158782,Q3,0,0,0,0,0,,,0
+roguex,Roguex,Dexs,Blast,Blast,49534.862530917526,Q3,0,0,0,0,0,,,0
+particle-lamm,Particle LAMM,Derivatives,Blast,Blast,165815.40714699033,Q3,0,0,0,0,0,,,0
+chimpx-ai,ChimpX AI,Dexs,Boba,Boba;Linea,156135.00061715062,Q3,0,0,0,0,0,,,0
+lynx,Lynx,Derivatives,Boba,Boba;Sonic;Arbitrum;Ethereum;Fantom;Mode;Zircuit;Celo;Binance;Polygon;Fuse;Optimism;Mantle;Linea,244974.33833626492,Q3,0,0,0,0,0,,,0
+zencha-finance,Zencha Finance,Dexs,Boba,Boba,85894.30224175515,Q3,0,0,0,0,0,,,0
+oolongswap,OolongSwap,Dexs,Boba,Boba,303071.91690080747,Q3,0,0,0,0,0,,,0
+wefi,wefi,Lending,Boba,Boba;XDC;Polygon;Linea,87401.94919860426,Q3,0,0,0,0,0,,,0
+palladium-protocol,Palladium Protocol,CDP,Botanix,Botanix,156625.3946426736,Q3,0,0,0,0,0,,,0
+bitstable-finance,BitStable Finance,CDP,BounceBit,BounceBit;Bitcoin;Binance;Ethereum,60962.620239724005,Q3,0,0,0,0,0,,,0
+satoshicoreswap,SatoshiCoreSwap,Dexs,CORE,CORE,348782.02179438306,Q3,0,0,0,0,0,,,0
+corex-network,COREx Network,Dexs,CORE,CORE,19863.290981579557,Q3,0,0,0,0,0,,,0
+molten-v3,Molten V3,Dexs,CORE,CORE,233373.64656854287,Q3,0,0,0,0,0,,,0
+archerswap,ArcherSwap,Dexs,CORE,CORE,116828.21555117324,Q3,0,0,0,0,0,,,0
+openex,OpenEX,Dexs,CORE,CORE,29060.34237342309,Q3,0,0,0,0,0,,,0
+oneswap,OneSwap,Dexs,CSC,CSC;Ethereum;Binance;Tron,388615.90727265395,Q3,0,0,0,0,0,,,0
+ifpool,IFPool,Liquid Staking,CSC,CSC,151399.4690609211,Q3,0,0,0,0,0,,,0
+canto-dex,Canto Dex,Dexs,Canto,Canto,236329.2249493081,Q3,0,0,0,0,0,,,0
+forteswap,Forteswap,Dexs,Canto,Canto,20418.7158432725,Q3,0,0,0,0,0,,,0
+vivacity-finance,Vivacity Finance,RWA Lending,Canto,Canto,23453.911413315735,Q3,0,0,0,0,0,,,0
+nitron,Nitron,CDP,Carbon,Carbon,109692.7874965041,Q3,0,0,0,0,0,,,0
+demex-perp,Demex Perp,Derivatives,Carbon,Carbon,576061.4655954331,Q3,0,0,0,0,0,,,0
+teddyswap,TeddySwap,Dexs,Cardano,Cardano,110744.61205301616,Q3,0,0,0,0,0,,,0
+saturn-swap,Saturn Swap,Dexs,Cardano,Cardano,69282.80925970012,Q3,0,0,0,0,0,,,0
+anetabtc,anetaBTC,Bridge,Cardano,Cardano;Ergo,125588.6049153496,Q3,0,0,0,0,0,,,0
+muesliswap,MuesliSwap,Dexs,Cardano,Cardano;Milkomeda,352200.19090550335,Q3,0,0,0,0,0,,,0
+jpg-store,JPG Store,NFT Marketplace,Cardano,Cardano,362118.66569312464,Q3,0,0,0,0,0,,,0
+stride-hyperlane,Stride Hyperlane,Bridge,Celestia,Celestia,157146.63714326022,Q3,0,0,0,0,0,,,0
+mobius-money,Mobius Money,Dexs,Celo,Celo,412671.93716031255,Q3,0,0,0,0,0,,,0
+untangled-vault,Untangled Vault,Onchain Capital Allocator,Celo,Celo;Polygon,152017.1527016646,Q3,0,0,0,0,0,,,0
+poof-cash,Poof Cash,Lending,Celo,Celo,177248.68575177662,Q3,0,0,0,0,0,,,0
+gardens,Gardens,Governance Incentives,Celo,Celo;xDai;Optimism;Base;Arbitrum;Polygon,87553.6803611306,Q3,0,0,0,0,0,,,0
+ubeswap-v3,Ubeswap V3,Dexs,Celo,Celo,102848.10171027992,Q3,0,0,0,0,0,,,0
+kewl-exchange,KEWL EXCHANGE,Dexs,Chiliz,Chiliz;Arbitrum;Binance;Sonic;Avalanche;Base,43907.897314702604,Q3,0,0,0,0,0,,,0
+diviswap,DiviSwap,Dexs,Chiliz,Chiliz,20049.8494292712,Q3,0,0,0,0,0,,,0
+colorpool,ColorPool,Dexs,Chromia,Chromia,450177.5842728826,Q3,0,0,0,0,0,,,0
+civitia-game,Civitia Game,Gaming,Civitia,Civitia,56986.0855608947,Q3,0,0,0,0,0,,,0
+memedex,MemeDex,Dexs,Conflux,Conflux,63132.88399830117,Q3,0,0,0,0,0,,,0
+pacaswap-bridge,PacaSwap Bridge,Bridge,Constellation,Constellation,349750.6635696378,Q3,0,0,0,0,0,,,0
+pryzm-liquid-staking,Pryzm Liquid Staking,Liquid Staking,Cosmos,Cosmos;Terra2;Celestia;Injective;Osmosis,336411.91374644137,Q3,0,0,0,0,0,,,0
+snowswap-amm,SnowSwap AMM,Dexs,Crab,Crab;Darwinia,100061.36113635317,Q3,0,0,0,0,0,,,0
+crescent-dex,Crescent Dex,Dexs,Crescent,Crescent,55579.77213905445,Q3,0,0,0,0,0,,,0
+argo-finance,Argo Finance,Liquid Staking,Cronos,Cronos,389854.21249234304,Q3,0,0,0,0,0,,,0
+photonswap-finance,PhotonSwap Finance,Dexs,Cronos,Cronos;Kava;Evmos,142032.84502291988,Q3,0,0,0,0,0,,,0
+obsidian,Obsidian,Dexs,Cronos,Cronos;Cronos zkEVM,247539.0624859524,Q3,0,0,0,0,0,,,0
+bored-candy-city,Bored Candy City,Dexs,Cronos,Cronos,42709.5351997067,Q3,0,0,0,0,0,,,0
+crow-finance,Crow Finance,Dexs,Cronos,Cronos,138161.8973275855,Q3,0,0,0,0,0,,,0
+h2-finance-v3,H2 Finance V3,Dexs,Cronos zkEVM,Cronos zkEVM,144562.82883054885,Q3,0,0,0,0,0,,,0
+xswap-dex,xSwap DEX,Dexs,CrossFi,CrossFi,72176.00927167281,Q3,0,0,0,0,0,,,0
+xassets,xAssets,RWA,CrossFi,CrossFi,28013.088714627404,Q3,0,0,0,0,0,,,0
+cyberswap,CyberSwap,Dexs,Cyber,Cyber,23178.127320501488,Q3,0,0,0,0,0,,,0
+openbisea,OpenBiSea,Dexs,DChain,DChain;Aurora;Binance;Kava;Polygon,21848.37323173732,Q3,0,0,0,0,0,,,0
+vanillaswap-v2,VanillaSwap V2,Dexs,DeFiChain EVM,DeFiChain EVM,468841.4699359684,Q3,0,0,0,0,0,,,0
+defichain-loans,DefiChain Loans,Synthetics,DefiChain,DefiChain,536718.2008667235,Q3,0,0,0,0,0,,,0
+clever-protocol,Clever Protocol,Dexs,Dogechain,Dogechain,32808.902225884485,Q3,0,0,0,0,0,,,0
+kibbleswap,KibbleSwap,Dexs,Dogechain,Dogechain,112060.99030429646,Q3,0,0,0,0,0,,,0
+yodeswap,Yodeswap,Dexs,Dogechain,Dogechain,86787.30004589375,Q3,0,0,0,0,0,,,0
+edbank,edBank,CDP,EDU Chain,EDU Chain,22246.338417444236,Q3,0,0,0,0,0,,,0
+sailfish-finance,SailFish Finance,Dexs,EDU Chain,EDU Chain,587653.115571781,Q3,0,0,0,0,0,,,0
+blend-finance,Blend Finance,Lending,EDU Chain,EDU Chain;BEVM;Arbitrum;Base,17242.961538030526,Q3,0,0,0,0,0,,,0
+gainzswap,GainzSwap,Dexs,EDU Chain,EDU Chain,334154.43210128765,Q3,0,0,0,0,0,,,0
+bethash,BetHash,Luck Games,EOS,EOS,17326.859968269,Q3,0,0,0,0,0,,,0
+vigor,Vigor,Lending,EOS,EOS,131360.02868235853,Q3,0,0,0,0,0,,,0
+1dex,1DEX,Dexs,EOS,EOS,308591.09191531216,Q3,0,0,0,0,0,,,0
+dmd-finance,DMD Finance,Yield,EOS,EOS,142864.92574462038,Q3,0,0,0,0,0,,,0
+invariant,Invariant,Dexs,Eclipse,Eclipse;Solana,395239.0349467959,Q3,0,0,0,0,0,,,0
+umbra,Umbra,Dexs,Eclipse,Eclipse,239532.7162805369,Q3,0,0,0,0,0,,,0
+astrol,Astrol,Lending,Eclipse,Eclipse,530780.9035549702,Q3,0,0,0,0,0,,,0
+lifinity-v2,Lifinity V2,Dexs,Eclipse,Eclipse;Solana,50381.435228047434,Q3,0,0,0,0,0,,,0
+glide-finance,Glide Finance,Dexs,Elastos,Elastos,537192.1186891003,Q3,0,0,0,0,0,,,0
+electroswap-v3,ElectroSwap V3,Dexs,Electroneum,Electroneum,205097.77425481225,Q3,0,0,0,0,0,,,0
+electroswap-v2,ElectroSwap V2,Dexs,Electroneum,Electroneum,20072.8027160246,Q3,0,0,0,0,0,,,0
+dx25,DX25,Dexs,Elrond,Elrond,14097.569458827507,Q3,0,0,0,0,0,,,0
+one-dex,One Dex,Dexs,Elrond,Elrond,244970.6228252675,Q3,0,0,0,0,0,,,0
+ashperp,AshPerp,Derivatives,Elrond,Elrond,105531.56756115844,Q3,0,0,0,0,0,,,0
+salsa,SALSA,Liquid Staking,Elrond,Elrond,40781.306845008694,Q3,0,0,0,0,0,,,0
+jewelswap-leveraged-farming,JewelSwap Leveraged Farming,Leveraged Farming,Elrond,Elrond,65039.46278790898,Q3,0,0,0,0,0,,,0
+elys-dex,Elys DEX,Dexs,Elys,Elys,40362.77499210815,Q3,0,0,0,0,0,,,0
+elysiumswap,ElysiumSwap,Dexs,Elysium,Elysium,147407.78271780617,Q3,0,0,0,0,0,,,0
+catalist,Catalist,Liquid Staking,Endurance,Endurance,81470.59436695134,Q3,0,0,0,0,0,,,0
+energiswap,Energiswap,Dexs,Energi,Energi,215880.54120176812,Q3,0,0,0,0,0,,,0
+carbonswap,CarbonSwap,Dexs,EnergyWeb,EnergyWeb,154735.1149024025,Q3,0,0,0,0,0,,,0
+phoenix-ergo,Phoenix Ergo,Farm,Ergo,Ergo;Alephium,28994.641597150643,Q3,0,0,0,0,0,,,0
+duckpools,duckpools,Lending,Ergo,Ergo,152114.252283331,Q3,0,0,0,0,0,,,0
+ixs,IXS,Dexs,Ethereum,Ethereum;Base;Polygon,227253.66077689893,Q3,0,0,0,0,0,,,0
+superfarm,SuperFarm,Services,Ethereum,Ethereum,24817.21624140804,Q3,0,0,0,0,0,,,0
+babylon-finance,Babylon Finance,Indexes,Ethereum,Ethereum,149083.23367951636,Q3,0,0,0,0,0,,,0
+luaswap,LuaSwap,Dexs,Ethereum,Ethereum;TomoChain,122502.8258161981,Q3,0,0,0,0,0,,,0
+jigsaw,Jigsaw,CDP,Ethereum,Ethereum,427932.108734963,Q3,0,0,0,0,0,,,0
+etcmc-dex,ETCMC DEX,Dexs,EthereumClassic,EthereumClassic,30879.818427378486,Q3,0,0,0,0,0,,,0
+etcswap-v3,ETCswap V3,Dexs,EthereumClassic,EthereumClassic,52303.23698066174,Q3,0,0,0,0,0,,,0
+hebeswap,HebeSwap,Dexs,EthereumClassic,EthereumClassic,72715.51713466532,Q3,0,0,0,0,0,,,0
+lfgswap-ethereumpow,LFGSwap EthereumPoW,Dexs,EthereumPoW,EthereumPoW,19124.3613159768,Q3,0,0,0,0,0,,,0
+iguanadex-v3,IguanaDEX V3,Dexs,Etherlink,Etherlink,14322.693794510598,Q3,0,0,0,0,0,,,0
+liquidity-house,Liquidity House,Prediction Market,Etherlink,Etherlink,454230.4211496273,Q3,0,0,0,0,0,,,0
+organic-growth,Organic Growth,Launchpad,Etherlink,Etherlink,48012.45474790598,Q3,0,0,0,0,0,,,0
+ruby.exchange-yield,Ruby.Exchange Yield,Yield,Europa,Europa,155136.28746314268,Q3,0,0,0,0,0,,,0
+flatqube,FlatQube,Dexs,Everscale,Everscale,261437.0,Q3,0,0,0,0,0,,,0
+diffusion-finance,Diffusion Finance,Dexs,Evmos,Evmos,30278.20557942809,Q3,0,0,0,0,0,,,0
+tashi,Tashi,Lending,Evmos,Evmos,23041.733875531303,Q3,0,0,0,0,0,,,0
+coslend,Coslend,Lending,Evmos,Evmos,28732.411310310337,Q3,0,0,0,0,0,,,0
+evmoswap,EvmoSwap,Dexs,Evmos,Evmos,63571.942953585174,Q3,0,0,0,0,0,,,0
+spookyswap-v3,SpookySwap V3,Dexs,Fantom,Fantom;Sonic;Bittorrent,61974.93138318764,Q3,0,0,0,0,0,,,0
+tomb-swap,Tomb Swap,Dexs,Fantom,Fantom,76032.41611521845,Q3,0,0,0,0,0,,,0
+0xdao,0xDAO,Yield,Fantom,Fantom,42578.56267519203,Q3,0,0,0,0,0,,,0
+wigoswap,WigoSwap,Dexs,Fantom,Fantom,82826.18315175326,Q3,0,0,0,0,0,,,0
+solidex,Solidex,Yield Aggregator,Fantom,Fantom,26470.8650051499,Q3,0,0,0,0,0,,,0
+hashmix-fil,HashMix FIL,Liquid Staking,Filecoin,Filecoin,164350.6813712312,Q3,0,0,0,0,0,,,0
+usdfc,USDFC,CDP,Filecoin,Filecoin,457455.61590756546,Q3,0,0,0,0,0,,,0
+filfi,FilFi,Staking Pool,Filecoin,Filecoin,304632.0070662764,Q3,0,0,0,0,0,,,0
+themis-dex,Themis DEX,Dexs,Filecoin,Filecoin,113578.24142233244,Q3,0,0,0,0,0,,,0
+fairyswap-v1,FairySwap V1,Dexs,Findora,Findora,45398.52740944298,Q3,0,0,0,0,0,,,0
+enosys-amm-v2,Enosys AMM V2,Dexs,Flare,Flare;Songbird,364943.3725163607,Q3,0,0,0,0,0,,,0
+flrfarm,FLRFarm,Yield,Flare,Flare;Songbird,172578.13597048167,Q3,0,0,0,0,0,,,0
+cyclo,Cyclo,Derivatives,Flare,Flare,446150.3586593505,Q3,0,0,0,0,0,,,0
+flarebank,FlareBank,Reserve Currency,Flare,Flare,405299.0029199592,Q3,0,0,0,0,0,,,0
+trado-perpetual,Trado Perpetual,Derivatives,Flow,Flow,232850.5993601124,Q3,0,0,0,0,0,,,0
+adamant-finance,Adamant Finance,Yield,Fraxtal,Fraxtal;Polygon;Arbitrum;Cronos,516001.2546007754,Q3,0,0,0,0,0,,,0
+fluid-protocol,Fluid Protocol,CDP,Fuel,Fuel,69167.5894341478,Q3,0,0,0,0,0,,,0
+voltage-lending,Voltage Lending,Lending,Fuse,Fuse,37104.56643936526,Q3,0,0,0,0,0,,,0
+voltage-v4,Voltage V4,Dexs,Fuse,Fuse,236468.22162348815,Q3,0,0,0,0,0,,,0
+voltage-liquid-staking,Voltage Liquid Staking,Liquid Staking,Fuse,Fuse,80768.96795093472,Q3,0,0,0,0,0,,,0
+voltage-amm,Voltage AMM,Dexs,Fuse,Fuse,72782.37260882258,Q3,0,0,0,0,0,,,0
+voltage-stableswap,Voltage StableSwap,Dexs,Fuse,Fuse,17856.781905404754,Q3,0,0,0,0,0,,,0
+bluelotusdao-dex,BlueLotusDao DEX,Dexs,Genesys,Genesys,63334.67706166782,Q3,0,0,0,0,0,,,0
+goatswap-v2,GoatSwap V2,Dexs,Goat,Goat,43313.80052153703,Q3,0,0,0,0,0,,,0
+goatswap-v3,GoatSwap V3,Dexs,Goat,Goat,182834.10151143037,Q3,0,0,0,0,0,,,0
+goatup,GOATUP,Derivatives,Goat,Goat,77505.57230048651,Q3,0,0,0,0,0,,,0
+yokaiswap,YokaiSwap,Dexs,Godwoken,Godwoken;GodwokenV1,28577.65635515772,Q3,0,0,0,0,0,,,0
+stablekoi,StableKoi,Dexs,Godwoken,Godwoken;GodwokenV1,26082.15540534776,Q3,0,0,0,0,0,,,0
+hadouken-amm,Hadouken AMM,Dexs,GodwokenV1,GodwokenV1,117512.71201909056,Q3,0,0,0,0,0,,,0
+foxswap,FoxSwap,Yield,Harmony,Harmony,25821.288924253928,Q3,0,0,0,0,0,,,0
+viperswap,ViperSwap,Dexs,Harmony,Harmony,38586.00415319,Q3,0,0,0,0,0,,,0
+swap-country,Swap Country,Dexs,Harmony,Harmony,87338.46573138861,Q3,0,0,0,0,0,,,0
+defi-kingdoms,Defi Kingdoms,Dexs,Harmony,Harmony;Klaytn,243088.5471318628,Q3,0,0,0,0,0,,,0
+tranquil-finance,Tranquil Finance,Lending,Harmony,Harmony,96957.5306864942,Q3,0,0,0,0,0,,,0
+hela-bridge,HeLa Bridge,Bridge,HeLa,HeLa;Polygon;Ethereum;Binance,59124.560190911725,Q3,0,0,0,0,0,,,0
+cytoswap,cytoswap,Dexs,HeLa,HeLa,18777.23493055131,Q3,0,0,0,0,0,,,0
+channels-finance,Channels Finance,Lending,Heco,Heco;Binance;Arbitrum,14149.936317063137,Q3,0,0,0,0,0,,,0
+cook-finance,Cook Finance,Indexes,Heco,Heco;Binance;Avalanche;Ethereum,197046.8476486355,Q3,0,0,0,0,0,,,0
+pippi,Pippi,Dexs,Heco,Heco,75169.22737546948,Q3,0,0,0,0,0,,,0
+headstarter,HeadStarter,Launchpad,Hedera,Hedera,80721.42998322714,Q3,0,0,0,0,0,,,0
+heliswap,HeliSwap,Dexs,Hedera,Hedera,108134.3229284112,Q3,0,0,0,0,0,,,0
+memejob,MemeJob,Launchpad,Hedera,Hedera,71798.20072476685,Q3,0,0,0,0,0,,,0
+hydradex-v2,Hydradex V2,Dexs,Hydra,Hydra,19247.790503329375,Q3,0,0,0,0,0,,,0
+hydradex-v3,Hydradex V3,Dexs,Hydra Chain,Hydra Chain;Hydra,56186.62802078489,Q3,0,0,0,0,0,,,0
+manaswap,ManaSwap,Dexs,Hyperliquid L1,Hyperliquid L1,15136.945590223557,Q3,0,0,0,0,0,,,0
+laminar,Laminar,Dexs,Hyperliquid L1,Hyperliquid L1,60668.6981942295,Q3,0,0,0,0,0,,,0
+fan.fun,fan.fun,SoFi,Hyperliquid L1,Hyperliquid L1,16198.88977851564,Q3,0,0,0,0,0,,,0
+kittenswap-cl,Kittenswap CL,Dexs,Hyperliquid L1,Hyperliquid L1,540551.8206776663,Q3,0,0,0,0,0,,,0
+hyperyield,HyperYield,Lending,Hyperliquid L1,Hyperliquid L1,27045.07940032762,Q3,0,0,0,0,0,,,0
+icpex,ICPEx,Dexs,ICP,ICP,31121.27914557047,Q3,0,0,0,0,0,,,0
+rakeoff,Rakeoff,Staking Pool,ICP,ICP,39541.17027075229,Q3,0,0,0,0,0,,,0
+stakedicp,StakedICP,Liquid Staking,ICP,ICP,31021.175637083128,Q3,0,0,0,0,0,,,0
+kuma-perpetuals-dex,Kuma Perpetuals DEX,Derivatives,IDEX,IDEX,504758.72018861154,Q3,0,0,0,0,0,,,0
+cyberperp,Cyberperp,Derivatives,IOTA EVM,IOTA EVM,105432.8875190638,Q3,0,0,0,0,0,,,0
+optimus,Optimus,Yield,Icon,Icon,19956.0,Q3,0,0,0,0,0,,,0
+inertia,INERTIA,Lending,Inertia,Inertia,488099.3501028107,Q3,0,0,0,0,0,,,0
+inertia-bridge,Inertia Bridge,Canonical Bridge,Initia,Initia,492298.6387982352,Q3,0,0,0,0,0,,,0
+echelon-initia-bridge,Echelon Initia Bridge,Canonical Bridge,Initia,Initia,130458.46348535296,Q3,0,0,0,0,0,,,0
+black-panther,Black Panther,Yield,Injective,Injective,450637.12980076886,Q3,0,0,0,0,0,,,0
+choice-exchange,Choice Exchange,Dexs,Injective,Injective,268508.86762839084,Q3,0,0,0,0,0,,,0
+hydro-lsd-fi,Hydro LSD-Fi,Yield,Injective,Injective,51385.81612438007,Q3,0,0,0,0,0,,,0
+dojoswap-amm,Dojoswap AMM,Dexs,Injective,Injective,396669.6197138184,Q3,0,0,0,0,0,,,0
+gryphon,Gryphon,Liquid Staking,Injective,Injective,45891.63412578833,Q3,0,0,0,0,0,,,0
+squidswap,SquidSwap,Dexs,Ink,Ink,124476.07320074928,Q3,0,0,0,0,0,,,0
+inkswap,InkSwap,Dexs,Ink,Ink,33898.93975800413,Q3,0,0,0,0,0,,,0
+interlay-lending,Interlay Lending,Lending,Interlay,Interlay,312232.0153591502,Q3,0,0,0,0,0,,,0
+interlay-btc,Interlay BTC,Bridge,Interlay,Interlay,226394.1046035416,Q3,0,0,0,0,0,,,0
+pinswap,PinSwap,Dexs,IoTeX,IoTeX,46943.60683980052,Q3,0,0,0,0,0,,,0
+filda,FilDA,Lending,IoTeX,IoTeX;Bittorrent;Elastos;Arbitrum;Binance;Polygon;REI;Kava;Heco,81228.86755318686,Q3,0,0,0,0,0,,,0
+minmax-finance,MinMax Finance,Dexs,IoTeX,IoTeX,127318.4433430292,Q3,0,0,0,0,0,,,0
+basic,Basic,Lending,IoTeX,IoTeX,183413.5772400628,Q3,0,0,0,0,0,,,0
+xdollar,xDollar,CDP,IoTeX,IoTeX;Ethereum;Arbitrum;Polygon;Avalanche,123374.19155067382,Q3,0,0,0,0,0,,,0
+wynd-dex,WYND DEX,Dexs,Juno,Juno,115926.38418162106,Q3,0,0,0,0,0,,,0
+kaidex,Kaidex,Dexs,Kardia,Kardia,15252.075217843503,Q3,0,0,0,0,0,,,0
+taiga-karura,Taiga Karura,Synthetics,Karura,Karura,109154.8065017489,Q3,0,0,0,0,0,,,0
+kava-boost,Kava Boost,Farm,Kava,Kava,21905.507264794283,Q3,0,0,0,0,0,,,0
+kinetix-amm-v3,Kinetix AMM V3,Dexs,Kava,Kava;Base,389069.9954926855,Q3,0,0,0,0,0,,,0
+hard-swap,HARD Swap,Dexs,Kava,Kava,223417.1072582794,Q3,0,0,0,0,0,,,0
+kava-swap,Kava Swap,Dexs,Kava,Kava,420536.61496245646,Q3,0,0,0,0,0,,,0
+kintsugi,Kintsugi,Cross Chain Bridge,Kintsugi,Kintsugi,28778.29118264397,Q3,0,0,0,0,0,,,0
+bluewhale,Bluewhale,Yield,Klaytn,Klaytn,113954.4079134738,Q3,0,0,0,0,0,,,0
+dragonswap-v2-kaia,DragonSwap V2 Kaia,Dexs,Klaytn,Klaytn,114754.8037098001,Q3,0,0,0,0,0,,,0
+klex-finance,KLEX Finance,Dexs,Klaytn,Klaytn,265684.0984005403,Q3,0,0,0,0,0,,,0
+capybara-dexs,Capybara Dexs,Dexs,Klaytn,Klaytn,411115.8119987084,Q3,0,0,0,0,0,,,0
+kaiaswap,KaiaSwap,Dexs,Klaytn,Klaytn,91335.62961007244,Q3,0,0,0,0,0,,,0
+kuswap,KuSwap,Dexs,Kucoin,Kucoin,194469.46850502767,Q3,0,0,0,0,0,,,0
+torches,Torches,Lending,Kucoin,Kucoin,25648.871878778184,Q3,0,0,0,0,0,,,0
+mojitoswap,MojitoSwap,Dexs,Kucoin,Kucoin,515587.1426934435,Q3,0,0,0,0,0,,,0
+koffeeswap,KoffeeSwap,Dexs,Kucoin,Kucoin,368616.2935137283,Q3,0,0,0,0,0,,,0
+skcs,sKCS,Liquid Staking,Kucoin,Kucoin,40813.65323736245,Q3,0,0,0,0,0,,,0
+fin,FIN,Dexs,Kujira,Kujira,240485.93520108025,Q3,0,0,0,0,0,,,0
+usk,USK,CDP,Kujira,Kujira,344323.00971099694,Q3,0,0,0,0,0,,,0
+ghost,Ghost,Lending,Kujira,Kujira,588439.5662134406,Q3,0,0,0,0,0,,,0
+bow,Bow,Yield,Kujira,Kujira,31942.717614357894,Q3,0,0,0,0,0,,,0
+kujira-orca,Kujira Orca,Liquidations,Kujira,Kujira,28265.166498461556,Q3,0,0,0,0,0,,,0
+universal-page,Universal Page,Staking Pool,LUKSO,LUKSO,573285.9030655359,Q3,0,0,0,0,0,,,0
+ladex-exchange,Ladex Exchange,Dexs,Lachain,Lachain,16594.941282288648,Q3,0,0,0,0,0,,,0
+libre-swap,Libre Swap,Dexs,Libre,Libre,151587.5027461267,Q3,0,0,0,0,0,,,0
+elektrik,Elektrik,Dexs,LightLink,LightLink,26205.585105444818,Q3,0,0,0,0,0,,,0
+tomo,Tomo,SoFi,Linea,Linea,505792.38774272613,Q3,0,0,0,0,0,,,0
+secta-finance-v2,Secta Finance V2,Dexs,Linea,Linea,37372.79493287937,Q3,0,0,0,0,0,,,0
+clip-finance,Clip Finance,Liquidity manager,Linea,Linea;Binance;Base,105039.08189372296,Q3,0,0,0,0,0,,,0
+nile-legacy,Nile Legacy,Dexs,Linea,Linea,510599.568012968,Q3,0,0,0,0,0,,,0
+lynex-v1,Lynex V1,Dexs,Linea,Linea,410791.6782813874,Q3,0,0,0,0,0,,,0
+boringdao,BoringDAO,Cross Chain Bridge,Litecoin,Litecoin;Polygon;Ethereum;Doge;Avalanche;Binance;OKExChain;Kucoin;Bitcoin;IoTeX;Aurora;Heco;Oasis;Boba;Fantom;Harmony;Metis;Optimism;Arbitrum;xDai,519409.50007605535,Q3,0,0,0,0,0,,,0
+sphynx,Sphynx,Dexs,Loop,Loop;Binance;Cronos;Bitgert,86892.05353163491,Q3,0,0,0,0,0,,,0
+mvcswap,MVCSwap,Dexs,MVC,MVC,167244.79452126686,Q3,0,0,0,0,0,,,0
+apertureswap,ApertureSwap,Dexs,Manta,Manta,60845.05071777957,Q3,0,0,0,0,0,,,0
+firefly,firefly,Dexs,Manta,Manta,100309.62016207336,Q3,0,0,0,0,0,,,0
+pacificswap-v3,PacificSwap V3,Dexs,Manta,Manta,25762.462632075574,Q3,0,0,0,0,0,,,0
+goku-money,Goku Money,CDP,Manta,Manta,17373.992642358346,Q3,0,0,0,0,0,,,0
+pacificswap-v2,PacificSwap V2,Dexs,Manta,Manta,78998.19206827774,Q3,0,0,0,0,0,,,0
+mobius-exchange,Mobius Exchange,Dexs,Mantle,Mantle,102835.9450793248,Q3,0,0,0,0,0,,,0
+bella-protocol,Bella Protocol,Yield,Mantle,Mantle;Ethereum;zkSync Era;Manta,106730.5052946115,Q3,0,0,0,0,0,,,0
+fan.tech,fan.tech,SoFi,Mantle,Mantle,93729.0458810711,Q3,0,0,0,0,0,,,0
+aurelius,Aurelius,CDP,Mantle,Mantle,46033.53537815454,Q3,0,0,0,0,0,,,0
+fusionx-v3,FusionX V3,Dexs,Mantle,Mantle,115630.6643027949,Q3,0,0,0,0,0,,,0
+mantra-swap,MANTRA Swap,Dexs,Mantra,Mantra,421543.60074074287,Q3,0,0,0,0,0,,,0
+fluxtra,Fluxtra,Liquid Staking,Mantra,Mantra,31193.65458553312,Q3,0,0,0,0,0,,,0
+hiveswap-pro,HiveSwap Pro,Liquidity manager,Map,Map,306713.64423620765,Q3,0,0,0,0,0,,,0
+dusa-protocol,Dusa Protocol,Dexs,Massa,Massa,27022.557512105617,Q3,0,0,0,0,0,,,0
+mswap,MSwap,Dexs,Matchain,Matchain,26743.281524391055,Q3,0,0,0,0,0,,,0
+incaswap,IncaSwap,Dexs,Matchain,Matchain,52280.00845819155,Q3,0,0,0,0,0,,,0
+bitmap-game,Bitmap Game,Gaming,Merlin,Merlin,269494.1167722377,Q3,0,0,0,0,0,,,0
+mage-finance,Mage Finance,Lending,Merlin,Merlin,36346.62235024351,Q3,0,0,0,0,0,,,0
+bitgenie-amm,BitGenie AMM,Dexs,Merlin,Merlin,130447.45385511457,Q3,0,0,0,0,0,,,0
+influpia,Influpia,Dexs,Merlin,Merlin,17187.188849706166,Q3,0,0,0,0,0,,,0
+voltswap-v2,VoltSwap V2,Dexs,Meter,Meter;Base,203550.4093189535,Q3,0,0,0,0,0,,,0
+meter-liquid-staking,Meter Liquid Staking,Liquid Staking,Meter,Meter,180554.2992759624,Q3,0,0,0,0,0,,,0
+hercules-v2,Hercules V2,Dexs,Metis,Metis,23327.333609243004,Q3,0,0,0,0,0,,,0
+maia-v3,Maia V3,Dexs,Metis,Metis,33729.90982526595,Q3,0,0,0,0,0,,,0
+enki-protocol,ENKI Protocol,Liquid Staking,Metis,Metis,454564.65370693593,Q3,0,0,0,0,0,,,0
+zeno-exchange,Zeno Exchange,Derivatives,Metis,Metis,31494.233229070243,Q3,0,0,0,0,0,,,0
+hercules-v3,Hercules V3,Dexs,Metis,Metis,441665.7363090401,Q3,0,0,0,0,0,,,0
+exinswap,ExinSwap,Dexs,Mixin,Mixin,21705.49,Q3,0,0,0,0,0,,,0
+4swap,4Swap,Dexs,Mixin,Mixin,457575.9648925931,Q3,0,0,0,0,0,,,0
+ironclad-finance,Ironclad Finance,Lending,Mode,Mode,160923.6256169615,Q3,0,0,0,0,0,,,0
+kim-exchange-v2,KIM Exchange V2,Dexs,Mode,Mode;Base,123944.44877236286,Q3,0,0,0,0,0,,,0
+supswap-v3,SupSwap V3,Dexs,Mode,Mode,31189.38949595859,Q3,0,0,0,0,0,,,0
+kim-exchange-v3,KIM Exchange V3,Dexs,Mode,Mode;Base,199808.5817935641,Q3,0,0,0,0,0,,,0
+poolshark,Poolshark,Dexs,Mode,Mode;Arbitrum;Scroll;inEVM,92354.46332884724,Q3,0,0,0,0,0,,,0
+clober-v2,Clober V2,Dexs,Monad,Monad;Base;zkSync Era,27728.467044648583,Q3,0,0,0,0,0,,,0
+solarflare,Solarflare,Dexs,Moonbeam,Moonbeam,20203.149977021596,Q3,0,0,0,0,0,,,0
+zenlink-amm,Zenlink AMM,Dexs,Moonbeam,Moonbeam;Moonriver;Astar,187199.33838739656,Q3,0,0,0,0,0,,,0
+stellaswap-v2,StellaSwap V2,Dexs,Moonbeam,Moonbeam,389974.1286497244,Q3,0,0,0,0,0,,,0
+beamswap-classic,BeamSwap Classic,Dexs,Moonbeam,Moonbeam,56333.12633604671,Q3,0,0,0,0,0,,,0
+stellaswap-v3,StellaSwap V3,Dexs,Moonbeam,Moonbeam,74261.45466187538,Q3,0,0,0,0,0,,,0
+huckleberry-amm,Huckleberry AMM,Dexs,Moonriver,Moonriver;CLV,29284.574603506888,Q3,0,0,0,0,0,,,0
+solarbeam,Solarbeam,Dexs,Moonriver,Moonriver,228027.56810055603,Q3,0,0,0,0,0,,,0
+moonswap,Moonswap,Dexs,Moonriver,Moonriver,122148.99932877778,Q3,0,0,0,0,0,,,0
+alphadex,Alphadex,Dexs,Moonriver,Moonriver;Kava,123633.96244994825,Q3,0,0,0,0,0,,,0
+neku,Neku,Lending,Moonriver,Moonriver;Arbitrum;Binance,357870.33447932696,Q3,0,0,0,0,0,,,0
+morfi,MorFi,Dexs,Morph,Morph,44137.12870756487,Q3,0,0,0,0,0,,,0
+bulbaswap-v2,BulbaSwap V2,Dexs,Morph,Morph,354053.2632451283,Q3,0,0,0,0,0,,,0
+picwe,PICWE,Dexs,Movement,Movement,477556.91723920545,Q3,0,0,0,0,0,,,0
+arche-protocol,Arche Protocol,CDP,Movement,Movement,18082.74287844376,Q3,0,0,0,0,0,,,0
+vax,VAX,Dexs,MultiVAC,MultiVAC,14770.803427336892,Q3,0,0,0,0,0,,,0
+forthewin-network,Forthewin Network,Dexs,NEO,NEO,425672.55815461016,Q3,0,0,0,0,0,,,0
+alpha,Alpha,SoFi,NOS,NOS,564415.9072338181,Q3,0,0,0,0,0,,,0
+niifi,NiiFi,Dexs,Nahmii,Nahmii,73790.2007848735,Q3,0,0,0,0,0,,,0
+naka-dex,Naka Dex,Dexs,Naka,Naka,120818.16417807454,Q3,0,0,0,0,0,,,0
+deltatrade,DeltaTrade,Dexs,Near,Near;Solana,118831.39595501088,Q3,0,0,0,0,0,,,0
+jumbo-exchange,Jumbo Exchange,Dexs,Near,Near,507731.0936080363,Q3,0,0,0,0,0,,,0
+veax,Veax,Dexs,Near,Near,29774.351711768628,Q3,0,0,0,0,0,,,0
+phoenix-bonds,Phoenix Bonds,Yield Aggregator,Near,Near,381468.1024955226,Q3,0,0,0,0,0,,,0
+tonic,Tonic,Dexs,Near,Near,23735.56316022825,Q3,0,0,0,0,0,,,0
+vibrant-finance,Vibrant Finance,Dexs,Neon,Neon,15405.863328143092,Q3,0,0,0,0,0,,,0
+lendos,lendOS,Lending,Neon,Neon;Hemi,54946.61591818376,Q3,0,0,0,0,0,,,0
+valence,Valence,Treasury Manager,Neutron,Neutron;Terra2,431860.4515064555,Q3,0,0,0,0,0,,,0
+amulet-finance,Amulet Finance,Synthetics,Neutron,Neutron,35709.74896350302,Q3,0,0,0,0,0,,,0
+nerve-staking,Nerve Staking,Dexs,Nuls,Nuls,146162.0,Q3,0,0,0,0,0,,,0
+jswap,JSwap,Dexs,OKExChain,OKExChain,356601.50150437525,Q3,0,0,0,0,0,,,0
+okcswap,OKCSwap,Dexs,OKExChain,OKExChain,69081.89016621247,Q3,0,0,0,0,0,,,0
+bxh,BXH,Dexs,OKExChain,OKExChain;Avalanche;Binance;Ethereum;Heco,43551.63822101352,Q3,0,0,0,0,0,,,0
+kswap-finance,KSwap Finance,Dexs,OKExChain,OKExChain,399112.14367351495,Q3,0,0,0,0,0,,,0
+fountain-protocol,Fountain Protocol,Lending,Oasis,Oasis,102215.47700606698,Q3,0,0,0,0,0,,,0
+yuzuswap,YuzuSwap,Dexs,Oasis,Oasis,46632.5418953219,Q3,0,0,0,0,0,,,0
+duneswap,DuneSwap,Dexs,Oasis,Oasis,21641.045262624863,Q3,0,0,0,0,0,,,0
+gemkeeper,GemKeeper,Dexs,Oasis,Oasis,33488.345797588954,Q3,0,0,0,0,0,,,0
+neptune-lsd,Neptune LSD,Liquid Staking,Oasys,Oasys,58818.173969412645,Q3,0,0,0,0,0,,,0
+palmy-finance,Palmy Finance,Lending,Oasys,Oasys,55453.03582995936,Q3,0,0,0,0,0,,,0
+tealswap-v3,Tealswap V3,Dexs,Oasys,Oasys,96299.03789910738,Q3,0,0,0,0,0,,,0
+ostable,Ostable,Algo-Stables,Obyte,Obyte,201036.54960226789,Q3,0,0,0,0,0,,,0
+oswap-token,OSWAP Token,Yield,Obyte,Obyte,36097.07942620025,Q3,0,0,0,0,0,,,0
+counterstake,Counterstake,Cross Chain Bridge,Obyte,Obyte;Ethereum;Binance;Polygon;Kava,433612.7837761285,Q3,0,0,0,0,0,,,0
+oswap-amm,Oswap AMM,Dexs,Obyte,Obyte,43404.09345862892,Q3,0,0,0,0,0,,,0
+diamondswap,Diamondswap,Dexs,Odyssey,Odyssey;Base;Ethereum;Binance;Avalanche,404797.1117776089,Q3,0,0,0,0,0,,,0
+usdo,USDO,CDP,Onus,Onus,284990.41470833373,Q3,0,0,0,0,0,,,0
+cubiswap,CUBISwap,Dexs,Op_Bnb,Op_Bnb,65667.02661085424,Q3,0,0,0,0,0,,,0
+binary-swap,Binary Swap,Dexs,Op_Bnb,Op_Bnb,125005.93524759398,Q3,0,0,0,0,0,,,0
+takoswap,TAKOSWAP,Dexs,OpenGPU,OpenGPU,99772.51392097282,Q3,0,0,0,0,0,,,0
+aelin,Aelin,Charity Fundraising,Optimism,Optimism;Ethereum,25317.3341180463,Q3,0,0,0,0,0,,,0
+barnbridge,BarnBridge,Yield Aggregator,Optimism,Optimism;Ethereum;Arbitrum,91268.826660372,Q3,0,0,0,0,0,,,0
+infinite-trading-protocol,Infinite Trading Protocol,AI Agents,Optimism,Optimism,62594.88835825297,Q3,0,0,0,0,0,,,0
+zipswap,ZipSwap,Dexs,Optimism,Optimism;Arbitrum,114809.12641557796,Q3,0,0,0,0,0,,,0
+revert-compoundor,Revert Compoundor,Liquidity Automation,Optimism,Optimism;Ethereum;Arbitrum;Polygon;Binance,337218.15350015037,Q3,0,0,0,0,0,,,0
+oraidex-pool-v3,OraiDEX Pool V3,Dexs,Orai,Orai,139206.6585527049,Q3,0,0,0,0,0,,,0
+orchai-money-market,Orchai Money Market,Lending,Orai,Orai,76901.72290152378,Q3,0,0,0,0,0,,,0
+oraidex,OraiDEX,Dexs,Orai,Orai,191123.71378266733,Q3,0,0,0,0,0,,,0
+orchai-lst,Orchai LST,Liquid Staking,Orai,Orai,327268.94491559814,Q3,0,0,0,0,0,,,0
+ion-dao,ION DAO,Synthetics,Osmosis,Osmosis,54697.570405816055,Q3,0,0,0,0,0,,,0
+quasar-vaults,Quasar Vaults,Yield,Osmosis,Osmosis;Ethereum,66602.14509695063,Q3,0,0,0,0,0,,,0
+calc,CALC,DCA Tools,Osmosis,Osmosis;Kujira;Archway;Neutron,23575.181406138818,Q3,0,0,0,0,0,,,0
+margined-protocol,Margined Protocol,Derivatives,Osmosis,Osmosis;Neutron,396986.31907424127,Q3,0,0,0,0,0,,,0
+raccoonswap,RaccoonSwap,Dexs,Parex,Parex,53861.58050751197,Q3,0,0,0,0,0,,,0
+w3bank,w3bank,Lending,Pego,Pego,47690.19904164177,Q3,0,0,0,0,0,,,0
+harvest-flow,HARVEST FLOW,RWA Lending,Plume Mainnet,Plume Mainnet;Polygon,525478.9861070802,Q3,0,0,0,0,0,,,0
+multichainz,MultichainZ,Lending,Plume Mainnet,Plume Mainnet;Ethereum;Base;Arbitrum,164481.2281000729,Q3,0,0,0,0,0,,,0
+spice-protocol,SPICE Protocol,RWA,Plume Mainnet,Plume Mainnet,55437.15044684685,Q3,0,0,0,0,0,,,0
+thunderpokt,ThunderPOKT,Liquid Staking,Pokt,Pokt,23798.80617025768,Q3,0,0,0,0,0,,,0
+polkadex,Polkadex,Dexs,Polkadex,Polkadex,72043.04942898818,Q3,0,0,0,0,0,,,0
+penrose,Penrose,Yield,Polygon,Polygon,48958.84157068824,Q3,0,0,0,0,0,,,0
+gogocoin,GOGOcoin,Yield,Polygon,Polygon,200883.50206527088,Q3,0,0,0,0,0,,,0
+atlendis-v1,Atlendis V1,Uncollateralized Lending,Polygon,Polygon,19013.18706954874,Q3,0,0,0,0,0,,,0
+dfyn-network,Dfyn Network,Dexs,Polygon,Polygon;Fantom;OKExChain,478628.8379886413,Q3,0,0,0,0,0,,,0
+polywhale-finance,Polywhale Finance,Yield,Polygon,Polygon,83749.8180254237,Q3,0,0,0,0,0,,,0
+keom-protocol,Keom Protocol,Lending,Polygon zkEVM,Polygon zkEVM;Polygon;Manta;Astar zkEVM,307340.9052405946,Q3,0,0,0,0,0,,,0
+zkmoonswap,zkMoonSwap,Dexs,Polygon zkEVM,Polygon zkEVM,25603.85788520475,Q3,0,0,0,0,0,,,0
+dove-swap-v3,Dove Swap V3,Dexs,Polygon zkEVM,Polygon zkEVM,76208.30924743986,Q3,0,0,0,0,0,,,0
+mantisswap,MantisSwap,Dexs,Polygon zkEVM,Polygon zkEVM;Mode;Polygon,186230.4832117116,Q3,0,0,0,0,0,,,0
+v60,v60,Dexs,Prom,Prom,553585.6623235027,Q3,0,0,0,0,0,,,0
+9mm-v2,9mm V2,Dexs,Pulse,Pulse;Base;Sonic,79118.0875553934,Q3,0,0,0,0,0,,,0
+sparkswap,Sparkswap,Farm,Pulse,Pulse,190709.7429174354,Q3,0,0,0,0,0,,,0
+daytona-finance,Daytona Finance,Dexs,Pulse,Pulse,60061.7408031463,Q3,0,0,0,0,0,,,0
+9inch-v3,9inch V3,Dexs,Pulse,Pulse,275805.0710065893,Q3,0,0,0,0,0,,,0
+pulse-rate,Pulse Rate,Algo-Stables,Pulse,Pulse,47165.65939191093,Q3,0,0,0,0,0,,,0
+qx,QX,Dexs,Qubic,Qubic,100478.90209311858,Q3,0,0,0,0,0,,,0
+quicksilver-protocol,Quicksilver Protocol,Liquid Staking,Quicksilver,Quicksilver,115662.90602677665,Q3,0,0,0,0,0,,,0
+nemoswap,NemoSwap,Dexs,RENEC,RENEC,68024.6972390062,Q3,0,0,0,0,0,,,0
+boltz,Boltz,Bridge,RSK,RSK,245007.34687561064,Q3,0,0,0,0,0,,,0
+powpeg-fast-mode,PowPeg Fast Mode,Bridge,RSK,RSK,555736.5125667392,Q3,0,0,0,0,0,,,0
+rskswap,RskSwap,Dexs,RSK,RSK,40678.7795840431,Q3,0,0,0,0,0,,,0
+surge-trade,Surge Trade,Derivatives,Radix,Radix,127730.81487467908,Q3,0,0,0,0,0,,,0
+rlyfun,RlyFun,Launchpad,Radix,Radix,34388.0783982037,Q3,0,0,0,0,0,,,0
+caviarnine-hyperstake,CaviarNine HyperStake,Liquid Staking,Radix,Radix,74206.63057758081,Q3,0,0,0,0,0,,,0
+radlock,RadLock,Token Locker,Radix,Radix,34917.637388088595,Q3,0,0,0,0,0,,,0
+justlock,JustLock,Token Locker,Radix,Radix,109036.36605218812,Q3,0,0,0,0,0,,,0
+reddex,reddex,Dexs,Redbelly,Redbelly;Binance;Ethereum,31946.14252342054,Q3,0,0,0,0,0,,,0
+pegasys-v3,PegaSys V3,Dexs,Rollux,Rollux,57688.21070694693,Q3,0,0,0,0,0,,,0
+metalend,MetaLend,Lending,Ronin,Ronin,18205.983895428853,Q3,0,0,0,0,0,,,0
+sharkswap,SharkSwap,Dexs,SXnetwork,SXnetwork,403220.03366566513,Q3,0,0,0,0,0,,,0
+taffy-finance,Taffy Finance,Dexs,Saakuru,Saakuru,66511.33346650234,Q3,0,0,0,0,0,,,0
+bitusd,BitUSD,CDP,Sapphire,Sapphire,60575.66982060224,Q3,0,0,0,0,0,,,0
+illuminex,illumineX,Cross Chain Bridge,Sapphire,Sapphire,134144.46751674608,Q3,0,0,0,0,0,,,0
+thorn-protocol,Thorn Protocol,Dexs,Sapphire,Sapphire,90817.7434668641,Q3,0,0,0,0,0,,,0
+tokan-exchange,Tokan Exchange,Dexs,Scroll,Scroll,18634.396684076943,Q3,0,0,0,0,0,,,0
+cog,Cog,Lending,Scroll,Scroll,230643.33906307069,Q3,0,0,0,0,0,,,0
+quill-finance,Quill Finance,CDP,Scroll,Scroll,204315.63394969673,Q3,0,0,0,0,0,,,0
+10kdex,10KDex,Derivatives,Scroll,Scroll,102107.64597012122,Q3,0,0,0,0,0,,,0
+spacefi-scroll,SpaceFi Scroll,Dexs,Scroll,Scroll,68576.64880206044,Q3,0,0,0,0,0,,,0
+secretswap,SecretSwap,Dexs,Secret,Secret,403670.9468089775,Q3,0,0,0,0,0,,,0
+siennaswap,SiennaSwap,Dexs,Secret,Secret,343868.255202911,Q3,0,0,0,0,0,,,0
+shadex,ShadeX,Lending,Secret,Secret,492334.2500134194,Q3,0,0,0,0,0,,,0
+btngroup,BtnGroup,Yield,Secret,Secret,164612.76,Q3,0,0,0,0,0,,,0
+siennalend,SiennaLend,Lending,Secret,Secret,123886.8894936491,Q3,0,0,0,0,0,,,0
+kryptonite,Kryptonite,Liquid Staking,Sei,Sei;Nibiru,84124.44921952713,Q3,0,0,0,0,0,,,0
+yaka-v3,Yaka V3,Dexs,Sei,Sei,520969.3732817904,Q3,0,0,0,0,0,,,0
+pit-finance,Pit Finance,Yield Aggregator,Sei,Sei,43132.42484616209,Q3,0,0,0,0,0,,,0
+jellyverse,Jellyverse,Dexs,Sei,Sei,109027.6212954398,Q3,0,0,0,0,0,,,0
+yaka-v2,Yaka V2,Dexs,Sei,Sei,35068.874609341045,Q3,0,0,0,0,0,,,0
+swanswap,SwanSwap,Dexs,Shape,Shape,52750.74611925097,Q3,0,0,0,0,0,,,0
+marswap,MARSWAP,Dexs,Shibarium,Shibarium;Cronos zkEVM;Binance;Cronos;Ethereum;Base,19444.139896712808,Q3,0,0,0,0,0,,,0
+chewyswap,ChewySwap,Dexs,Shibarium,Shibarium;Dogechain,193145.35710836103,Q3,0,0,0,0,0,,,0
+standard-protocol-shiden,Standard Protocol Shiden,Dexs,Shiden,Shiden;Metis;Ethereum,20411.67117843708,Q3,0,0,0,0,0,,,0
+shido-dex,Shido Dex,Dexs,Shido,Shido,433506.98345383216,Q3,0,0,0,0,0,,,0
+skate-amm,Skate AMM,Dexs,Solana,Solana;Monad;0G;Sui;Base;Binance;Arbitrum;Ethereum;Mantle;Hyperliquid L1;Plume Mainnet;Eclipse,467813.8115360661,Q3,0,0,0,0,0,,,0
+jpow-ai,JPOW AI,CDP,Solana,Solana,142008.58374501177,Q3,0,0,0,0,0,,,0
+lifinity-v1,Lifinity V1,Dexs,Solana,Solana,79479.868013575,Q3,0,0,0,0,0,,,0
+sharky,Sharky,NFT Lending,Solana,Solana,220966.46979238783,Q3,0,0,0,0,0,,,0
+scallop-pool,Scallop Pool,Yield,Solana,Solana,17353.466949231304,Q3,0,0,0,0,0,,,0
+somnex-perp,Somnex Perp,Derivatives,Somnia,Somnia,87899.29346143531,Q3,0,0,0,0,0,,,0
+somnia-exchange,Somnia Exchange,Dexs,Somnia,Somnia,193325.57270781937,Q3,0,0,0,0,0,,,0
+somnex-dex,Somnex DEX,Dexs,Somnia,Somnia,34705.8845904648,Q3,0,0,0,0,0,,,0
+somnex-v3,Somnex V3,Dexs,Somnia,Somnia,87872.49567401403,Q3,0,0,0,0,0,,,0
+passdex,PassDEX,Dexs,Soneium,Soneium;Hemi;Unichain,19092.80181240007,Q3,0,0,0,0,0,,,0
+sonefi-amm,SoneFi AMM,Dexs,Soneium,Soneium,111264.74816100457,Q3,0,0,0,0,0,,,0
+untitledbank,UntitledBank,Lending,Soneium,Soneium,516370.8872664532,Q3,0,0,0,0,0,,,0
+sonefi-perp,SoneFi Perp,Derivatives,Soneium,Soneium,372234.6895368426,Q3,0,0,0,0,0,,,0
+sonus-exchange-amm,Sonus Exchange AMM,Dexs,Soneium,Soneium,72671.29463228774,Q3,0,0,0,0,0,,,0
+2thick,2THICK,Dexs,Sonic,Sonic;Base;Fantom,81080.77600068176,Q3,0,0,0,0,0,,,0
+tholgar-rings-auto-voter,Tholgar Rings Auto Voter,Yield,Sonic,Sonic,114585.4444315208,Q3,0,0,0,0,0,,,0
+stability,Stability,Liquidity manager,Sonic,Sonic;Base;Polygon;re.al,513704.6723921896,Q3,0,0,0,0,0,,,0
+atlantis,Atlantis,Dexs,Sonic,Sonic,47129.00245984795,Q3,0,0,0,0,0,,,0
+equalizer-exchange,Equalizer Exchange,Dexs,Sonic,Sonic;Fantom,478309.0016589723,Q3,0,0,0,0,0,,,0
+cobaltx,CobaltX,Dexs,Soon Network,Soon Network;svmBNB;soonBase,48751.95680843465,Q3,0,0,0,0,0,,,0
+stackswap,StackSwap,Dexs,Stacks,Stacks,70538.59341529856,Q3,0,0,0,0,0,,,0
+starswap-starcoin,Starswap Starcoin,Dexs,Starcoin,Starcoin,467279.2442157554,Q3,0,0,0,0,0,,,0
+bfly-finance,BFly Finance,Lending,Starcoin,Starcoin,140609.38315319776,Q3,0,0,0,0,0,,,0
+stargaze,Stargaze,NFT Marketplace,Stargaze,Stargaze,110294.6026533037,Q3,0,0,0,0,0,,,0
+astroswap-amm,AstroSwap AMM,Dexs,Starknet,Starknet,79796.82927569565,Q3,0,0,0,0,0,,,0
+bountive,Bountive,Yield,Starknet,Starknet,23332.24292646681,Q3,0,0,0,0,0,,,0
+jediswap-v2,JediSwap V2,Dexs,Starknet,Starknet,47336.223098312985,Q3,0,0,0,0,0,,,0
+sithswap,SithSwap,Dexs,Starknet,Starknet,178762.57466838323,Q3,0,0,0,0,0,,,0
+protossdex,ProtossDex,Dexs,Starknet,Starknet,14602.20838192404,Q3,0,0,0,0,0,,,0
+excellar,Excellar,Basis Trading,Stellar,Stellar,212573.9847749,Q3,0,0,0,0,0,,,0
+blend-pools,Blend Pools,Lending,Stellar,Stellar,94815.62908250833,Q3,0,0,0,0,0,,,0
+step-exchange,Step Exchange,Dexs,Step,Step,25168.700263574978,Q3,0,0,0,0,0,,,0
+wand-protocol,Wand Protocol,CDP,Story,Story;Blast,120749.82806425117,Q3,0,0,0,0,0,,,0
+piperx-v2,PiperX V2,Dexs,Story,Story,150309.936067994,Q3,0,0,0,0,0,,,0
+straxswap,StraxSwap,Dexs,Stratis,Stratis,34555.06176077162,Q3,0,0,0,0,0,,,0
+stratis-liquid-staking,Stratis Liquid Staking,Liquid Staking,Stratis,Stratis,573963.2616110652,Q3,0,0,0,0,0,,,0
+sudo-perps,Sudo Perps,Derivatives,Sui,Sui,493528.1088303574,Q3,0,0,0,0,0,,,0
+sui-rewards-me,Sui Rewards Me,Launchpad,Sui,Sui,19918.53132212009,Q3,0,0,0,0,0,,,0
+abex-finance,ABEx Finance,Derivatives,Sui,Sui,29783.889762975516,Q3,0,0,0,0,0,,,0
+weiss-finance,Weiss Finance,CDP,Sui,Sui,15677.10347296284,Q3,0,0,0,0,0,,,0
+kriya-amm,Kriya AMM,Dexs,Sui,Sui,141364.85132154898,Q3,0,0,0,0,0,,,0
+dexlyn-labs,Dexlyn Labs,Dexs,Supra,Supra,171956.3051805111,Q3,0,0,0,0,0,,,0
+tempest-finance,Tempest Finance,Liquidity manager,Swellchain,Swellchain;Scroll;Ethereum;Canto;Optimism;Manta;Arbitrum;Base;Binance,406275.36751531914,Q3,0,0,0,0,0,,,0
+orki-finance,Orki Finance,CDP,Swellchain,Swellchain,39033.75248635638,Q3,0,0,0,0,0,,,0
+titan-dex,Titan Dex,Dexs,TON,TON,19208.03622208426,Q3,0,0,0,0,0,,,0
+tonco,TONCO,Dexs,TON,TON,198803.4260851784,Q3,0,0,0,0,0,,,0
+bigpump,BigPump,Launchpad,TON,TON,16833.09378298299,Q3,0,0,0,0,0,,,0
+tonpools,TonPools,Staking Pool,TON,TON,15876.167234908542,Q3,0,0,0,0,0,,,0
+gaspump,GasPump,Launchpad,TON,TON,35493.11515151927,Q3,0,0,0,0,0,,,0
+panko-finance,Panko Finance,Dexs,Taiko,Taiko,16423.506267183933,Q3,0,0,0,0,0,,,0
+takotako,TakoTako,Lending,Taiko,Taiko,19871.330595470572,Q3,0,0,0,0,0,,,0
+hana-finance,Hana Finance,Lending,Taiko,Taiko,23826.990824792032,Q3,0,0,0,0,0,,,0
+ritsu-protocol,Ritsu Protocol,Dexs,Taiko,Taiko,556988.422692195,Q3,0,0,0,0,0,,,0
+lara-protocol,Lara Protocol,Liquid Staking,Taraxa,Taraxa,24153.314172517246,Q3,0,0,0,0,0,,,0
+meridian-lend,Meridian Lend,Lending,Telos,Telos;Taiko;Taraxa;Meter;Fuse,104416.450075269,Q3,0,0,0,0,0,,,0
+telos-swap,Telos Swap,Dexs,Telos,Telos,33221.52692132619,Q3,0,0,0,0,0,,,0
+meridian-finance,Meridian Finance,CDP,Telos,Telos;Base;Taraxa;Fuse;Artela,79057.86984055718,Q3,0,0,0,0,0,,,0
+stlos-liquid-staking,sTLOS Liquid Staking,Liquid Staking,Telos,Telos,474005.43114092137,Q3,0,0,0,0,0,,,0
+terraswap,Terraswap,Dexs,Terra,Terra;Terra2,427410.7791981512,Q3,0,0,0,0,0,,,0
+garudadefi,GarudaDefi,Dexs,Terra,Terra,251117.3652935355,Q3,0,0,0,0,0,,,0
+solid,SOLID,CDP,Terra2,Terra2,81217.55187084513,Q3,0,0,0,0,0,,,0
+backbone-labs,BackBone Labs,Liquid Staking,Terra2,Terra2;Injective;Osmosis;Chihuahua;Juno;Kujira;Archway;Migaloo,275993.0264484311,Q3,0,0,0,0,0,,,0
+tezfin,TezFin,Lending,Tezos,Tezos,27195.878509799622,Q3,0,0,0,0,0,,,0
+quipuswap-v3,QuipuSwap V3,Dexs,Tezos,Tezos,115805.95142988722,Q3,0,0,0,0,0,,,0
+crunchy,Crunchy,Yield Aggregator,Tezos,Tezos,106537.3061562356,Q3,0,0,0,0,0,,,0
+quipuswap-v2,QuipuSwap V2,Dexs,Tezos,Tezos,43579.121214054074,Q3,0,0,0,0,0,,,0
+plenty,Plenty,Dexs,Tezos,Tezos,104030.56591679812,Q3,0,0,0,0,0,,,0
+thetacash,ThetaCash,Synthetics,Theta,Theta,195552.55617884843,Q3,0,0,0,0,0,,,0
+thetaswap,ThetaSwap,Dexs,Theta,Theta,225085.87748478,Q3,0,0,0,0,0,,,0
+voltswap,VoltSwap,Dexs,Theta,Theta;Meter,153898.20454251004,Q3,0,0,0,0,0,,,0
+nami-index,Nami Index,Indexes,Thorchain,Thorchain,210187.92615487,Q3,0,0,0,0,0,,,0
+laserswap,LaserSwap,Dexs,ThunderCore,ThunderCore,147194.55833512227,Q3,0,0,0,0,0,,,0
+ram-protocol,Ram Protocol,Lending,ThunderCore,ThunderCore,25524.223386218713,Q3,0,0,0,0,0,,,0
+ttswap,TTswap,Dexs,ThunderCore,ThunderCore,17665.37836314659,Q3,0,0,0,0,0,,,0
+powerflow,PowerFlow,Bridge,Titan,Titan;Solana;Ethereum,284560.96753794915,Q3,0,0,0,0,0,,,0
+rabbit-swap,Rabbit Swap,Dexs,TomoChain,TomoChain,491022.2438716817,Q3,0,0,0,0,0,,,0
+socialswap,SocialSwap,Dexs,Tron,Tron,306586.995428076,Q3,0,0,0,0,0,,,0
+uswap,Uswap,Dexs,Tron,Tron,582455.4179225764,Q3,0,0,0,0,0,,,0
+strx-finance,STRX Finance,Liquid Staking,Tron,Tron,15889.78363811905,Q3,0,0,0,0,0,,,0
+intercroneswap,Intercroneswap,Dexs,Tron,Tron;Bittorrent;Binance,325009.5376600869,Q3,0,0,0,0,0,,,0
+tronnrg,TronNRG,Staking Pool,Tron,Tron,16918.492964576777,Q3,0,0,0,0,0,,,0
+unilend-protocol,Unilend Protocol,Lending,UNIT0,UNIT0,371158.4949897124,Q3,0,0,0,0,0,,,0
+koalaswap,KoalaSwap,Dexs,UNIT0,UNIT0,156128.01111846964,Q3,0,0,0,0,0,,,0
+ultronswap,UltronSwap,Dexs,Ultron,Ultron,244665.45566958608,Q3,0,0,0,0,0,,,0
+ucs-finance,UCS Finance,Dexs,Unichain,Unichain,19865.59084112561,Q3,0,0,0,0,0,,,0
+catex,Catex,Dexs,Unichain,Unichain;Polygon,105949.43303387826,Q3,0,0,0,0,0,,,0
+turtleswap,TurtleSwap,Dexs,VeChain,VeChain,48098.80575227018,Q3,0,0,0,0,0,,,0
+vexchange,Vexchange,Dexs,VeChain,VeChain,117105.2592217596,Q3,0,0,0,0,0,,,0
+betterswap,BetterSwap,Dexs,VeChain,VeChain,374310.0844804178,Q3,0,0,0,0,0,,,0
+verocket,VeRocket,Dexs,VeChain,VeChain,53550.901453970626,Q3,0,0,0,0,0,,,0
+astroswap,AstroSwap,Dexs,Velas,Velas,56676.82549658423,Q3,0,0,0,0,0,,,0
+wagyuswap,WagyuSwap,Dexs,Velas,Velas,130624.58082132284,Q3,0,0,0,0,0,,,0
+wavelength-dao,Wavelength DAO,Dexs,Velas,Velas,66746.14610416946,Q3,0,0,0,0,0,,,0
+viva,Viva,Yield,Vite,Vite,80730.4646866,Q3,0,0,0,0,0,,,0
+kurrency,Kurrency,CDP,WEMIX,WEMIX;Klaytn,222962.97544000787,Q3,0,0,0,0,0,,,0
+neutrino,Neutrino,Indexes,Waves,Waves,339605.1640061245,Q3,0,0,0,0,0,,,0
+alien-worlds,Alien Worlds,Gaming,Wax,Wax,66065.15167877468,Q3,0,0,0,0,0,,,0
+waxfusion,WaxFusion,Liquid Staking,Wax,Wax,24856.7765838701,Q3,0,0,0,0,0,,,0
+atomichub,AtomicHub,Dexs,Wax,Wax;EOS,77979.4645025925,Q3,0,0,0,0,0,,,0
+alcor-exchange,Alcor Exchange,Dexs,Wax,Wax;EOS,248264.32188995613,Q3,0,0,0,0,0,,,0
+taco-studios,Taco Studios,Dexs,Wax,Wax,47734.09296812415,Q3,0,0,0,0,0,,,0
+okieswap-stableswap,OkieSwap Stableswap,Dexs,X Layer,X Layer,31239.718286109943,Q3,0,0,0,0,0,,,0
+revoswap,Revoswap,Dexs,X Layer,X Layer,52342.96462443158,Q3,0,0,0,0,0,,,0
+okieswap-v2,OkieSwap V2,Dexs,X Layer,X Layer,118895.56597478896,Q3,0,0,0,0,0,,,0
+abstradex,AbstraDEX,Dexs,X Layer,X Layer;Morph;Cronos zkEVM;ZetaChain;Zkfair;Cyber;Blast,393538.328429232,Q3,0,0,0,0,0,,,0
+okieswap-v3,OkieSwap V3,Dexs,X Layer,X Layer,211287.5809848424,Q3,0,0,0,0,0,,,0
+fathom-lending,Fathom Lending,Lending,XDC,XDC,143982.66147541584,Q3,0,0,0,0,0,,,0
+xswap-v2,XSwap V2,Dexs,XDC,XDC,226448.86921882935,Q3,0,0,0,0,0,,,0
+fathom-amm,Fathom AMM,Dexs,XDC,XDC,69526.27823178154,Q3,0,0,0,0,0,,,0
+fathom-vault,Fathom Vault,Yield,XDC,XDC,15805.37243456232,Q3,0,0,0,0,0,,,0
+dezswap,Dezswap,Dexs,XPLA,XPLA,357350.3423097349,Q3,0,0,0,0,0,,,0
+xrise33-network,XRiSE33 Network,Dexs,XRPL EVM,XRPL EVM,21081.108091863225,Q3,0,0,0,0,0,,,0
+riddle,Riddle,Launchpad,XRPL EVM,XRPL EVM,16104.007056661325,Q3,0,0,0,0,0,,,0
+accumulated-finance-lending,Accumulated Finance Lending,Lending,ZetaChain,ZetaChain;Coti;Velas;Bitkub;Sapphire,203474.5579993581,Q3,0,0,0,0,0,,,0
+amana,Amana,Yield Aggregator,ZetaChain,ZetaChain,63303.58761031266,Q3,0,0,0,0,0,,,0
+zearn-protocol,Zearn Protocol,Liquid Staking,ZetaChain,ZetaChain;Bitlayer,85314.4616150544,Q3,0,0,0,0,0,,,0
+eddyfinance-amm,EddyFinance AMM,Dexs,ZetaChain,ZetaChain,410512.2690163121,Q3,0,0,0,0,0,,,0
+substance-exchange,Substance Exchange,Derivatives,ZetaChain,ZetaChain;Arbitrum,35318.83281129143,Q3,0,0,0,0,0,,,0
+avely-staking,Avely Staking,Liquid Staking,Zilliqa,Zilliqa,76040.0663216947,Q3,0,0,0,0,0,,,0
+plunderswap-v3,PlunderSwap V3,Dexs,Zilliqa,Zilliqa,303145.1484631572,Q3,0,0,0,0,0,,,0
+zilswap,ZilSwap,Dexs,Zilliqa,Zilliqa,295496.05805048306,Q3,0,0,0,0,0,,,0
+gud.tech,Gud.Tech,AI Agents,Zircuit,Zircuit,116283.74110152623,Q3,0,0,0,0,0,,,0
+zuit-swap,Zuit Swap,Dexs,Zircuit,Zircuit,547689.0571471299,Q3,0,0,0,0,0,,,0
+elara,Elara,Lending,Zircuit,Zircuit,226505.43608904895,Q3,0,0,0,0,0,,,0
+ocelex-v2,Ocelex V2,Dexs,Zircuit,Zircuit,364118.05849412933,Q3,0,0,0,0,0,,,0
+sideswap,Sideswap,Dexs,Zkfair,Zkfair,47297.88423184994,Q3,0,0,0,0,0,,,0
+feefree,FeeFree,Dexs,Zora,Zora;Scroll;Base,20195.51465771431,Q3,0,0,0,0,0,,,0
+interport-finance,Interport Finance,Cross Chain Bridge,inEVM,inEVM;Scroll;zkLink;Fantom;Linea;Manta;Ethereum;Blast;Optimism;Base;Binance;Arbitrum;Avalanche;zkSync Era;Op_Bnb;Polygon;Polygon zkEVM;Horizen EON,24870.89372409433,Q3,0,0,0,0,0,,,0
+1bch,1BCH,Dexs,smartBCH,smartBCH,19143.186693348576,Q3,0,0,0,0,0,,,0
+benswap,BenSwap,Dexs,smartBCH,smartBCH;Binance,399663.43865044496,Q3,0,0,0,0,0,,,0
+tropical-finance,Tropical Finance,Dexs,smartBCH,smartBCH,60837.86961452405,Q3,0,0,0,0,0,,,0
+blockng,BlockNG,Dexs,smartBCH,smartBCH,119752.33525128623,Q3,0,0,0,0,0,,,0
+tangoswap,TangoSwap,Dexs,smartBCH,smartBCH,32031.087091052053,Q3,0,0,0,0,0,,,0
+bao-swap,BAO Swap,Dexs,xDai,xDai,55017.32043075181,Q3,0,0,0,0,0,,,0
+breadchain,Breadchain,CDP,xDai,xDai,462432.8112857699,Q3,0,0,0,0,0,,,0
+swapr-v2,Swapr V2,Dexs,xDai,xDai;Arbitrum;Ethereum,485394.29542499554,Q3,0,0,0,0,0,,,0
+gardens-dao,Gardens DAO,Governance Incentives,xDai,xDai,27533.89570549143,Q3,0,0,0,0,0,,,0
+realt-rmm-marketplace,RealT RMM Marketplace,Lending,xDai,xDai,117852.99736848932,Q3,0,0,0,0,0,,,0
+linkswap,Linkswap,Dexs,zkLink,zkLink,30344.826772855668,Q3,0,0,0,0,0,,,0
+novaswap-v2,NovaSwap V2,Dexs,zkLink,zkLink,22390.485366077755,Q3,0,0,0,0,0,,,0
+zkdx,zkDX,Farm,zkLink,zkLink;zkSync Era;Linea,77965.05184320826,Q3,0,0,0,0,0,,,0
+basilisk,Basilisk,Lending,zkSync Era,zkSync Era,164643.3606178723,Q3,0,0,0,0,0,,,0
+vivaleva-protocol,VivaLeva Protocol,Leveraged Farming,zkSync Era,zkSync Era,38493.2046094508,Q3,0,0,0,0,0,,,0
+velocore-v1,Velocore V1,Dexs,zkSync Era,zkSync Era,150182.55360450735,Q3,0,0,0,0,0,,,0
+clave,Clave,Liquid Staking,zkSync Era,zkSync Era,20475.814078450217,Q3,0,0,0,0,0,,,0
+holdstation-swap,Holdstation Swap,Dexs,zkSync Era,zkSync Era;Berachain,77643.32706194087,Q3,0,0,0,0,0,,,0
+bitfi-btc,BitFi BTC,Anchor BTC,AILayer,AILayer,91534501.41996756,Q4,0,0,0,0,0,,,0
+myriad-markets,Myriad Markets,Prediction Market,Abstract,Abstract;Binance;Linea,714047.4756397235,Q4,0,0,0,0,0,,,0
+reservoir-tools-amm,Reservoir Tools AMM,Dexs,Abstract,Abstract;Ink;Zero Network;Shape,4006583.7149358112,Q4,0,0,0,0,0,,,0
+reservoir-tools-clmm,Reservoir Tools CLMM,Dexs,Abstract,Abstract;Ink;Zero Network;Redstone;Shape,3965553.6066511143,Q4,0,0,0,0,0,,,0
+acala-liquid-staking,Acala Liquid Staking,Liquid Staking,Acala,Acala,6778332.384969508,Q4,0,0,0,0,0,,,0
+acala-lcdot,Acala LCDOT,Liquid Staking,Acala,Acala,5049674.267356669,Q4,0,0,0,0,0,,,0
+alphbanx,AlphBanX,CDP,Alephium,Alephium,933972.053990828,Q4,0,0,0,0,0,,,0
+alephium-bridge,Alephium Bridge,Bridge,Alephium,Alephium;Ethereum;Binance,1779931.877688046,Q4,0,0,0,0,0,,,0
+pact,Pact,Dexs,Algorand,Algorand,2907417.0,Q4,0,0,0,0,0,,,0
+tinyman,Tinyman,Dexs,Algorand,Algorand,7949757.629813754,Q4,0,0,0,0,0,,,0
+algofi-lend,Algofi Lend,Lending,Algorand,Algorand,780958.5157730808,Q4,0,0,0,0,0,,,0
+vestige,Vestige,Launchpad,Algorand,Algorand,854571.391578,Q4,0,0,0,0,0,,,0
+lofty,Lofty,RWA,Algorand,Algorand,99157084.13189375,Q4,0,0,0,0,0,,,0
+benddao-ape-staking,BendDAO APE Staking,Yield,ApeChain,ApeChain;Ethereum,1427198.02392144,Q4,0,0,0,0,0,,,0
+aave-aptos,Aave Aptos,Lending,Aptos,Aptos,39483186.43637452,Q4,0,0,0,0,0,,,0
+merkle-trade,Merkle Trade,Derivatives,Aptos,Aptos,5011250.944579519,Q4,0,0,0,0,0,,,0
+echo-strategy,Echo Strategy,Yield Aggregator,Aptos,Aptos,4400821.600023597,Q4,0,0,0,0,0,,,0
+amnis-finance,Amnis Finance,Liquid Staking,Aptos,Aptos,48966329.03962506,Q4,0,0,0,0,0,,,0
+moar-market,Moar Market,Leveraged Farming,Aptos,Aptos,6189677.807267843,Q4,0,0,0,0,0,,,0
+arbitrove,Arbitrove,Indexes,Arbitrum,Arbitrum,771855.1490883997,Q4,0,0,0,0,0,,,0
+camelot-v2,Camelot V2,Dexs,Arbitrum,Arbitrum;ApeChain;Sanko;Xai;Superposition;Rari;Reya Network;EDU Chain;Gravity;DuckChain,9832368.246347949,Q4,0,0,0,0,0,,,0
+omniyield,OmniYield,Yield Aggregator,Arbitrum,Arbitrum,3199908.013075566,Q4,0,0,0,0,0,,,0
+sanko-bridge,Sanko Bridge,Canonical Bridge,Arbitrum,Arbitrum,2322187.4313528496,Q4,0,0,0,0,0,,,0
+elfi-protocol,ELFi Protocol,Derivatives,Arbitrum,Arbitrum;Base,7948501.412113331,Q4,0,0,0,0,0,,,0
+astake,Astake,Liquid Staking,Astar,Astar,2143422.441952337,Q4,0,0,0,0,0,,,0
+neemo-finance,Neemo Finance,Liquid Restaking,Astar,Astar;Ethereum,1901229.690830004,Q4,0,0,0,0,0,,,0
+arthswap-v2,ArthSwap V2,Dexs,Astar,Astar,792008.6035599245,Q4,0,0,0,0,0,,,0
+astar-dapps-staking,Astar dApps Staking,Chain,Astar,Astar,25037952.39856211,Q4,0,0,0,0,0,,,0
+aurora-plus,Aurora Plus,Farm,Aurora,Aurora,3183054.318531234,Q4,0,0,0,0,0,,,0
+bastion,Bastion,Lending,Aurora,Aurora,683152.5146664791,Q4,0,0,0,0,0,,,0
+trisolaris,Trisolaris,Dexs,Aurora,Aurora,1350001.1184725077,Q4,0,0,0,0,0,,,0
+vapordex-v1,VaporDex V1,Dexs,Avalanche,Avalanche;Telos;ApeChain,632092.221439323,Q4,0,0,0,0,0,,,0
+yield-yak-aggregator,Yield Yak Aggregator,Yield Aggregator,Avalanche,Avalanche;Arbitrum;Mantle,21965329.902251165,Q4,0,0,0,0,0,,,0
+axial,Axial,Dexs,Avalanche,Avalanche,2148292.1981091085,Q4,0,0,0,0,0,,,0
+frankencoin,Frankencoin,CDP,Avalanche,Avalanche;Base;Ethereum;Optimism;Arbitrum;Sonic;Polygon;xDai,29188123.156168737,Q4,0,0,0,0,0,,,0
+suzaku,Suzaku,Restaking,Avalanche,Avalanche,2630048.39669514,Q4,0,0,0,0,0,,,0
+segment-finance,Segment Finance,Lending,BOB,BOB;Binance;BSquared;Op_Bnb;CORE;RSK,750618.6977975774,Q4,0,0,0,0,0,,,0
+blueshift,Blueshift,Dexs,BOB,BOB;Kava;Polygon;Milkomeda;Milkomeda A1,4986688.119095233,Q4,0,0,0,0,0,,,0
+echo-bridge,Echo Bridge,Bridge,BSquared,BSquared,180881611.86687407,Q4,0,0,0,0,0,,,0
+unirouter,UniRouter,Bridge,BSquared,BSquared,341401140.8604643,Q4,0,0,0,0,0,,,0
+glowswap,GlowSwap,Dexs,BSquared,BSquared,3003578.0811390737,Q4,0,0,0,0,0,,,0
+buzz-farming,Buzz Farming,Farm,BSquared,BSquared,330437177.4714708,Q4,0,0,0,0,0,,,0
+hive-protocol,Hive Protocol,Chain,BSquared,BSquared,10985718.87027133,Q4,0,0,0,0,0,,,0
+escher,Escher,Liquid Staking,Babylon Genesis,Babylon Genesis,4167979.5394132296,Q4,0,0,0,0,0,,,0
+lolik-liquid-staking,Lolik Liquid Staking,Liquid Staking,Bahamut,Bahamut,29329194.15262804,Q4,0,0,0,0,0,,,0
+synfutures-v3,SynFutures V3,Derivatives,Base,Base;Blast,5272584.4889446,Q4,0,0,0,0,0,,,0
+sosovalue-basis,SoSoValue Basis,Basis Trading,Base,Base,4086924.611086874,Q4,0,0,0,0,0,,,0
+truemarkets,Truemarkets,Prediction Market,Base,Base,2548310.3747383803,Q4,0,0,0,0,0,,,0
+bitbond-lockers,Bitbond Lockers,Token Locker,Base,Base;Binance;Ethereum;Optimism;Avalanche;Polygon;Arbitrum,10900642.080094498,Q4,0,0,0,0,0,,,0
+friend.tech-v1,friend.tech V1,SoFi,Base,Base,3035164.8213549093,Q4,0,0,0,0,0,,,0
+beam-swap,Beam Swap,Dexs,Beam,Beam,1428432.675312569,Q4,0,0,0,0,0,,,0
+smilee-finance-gbera,Smilee Finance gBERA,Liquid Staking,Berachain,Berachain,3545069.523816687,Q4,0,0,0,0,0,,,0
+royco-protocol,Royco Protocol,Yield,Berachain,Berachain;Arbitrum;Plume Mainnet;Ethereum;Sonic;Base;Corn;Hyperliquid L1,23816105.472072933,Q4,0,0,0,0,0,,,0
+beraborrow,Beraborrow,CDP,Berachain,Berachain,43198854.93245814,Q4,0,0,0,0,0,,,0
+nome-protocol,NOME Protocol,Algo-Stables,Berachain,Berachain,1980830.8640411852,Q4,0,0,0,0,0,,,0
+goldilocks,Goldilocks,Yield,Berachain,Berachain,618692.9865619413,Q4,0,0,0,0,0,,,0
+bifrost-dex,Bifrost Dex,Dexs,Bifrost,Bifrost,7697451.658908193,Q4,0,0,0,0,0,,,0
+bifrost-liquid-crowdloan,Bifrost Liquid Crowdloan,Liquid Staking,Bifrost,Bifrost,771282.8615649311,Q4,0,0,0,0,0,,,0
+bifrost-liquid-staking,Bifrost Liquid Staking,Liquid Staking,Bifrost,Bifrost;Ethereum;Astar;Manta;Filecoin,86247164.9274622,Q4,0,0,0,0,0,,,0
+bifi,BiFi,Lending,Bifrost Network,Bifrost Network;Binance;Ethereum;Klaytn;Avalanche,9301527.872113014,Q4,0,0,0,0,0,,,0
+biquid,Biquid,Liquid Staking,Bifrost Network,Bifrost Network,5493027.400061146,Q4,0,0,0,0,0,,,0
+everdex,Everdex,Dexs,Bifrost Network,Bifrost Network,4314045.674306016,Q4,0,0,0,0,0,,,0
+kernel,Kernel,Restaking,Binance,Binance,6995344.55085693,Q4,0,0,0,0,0,,,0
+cakepie,Cakepie,Yield,Binance,Binance,724844.1103229701,Q4,0,0,0,0,0,,,0
+nomiswap,Nomiswap,Dexs,Binance,Binance,1400377.373786318,Q4,0,0,0,0,0,,,0
+solv-basis-trading,Solv Basis Trading,Basis Trading,Binance,Binance;Soneium;Arbitrum;Ethereum;Mantle;Polygon;Solana;Merlin,234848755.74617857,Q4,0,0,0,0,0,,,0
+acryptos,ACryptoS,Liquidity manager,Binance,Binance;Arbitrum;Avalanche;Base;Moonbeam;Moonriver;Astar;Linea;Ethereum;Optimism;Cronos;xDai;Polygon;Fantom;Kava;Canto;Harmony,10559723.547954828,Q4,0,0,0,0,0,,,0
+ailayer-farm,AILayer farm,Farm,Bitcoin,Bitcoin;zkLink,91310532.9971855,Q4,0,0,0,0,0,,,0
+bedrock-unibtc,Bedrock uniBTC,Anchor BTC,Bitcoin,Bitcoin;Ethereum;Mode;BOB;Binance;Mantle;BSquared;Berachain;Base;Arbitrum;Merlin;Bitlayer;ZetaChain;Optimism;Hemi;RSK;TAC;Taiko,442034192.4908726,Q4,0,0,0,0,0,,,0
+nbx,NBX,CEX,Bitcoin,Bitcoin;Ethereum;Cardano,2162844.769226282,Q4,0,0,0,0,0,,,0
+botanix-bridge,Botanix Bridge,Canonical Bridge,Bitcoin,Bitcoin,36358235.388568826,Q4,0,0,0,0,0,,,0
+solvbtc,SolvBTC,Bridge,Bitcoin,Bitcoin;Binance;Ethereum;Solana;Base;Avalanche;Arbitrum;Mantle;Polygon;Merlin;BOB,994225289.923242,Q4,0,0,0,0,0,,,0
+anyhedge,AnyHedge,Derivatives,Bitcoincash,Bitcoincash,4863333.4799999995,Q4,0,0,0,0,0,,,0
+cauldron,Cauldron,Dexs,Bitcoincash,Bitcoincash,852222.3777559155,Q4,0,0,0,0,0,,,0
+moria-protocol,Moria Protocol,CDP,Bitcoincash,Bitcoincash,846643.5680892792,Q4,0,0,0,0,0,,,0
+udonswap,UdonSwap,Dexs,Bitkub,Bitkub,2043692.108334589,Q4,0,0,0,0,0,,,0
+ponder-finance,Ponder Finance,Dexs,Bitkub,Bitkub,1022345.893011415,Q4,0,0,0,0,0,,,0
+desyn-basis-trading,DeSyn Basis Trading,Basis Trading,Bitlayer,Bitlayer;Mode;CORE;AILayer;BSquared;Hemi;Binance;Goat;Plume Mainnet;Arbitrum;zkLink;Linea;Merlin;Scroll;exSat;HashKey Chain,11697789.48430084,Q4,0,0,0,0,0,,,0
+rollx,RollX,Derivatives,Bitlayer,Bitlayer;Base,1887574.2320532023,Q4,0,0,0,0,0,,,0
+ybtc.b,YBTC.B,Anchor BTC,Bitlayer,Bitlayer,114776413.74225874,Q4,0,0,0,0,0,,,0
+hatom-tao-bridge,Hatom TAO Bridge,Bridge,Bittensor,Bittensor,18135179.667433053,Q4,0,0,0,0,0,,,0
+thruster-v2,Thruster V2,Dexs,Blast,Blast,3070988.796750896,Q4,0,0,0,0,0,,,0
+fenix-concentrated-liquidity,Fenix Concentrated Liquidity,Dexs,Blast,Blast,7445608.869964691,Q4,0,0,0,0,0,,,0
+orbit-protocol,Orbit Protocol,Lending,Blast,Blast,764566.2068264789,Q4,0,0,0,0,0,,,0
+baseline-protocol,Baseline Protocol,Liquidity manager,Blast,Blast,1690423.399746005,Q4,0,0,0,0,0,,,0
+pac-finance,Pac Finance,Lending,Blast,Blast,7017650.693369752,Q4,0,0,0,0,0,,,0
+botanix-stbtc,Botanix stBTC,Liquid Staking,Botanix,Botanix,8970802.695092233,Q4,0,0,0,0,0,,,0
+bitzy,Bitzy,Dexs,Botanix,Botanix,2991927.0293104723,Q4,0,0,0,0,0,,,0
+bouncebit-cedefi-yield,BounceBit CeDeFi Yield,Basis Trading,BounceBit,BounceBit;Binance;Ethereum;Solana;Base,420168995.00076735,Q4,0,0,0,0,0,,,0
+colend-protocol,Colend Protocol,Lending,CORE,CORE,26762855.813376207,Q4,0,0,0,0,0,,,0
+core-earn,Core Earn,Liquid Staking,CORE,CORE,1793233.7732920167,Q4,0,0,0,0,0,,,0
+molten-v4,Molten V4,Dexs,CORE,CORE,1060798.619328865,Q4,0,0,0,0,0,,,0
+canto-lending,Canto Lending,Lending,Canto,Canto,1475774.8156476582,Q4,0,0,0,0,0,,,0
+atrium,Atrium,Farm,Cardano,Cardano,1000897.178340345,Q4,0,0,0,0,0,,,0
+cswap-dex,CSWAP DEX,Dexs,Cardano,Cardano,890744.4830774043,Q4,0,0,0,0,0,,,0
+minswap,Minswap,Dexs,Cardano,Cardano,50874616.20570841,Q4,0,0,0,0,0,,,0
+indigo,Indigo,CDP,Cardano,Cardano,11162796.47129256,Q4,0,0,0,0,0,,,0
+djed-stablecoin,Djed Stablecoin,Dual-Token Stablecoin,Cardano,Cardano,12749767.616860151,Q4,0,0,0,0,0,,,0
+carbon-defi,Carbon Defi,Dexs,Celo,Celo;Sei;Ethereum;Coti;TAC,4358736.863252187,Q4,0,0,0,0,0,,,0
+stcelo,stCELO,Liquid Staking,Celo,Celo,2183628.1116168983,Q4,0,0,0,0,0,,,0
+ubeswap-v2,Ubeswap V2,Dexs,Celo,Celo,913029.5743898634,Q4,0,0,0,0,0,,,0
+chainflip,Chainflip,Dexs,Chainflip,Chainflip;Ethereum,12580248.932406548,Q4,0,0,0,0,0,,,0
+fanx-protocol,FanX Protocol,Dexs,Chiliz,Chiliz,6025825.235060197,Q4,0,0,0,0,0,,,0
+chiliz-governance-staking,Chiliz Governance Staking,Chain,Chiliz,Chiliz,115827856.93528156,Q4,0,0,0,0,0,,,0
+abc-pool,ABC Pool,Staking Pool,Conflux,Conflux,7834453.513054133,Q4,0,0,0,0,0,,,0
+moon-swap,Moon Swap,Dexs,Conflux,Conflux,1404913.801377769,Q4,0,0,0,0,0,,,0
+unitus,Unitus,Lending,Conflux,Conflux;Ethereum;Binance;Arbitrum;Base;Polygon;Optimism,7131612.72040136,Q4,0,0,0,0,0,,,0
+nucleon,Nucleon,Liquid Staking,Conflux,Conflux,1561558.6132721882,Q4,0,0,0,0,0,,,0
+swappi,Swappi,Dexs,Conflux,Conflux,2478897.7070767097,Q4,0,0,0,0,0,,,0
+stride,Stride,Liquid Staking,Cosmos,Cosmos;HAQQ;Osmosis;Celestia;BandChain;dYdX;Injective;Berachain;Juno;Dymension;Terra2;Evmos;Stargaze;Umee;Sommelier;Comdex;Stride,11093301.775012191,Q4,0,0,0,0,0,,,0
+vvs-flawless,VVS Flawless,Dexs,Cronos,Cronos,1567952.9615437642,Q4,0,0,0,0,0,,,0
+crypto.com-liquid-staking,Crypto.com Liquid Staking,Liquid Staking,Cronos,Cronos;Solana,121429921.40576722,Q4,0,0,0,0,0,,,0
+moonlander,Moonlander,Derivatives,Cronos,Cronos;Cronos zkEVM,31913915.202060908,Q4,0,0,0,0,0,,,0
+cgo-finance,CGO Finance,Yield Aggregator,Cronos,Cronos,1683696.5960102575,Q4,0,0,0,0,0,,,0
+veno-finance,Veno Finance,Liquid Staking,Cronos,Cronos;Ethereum;Cronos zkEVM;zkSync Era,55214761.09590709,Q4,0,0,0,0,0,,,0
+h2-finance-v2,H2 Finance V2,Dexs,Cronos zkEVM,Cronos zkEVM,5713315.5035980195,Q4,0,0,0,0,0,,,0
+amply-finance,Amply Finance,Lending,Cronos zkEVM,Cronos zkEVM,916675.3318275178,Q4,0,0,0,0,0,,,0
+stcyber,stCYBER,Liquid Staking,Cyber,Cyber,2649584.9817589046,Q4,0,0,0,0,0,,,0
+crystalvale,Crystalvale,Dexs,DFK,DFK,1260089.0640376862,Q4,0,0,0,0,0,,,0
+dfs-network,DFS Network,Dexs,DFS Network,DFS Network;EOS,4831787.779379311,Q4,0,0,0,0,0,,,0
+defichain-dex,DefiChain DEX,Dexs,DefiChain,DefiChain,1520596.3465436448,Q4,0,0,0,0,0,,,0
+dexalot-dex,Dexalot DEX,Dexs,Dexalot,Dexalot;Arbitrum;Avalanche;Base;Binance,4429475.646298774,Q4,0,0,0,0,0,,,0
+dogeswaporg,DogeSwapOrg,Dexs,Dogechain,Dogechain,988184.51549676,Q4,0,0,0,0,0,,,0
+dymension-dex,Dymension DEX,Dexs,Dymension,Dymension,1695220.254305912,Q4,0,0,0,0,0,,,0
+pencil-finance,Pencil Finance,RWA Lending,EDU Chain,EDU Chain,11093459.757581446,Q4,0,0,0,0,0,,,0
+paycash,PayCash,Dexs,EOS,EOS,318911479.59705,Q4,0,0,0,0,0,,,0
+whaleex,WhaleEx,Dexs,EOS,EOS,3755125.48461445,Q4,0,0,0,0,0,,,0
+vaulta-ram,Vaulta RAM,Dexs,EOS,EOS,4026806.4301595422,Q4,0,0,0,0,0,,,0
+defibox,DefiBox,Dexs,EOS,EOS;Binance;Wax,1342303.5074573143,Q4,0,0,0,0,0,,,0
+vaulta-rex,Vaulta REX,Lending,EOS,EOS,56912982.71116581,Q4,0,0,0,0,0,,,0
+ashswap,Ashswap,Dexs,Elrond,Elrond,1396633.7460212663,Q4,0,0,0,0,0,,,0
+hatom-lending,Hatom Lending,Lending,Elrond,Elrond,10767302.14655243,Q4,0,0,0,0,0,,,0
+xoxno-liquid-staking,XOXNO Liquid Staking,Liquid Staking,Elrond,Elrond,2260566.2206716086,Q4,0,0,0,0,0,,,0
+hatom-liquid-staking,Hatom Liquid Staking,Liquid Staking,Elrond,Elrond,6288297.719258694,Q4,0,0,0,0,0,,,0
+xexchange,xExchange,Dexs,Elrond,Elrond,5936156.0,Q4,0,0,0,0,0,,,0
+elys-earn,Elys Earn,Lending,Elys,Elys,2360173.6803099997,Q4,0,0,0,0,0,,,0
+endurance-bridge,Endurance Bridge,Bridge,Endurance,Endurance,7029852.672626914,Q4,0,0,0,0,0,,,0
+equilibrium-lending,Equilibrium Lending,Lending,Equilibrium,Equilibrium,1134428.7005913283,Q4,0,0,0,0,0,,,0
+ergodex,ErgoDEX,Dexs,Ergo,Ergo,805739.959749439,Q4,0,0,0,0,0,,,0
+rosen-bridge,Rosen Bridge,Bridge,Ergo,Ergo;Cardano;Bitcoin;Ethereum;Binance;Doge,3212727.561196829,Q4,0,0,0,0,0,,,0
+sigmausd,Sigmausd,Algo-Stables,Ergo,Ergo,837603.0019399349,Q4,0,0,0,0,0,,,0
+zircuit,Zircuit,Canonical Bridge,Ethereum,Ethereum,11028548.021887552,Q4,0,0,0,0,0,,,0
+cana-holdings-california-carbon-credits,CANA Holdings California Carbon Credits,RWA,Ethereum,Ethereum,848537.1847965034,Q4,0,0,0,0,0,,,0
+hotcoin,Hotcoin,CEX,Ethereum,Ethereum;Binance;Tron;Polygon;Arbitrum;Solana;Optimism;Scroll;Bitcoin;Op_Bnb,7960133.512702332,Q4,0,0,0,0,0,,,0
+apollo-diversified-credit-securitize-fund,Apollo Diversified Credit Securitize Fund,RWA,Ethereum,Ethereum;Aptos;Ink;Avalanche;Polygon;Sei;Solana,83702273.97085103,Q4,0,0,0,0,0,,,0
+swaap-maker-v2,Swaap Maker V2,Dexs,Ethereum,Ethereum;Base;Binance;Arbitrum;Polygon;Optimism;Mode;Linea;Scroll;Mantle,10661286.322880331,Q4,0,0,0,0,0,,,0
+superlend,Superlend,Lending,Etherlink,Etherlink,9692626.796842735,Q4,0,0,0,0,0,,,0
+uranium.io,Uranium.io,RWA,Etherlink,Etherlink,7223541.430334985,Q4,0,0,0,0,0,,,0
+hanji-protocol,Hanji Protocol,Dexs,Etherlink,Etherlink;Base;Monad,3184320.6573570245,Q4,0,0,0,0,0,,,0
+superloop,Superloop,Onchain Capital Allocator,Etherlink,Etherlink,3440496.776297295,Q4,0,0,0,0,0,,,0
+evedex,Evedex,Derivatives,Eventum,Eventum,1281777.8408072272,Q4,0,0,0,0,0,,,0
+spookyswap-v2,SpookySwap V2,Dexs,Fantom,Fantom;Bittorrent;Sonic;Horizen EON,1657111.0292285425,Q4,0,0,0,0,0,,,0
+scream,Scream,Lending,Fantom,Fantom,1288676.9123830262,Q4,0,0,0,0,0,,,0
+filet-finance,Filet Finance,Liquid Staking,Filecoin,Filecoin;Binance;Mixin;Heco,2164289.1870479574,Q4,0,0,0,0,0,,,0
+glif,GLIF,Liquid Staking,Filecoin,Filecoin;Base,47354442.073628485,Q4,0,0,0,0,0,,,0
+sft-protocol,SFT Protocol,Liquid Staking,Filecoin,Filecoin,1399398.0160628725,Q4,0,0,0,0,0,,,0
+hashking,HashKing,Liquid Staking,Filecoin,Filecoin,835267.6495761632,Q4,0,0,0,0,0,,,0
+parasail,Parasail,Restaking,Filecoin,Filecoin;Fluence;Arbitrum;Swan,12147584.772204546,Q4,0,0,0,0,0,,,0
+blazeswap,BlazeSwap,Dexs,Flare,Flare;Songbird,2939832.7000478865,Q4,0,0,0,0,0,,,0
+clearpool-tpool,Clearpool TPOOL,RWA,Flare,Flare;Ethereum,50256317.053279765,Q4,0,0,0,0,0,,,0
+sparkdex-perps,SparkDEX Perps,Derivatives,Flare,Flare,3425469.437180544,Q4,0,0,0,0,0,,,0
+enosys-amm-v3,Enosys AMM V3,Dexs,Flare,Flare;Songbird,9108312.621343564,Q4,0,0,0,0,0,,,0
+sceptre-liquid,Sceptre Liquid,Liquid Staking,Flare,Flare,22584538.247983366,Q4,0,0,0,0,0,,,0
+thedeep,TheDeep,Liquidity manager,Flow,Flow;Base;Celo;Ink;Katana;Hemi,13017417.603856567,Q4,0,0,0,0,0,,,0
+increment-liquid-staking,Increment Liquid Staking,Liquid Staking,Flow,Flow,1466655.3489098423,Q4,0,0,0,0,0,,,0
+kittypunch-stablekitty,KittyPunch StableKitty,Dexs,Flow,Flow,12848381.125208195,Q4,0,0,0,0,0,,,0
+increment-lending,Increment Lending,Lending,Flow,Flow,1242247.0,Q4,0,0,0,0,0,,,0
+more-vaults,MORE Vaults,Onchain Capital Allocator,Flow,Flow,2169024.4158124067,Q4,0,0,0,0,0,,,0
+bamm,BAMM,Lending,Fraxtal,Fraxtal,2492621.129680268,Q4,0,0,0,0,0,,,0
+dtrinity-dlend,dTRINITY dLEND,Lending,Fraxtal,Fraxtal;Sonic,1186620.2267620096,Q4,0,0,0,0,0,,,0
+ra-exchange,Ra Exchange,Dexs,Fraxtal,Fraxtal,1005916.5516561426,Q4,0,0,0,0,0,,,0
+the-rig,The Rig,Liquid Staking,Fuel,Fuel,933260.8272356607,Q4,0,0,0,0,0,,,0
+swaylend,Swaylend,Lending,Fuel,Fuel,1505763.9782523268,Q4,0,0,0,0,0,,,0
+gala-swap,Gala Swap,Dexs,Gala,Gala,3197291.444149906,Q4,0,0,0,0,0,,,0
+artemis-finance,Artemis Finance,Liquid Staking,Goat,Goat;Metis,3178168.663575888,Q4,0,0,0,0,0,,,0
+hadouken-lend,Hadouken Lend,Lending,GodwokenV1,GodwokenV1,652458.76961905,Q4,0,0,0,0,0,,,0
+gravity-bridge,Gravity Bridge,Bridge,GravityBridge,GravityBridge;Ethereum,22151999.278880432,Q4,0,0,0,0,0,,,0
+hyperindex,HyperInDex,Dexs,HashKey Chain,HashKey Chain,968820.8502019324,Q4,0,0,0,0,0,,,0
+hskhodlium,hskhodlium,Liquid Staking,HashKey Chain,HashKey Chain,3391764.887133608,Q4,0,0,0,0,0,,,0
+davincigraph,DaVinciGraph,Token Locker,Hedera,Hedera,1851744.0,Q4,0,0,0,0,0,,,0
+saucerswap-v2,SaucerSwap V2,Dexs,Hedera,Hedera,28761365.72497693,Q4,0,0,0,0,0,,,0
+hbarsuite,HbarSuite,Dexs,Hedera,Hedera,1478262.0,Q4,0,0,0,0,0,,,0
+bonzo-finance,Bonzo Finance,Lending,Hedera,Hedera,17938596.95379933,Q4,0,0,0,0,0,,,0
+saucerswap-v1,SaucerSwap V1,Dexs,Hedera,Hedera,18229996.04736028,Q4,0,0,0,0,0,,,0
+spectra-v2,Spectra V2,Yield,Hemi,Hemi;Ethereum;Katana;Binance;Hyperliquid L1;Flare;Base;Sonic;Avalanche;Monad;Arbitrum;Optimism,40328205.20101048,Q4,0,0,0,0,0,,,0
+hemi-staking,Hemi Staking,Farm,Hemi,Hemi,55094490.44227748,Q4,0,0,0,0,0,,,0
+hydration-lending,Hydration Lending,Lending,HydraDX,HydraDX,58702393.40236051,Q4,0,0,0,0,0,,,0
+hydration-dex,Hydration DEX,Dexs,HydraDX,HydraDX,89403728.32647449,Q4,0,0,0,0,0,,,0
+hyperlend-pooled,HyperLend Pooled,Lending,Hyperliquid L1,Hyperliquid L1,282603897.7677018,Q4,0,0,0,0,0,,,0
+kittenswap-algebra,Kittenswap Algebra,Dexs,Hyperliquid L1,Hyperliquid L1,1367414.698232877,Q4,0,0,0,0,0,,,0
+felix-cdp,Felix CDP,CDP,Hyperliquid L1,Hyperliquid L1,40738297.23517516,Q4,0,0,0,0,0,,,0
+ultrasolid-v3,Ultrasolid V3,Dexs,Hyperliquid L1,Hyperliquid L1,1460115.151157041,Q4,0,0,0,0,0,,,0
+hyperstable-cdp,Hyperstable CDP,CDP,Hyperliquid L1,Hyperliquid L1,591751.7115265304,Q4,0,0,0,0,0,,,0
+icdex,ICDex,Dexs,ICP,ICP,703142.3521358895,Q4,0,0,0,0,0,,,0
+service-nervous-systems,Service Nervous Systems,Governance Incentives,ICP,ICP,2393508.847263011,Q4,0,0,0,0,0,,,0
+gold-dao,Gold DAO,RWA,ICP,ICP,1368696.6571300875,Q4,0,0,0,0,0,,,0
+waterneuron,WaterNeuron,Liquid Staking,ICP,ICP,7090217.665437026,Q4,0,0,0,0,0,,,0
+icpswap,ICPSwap,Dexs,ICP,ICP,4085476.0,Q4,0,0,0,0,0,,,0
+pools-finance,Pools Finance,Dexs,IOTA,IOTA,4458328.254712662,Q4,0,0,0,0,0,,,0
+swirl,Swirl,Liquid Staking,IOTA,IOTA,9289129.556381816,Q4,0,0,0,0,0,,,0
+virtue,Virtue,CDP,IOTA,IOTA,5667029.777631912,Q4,0,0,0,0,0,,,0
+magicsea-lb,MagicSea LB,Dexs,IOTA EVM,IOTA EVM,1049016.0127323647,Q4,0,0,0,0,0,,,0
+deepr-finance,Deepr Finance,Lending,IOTA EVM,IOTA EVM;ShimmerEVM,1050273.13505892,Q4,0,0,0,0,0,,,0
+balanced-dollar,Balanced Dollar,CDP,Icon,Icon,2089837.948864104,Q4,0,0,0,0,0,,,0
+balanced-exchange,Balanced Exchange,Dexs,Icon,Icon;Avalanche;Binance;Arbitrum;Solana;Stellar;Sui;Injective;Base;Archway;Optimism,9596342.887209697,Q4,0,0,0,0,0,,,0
+sicx,sICX,Liquid Staking,Icon,Icon,2771269.056673193,Q4,0,0,0,0,0,,,0
+quickswap-v3,Quickswap V3,Dexs,Immutable zkEVM,Immutable zkEVM;Polygon;Manta;Soneium;X Layer;Dogechain;Polygon zkEVM;Astar zkEVM,25374418.163879503,Q4,0,0,0,0,0,,,0
+initiadex,InitiaDEX,Dexs,Initia,Initia,3292240.349693714,Q4,0,0,0,0,0,,,0
+cabal,Cabal,Governance Incentives,Initia,Initia,826529.8806861008,Q4,0,0,0,0,0,,,0
+helix-spot,Helix Spot,Dexs,Injective,Injective,1953447.149620391,Q4,0,0,0,0,0,,,0
+neptune-finance,Neptune Finance,Lending,Injective,Injective,3355184.8010595688,Q4,0,0,0,0,0,,,0
+hydro-lending,Hydro Lending,Lending,Injective,Injective,1858010.45421537,Q4,0,0,0,0,0,,,0
+helix-perp,Helix Perp,Derivatives,Injective,Injective,11318752.713101389,Q4,0,0,0,0,0,,,0
+hydro-lst,Hydro LST,Liquid Staking,Injective,Injective,7836764.858132925,Q4,0,0,0,0,0,,,0
+velodrome-v3,Velodrome V3,Dexs,Ink,Ink;Optimism;Soneium;Lisk;Unichain;Celo;Superseed;Fraxtal;Swellchain;Mode,30137759.147763494,Q4,0,0,0,0,0,,,0
+inkyswap,InkySwap,Dexs,Ink,Ink,973594.968871212,Q4,0,0,0,0,0,,,0
+bedrock-uniiotx,Bedrock uniIOTX,Liquid Staking,IoTeX,IoTeX,3314079.410536974,Q4,0,0,0,0,0,,,0
+mimo-v2,Mimo V2,Dexs,IoTeX,IoTeX,3464948.388002506,Q4,0,0,0,0,0,,,0
+zoomswap,ZoomSwap,Farm,IoTeX,IoTeX,939333.9446229558,Q4,0,0,0,0,0,,,0
+karura-liquid-staking,Karura Liquid Staking,Liquid Staking,Karura,Karura,1185283.574555891,Q4,0,0,0,0,0,,,0
+steer-protocol,Steer Protocol,Liquidity manager,Katana,Katana;Base;Binance;Ethereum;Polygon;Hyperliquid L1;Saga;Nibiru;Manta;Flare;Linea;Metis;Evmos;Celo;Arbitrum;Mode;Zircuit;Sonic;Avalanche;Berachain;Kava;Optimism;Blast;Astar;Soneium;Hemi;Scroll;RSK;ThunderCore;X Layer;Polygon zkEVM;Mantle;Fantom;Telos;Filecoin;zkLink;Unichain;Moonbeam;ApeChain;ZetaChain;Taiko;Ronin,38496759.10962028,Q4,0,0,0,0,0,,,0
+sushiswap-v3,SushiSwap V3,Dexs,Katana,Katana;Hemi;Base;Ethereum;Arbitrum;RSK;Filecoin;Optimism;Polygon;ThunderCore;Europa;xDai;Binance;Scroll;Avalanche;Linea;Arbitrum Nova;Sonic;CORE;Polygon zkEVM;Blast;Metis;ZetaChain;Fantom;Moonriver;Kava;Fuse;Bittorrent;Moonbeam,102433495.7660182,Q4,0,0,0,0,0,,,0
+yearn-curating,Yearn Curating,Risk Curators,Katana,Katana;Ethereum;Arbitrum;Base,152749048.00896198,Q4,0,0,0,0,0,,,0
+equilibre,Equilibre,Dexs,Kava,Kava,6657395.626054041,Q4,0,0,0,0,0,,,0
+kava-earn,Kava Earn,Yield Aggregator,Kava,Kava,2900064.9856283115,Q4,0,0,0,0,0,,,0
+scrub-invest,Scrub Invest,Yield,Kava,Kava,6632012.135680333,Q4,0,0,0,0,0,,,0
+kava-lend,Kava Lend,Lending,Kava,Kava,15446533.923351258,Q4,0,0,0,0,0,,,0
+kava-mint,Kava Mint,CDP,Kava,Kava,22220250.508166477,Q4,0,0,0,0,0,,,0
+neopin-staking,NEOPIN Staking,Staking Pool,Klaytn,Klaytn;Tron,50171835.589826755,Q4,0,0,0,0,0,,,0
+lair-finance,Lair Finance,Liquid Staking,Klaytn,Klaytn;Somnia;Berachain,7717632.432454992,Q4,0,0,0,0,0,,,0
+consensus-liquidity-dex,Consensus Liquidity DEX,Dexs,Klaytn,Klaytn,1075459.8969242126,Q4,0,0,0,0,0,,,0
+kleva-farm,Kleva Farm,Leveraged Farming,Klaytn,Klaytn,783812.1504501466,Q4,0,0,0,0,0,,,0
+klayportal,Klayportal,Staking Pool,Klaytn,Klaytn,1075517.873573339,Q4,0,0,0,0,0,,,0
+etherex-cl,Etherex CL,Dexs,Linea,Linea,20418210.372846875,Q4,0,0,0,0,0,,,0
+nile-cl,Nile CL,Dexs,Linea,Linea,703156.6674843209,Q4,0,0,0,0,0,,,0
+deri-v4,Deri V4,Options,Linea,Linea;Binance;Base;zkSync Era;Supra;Arbitrum;Sonic;Polygon zkEVM;Taiko;Blast;Manta;Scroll,10320251.7758045,Q4,0,0,0,0,0,,,0
+zerolend-lending,ZeroLend Lending,Lending,Linea,Linea;zkSync Era;Blast;Ethereum;Manta;Base;Abstract;X Layer;Zircuit;Corn;Hemi,8138638.244020268,Q4,0,0,0,0,0,,,0
+etherex-legacy,Etherex Legacy,Dexs,Linea,Linea,8787629.411589231,Q4,0,0,0,0,0,,,0
+layerbank,LayerBank,Lending,Manta,Manta;Linea;RSK;Scroll;Hemi;BOB;BSquared;Plume Mainnet;Morph;Taiko;Mint;zkLink;Bitlayer;Nibiru;Binance;Mode,7515262.601320597,Q4,0,0,0,0,0,,,0
+shoebill-v2,Shoebill V2,Lending,Manta,Manta;BSquared;BOB;Metis;zkLink;Fuse;Mode;WEMIX;Klaytn;ZetaChain;Kroma,921101.229672256,Q4,0,0,0,0,0,,,0
+gullnetwork-amm,GullNetwork AMM,Dexs,Manta,Manta,1134331.957895851,Q4,0,0,0,0,0,,,0
+manta-cedefi,Manta CeDeFi,Basis Trading,Manta,Manta,43540388.632148325,Q4,0,0,0,0,0,,,0
+manta-atlantic-stake,Manta Atlantic Stake,Chain,Manta Atlantic,Manta Atlantic,6825580.70162173,Q4,0,0,0,0,0,,,0
+solv-rwa,Solv RWA,RWA,Mantle,Mantle,950141.770048457,Q4,0,0,0,0,0,,,0
+brink,Brink,Onchain Capital Allocator,Mantle,Mantle;Base,868264.6799226669,Q4,0,0,0,0,0,,,0
+lendle-pooled-markets,Lendle Pooled Markets,Lending,Mantle,Mantle,8129498.867854816,Q4,0,0,0,0,0,,,0
+agni-finance,Agni Finance,Dexs,Mantle,Mantle,37574893.71335653,Q4,0,0,0,0,0,,,0
+merchant-moe-liquidity-book,Merchant Moe Liquidity Book,Dexs,Mantle,Mantle,60280447.70401792,Q4,0,0,0,0,0,,,0
+staq,StaQ,Liquid Staking,Map,Map,3957448.157964632,Q4,0,0,0,0,0,,,0
+hiveswap-v3,HiveSwap V3,Dexs,Map,Map,7598140.273109361,Q4,0,0,0,0,0,,,0
+maya-protocol,Maya Protocol,Cross Chain Bridge,Mayachain,Mayachain;Bitcoin;Ethereum;Thorchain;Arbitrum;Dash;Radix;Kujira,13816112.470631205,Q4,0,0,0,0,0,,,0
+free-protocol,Free Protocol,Bridge,Merlin,Merlin;Ethereum;Binance;Arbitrum;Hemi;Manta;Kroma;Polygon,551811515.835739,Q4,0,0,0,0,0,,,0
+merlinswap,MerlinSwap,Dexs,Merlin,Merlin,21503397.404116612,Q4,0,0,0,0,0,,,0
+solv-others,Solv Others,Anchor BTC,Merlin,Merlin,2890099.0044887317,Q4,0,0,0,0,0,,,0
+netswap,NetSwap,Dexs,Metis,Metis,1610123.4850188792,Q4,0,0,0,0,0,,,0
+exinpool,ExinPool,Liquid Staking,Mixin,Mixin,11103375.0,Q4,0,0,0,0,0,,,0
+pando-leaf,Pando Leaf,CDP,Mixin,Mixin,18621331.248231605,Q4,0,0,0,0,0,,,0
+bwatch,Bwatch,Indexes,Mixin,Mixin,58324019.0,Q4,0,0,0,0,0,,,0
+ocean-one,Ocean One,Dexs,Mixin,Mixin,839656.22,Q4,0,0,0,0,0,,,0
+sturdy-v2,Sturdy V2,Lending,Mode,Mode;Flow;Ethereum;Linea;Optimism;Sei,620436.4475273921,Q4,0,0,0,0,0,,,0
+pingu-exchange,Pingu Exchange,Derivatives,Monad,Monad;Arbitrum,1393409.7335031445,Q4,0,0,0,0,0,,,0
+stellaswap-v4,StellaSwap V4,Dexs,Moonbeam,Moonbeam,2163765.397906411,Q4,0,0,0,0,0,,,0
+moonwell-apollo,Moonwell Apollo,Lending,Moonriver,Moonriver,886077.0208707666,Q4,0,0,0,0,0,,,0
+bulbaswap-v3,BulbaSwap V3,Dexs,Morph,Morph,6399056.476053806,Q4,0,0,0,0,0,,,0
+meridian-amm,Meridian AMM,Dexs,Movement,Movement,9502382.433659827,Q4,0,0,0,0,0,,,0
+yuzu-finance,Yuzu Finance,Dexs,Movement,Movement,600628.2020616586,Q4,0,0,0,0,0,,,0
+mosaic-amm,Mosaic AMM,Dexs,Movement,Movement,1634204.1324429624,Q4,0,0,0,0,0,,,0
+canopy,Canopy,Yield Aggregator,Movement,Movement,37001037.10897679,Q4,0,0,0,0,0,,,0
+moveposition,MovePosition,Lending,Movement,Movement,8712198.392374374,Q4,0,0,0,0,0,,,0
+flamingo-finance,Flamingo Finance,Dexs,NEO,NEO,3300281.643398752,Q4,0,0,0,0,0,,,0
+flamingo-lend,Flamingo Lend,Lending,NEO,NEO,1614203.4875762796,Q4,0,0,0,0,0,,,0
+neoburger,NeoBurger,Liquid Staking,NEO,NEO,5982634.962218316,Q4,0,0,0,0,0,,,0
+namada-shielded-pools,Namada Shielded Pools,Privacy,Namada,Namada,1474804.0443940256,Q4,0,0,0,0,0,,,0
+allstake,Allstake,Restaking,Near,Near;Solana;Ethereum,1928850.3447245308,Q4,0,0,0,0,0,,,0
+here-wallet-staking,HERE Wallet staking,Liquid Staking,Near,Near,706339.2251002154,Q4,0,0,0,0,0,,,0
+rhea-dex,Rhea Dex,Dexs,Near,Near,32628132.375821423,Q4,0,0,0,0,0,,,0
+linear-protocol,LiNEAR Protocol,Liquid Staking,Near,Near,48290718.259184524,Q4,0,0,0,0,0,,,0
+near-intents,NEAR Intents,Cross Chain Bridge,Near,Near;Ethereum;Bitcoin;Binance;Solana;Tron;Doge;Ripple;Litecoin;Arbitrum;Polygon;Base;xDai;Optimism;Aptos;Avalanche;TON;Sui;Berachain;Monad,49059382.34730712,Q4,0,0,0,0,0,,,0
+astroport,Astroport,Dexs,Neutron,Neutron;Terra2;Injective;Osmosis;Sei,15279148.5023959,Q4,0,0,0,0,0,,,0
+duality,Duality,Dexs,Neutron,Neutron,3147591.70097471,Q4,0,0,0,0,0,,,0
+amber-finance,Amber Finance,Lending,Neutron,Neutron,30600497.695781656,Q4,0,0,0,0,0,,,0
+drop,Drop,Liquid Staking,Neutron,Neutron,15002619.76285042,Q4,0,0,0,0,0,,,0
+newswap,Newswap,Dexs,Newton,Newton,781707.7082848828,Q4,0,0,0,0,0,,,0
+eris-protocol,Eris Protocol,Liquid Staking,Nibiru,Nibiru;Terra2;Kujira;Injective;Chihuahua;Juno;Terra;Osmosis;Sei;Archway;Neutron;Migaloo,2024973.4600179344,Q4,0,0,0,0,0,,,0
+noble,Noble,Chain,Noble,Noble,238974828.76292005,Q4,0,0,0,0,0,,,0
+nerveswap,NerveSwap,Dexs,Nuls,Nuls,2400229.0,Q4,0,0,0,0,0,,,0
+cherryswap,CherrySwap,Dexs,OKExChain,OKExChain,641544.8521108069,Q4,0,0,0,0,0,,,0
+gaming-dex,Gaming DEX,Dexs,Oasys,Oasys;DeFiVerse,618704.8213002362,Q4,0,0,0,0,0,,,0
+wing-finance,Wing Finance,Lending,Ontology,Ontology;Binance;Ethereum;OKExChain;OntologyEVM,6293810.268461594,Q4,0,0,0,0,0,,,0
+luigiswap,LuigiSwap,Dexs,Op_Bnb,Op_Bnb;Scroll,635421.7209903181,Q4,0,0,0,0,0,,,0
+velodrome-v1,Velodrome V1,Dexs,Optimism,Optimism,742101.8149345726,Q4,0,0,0,0,0,,,0
+reaper-farm,Reaper Farm,Yield Aggregator,Optimism,Optimism;Fantom;Binance;Arbitrum,1621354.6244049815,Q4,0,0,0,0,0,,,0
+beets-dex,Beets DEX,Dexs,Optimism,Optimism;Sonic;Fantom,2474510.5304851867,Q4,0,0,0,0,0,,,0
+pooltogether-v5,PoolTogether V5,Yield Lottery,Optimism,Optimism;Base;Ethereum;xDai;World Chain;Arbitrum;Scroll,6199535.619088407,Q4,0,0,0,0,0,,,0
+overtime,Overtime,Prediction Market,Optimism,Optimism;Arbitrum;Base;Polygon;Ethereum;Binance,2195228.0286754486,Q4,0,0,0,0,0,,,0
+mars-lend,Mars Lend,Lending,Osmosis,Osmosis;Neutron;Terra,8409429.645640127,Q4,0,0,0,0,0,,,0
+nolus-protocol,Nolus Protocol,Lending,Osmosis,Osmosis;Nolus;Neutron,1824652.0949055548,Q4,0,0,0,0,0,,,0
+osmosis-dex,Osmosis DEX,Dexs,Osmosis,Osmosis,21067088.639462058,Q4,0,0,0,0,0,,,0
+machinex-cl,MachineX CL,Dexs,Peaq,Peaq,1165055.4592841873,Q4,0,0,0,0,0,,,0
+plasma-saving-vaults,Plasma Saving Vaults,Onchain Capital Allocator,Plasma,Plasma,315986850.0763525,Q4,0,0,0,0,0,,,0
+k3-capital,K3 Capital,Risk Curators,Plasma,Plasma;Ethereum;Arbitrum;Avalanche;Unichain;Binance;BOB,296785826.4849351,Q4,0,0,0,0,0,,,0
+mineral-vault,Mineral Vault,RWA,Plume Mainnet,Plume Mainnet;Ethereum,1659729.5265655196,Q4,0,0,0,0,0,,,0
+mystic-finance-lending,Mystic Finance Lending,Lending,Plume Mainnet,Plume Mainnet,13443862.132099776,Q4,0,0,0,0,0,,,0
+solera,Solera,Lending,Plume Mainnet,Plume Mainnet;Hemi,14623038.152931258,Q4,0,0,0,0,0,,,0
+nest-credit,Nest Credit,RWA,Plume Mainnet,Plume Mainnet;Ethereum;Plasma;Binance,44555511.13750989,Q4,0,0,0,0,0,,,0
+rooster-protocol-v2,Rooster Protocol V2,Dexs,Plume Mainnet,Plume Mainnet,2951775.6980185397,Q4,0,0,0,0,0,,,0
+azuro,Azuro,Prediction Market,Polygon,Polygon;Base;Chiliz;xDai,1001120.4057664626,Q4,0,0,0,0,0,,,0
+proxy,Proxy,Bridge,Polygon,Polygon;Ethereum,23461758.623848807,Q4,0,0,0,0,0,,,0
+klimadao,KlimaDAO,RWA,Polygon,Polygon;Base,1722297.0502173707,Q4,0,0,0,0,0,,,0
+bim,BIM,Yield Aggregator,Polygon,Polygon;Plasma;Base;Optimism;Ethereum;Binance;Sonic;Fraxtal;Hyperliquid L1;Arbitrum;Avalanche;xDai,704662.7477666556,Q4,0,0,0,0,0,,,0
+quickswap-dex,Quickswap Dex,Dexs,Polygon,Polygon;Base,422441535.7912815,Q4,0,0,0,0,0,,,0
+polynomial-liquidity,Polynomial Liquidity,Dexs,Polynomial,Polynomial,2010611.337627028,Q4,0,0,0,0,0,,,0
+savmswap,savmSwap,Dexs,Prom,Prom;SatoshiVM,669741.1619693476,Q4,0,0,0,0,0,,,0
+metalx-dex,MetalX Dex,Dexs,Proton,Proton,4836052.148487179,Q4,0,0,0,0,0,,,0
+metalx-lending,MetalX Lending,Lending,Proton,Proton,38992448.3586151,Q4,0,0,0,0,0,,,0
+metalx-swap,MetalX Swap,Dexs,Proton,Proton,9624408.727274315,Q4,0,0,0,0,0,,,0
+figure-markets-exchange,Figure Markets Exchange,OTC Marketplace,Provenance,Provenance,575700889.1663808,Q4,0,0,0,0,0,,,0
+figure-markets-democratized-prime,Figure Markets Democratized Prime,RWA Lending,Provenance,Provenance,28465553.061397336,Q4,0,0,0,0,0,,,0
+pulsex-v1,PulseX V1,Dexs,Pulse,Pulse,31201910.540422294,Q4,0,0,0,0,0,,,0
+pulsex-stableswap,PulseX StableSwap,Dexs,Pulse,Pulse,1151870.2594661291,Q4,0,0,0,0,0,,,0
+9inch-v2,9inch V2,Dexs,Pulse,Pulse;Ethereum,765610.1055580017,Q4,0,0,0,0,0,,,0
+powercity-flex-protocol,Powercity Flex Protocol,CDP,Pulse,Pulse,1582704.5188672268,Q4,0,0,0,0,0,,,0
+phiat-protocol,Phiat Protocol,Lending,Pulse,Pulse,2828996.483656019,Q4,0,0,0,0,0,,,0
+qearn,Qearn,Staking Pool,Qubic,Qubic,20329575.839805517,Q4,0,0,0,0,0,,,0
+babelfish,BabelFish,Bridge,RSK,RSK,990651.1915666942,Q4,0,0,0,0,0,,,0
+moneyonchain,MoneyOnChain,Dual-Token Stablecoin,RSK,RSK,79816528.64651738,Q4,0,0,0,0,0,,,0
+sovryn-zero,Sovryn Zero,CDP,RSK,RSK,29302889.585193604,Q4,0,0,0,0,0,,,0
+rif-on-chain,RIF ON CHAIN,Dual-Token Stablecoin,RSK,RSK,10651662.474212669,Q4,0,0,0,0,0,,,0
+sovryn-lend,Sovryn Lend,Lending,RSK,RSK,4085783.8836552138,Q4,0,0,0,0,0,,,0
+weft-v2,Weft V2,Lending,Radix,Radix,1452777.840193841,Q4,0,0,0,0,0,,,0
+caviarnine-simple-pools,CaviarNine Simple Pools,Dexs,Radix,Radix,915768.12296265,Q4,0,0,0,0,0,,,0
+doppler-finance,Doppler Finance,CeDeFi,Ripple,Ripple;Ethereum,86559986.99409328,Q4,0,0,0,0,0,,,0
+fassets,FAssets,Bridge,Ripple,Ripple;Flare,183688174.23733017,Q4,0,0,0,0,0,,,0
+xrpl-dex,XRPL DEX,Dexs,Ripple,Ripple,53377456.63295836,Q4,0,0,0,0,0,,,0
+openeden-tbill,OpenEden TBILL,RWA,Ripple,Ripple;Ethereum;Arbitrum;Solana,106110870.9562151,Q4,0,0,0,0,0,,,0
+wrapped,Wrapped,Bridge,Ripple,Ripple;Celo;Ethereum,35730572.13698126,Q4,0,0,0,0,0,,,0
+chainge-finance,Chainge Finance,Dexs,Rollux,Rollux;Fusion,15612281.246149112,Q4,0,0,0,0,0,,,0
+katana-dex,Katana DEX,Dexs,Ronin,Ronin,13633891.87034051,Q4,0,0,0,0,0,,,0
+katana-dex-v3,Katana DEX V3,Dexs,Ronin,Ronin,4825855.102854238,Q4,0,0,0,0,0,,,0
+liquid-ron,Liquid Ron,Liquid Staking,Ronin,Ronin,854297.2903317336,Q4,0,0,0,0,0,,,0
+sx-bet,SX Bet,Prediction Market,SX Rollup,SX Rollup,720120.1983317944,Q4,0,0,0,0,0,,,0
+colt,Colt,Partially Algorithmic Stablecoin,Saga,Saga,2030883.0581916217,Q4,0,0,0,0,0,,,0
+accumulated-finance-liquid-staking,Accumulated Finance Liquid Staking,Liquid Staking,Sapphire,Sapphire;Bitkub;ZetaChain;Velas;Ethereum;Coti;Manta;Arbitrum;Binance;Sei;Artela,1190593.23498727,Q4,0,0,0,0,0,,,0
+etherfi-borrowing-market,EtherFi Borrowing Market,Lending,Scroll,Scroll,158963345.00332186,Q4,0,0,0,0,0,,,0
+etherfi-cash-liquid,EtherFi Cash Liquid,Onchain Capital Allocator,Scroll,Scroll,138326390.77948335,Q4,0,0,0,0,0,,,0
+honeypop-dex,Honeypop DEX,Dexs,Scroll,Scroll,5699590.892222709,Q4,0,0,0,0,0,,,0
+shadelend,ShadeLend,Lending,Secret,Secret,766514.1448222458,Q4,0,0,0,0,0,,,0
+shadeswap,ShadeSwap,Dexs,Secret,Secret,1255236.0416186757,Q4,0,0,0,0,0,,,0
+stkd-scrt,stkd-SCRT,Liquid Staking,Secret,Secret,1488826.497394216,Q4,0,0,0,0,0,,,0
+tea-rex,Tea-REX,Derivatives,Sei,Sei,11431267.40894885,Q4,0,0,0,0,0,,,0
+takara-lend,Takara Lend,Lending,Sei,Sei,64206401.351116,Q4,0,0,0,0,0,,,0
+clovis,Clovis,Yield Aggregator,Sei,Sei;Arbitrum;Binance;Ethereum;Base;Optimism;Avalanche;Polygon;Hyperliquid L1;Swellchain,783302.6420013331,Q4,0,0,0,0,0,,,0
+synnax-protocol,Synnax Protocol,CDP,Sei,Sei,7309778.68757122,Q4,0,0,0,0,0,,,0
+sailor,Sailor,Dexs,Sei,Sei,36478019.994471006,Q4,0,0,0,0,0,,,0
+magicsea-amm,MagicSea AMM,Dexs,ShimmerEVM,ShimmerEVM;IOTA EVM,685540.1589261187,Q4,0,0,0,0,0,,,0
+fragmetric,Fragmetric,Liquid Restaking,Solana,Solana,23016139.704696752,Q4,0,0,0,0,0,,,0
+onre,OnRe,RWA,Solana,Solana,69402946.69358243,Q4,0,0,0,0,0,,,0
+nx-finance,NX Finance,Yield Aggregator,Solana,Solana,2982087.415610795,Q4,0,0,0,0,0,,,0
+manifest-trade,Manifest Trade,Dexs,Solana,Solana,3540145.646767688,Q4,0,0,0,0,0,,,0
+katana,Katana,Options Vault,Solana,Solana,2417024.998100337,Q4,0,0,0,0,0,,,0
+sakefinance,SakeFinance,Lending,Soneium,Soneium,4493599.078126621,Q4,0,0,0,0,0,,,0
+kyo-finance,Kyo Finance,Dexs,Soneium,Soneium,3321046.633921134,Q4,0,0,0,0,0,,,0
+navigator,Navigator,Derivatives,Sonic,Sonic,1263698.4472331477,Q4,0,0,0,0,0,,,0
+angles-stake,Angles Stake,Liquid Staking,Sonic,Sonic,2666915.112032634,Q4,0,0,0,0,0,,,0
+swapx-algebra,SwapX Algebra,Dexs,Sonic,Sonic,1378194.7231839297,Q4,0,0,0,0,0,,,0
+wagmi,WAGMI,Dexs,Sonic,Sonic;Kava;Metis;IOTA EVM;zkSync Era;Ethereum;Base;zkLink;Fantom,2923655.395135733,Q4,0,0,0,0,0,,,0
+beets-lst,Beets LST,Liquid Staking,Sonic,Sonic;Fantom,12927040.90179489,Q4,0,0,0,0,0,,,0
+sophon-farm,Sophon Farm,Chain,Sophon,Sophon;Ethereum,9628626.400699489,Q4,0,0,0,0,0,,,0
+bitflow,Bitflow,Dexs,Stacks,Stacks,5475060.737756918,Q4,0,0,0,0,0,,,0
+lisa,LISA,Liquid Staking,Stacks,Stacks,600603.3944093694,Q4,0,0,0,0,0,,,0
+arkadiko,Arkadiko,CDP,Stacks,Stacks,1598019.1013888065,Q4,0,0,0,0,0,,,0
+zest,Zest,Lending,Stacks,Stacks,75013654.58224557,Q4,0,0,0,0,0,,,0
+citycoins,CityCoins,Yield,Stacks,Stacks,3916492.739964983,Q4,0,0,0,0,0,,,0
+troves,Troves,Yield,Starknet,Starknet,15124271.962721488,Q4,0,0,0,0,0,,,0
+ekubo,Ekubo,Dexs,Starknet,Starknet;Ethereum,61056276.81774344,Q4,0,0,0,0,0,,,0
+myswap-v1,mySwap V1,Dexs,Starknet,Starknet,610949.8385530798,Q4,0,0,0,0,0,,,0
+10kswap,10KSwap,Dexs,Starknet,Starknet,853902.9951870741,Q4,0,0,0,0,0,,,0
+nostra-pools,Nostra Pools,Dexs,Starknet,Starknet,700690.1835579958,Q4,0,0,0,0,0,,,0
+blend-pools-v2,Blend Pools V2,Lending,Stellar,Stellar,81826236.31912945,Q4,0,0,0,0,0,,,0
+scopuly,Scopuly,Dexs,Stellar,Stellar,1315875.5185807,Q4,0,0,0,0,0,,,0
+aquarius-stellar,Aquarius Stellar,Dexs,Stellar,Stellar,37006372.009281,Q4,0,0,0,0,0,,,0
+stellar-dex,Stellar DEX,Dexs,Stellar,Stellar,17897402.239898764,Q4,0,0,0,0,0,,,0
+fxdao,FxDAO,Partially Algorithmic Stablecoin,Stellar,Stellar,11935333.203073695,Q4,0,0,0,0,0,,,0
+meta-pool-stip,Meta Pool stIP,Liquid Staking,Story,Story,2941599.394332833,Q4,0,0,0,0,0,,,0
+verio,Verio,Liquid Staking,Story,Story,16081137.025081135,Q4,0,0,0,0,0,,,0
+piperx-v3,PiperX V3,Dexs,Story,Story,2068734.2183072967,Q4,0,0,0,0,0,,,0
+aria-protocol,Aria Protocol,RWA,Story,Story,4740718.662928757,Q4,0,0,0,0,0,,,0
+story-hunt,Story Hunt,Dexs,Story,Story,1943069.2395924025,Q4,0,0,0,0,0,,,0
+stratis-mstrax,Stratis mSTRAX,Liquid Staking,Stratis,Stratis,2981046.2901780577,Q4,0,0,0,0,0,,,0
+zo-perps,ZO Perps,Derivatives,Sui,Sui,899345.2025935808,Q4,0,0,0,0,0,,,0
+ember-protocol,Ember Protocol,Risk Curators,Sui,Sui,58974332.875893265,Q4,0,0,0,0,0,,,0
+springsui,SpringSui,Liquid Staking,Sui,Sui,127073321.047655,Q4,0,0,0,0,0,,,0
+suilend,Suilend,Lending,Sui,Sui,259535338.06450796,Q4,0,0,0,0,0,,,0
+haedal-protocol,Haedal Protocol,Liquid Staking,Sui,Sui,77192911.01748204,Q4,0,0,0,0,0,,,0
+solido-cash,Solido Cash,CDP,Supra,Supra,1601134.6028717568,Q4,0,0,0,0,0,,,0
+supra-staking,Supra Staking,Staking Pool,Supra,Supra,13308199.31182533,Q4,0,0,0,0,0,,,0
+citadel-vaults,Citadel Vaults,Yield,Supra,Supra,601291.3366328195,Q4,0,0,0,0,0,,,0
+solido-flow,Solido Flow,Liquid Staking,Supra,Supra,818650.2979689578,Q4,0,0,0,0,0,,,0
+swell-earn,Swell Earn,Yield Aggregator,Swellchain,Swellchain;Ethereum,1107991.482246454,Q4,0,0,0,0,0,,,0
+affluent,Affluent,Lending,TON,TON,5496640.192149176,Q4,0,0,0,0,0,,,0
+bemo-v1,bemo V1,Liquid Staking,TON,TON,4558600.103786636,Q4,0,0,0,0,0,,,0
+ethena-tsusde,Ethena tsUSDe,Yield,TON,TON,6774568.456809773,Q4,0,0,0,0,0,,,0
+tradoor,Tradoor,Derivatives,TON,TON,811792.4899058767,Q4,0,0,0,0,0,,,0
+ston.fi,STON.fi,Dexs,TON,TON,39322088.8579023,Q4,0,0,0,0,0,,,0
+taiko-swap,Taiko Swap,Dexs,Taiko,Taiko,6957188.059917269,Q4,0,0,0,0,0,,,0
+avalon-usdalend,Avalon USDaLend,Lending,Taiko,Taiko;IoTeX;Sei;Sonic;Corn;Zircuit,688270.0293451179,Q4,0,0,0,0,0,,,0
+taraswap,Taraswap,Dexs,Taraxa,Taraxa,3427193.795781405,Q4,0,0,0,0,0,,,0
+rex-staking,REX Staking,Lending,Telos,Telos,2676390.7151272604,Q4,0,0,0,0,0,,,0
+white-whale-dex,White Whale Dex,Dexs,Terra2,Terra2;Chihuahua;Osmosis;Juno;Sei;Injective;Comdex;Migaloo,1035448.3031266571,Q4,0,0,0,0,0,,,0
+kolibri,Kolibri,CDP,Tezos,Tezos,1278807.809863597,Q4,0,0,0,0,0,,,0
+sirius,Sirius,Dexs,Tezos,Tezos,5565276.415783069,Q4,0,0,0,0,0,,,0
+youves,Youves,Synthetics,Tezos,Tezos,25555034.89941302,Q4,0,0,0,0,0,,,0
+thundercore-staking,ThunderCore Staking,Staking Pool,ThunderCore,ThunderCore,708076.9138896262,Q4,0,0,0,0,0,,,0
+hyperion-dex,Hyperion DEX,Dexs,Titan,Titan,748982.4264099053,Q4,0,0,0,0,0,,,0
+defusion,deFusion,Liquid Staking,TomoChain,TomoChain,1582075.019673349,Q4,0,0,0,0,0,,,0
+stusdt,stUSDT,RWA,Tron,Tron;Ethereum,60553680.27482471,Q4,0,0,0,0,0,,,0
+sunpump,SunPump,Launchpad,Tron,Tron,1893163.0423425743,Q4,0,0,0,0,0,,,0
+bitunix,Bitunix,CEX,Tron,Tron;Bitcoin;Ripple;Ethereum,151870479.03722355,Q4,0,0,0,0,0,,,0
+sunswap-v2,SUNSwap V2,Dexs,Tron,Tron,246899336.92122927,Q4,0,0,0,0,0,,,0
+hibt,Hibt,CEX,Tron,Tron;Ethereum;Bitcoin,16885690.915576518,Q4,0,0,0,0,0,,,0
+wavesbridge,WavesBridge,Bridge,UNIT0,UNIT0;Ethereum;Waves;Solana;Binance,1853696.1862319056,Q4,0,0,0,0,0,,,0
+umee,Umee,Lending,Umee,Umee;Ethereum,918745.1144071398,Q4,0,0,0,0,0,,,0
+datadex,DataDex,Dexs,Vana,Vana,1547132.2498273486,Q4,0,0,0,0,0,,,0
+vedelegate,veDelegate,Governance Incentives,VeChain,VeChain,1622949.0214108643,Q4,0,0,0,0,0,,,0
+stargate,StarGate,Farm,VeChain,VeChain,18337138.762666546,Q4,0,0,0,0,0,,,0
+web3.world,Web3.world,Dexs,Venom,Venom,2970577.0,Q4,0,0,0,0,0,,,0
+venomstake,VenomStake,Liquid Staking,Venom,Venom,28542378.748324387,Q4,0,0,0,0,0,,,0
+verus-market,Verus Market,Dexs,Verus,Verus,27992888.35288016,Q4,0,0,0,0,0,,,0
+vanswap,VanSwap,Dexs,Vision,Vision,3156449.855989731,Q4,0,0,0,0,0,,,0
+lenen,Lenen,Lending,Vision,Vision,641490.5055434966,Q4,0,0,0,0,0,,,0
+vitex,ViteX,Dexs,Vite,Vite,4944710.11093622,Q4,0,0,0,0,0,,,0
+wemix-full-range-deposit,WEMIX Full Range Deposit,Dexs,WEMIX,WEMIX,2149759.8789006774,Q4,0,0,0,0,0,,,0
+wemix.fi-staking,WEMIX.FI Staking,Staking Pool,WEMIX,WEMIX,38814649.65597982,Q4,0,0,0,0,0,,,0
+wemix-liquid-staking,WEMIX Liquid Staking,Liquid Staking,WEMIX,WEMIX,682670.2765499919,Q4,0,0,0,0,0,,,0
+wemix-concentrated-range-deposit,WEMIX Concentrated Range Deposit,Dexs,WEMIX,WEMIX,3861600.027754883,Q4,0,0,0,0,0,,,0
+wemix.fi-lend,WEMIX.FI Lend,Lending,WEMIX,WEMIX,1616463.413700968,Q4,0,0,0,0,0,,,0
+justbet,JustBet,Luck Games,WINR,WINR,792944.4704953224,Q4,0,0,0,0,0,,,0
+wanlend,WanLend,Lending,Wanchain,Wanchain,989263.8241838018,Q4,0,0,0,0,0,,,0
+wanswap-dex,WanSwap Dex,Dexs,Wanchain,Wanchain,1322661.655772929,Q4,0,0,0,0,0,,,0
+xflows,XFlows,Dexs,Wanchain,Wanchain,1555850.606593699,Q4,0,0,0,0,0,,,0
+pepeteam-bridge,PepeTeam Bridge,Bridge,Waves,Waves;Ethereum;Binance;Polygon;Tron,1308296.0082492365,Q4,0,0,0,0,0,,,0
+pepeteam-swaves,PepeTeam sWAVES,Liquid Staking,Waves,Waves,873022.9403837826,Q4,0,0,0,0,0,,,0
+vires-finance,Vires Finance,Lending,Waves,Waves,7742235.107858464,Q4,0,0,0,0,0,,,0
+puzzle-lend,Puzzle Lend,Lending,Waves,Waves,660369.9437112315,Q4,0,0,0,0,0,,,0
+swop,Swop,Dexs,Waves,Waves;UNIT0,681830.6122904278,Q4,0,0,0,0,0,,,0
+comtech-gold,ComTech Gold,RWA,XDC,XDC,14930249.293663643,Q4,0,0,0,0,0,,,0
+xswap-v3,XSwap V3,Dexs,XDC,XDC,3406545.8888683286,Q4,0,0,0,0,0,,,0
+fathom-cdp,Fathom CDP,CDP,XDC,XDC,3872748.171401134,Q4,0,0,0,0,0,,,0
+bbbfi,BBBFI,Launchpad,XDC,XDC,1784567.3202012626,Q4,0,0,0,0,0,,,0
+prime-staking,Prime Staking,Liquid Staking,XDC,XDC,9322440.06612391,Q4,0,0,0,0,0,,,0
+xion-finance,XION Finance,Chain,XION,XION,40003151.52040227,Q4,0,0,0,0,0,,,0
+kamigotchi,Kamigotchi,Gaming,Yominet,Yominet,1422150.4289824024,Q4,0,0,0,0,0,,,0
+awaken-swap,Awaken Swap,Dexs,aelf,aelf,5635823.951193151,Q4,0,0,0,0,0,,,0
+dydx-v4,dYdX V4,Derivatives,dYdX,dYdX,156369149.17020056,Q4,0,0,0,0,0,,,0
+backedfi,BackedFi,RWA,xDai,xDai;Arbitrum;Ethereum;Base;Avalanche;Polygon;Fantom;Binance,12363453.912645131,Q4,0,0,0,0,0,,,0
+honeyswap,Honeyswap,Dexs,xDai,xDai;Polygon,897548.5310112612,Q4,0,0,0,0,0,,,0
+seer,Seer,Prediction Market,xDai,xDai;Ethereum,1588013.5189901316,Q4,0,0,0,0,0,,,0
+realt-rmm-marketplace-v2,RealT RMM Marketplace V2,Lending,xDai,xDai,2827230.2120824666,Q4,0,0,0,0,0,,,0
+sdai,sDAI,Yield,xDai,xDai,95129005.28698342,Q4,0,0,0,0,0,,,0
+satori-perp,Satori Perp,Derivatives,zkSync Era,zkSync Era;Linea;Scroll;Zircuit;Arbitrum;Plume Mainnet;X Layer;TON;Story;Polygon zkEVM;Binance;Ethereum;Base,1498511.081935145,Q4,0,0,0,0,0,,,0
+blockchain-capital,Blockchain Capital,RWA,zkSync Era,zkSync Era,208940705.23,Q4,0,0,0,0,0,,,0
+zkswap-v2,zkSwap V2,Dexs,zkSync Era,zkSync Era;Sonic;Monad,1091170.8607923554,Q4,0,0,0,0,0,,,0
+zkswap-v3,zkSwap V3,Dexs,zkSync Era,zkSync Era;Sonic;Monad,734989.4797869958,Q4,0,0,0,0,0,,,0
+koi-finance-amm,Koi Finance AMM,Dexs,zkSync Era,zkSync Era,1679211.7797370662,Q4,0,0,0,0,0,,,0
+ecurve,eCurve,Dexs,EOS,EOS,0.0,Q1,0,0,1,1,1,,,0
+aave-arc,Aave Arc,Lending,Ethereum,Ethereum,57253.38956171104,Q3,0,0,1,1,1,,,0
+blackrock-buidl,BlackRock BUIDL,RWA,Aptos,Aptos;Binance;Ethereum;Solana;Avalanche;Arbitrum;Optimism;Polygon,2005180037.0604491,Q4,0,0,1,1,1,,,0
+circle-usyc,Circle USYC,RWA,Binance,Binance;Ethereum;Near;Noble,1523327550.0500867,Q4,0,0,1,1,1,,,0
+hashkey-exchange,HashKey Exchange,CEX,Bitcoin,Bitcoin;Ethereum;Solana;Tron;Doge;Avalanche;TON;Litecoin;Optimism;Aptos;Polygon;Arbitrum;Polkadot,1704698413.030409,Q4,0,0,1,1,1,,,0
+tbtc,tBTC,Decentralized BTC,Bitcoin,Bitcoin;Ethereum,541476713.0971974,Q4,0,0,1,1,1,,,0
+korbit,Korbit,CEX,Bitcoin,Bitcoin;Ripple;Ethereum,837260348.4381232,Q4,0,0,1,1,1,,,0
+bitkub,Bitkub,CEX,Bitcoin,Bitcoin;Ethereum;Ripple;Binance;Solana;Cardano;Doge;Arbitrum;Optimism;Avalanche;Tron;Polygon;Base;Algorand;Scroll;Aptos;zkSync Era;Mantle;Litecoin;CORE;TON;Fantom,1617331308.5884738,Q4,0,0,1,1,1,,,0
+robinhood,Robinhood,CEX,Bitcoin,Bitcoin;Ethereum;Avalanche;Polygon,16794939403.069056,Q4,0,0,1,1,1,,,0
+usdt0,USDT0,Bridge,Ethereum,Ethereum,4475173923.039608,Q4,0,0,1,1,1,,,0
+tether-gold,Tether Gold,RWA,Ethereum,Ethereum;Plasma;Avalanche;Monad;Arbitrum;Celo;Polygon;Ink,2266958519.029269,Q4,0,0,1,1,1,,,0
+convex-finance,Convex Finance,Yield,Ethereum,Ethereum;Fraxtal;Arbitrum;Polygon,950550676.232998,Q4,0,0,1,1,1,,,0
+symbiotic,Symbiotic,Restaking,Ethereum,Ethereum,565618218.7652495,Q4,0,0,1,1,1,,,0
+pendle,Pendle,Yield,Ethereum,Ethereum;Plasma;Arbitrum;Binance;Hyperliquid L1;Base;Sonic;Berachain;Mantle;Avalanche;Optimism,3718497407.713382,Q4,0,0,1,1,1,,,0
+jupiter-staked-sol,Jupiter Staked SOL,Liquid Staking,Solana,Solana,1238296581.659166,Q4,0,0,1,1,1,,,0
+binance-staked-sol,Binance Staked SOL,Liquid Staking,Solana,Solana,1390257684.201115,Q4,0,0,1,1,1,,,0
+justlend,JustLend,Lending,Tron,Tron,3805153754.704523,Q4,0,0,1,1,1,,,0
+moby,Moby,Options,Arbitrum,Arbitrum;Berachain,0.0499746841633083,Q1,1,1,0,0,0,,,0
+treasure,Treasure,Gaming,Arbitrum,Arbitrum,0.0,Q1,1,1,0,0,0,,,0
+kokomo-finance,Kokomo Finance,Lending,Arbitrum,Arbitrum;Optimism,1.002e-06,Q1,1,1,0,0,0,,,0
+rodeo,Rodeo,Yield,Arbitrum,Arbitrum,0.0016986969999999,Q1,1,1,0,0,0,,,0
+snowdog,Snowdog,Reserve Currency,Avalanche,Avalanche,0.2915706915267717,Q1,1,1,0,0,0,,,0
+blizz-finance,Blizz Finance,Lending,Avalanche,Avalanche,0.0,Q1,1,1,0,0,0,,,0
+magnate-finance,Magnate Finance,Lending,Base,Base,0.0,Q1,1,1,0,0,0,,,0
+elephant-money,Elephant Money,Yield,Binance,Binance,0.0,Q1,1,1,0,0,0,,,0
+rubic,Rubic,DEX Aggregator,Binance,Binance;Kava,0.0,Q1,1,1,0,0,0,,,0
+blur-finance,Blur Finance,Yield Aggregator,Binance,Binance,0.0,Q1,1,1,0,0,0,,,0
+trust-wallet,Trust Wallet,Wallets,Binance,Binance,0.0,Q1,1,1,0,0,0,,,0
+fegex,Fegex,Services,Binance,Binance;Ethereum,0.0,Q1,1,1,0,0,0,,,0
+munchables,Munchables,Farm,Blast,Blast,0.0,Q1,1,1,0,0,0,,,0
+harbor-protocol,Harbor Protocol,CDP,Comdex,Comdex,0.0,Q1,1,1,0,0,0,,,0
+sharedstake,SharedStake,Liquid Staking,Ethereum,Ethereum,0.0,Q1,1,1,0,0,0,,,0
+akropolis,Akropolis,Yield,Ethereum,Ethereum,0.0,Q1,1,1,0,0,0,,,0
+yearn-ether,Yearn Ether,Indexes,Ethereum,Ethereum,3.4304365069649635e-11,Q1,1,1,0,0,0,,,0
+zoth-zeusd,Zoth ZeUSD,CDP,Ethereum,Ethereum,3.5576995410750564e-05,Q1,1,1,0,0,0,,,0
+dao-maker-vesting,DAO Maker Vesting,Services,Ethereum,Ethereum;Binance;Polygon;Fantom;Step;Celo,0.0,Q1,1,1,0,0,0,,,0
+8ightdao,8ightDAO,Reserve Currency,Harmony,Harmony,0.0,Q1,1,1,0,0,0,,,0
+lendhub,LendHub,Lending,Heco,Heco,0.0,Q1,1,1,0,0,0,,,0
+hypervault,HyperVault,Yield Aggregator,Hyperliquid L1,Hyperliquid L1,0.0,Q1,1,1,0,0,0,,,0
+pike,Pike,Lending,Optimism,Optimism;Base;Arbitrum;Ethereum,0.0,Q1,1,1,0,0,0,,,0
+furucombo,Furucombo,Services,Polygon,Polygon,0.0,Q1,1,1,0,0,0,,,0
+0vix,0vix,Lending,Polygon,Polygon;Polygon zkEVM,0.0,Q1,1,1,0,0,0,,,0
+betterbank,BetterBank,Lending,Pulse,Pulse,0.8811513019531763,Q1,1,1,0,0,0,,,0
+cypher,Cypher,Derivatives,Solana,Solana,0.0,Q1,1,1,0,0,0,,,0
+ratio-finance,Ratio Finance,CDP,Solana,Solana,0.0,Q1,1,1,0,0,0,,,0
+cashio,Cashio,CDP,Solana,Solana,0.0666922199353736,Q1,1,1,0,0,0,,,0
+mango-markets-v3,Mango Markets V3,Derivatives,Solana,Solana,0.0,Q1,1,1,0,0,0,,,0
+zklend,zkLend,Lending,Starknet,Starknet,0.0,Q1,1,1,0,0,0,,,0
+unleash-protocol,Unleash Protocol,Lending,Story,Story,0.0,Q1,1,1,0,0,0,,,0
+mirror,Mirror,Derivatives,Terra,Terra,0.0,Q1,1,1,0,0,0,,,0
+merlin-dex,MERLIN DEX,Dexs,zkSync Era,zkSync Era,0.0,Q1,1,1,0,0,0,,,0
+lodestar-v0,Lodestar V0,Lending,Arbitrum,Arbitrum,7502.1629822007235,Q2,1,1,0,0,0,,,0
+themis-protocol,Themis Protocol,Lending,Arbitrum,Arbitrum,2.270643101930362,Q2,1,1,0,0,0,,,0
+steadefi,Steadefi,Leveraged Farming,Arbitrum,Arbitrum;Avalanche,930.5169575879004,Q2,1,1,0,0,0,,,0
+arbiswap,ArbiSwap,Dexs,Arbitrum,Arbitrum,12966.87223251627,Q2,1,1,0,0,0,,,0
+swaprum,Swaprum,Dexs,Arbitrum,Arbitrum,7141.557520353823,Q2,1,1,0,0,0,,,0
+atlantis-loans,Atlantis Loans,Lending,Avalanche,Avalanche;Dogechain;Binance;Polygon,2902.3083267515694,Q2,1,1,0,0,0,,,0
+zabu-finance,Zabu Finance,Yield Aggregator,Avalanche,Avalanche,7203.409412640716,Q2,1,1,0,0,0,,,0
+ara-finance,Ara Finance,Reserve Currency,Avalanche,Avalanche,1504.0929927377565,Q2,1,1,0,0,0,,,0
+vee-finance,Vee Finance,Lending,Avalanche,Avalanche;Heco,13601.771371226863,Q2,1,1,0,0,0,,,0
+dexodus-finance,Dexodus Finance,Derivatives,Base,Base;Cronos;Ethereum;Binance,1.3020068307311892,Q2,1,1,0,0,0,,,0
+lava,Lava,Lending,Base,Base;Arbitrum,380.4105073094352,Q2,1,1,0,0,0,,,0
+panoptic-v1.1,Panoptic V1.1,Options,Base,Base;Unichain;Ethereum,2775.807324612544,Q2,1,1,0,0,0,,,0
+raga-finance,Raga Finance,Yield Aggregator,Berachain,Berachain,76.34453992083368,Q2,1,1,0,0,0,,,0
+evoq-finance,Evoq Finance,Lending,Binance,Binance,260.79212133896993,Q2,1,1,0,0,0,,,0
+fortress-loans,Fortress Loans,Lending,Binance,Binance,1168.1215533885545,Q2,1,1,0,0,0,,,0
+spartan,Spartan,Dexs,Binance,Binance,9672.264352781269,Q2,1,1,0,0,0,,,0
+corepound,Corepound,Yield,CORE,CORE,5633.121130578185,Q2,1,1,0,0,0,,,0
+unilend-v2,Unilend V2,Lending,Ethereum,Ethereum,3.5728572358638475,Q2,1,1,0,0,0,,,0
+dego-finance,Dego Finance,Services,Ethereum,Ethereum,11148.963892375024,Q2,1,1,0,0,0,,,0
+onyx-v2,Onyx V2,Lending,Ethereum,Ethereum,17.370446977270813,Q2,1,1,0,0,0,,,0
+cork-v1,Cork V1,Insurance,Ethereum,Ethereum,6792.44230732504,Q2,1,1,0,0,0,,,0
+wise-lending-v1,Wise Lending V1,Lending,Ethereum,Ethereum,11.694687220234188,Q2,1,1,0,0,0,,,0
+polter-finance,Polter Finance,Lending,Fantom,Fantom;Base;Sonic,6213.3614978577125,Q2,1,1,0,0,0,,,0
+hector-lending,Hector Lending,Lending,Fantom,Fantom,7668.294891343136,Q2,1,1,0,0,0,,,0
+zircon-gamma,Zircon Gamma,Dexs,Moonriver,Moonriver;Binance,2.54799199061806,Q2,1,1,0,0,0,,,0
+mars-perps,Mars Perps,Derivatives,Neutron,Neutron,8400.14526139153,Q2,1,1,0,0,0,,,0
+hedgey,Hedgey,Payments,Polygon,Polygon;Mode;Binance;Ethereum;Arbitrum;Base;Avalanche;zkSync Era;Linea;Berachain;Optimism,10232.68187526314,Q2,1,1,0,0,0,,,0
+roe-finance,Roe Finance,Lending,Polygon,Polygon;Ethereum;Arbitrum,334.9197299057494,Q2,1,1,0,0,0,,,0
+monox,MonoX,Dexs,Polygon,Polygon;Ethereum,11168.732287329283,Q2,1,1,0,0,0,,,0
+bonqdao,BonqDAO,Lending,Polygon,Polygon,333.99944589611636,Q2,1,1,0,0,0,,,0
+popsicle-finance,Popsicle Finance,Liquidity manager,Polygon,Polygon;Fantom;Ethereum;Binance,9232.136399468356,Q2,1,1,0,0,0,,,0
+rho-markets,Rho Markets,Lending,Scroll,Scroll,163.0229315969437,Q2,1,1,0,0,0,,,0
+nirvana-v1,Nirvana V1,CDP,Solana,Solana,2.5133414945139996,Q2,1,1,0,0,0,,,0
+lnd,LND,Lending,Sonic,Sonic;Hyperliquid L1,1.709290598198339,Q2,1,1,0,0,0,,,0
+velocore-v2,Velocore V2,Dexs,Telos,Telos;Linea;zkSync Era,1472.6953021904542,Q2,1,1,0,0,0,,,0
+ocelotdex,OcelotDex,Dexs,ZetaChain,ZetaChain,6.605742362315957,Q2,1,1,0,0,0,,,0
+locus-finance,Locus Finance,Yield,Arbitrum,Arbitrum;Ethereum,63982.61632500544,Q3,1,1,0,0,0,,,0
+yield-protocol,Yield Protocol,Lending,Arbitrum,Arbitrum;Ethereum,331666.59587934025,Q3,1,1,0,0,0,,,0
+orange-finance,Orange Finance,Liquidity manager,Arbitrum,Arbitrum;Berachain,82500.48523039947,Q3,1,1,0,0,0,,,0
+level-perps,Level Perps,Derivatives,Arbitrum,Arbitrum;Binance,327836.33904748195,Q3,1,1,0,0,0,,,0
+tender-finance,Tender Finance,Lending,Arbitrum,Arbitrum,224313.48237754725,Q3,1,1,0,0,0,,,0
+defrost,Defrost,CDP,Avalanche,Avalanche,81899.96133779462,Q3,1,1,0,0,0,,,0
+platypus-finance,Platypus Finance,Dexs,Avalanche,Avalanche,52495.70561307879,Q3,1,1,0,0,0,,,0
+arena-socialfi,Arena SocialFi,SoFi,Avalanche,Avalanche,342278.2194496627,Q3,1,1,0,0,0,,,0
+growth-defi,Growth DeFi,Yield,Avalanche,Avalanche;Binance;Fantom,22370.472641033695,Q3,1,1,0,0,0,,,0
+impermax-v3,Impermax V3,Lending,Base,Base;Unichain;Hyperliquid L1;Arbitrum,587998.4902805118,Q3,1,1,0,0,0,,,0
+leetswap,LeetSwap,Dexs,Base,Base;Op_Bnb;Manta;Linea;Shibarium;Polygon zkEVM;Canto;Scroll,232268.1444780272,Q3,1,1,0,0,0,,,0
+sonne-finance,Sonne Finance,Lending,Base,Base;Optimism,315899.3322874979,Q3,1,1,0,0,0,,,0
+autoshark,AutoShark,Dexs,Binance,Binance,178015.77548812784,Q3,1,1,0,0,0,,,0
+paraluni-masterchef,Paraluni Masterchef,Yield,Binance,Binance,36569.854619706566,Q3,1,1,0,0,0,,,0
+aperocket,ApeRocket,Yield,Binance,Binance,45584.39371789487,Q3,1,1,0,0,0,,,0
+valuedefi,ValueDefi,Dexs,Binance,Binance,557000.0614536676,Q3,1,1,0,0,0,,,0
+burgerswap,BurgerSwap,Dexs,Binance,Binance,236141.0247031568,Q3,1,1,0,0,0,,,0
+kalax,Kalax,Yield Aggregator,Blast,Blast;Scroll,173518.8777390644,Q3,1,1,0,0,0,,,0
+arcadia-v1,Arcadia V1,Leveraged Farming,Ethereum,Ethereum;Optimism,29747.84499465576,Q3,1,1,0,0,0,,,0
+siren,Siren,Options,Ethereum,Ethereum;Polygon;Arbitrum,415500.9669964599,Q3,1,1,0,0,0,,,0
+seneca,Seneca,CDP,Ethereum,Ethereum;Arbitrum,22080.34018208184,Q3,1,1,0,0,0,,,0
+bent-finance,Bent Finance,Yield,Ethereum,Ethereum,29236.788370146784,Q3,1,1,0,0,0,,,0
+indexed-finance,Indexed Finance,Indexes,Ethereum,Ethereum,186977.04069380663,Q3,1,1,0,0,0,,,0
+hundred-finance,Hundred Finance,Lending,Fantom,Fantom;Arbitrum;Polygon;xDai;Harmony;Optimism;Moonriver;Ethereum,160833.5105142452,Q3,1,1,0,0,0,,,0
+grim-finance,Grim Finance,Yield,Fantom,Fantom;Arbitrum;Avalanche;Polygon;Telos;Kava,22762.5093608432,Q3,1,1,0,0,0,,,0
+sirio-finance,Sirio Finance,Lending,Hedera,Hedera,23287.464812535763,Q3,1,1,0,0,0,,,0
+blueberry,Blueberry,Yield,Hyperliquid L1,Hyperliquid L1;Ethereum,257207.40808417456,Q3,1,1,0,0,0,,,0
+omm,Omm,Lending,Icon,Icon,150404.33699878142,Q3,1,1,0,0,0,,,0
+kyberswap-elastic,KyberSwap Elastic,Dexs,Linea,Linea;Scroll;Arbitrum;Optimism;Polygon;Ethereum;Binance;Base;Avalanche;Fantom;Cronos,143659.629853929,Q3,1,1,0,0,0,,,0
+minterest,Minterest,Lending,Mantle,Mantle;Ethereum;Taiko;Morph,172153.0919086583,Q3,1,1,0,0,0,,,0
+clober-liquidity-vault,Clober Liquidity Vault,Dexs,Monad,Monad;Base,300958.98559687013,Q3,1,1,0,0,0,,,0
+cozy-v2,Cozy V2,Insurance,Optimism,Optimism,270501.5120044492,Q3,1,1,0,0,0,,,0
+midas-capital,Midas Capital,Lending,Polygon,Polygon;Binance;Arbitrum;Moonbeam,417533.5549882357,Q3,1,1,0,0,0,,,0
+amun,Amun,Indexes,Solana,Solana;Ethereum;Polygon,379345.2414981505,Q3,1,1,0,0,0,,,0
+credix,Credix,RWA Lending,Solana,Solana,40596.73488024224,Q3,1,1,0,0,0,,,0
+crema-finance,Crema Finance,Dexs,Solana,Solana,150770.2146666451,Q3,1,1,0,0,0,,,0
+typus-perp,Typus Perp,Derivatives,Sui,Sui,140302.83677170018,Q3,1,1,0,0,0,,,0
+nemo-yield-trading,Nemo Yield Trading,Yield,Sui,Sui,30630.645330731848,Q3,1,1,0,0,0,,,0
+agave,Agave,Lending,xDai,xDai,121668.4283265075,Q3,1,1,0,0,0,,,0
+zkfinance,zkFinance,Lending,zkSync Era,zkSync Era,24989.51652526043,Q3,1,1,0,0,0,,,0
+eralend,EraLend,Lending,zkSync Era,zkSync Era;Telos,555998.7755526686,Q3,1,1,0,0,0,,,0
+thalaswap,ThalaSwap,Dexs,Aptos,Aptos,8101319.964387861,Q4,1,1,0,0,0,,,0
+dolomite,Dolomite,Lending,Arbitrum,Arbitrum;Berachain;Ethereum;Botanix;Polygon zkEVM;Mantle;X Layer,112614064.2348952,Q4,1,1,0,0,0,,,0
+tenderize-v2,Tenderize V2,Liquid Staking,Arbitrum,Arbitrum;Ethereum,2287536.8002877636,Q4,1,1,0,0,0,,,0
+futureswap,FutureSwap,Derivatives,Arbitrum,Arbitrum;Avalanche;Ethereum,619161.343683943,Q4,1,1,0,0,0,,,0
+abracadabra-spell,Abracadabra Spell,CDP,Arbitrum,Arbitrum;Ethereum;Blast;Binance;Kava;Avalanche;Fantom;Optimism,15231375.61327472,Q4,1,1,0,0,0,,,0
+radiant-v2,Radiant V2,Lending,Arbitrum,Arbitrum;Base;Ethereum;Binance,5443829.757022372,Q4,1,1,0,0,0,,,0
+deltaprime,DeltaPrime,Leveraged Farming,Avalanche,Avalanche;Arbitrum,7330163.211773988,Q4,1,1,0,0,0,,,0
+gmx-v1-perps,GMX V1 Perps,Derivatives,Avalanche,Avalanche;Arbitrum,4994355.961228697,Q4,1,1,0,0,0,,,0
+woofi-swap,WOOFi Swap,Dexs,Avalanche,Avalanche;Polygon;Base;Linea;Mantle;Arbitrum;Optimism;Binance;Sonic;Monad;Berachain;Hyperliquid L1;zkSync Era;Fantom;Ethereum;Polygon zkEVM,7578576.722037386,Q4,1,1,0,0,0,,,0
+harvest-finance,Harvest Finance,Yield Aggregator,Base,Base;Ethereum;Arbitrum;Polygon;zkSync Era,19012965.266255956,Q4,1,1,0,0,0,,,0
+rocketswap-base,RocketSwap Base,Dexs,Base,Base,674831.5053128293,Q4,1,1,0,0,0,,,0
+kiloex,KiloEx,Derivatives,Base,Base;Binance;Op_Bnb;Manta;BSquared;Taiko,4402265.024886931,Q4,1,1,0,0,0,,,0
+arcadia-v2,Arcadia V2,Liquidity manager,Base,Base,7889773.96505394,Q4,1,1,0,0,0,,,0
+moonwell-lending,Moonwell Lending,Lending,Base,Base;Optimism;Moonbeam,85030384.73496863,Q4,1,1,0,0,0,,,0
+pnetwork,pNetwork,Bridge,Binance,Binance;Ethereum;Ultra;Algorand;Arbitrum;Polygon;EOS;Telos;xDai,13099805.903342,Q4,1,1,0,0,0,,,0
+belt-finance,Belt Finance,Yield,Binance,Binance;Klaytn;Heco,15509125.29524792,Q4,1,1,0,0,0,,,0
+gamma,Gamma,Liquidity manager,Binance,Binance;Ethereum;Polygon;Arbitrum;Linea;xDai;Unichain;IOTA EVM;Metis;Zircuit;Polygon zkEVM;Optimism;Sonic;Base;BOB;Berachain;Manta;Mantle;Immutable zkEVM;Scroll;Moonbeam;Avalanche;Blast;Hemi;Rollux;Celo;World Chain;Taiko;ApeChain;CORE;RSK;Mode;X Layer;Fantom;Op_Bnb;Kava,7096523.88057297,Q4,1,1,0,0,0,,,0
+bearnfi,BearnFi,Yield,Binance,Binance,607260.0720061266,Q4,1,1,0,0,0,,,0
+venus-core-pool,Venus Core Pool,Lending,Binance,Binance;Ethereum;Arbitrum;zkSync Era;Unichain;Base;Optimism;Op_Bnb,1619718787.3796597,Q4,1,1,0,0,0,,,0
+coinex,CoinEx,CEX,Bitcoin,Bitcoin;Ethereum;Tron;Starknet,208647370.87556368,Q4,1,1,0,0,0,,,0
+indodax,Indodax,CEX,Bitcoin,Bitcoin;Ethereum;Solana;Binance;Cardano;Polygon;Tron;Litecoin;Stellar;Base;Optimism;Arbitrum;Avalanche;Algorand;Sui;EOS;Linea,565822137.7521534,Q4,1,1,0,0,0,,,0
+crypto-com,Crypto-com,CEX,Bitcoin,Bitcoin;Ethereum;Binance;Polygon;Avalanche;Arbitrum;Fantom;Optimism,3098260421.5628643,Q4,1,1,0,0,0,,,0
+coindcx,CoinDCX,CEX,Bitcoin,Bitcoin;Ethereum;Ripple;Cardano;Binance;Tron;Solana;Polygon;Arbitrum;Litecoin;Avalanche;Optimism;Fantom,196765748.69488227,Q4,1,1,0,0,0,,,0
+deribit,Deribit,CEX,Bitcoin,Bitcoin;Ethereum;Solana;Ripple;EthereumPoW;Binance,4045729811.30004,Q4,1,1,0,0,0,,,0
+moola-market,Moola Market,Lending,Celo,Celo,1323572.437944522,Q4,1,1,0,0,0,,,0
+tectonic,Tectonic,Lending,Cronos,Cronos,131745860.1644421,Q4,1,1,0,0,0,,,0
+mm-finance-cronos,MM Finance Cronos,Dexs,Cronos,Cronos,1770138.9999313084,Q4,1,1,0,0,0,,,0
+zunami-protocol,Zunami Protocol,Yield Aggregator,Ethereum,Ethereum,606749.887539679,Q4,1,1,0,0,0,,,0
+inverse-finance-frontier,Inverse Finance Frontier,CDP,Ethereum,Ethereum,15421648.595718237,Q4,1,1,0,0,0,,,0
+resupply,Resupply,Lending,Ethereum,Ethereum,56011108.49993912,Q4,1,1,0,0,0,,,0
+sushiswap,SushiSwap,Dexs,Ethereum,Ethereum;Arbitrum;Polygon;Base;Boba;Celo;xDai;Binance;Moonriver;Arbitrum Nova;Harmony;Avalanche;Fantom;Scroll;Fuse;Filecoin;Katana;RSK;Europa;OKExChain;Hemi;Linea;Optimism;CORE;Blast;Moonbeam;Palm;Polygon zkEVM;Bittorrent;Kava;ZetaChain;Sonic;Telos;Metis;Boba_Bnb;ThunderCore;HAQQ;Heco,106550821.16100976,Q4,1,1,0,0,0,,,0
+kucoin,KuCoin,CEX,Ethereum,Ethereum;Bitcoin;Solana;Ripple;Doge;Binance;Tron;Cardano;Avalanche;Near;TON;Optimism;Polygon;Kucoin;Aptos;Arbitrum;Base;EOS;Algorand;Kava;Starknet;Sui;Polkadot,3877723394.916734,Q4,1,1,0,0,0,,,0
+sentiment,Sentiment,Lending,Hyperliquid L1,Hyperliquid L1;Arbitrum,16327565.906641806,Q4,1,1,0,0,0,,,0
+hyperdrive-hl,Hyperdrive HL,Lending,Hyperliquid L1,Hyperliquid L1,3920115.625559407,Q4,1,1,0,0,0,,,0
+yearn-finance,Yearn Finance,Yield Aggregator,Katana,Katana;Ethereum;Base;Optimism;Polygon;Arbitrum;Fantom,402461250.419994,Q4,1,1,0,0,0,,,0
+pando-rings,Pando Rings,Lending,Mixin,Mixin,7854474.441760717,Q4,1,1,0,0,0,,,0
+ionic-protocol,Ionic Protocol,Lending,Mode,Mode;Base;Lisk;Optimism;BOB;Fraxtal,2042238.8078521416,Q4,1,1,0,0,0,,,0
+superfluid,Superfluid,Payments,Optimism,Optimism;Arbitrum;Base;Polygon;Ethereum;Celo;xDai;Avalanche;Scroll;Binance,11408950.046226157,Q4,1,1,0,0,0,,,0
+exactly,Exactly,Lending,Optimism,Optimism;Ethereum,3902864.221325039,Q4,1,1,0,0,0,,,0
+levana-perps,Levana Perps,Derivatives,Osmosis,Osmosis;Neutron;Sei;Injective,1427186.5830622208,Q4,1,1,0,0,0,,,0
+tropykus-rsk,Tropykus RSK,Lending,RSK,RSK,11357959.05680964,Q4,1,1,0,0,0,,,0
+orbit-bridge,Orbit Bridge,Bridge,Ripple,Ripple;Silicon zkEVM;Binance;WEMIX;Ethereum;Klaytn;TON;Polygon;Celo;Heco;Meta,21509159.989648305,Q4,1,1,0,0,0,,,0
+bitrue,Bitrue,CEX,Ripple,Ripple;Ethereum;Bitcoin;Hedera;Cardano;Tron;Solana;XDC;Binance;Polygon;Flare;VeChain;Cosmos;Mantle;Scroll;Linea;zkSync Era;Taiko;CORE;Sui;Polkadot,280026943.5218344,Q4,1,1,0,0,0,,,0
+ambient,Ambient,Dexs,Scroll,Scroll;Ethereum;Blast;Swellchain;Plume Mainnet;Canto,4682355.338100728,Q4,1,1,0,0,0,,,0
+loopscale,Loopscale,Lending,Solana,Solana,85144695.07832402,Q4,1,1,0,0,0,,,0
+save,Save,Lending,Solana,Solana;Eclipse,130338651.3140212,Q4,1,1,0,0,0,,,0
+bitmart,BitMart,CEX,Solana,Solana;Ethereum;Binance;Starknet;Bitcoin,5870025.062226854,Q4,1,1,0,0,0,,,0
+raydium-amm,Raydium AMM,Dexs,Solana,Solana,1483586017.037039,Q4,1,1,0,0,0,,,0
+alex,ALEX,Dexs,Stacks,Stacks,1927877.1730302456,Q4,1,1,0,0,0,,,0
+thorchain-dex,Thorchain DEX,Dexs,Thorchain,Thorchain;Bitcoin;Ethereum;Bitcoincash;Doge;Avalanche;Litecoin;Ripple;Binance;Tron;Cosmos;Base,88261509.76501241,Q4,1,1,0,0,0,,,0
+htx,HTX,CEX,Tron,Tron;Ethereum;Bitcoin;Ripple;Doge;Solana;Binance;Cardano;TON;Litecoin;Avalanche;Arbitrum;Polygon;Optimism;Sui;CORE;EOS;Starknet;Algorand,6278231941.125342,Q4,1,1,0,0,0,,,0
+bitget,Bitget,CEX,Bitcoin,Bitcoin;Ethereum;Binance;Tron;Solana;Ripple;Polygon;Cardano;Arbitrum;TON;Avalanche;Base;Cronos;Optimism;Sui;Sonic;Starknet;Klaytn;Metis;zkSync Era;Fantom;Kava;Hyperliquid L1,7119296992.985375,Q4,1,1,1,1,1,,,0
+swissborg,SwissBorg,CEX,Ethereum,Ethereum;Bitcoin;Solana;Ripple;Binance;Cardano;Hedera;Avalanche;Doge;Near;Tron;Polygon;Cosmos;Injective;Stellar;TON;Arbitrum;Optimism;Sei;Algorand;Celestia;Moonbeam;Sonic;Berachain;Osmosis;xDai;Chiliz;Polkadot,1183472201.6291504,Q4,1,1,1,1,1,,,0
+portal,Portal,Bridge,Ethereum,Ethereum;Solana;Binance;Near;Polygon;Terra;Avalanche;Arbitrum;Sui;Aptos;Moonbeam;Fantom;Base;Algorand;Klaytn;Celo;Oasis;Optimism;Aurora;Injective;Terra2;XPLA;Karura;Acala,1670510796.846037,Q4,1,1,1,1,1,,,0
+bingx,BingX,CEX,Tron,Tron;Bitcoin;Binance;Ethereum;Solana;Ripple;TON;Arbitrum,691818999.2473148,Q4,1,1,1,1,1,,,0
