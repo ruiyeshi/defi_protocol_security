@@ -1,0 +1,11 @@
+protocol_name_raw,source,audit_firm_raw,audit_score,audit_date,evidence_url,notes,slug,in_llama
+uniswap,full,CertiK,90.0,2023-02-18 00:00:00+00:00,https://www.certik.com/projects/uniswap,,,0
+pancakeswap,full,CertiK,88.0,2022-08-22 00:00:00+00:00,https://www.certik.com/projects/pancakeswap,,,0
+compound,full,CertiK,91.0,2023-04-09 00:00:00+00:00,https://www.certik.com/projects/compound,,,0
+balancer,full,CertiK,87.0,2022-12-12 00:00:00+00:00,https://www.certik.com/projects/balancer,,,0
+Uniswap,full,DeFiSafety,92.0,2024-03-10 00:00:00+00:00,https://defisafety.com/projects/uniswap,,,0
+Compound,full,DeFiSafety,85.0,2023-12-05 00:00:00+00:00,https://defisafety.com/projects/compound,,,0
+Balancer,full,DeFiSafety,83.0,2024-01-10 00:00:00+00:00,https://defisafety.com/projects/balancer,,,0
+eigenlayer,certik,CertiK,,,https://www.certik.com/projects/eigenlayer,,,0
+kinetiq,certik,CertiK,,,https://www.certik.com/projects/kinetiq,,,0
+lombard,certik,CertiK,,,https://www.certik.com/projects/lombard,,,0

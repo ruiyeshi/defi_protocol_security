@@ -1,25 +1,27 @@
-# OS/editor
-.DS_Store
-.vscode/
-
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 .ipynb_checkpoints/
-.venv/
+.pytest_cache/
+.venv*/
 .env
-*.env
+.DS_Store
 
-# Data & scans (keep code, ignore heavy outputs)
-data_raw/
-data_tmp/
-data_intermediate/
-scans_slither/
-scans_mythril/
-scans_echidna/
-scans_smartcheck/
-*.parquet
-*.feather
-*.pickle
-*.pkl
-*.csv
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Outputs / caches
+data_out/
+data_clean/
+logs/
+tmp/
+*.log
+
+# Large/raw data (decide what you want tracked)
+# If you DO want to track data_raw, delete this line.
+data_raw/sources/
+.env

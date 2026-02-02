@@ -1,0 +1,175 @@
+slug,name,symbol,category,tvl,chains,has_audit_strict,has_contest,audit_event_count_strict,contest_event_count,security_review_event_count_total,last_audit_date_strict,last_contest_date,last_security_review_date,audit_sources,audit_firms,has_security_review_broad
+3xcalibur,3xcalibur,XCAL,Dexs,3156.807903920414,Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+88mph,88mph,MPH,Lending,442442.0809238396,Ethereum;Fantom;Avalanche;Polygon,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+aave-arc,Aave Arc,AAVE,Lending,57253.38956171104,Ethereum,1,0,2,0,2,,,,['full'],"['CertiK', 'DeFiSafety']",1
+acala,Acala,ACA,Canonical Bridge,0.0,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+ajna-v1,Ajna V1,AJNA,Lending,597926.3142073108,Ethereum,0,1,0,7,7,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+alchemix,Alchemix,ALCX,Synthetics,42956021.73379398,Ethereum;Optimism;Arbitrum;Fantom,0,1,0,3,3,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+aloe,Aloe,-,Lending,114363.84729122948,Arbitrum;Base;Optimism;Linea;Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+amphor,Amphor,-,Yield,111209.12770484478,Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+amphora,Amphora,AMPH,Lending,9496.192708547662,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+amun,Amun,AMUN,Indexes,379345.2414981505,Solana;Ethereum;Polygon,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+anchor,Anchor,ANC,Lending,0.0,Terra;Avalanche,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+angle,Angle,ANGLE,CDP,14900666.343541889,Ethereum;Arbitrum;Polygon;Optimism;Avalanche;Binance;Celo;xDai,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+aragon,Aragon,ANT,Services,0.0,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+arbitrum,Arbitrum,ARB,Canonical Bridge,0.0,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+aura,Aura,AURA,Yield,131804658.3239825,Ethereum;Base;Arbitrum;xDai;Optimism;Polygon;Fraxtal;Polygon zkEVM;Avalanche,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+aurus,Aurus,AX,RWA,0.0,Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+axelar,Axelar,AXL,Bridge,171863361.57793692,Ethereum;Binance;Ripple;Optimism;Arbitrum;Polygon;Fantom;Regen;Kujira;Osmosis;Cosmos;Base;Linea;Avalanche;Persistence;Celestia;Stride;Chihuahua;Secret;Stargaze;Umee;Agoric;Sei;Terra2;Neutron;Juno;Mantle;Carbon;Evmos;Blast;Migaloo;Archway;Dymension;Injective;XPLA;Aurora;Immutable zkEVM;Fraxtal;Moonbeam;Kava;Scroll;Celo;XRPL EVM;Filecoin,0,1,0,3,3,,,,['code4rena'],['Code4rena'],1
+axion,Axion,AXN,Yield,515742.88742240815,Polygon,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+backed,Backed,-,NFT Lending,0.0,Ethereum,0,1,0,4,4,,,,['code4rena'],['Code4rena'],1
+badger-dao,Badger DAO,BADGER,Yield Aggregator,26447968.40408018,Ethereum;Arbitrum;Polygon;Binance;Fantom,0,1,0,4,4,,,,['code4rena'],['Code4rena'],1
+bakerfi,BakerFi,-,Liquid Staking,118088.70117363648,Base;Ethereum;Arbitrum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+barnbridge,BarnBridge,BOND,Yield Aggregator,91268.826660372,Optimism;Ethereum;Arbitrum,0,1,0,6,6,,,,['sherlock'],['Sherlock'],1
+base-protocol,Base Protocol,BASE,Indexes,0.0,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+basin-dao,Basin DAO,BASIN,CDP,356.58182551844004,Base,0,1,0,3,3,,,,['code4rena'],['Code4rena'],1
+behodler,Behodler,EYE,Dexs,2508.4687285904192,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+binance-staked-sol,Binance Staked SOL,-,Liquid Staking,1390257684.201115,Solana,0,0,0,0,1,,,,['certik'],['CertiK'],0
+bingx,BingX,-,CEX,691818999.2473148,Tron;Bitcoin;Binance;Ethereum;Solana;Ripple;TON;Arbitrum,0,0,0,0,1,,,,['certik'],['CertiK'],0
+bitget,Bitget,-,CEX,7119296992.985375,Bitcoin;Ethereum;Binance;Tron;Solana;Ripple;Polygon;Cardano;Arbitrum;TON;Avalanche;Base;Cronos;Optimism;Sui;Sonic;Starknet;Klaytn;Metis;zkSync Era;Fantom;Kava;Hyperliquid L1,0,0,0,0,1,,,,['certik'],['CertiK'],0
+bitkub,Bitkub,KUB,CEX,1617331308.5884738,Bitcoin;Ethereum;Ripple;Binance;Solana;Cardano;Doge;Arbitrum;Optimism;Avalanche;Tron;Polygon;Base;Algorand;Scroll;Aptos;zkSync Era;Mantle;Litecoin;CORE;TON;Fantom,0,0,0,0,1,,,,['certik'],['CertiK'],0
+bitlend,Bitlend,BLEND,Lending,447.5143686178824,Bittorrent,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+blackrock-buidl,BlackRock BUIDL,BUIDL,RWA,2005180037.0604491,Aptos;Binance;Ethereum;Solana;Avalanche;Arbitrum;Optimism;Polygon,0,0,0,0,1,,,,['certik'],['CertiK'],0
+blueberry,Blueberry,BLB,Yield,257207.40808417456,Hyperliquid L1;Ethereum,0,1,0,8,8,,,,['sherlock'],['Sherlock'],1
+blur-lending,Blur Lending,BLUR,NFT Lending,2151818.7571290517,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+boofinance,BooFinance,BOOFI,Yield,20354.324033829136,Avalanche,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+burve,Burve,-,Dexs,32105.208783236205,Berachain,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+cabal,Cabal,-,Governance Incentives,826529.8806861008,Initia,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+canto,Canto,CANTO,Canonical Bridge,0.0,,0,1,0,9,9,,,,['code4rena'],['Code4rena'],1
+cap,cap,-,Lending,372589908.6383074,Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+chakra,Chakra,-,Restaked BTC,4602304.913999696,Bitcoin,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+circle-usyc,Circle USYC,-,RWA,1523327550.0500867,Binance;Ethereum;Near;Noble,0,0,0,0,1,,,,['certik'],['CertiK'],0
+concrete,Concrete,-,Onchain Capital Allocator,1009579016.78881,Ethereum;Berachain;Stable;Arbitrum;Katana,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+connext,Connext,NEXT,Bridge,326967510.49162275,Ethereum;Arbitrum;Linea;Binance;Optimism;Polygon;xDai;Metis;Base;Mode;Milkomeda;Moonriver;Fantom;Moonbeam;Fuse;Cronos;Boba;Evmos;Harmony;Avalanche,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+convergence,Convergence,CONV,Dexs,441970.37193286774,Ethereum;Moonbeam,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+convex-finance,Convex Finance,CVX,Yield,950550676.232998,Ethereum;Fraxtal;Arbitrum;Polygon,0,0,0,0,1,,,,['certik'],['CertiK'],0
+debtdao,DebtDAO,-,Lending,0.0,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+dinari,Dinari,-,RWA,45423252.94634685,Arbitrum;Ethereum;Kinto;Base;Plume Mainnet;Blast,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+dodo-agg,DODO Agg,DODO,DEX Aggregator,,,0,1,0,8,8,,,,['sherlock'],['Sherlock'],1
+dyad,DYAD,-,CDP,65511.24541812074,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+ecurve,eCurve,ECRV,Dexs,0.0,EOS,1,0,2,0,2,,,,['full'],"['CertiK', 'DeFiSafety']",1
+ekubo,Ekubo,EKUBO,Dexs,61056276.81774344,Starknet;Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+elasticswap,ElasticSwap,TIC,Dexs,4107.5128564765855,Ethereum;Avalanche,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+elfi-protocol,ELFi Protocol,-,Derivatives,7948501.412113331,Arbitrum;Base,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+ens,ENS,ENS,Domains,0.0,,0,1,0,4,4,,,,['code4rena'],['Code4rena'],1
+enso,Enso,ENSO,DEX Aggregator,,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+escher,Escher,-,Liquid Staking,4167979.5394132296,Babylon Genesis,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+ethos-network,Ethos Network,-,SoFi,2946146.389288776,Base,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+ethosx,EthosX,-,Derivatives,0.0,Binance;Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+fei-protocol,Fei Protocol,TRIBE,Algo-Stables,9.262121556432366,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+fiat-dao,FIAT DAO,FDT,Yield,119429.88748359568,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+flare,Flare,FLR,Chain,,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+flex-perpetuals,Flex Perpetuals,FDX,Derivatives,841078.0094864856,Base,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+foundation,Foundation,-,NFT Marketplace,0.0,,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+frankencoin,Frankencoin,ZCHF,CDP,29188123.156168737,Avalanche;Base;Ethereum;Optimism;Arbitrum;Sonic;Polygon;xDai,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+frax,Frax,FRAX,Algo-Stables,61519122.291519135,Ethereum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+fusefi-lending,Fusefi Lending,VOLT,Lending,0.7036140635571464,Fuse,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+garden,Garden,SEED,Cross Chain Bridge,,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+gauntlet,Gauntlet,-,Risk Curators,1219561702.863748,Ethereum;Base;Katana;Arbitrum;Solana;Unichain;Polygon;Hyperliquid L1,0,0,0,0,1,,,,['certik'],['CertiK'],0
+gitcoin,Gitcoin,GTC,Charity Fundraising,0.0,,0,1,0,5,5,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+gmx-v2-amm,GMX V2 AMM,GMX,Dexs,,,0,1,0,4,4,,,,['sherlock'],['Sherlock'],1
+goodentry,GoodEntry,-,Derivatives,91025.24170677738,Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+gravity-bridge,Gravity Bridge,GRAV,Bridge,22151999.278880432,GravityBridge;Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+gro,Gro,GRO,Yield,1782531.9861838212,Ethereum;Avalanche,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+hashkey-exchange,HashKey Exchange,-,CEX,1704698413.030409,Bitcoin;Ethereum;Solana;Tron;Doge;Avalanche;TON;Litecoin;Optimism;Aptos;Polygon;Arbitrum;Polkadot,0,0,0,0,1,,,,['certik'],['CertiK'],0
+hubble,Hubble,HBB,CDP,2028138.0788898785,Solana,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+hubble-exchange,Hubble Exchange,-,Derivatives,80473.91659517982,Avalanche,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+illuminate,Illuminate,-,Lending,1143.2602760777452,Ethereum,0,1,0,5,5,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+index-coop,Index Coop,INDEX,Indexes,26277503.83519347,Ethereum;Arbitrum;Base,0,1,0,4,4,,,,['sherlock'],['Sherlock'],1
+infinit,INFINIT,IN,AI Agents,0.0,Binance;Ethereum;Arbitrum;Base;Optimism;Sonic;Hyperliquid L1;Mantle;Plasma;Berachain,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+init-capital,INIT Capital,-,Lending,10011855.706274487,Mantle;Blast,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+insuredao,InsureDAO,INSURE,Insurance,123780.94910624257,Ethereum;Arbitrum;Astar;Optimism,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+iron-bank,Iron Bank,IB,Lending,6520154.6924911775,Ethereum;Optimism;Avalanche;Fantom,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+jojo,JOJO,-,Derivatives,26540.491605341755,Base;Arbitrum;Binance;zkSync Era,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+jpegd,JPEG'd,JPGD,NFT Lending,665152.4829556771,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+jupiter-staked-sol,Jupiter Staked SOL,JUP,Liquid Staking,1238296581.659166,Solana,0,0,0,0,1,,,,['certik'],['CertiK'],0
+justlend,JustLend,JST,Lending,3805153754.704523,Tron,0,0,0,0,1,,,,['certik'],['CertiK'],0
+kelp,Kelp,-,Liquid Restaking,1155806863.1023722,Ethereum;Arbitrum;Base;Zircuit;Scroll;Swellchain;zkSync Era;Blast;Mode;Optimism;Hemi;Linea;Sonic;Berachain;Manta;X Layer,0,1,0,1,2,,,,"['certik', 'code4rena']","['CertiK', 'Code4rena']",1
+korbit,Korbit,-,CEX,837260348.4381232,Bitcoin;Ripple;Ethereum,0,0,0,0,1,,,,['certik'],['CertiK'],0
+layerzero,LayerZero,ZRO,Bridge,,,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+liquid-ron,Liquid Ron,-,Liquid Staking,854297.2903317336,Ronin,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+livepeer,Livepeer,LPT,Video Infrastructure,,,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+looksrare,LooksRare,LOOKS,NFT Marketplace,0.0,Ethereum,0,1,0,5,5,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+loop,Loop,-,Leveraged Farming,1182550.690283338,Ethereum;XDC;Scroll;Binance,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+maia-dao,Maia DAO,MAIA,Yield,0.0,Metis;Arbitrum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+maple,Maple,SYRUP,Lending,3134180258.2332397,Ethereum;Solana,0,1,0,3,3,,,,['code4rena'],['Code4rena'],1
+marginswap,MarginSwap,MFI,Dexs,0.0,Binance;Ethereum;Avalanche;Polygon,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+mellow,Mellow,-,SoFi,4575.5527412019255,Base,0,1,0,3,3,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+mento,Mento,MENTO,Algo-Stables,21240132.725797176,Ethereum;Celo;Bitcoin,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+merit-circle,Merit Circle,MC,Launchpad,0.0,Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+merkl,Merkl,ANGLE,Yield,0.0,Ethereum;Polygon;Optimism;Arbitrum;Base;Polygon zkEVM,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+meth-protocol,mETH Protocol,COOK,Liquid Staking,720521972.1458447,Ethereum,0,0,0,0,2,,,,['certik'],['CertiK'],0
+mochiswap,MochiSwap,MOCHI,Dexs,88810.33379540264,Binance;Harmony,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+mover,Mover,MOVE,Yield,25438.43864921328,Ethereum;Polygon,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+munchables,Munchables,-,Farm,0.0,Blast,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+napier,Napier,-,Yield,516847.7409804539,Ethereum;Base;Arbitrum;Sonic;Hyperliquid L1;Polygon;Fraxtal;Binance;Optimism;Mantle;Avalanche,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+neo-tokyo,Neo Tokyo,BYTE,Gaming,0.0,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+nested,Nested,-,Indexes,189516.4899136505,Binance;Polygon;Optimism;Arbitrum;Ethereum;Avalanche,0,1,0,3,3,,,,['code4rena'],['Code4rena'],1
+nftx,NFTX,NFTX,NFT Marketplace,3473033.0952557484,Ethereum;Arbitrum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+numoen,Numoen,-,Derivatives,35923.61959977717,Arbitrum;Polygon;Celo,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+okx,OKX,-,CEX,23099691561.591255,Ethereum;Bitcoin;Solana;Doge;Tron;Litecoin;Ripple;Arbitrum;Aptos;Linea;Optimism;TON;Base;zkSync Era;Scroll;Starknet;Avalanche;Polygon;Polkadot,0,0,0,0,1,,,,['certik'],['CertiK'],0
+ondo-global-markets,Ondo Global Markets,ONDO,RWA,436797704.2850246,Ethereum;Binance,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+ooki,Ooki,OOKI,Lending,27516.32652865551,Ethereum;Binance;Arbitrum;Optimism;Polygon,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+open-dollar,Open Dollar,ODG,CDP,9525.942937883428,Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+openleverage,OpenLeverage,OLE,Dexs,119911.7120826064,Binance;Ethereum;Kucoin;Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+opensea-seaport,Opensea Seaport,-,NFT Marketplace,0.0,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+opus,Opus,-,CDP,486567.6796905008,Starknet,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+particles-money,Particles Money,PARTICLE,Algo-Stables,701.2553138664935,Base,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+partyswap,PartySwap,PARTY,Dexs,6552.824620754025,Avalanche,0,1,0,4,4,,,,['code4rena'],['Code4rena'],1
+peapods-finance,Peapods Finance,PEAS,Yield,7692742.997266632,Ethereum;Base;Arbitrum;Sonic;Berachain;Mode,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+pendle,Pendle,PENDLE,Yield,3718497407.713382,Ethereum;Plasma;Arbitrum;Binance;Hyperliquid L1;Base;Sonic;Berachain;Mantle;Avalanche;Optimism,0,0,0,0,1,,,,['certik'],['CertiK'],0
+phi,Phi,PHI,Launchpad,5199.282424200115,Base,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+phuture,Phuture,PHTR,Indexes,1693287.8899995922,Avalanche;Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+plaza-finance,Plaza Finance,-,Derivatives,0.0,Base,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+portal,Portal,W,Bridge,1670510796.846037,Ethereum;Solana;Binance;Near;Polygon;Terra;Avalanche;Arbitrum;Sui;Aptos;Moonbeam;Fantom;Base;Algorand;Klaytn;Celo;Oasis;Optimism;Aurora;Injective;Terra2;XPLA;Karura;Acala,0,0,0,0,1,,,,['certik'],['CertiK'],0
+predict-fun,Predict Fun,-,Prediction Market,10973709.924107516,Binance;Blast,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+prepo,prePO,-,Derivatives,15849.440508298028,Arbitrum;Blast;Base,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+rage-trade,Rage Trade,-,Derivatives,,,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+renzo,Renzo,REZ,Liquid Restaking,655517540.5528857,Ethereum;Arbitrum;Linea;Solana;Zircuit;Mode;Base;Optimism;Blast;Binance;Fraxtal;Sei,0,1,0,1,2,,,,"['certik', 'code4rena']","['CertiK', 'Code4rena']",1
+revert-lend,Revert Lend,-,Lending,10136942.901773404,Arbitrum;Base;Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+robinhood,Robinhood,-,CEX,16794939403.069056,Bitcoin;Ethereum;Avalanche;Polygon,0,0,0,0,1,,,,['certik'],['CertiK'],0
+rocket-pool,Rocket Pool,RPL,Liquid Staking,1829292165.1380453,Ethereum,0,0,0,0,1,,,,['certik'],['CertiK'],0
+rubicon,Rubicon,RUBI,Dexs,291750.0745171129,Optimism;Base;Arbitrum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+saffron-finance,Saffron Finance,SFI,Yield,0.0,Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+sandclock,SandClock,QUARTZ,Yield,110479.98128849392,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+sense,Sense,-,Yield,35911.64210207676,Ethereum,0,1,0,4,4,,,,['sherlock'],['Sherlock'],1
+sentiment,Sentiment,-,Lending,16327565.906641806,Hyperliquid L1;Arbitrum,0,1,0,8,8,,,,['sherlock'],['Sherlock'],1
+shell-protocol,Shell Protocol,SHELL,Dexs,166110.1769673644,Arbitrum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+sherlock,Sherlock,-,Insurance,504467.7507551894,Ethereum,0,1,0,4,4,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+slingshot,Slingshot,-,DEX Aggregator,,,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+spartan,Spartan,SPARTA,Dexs,9672.264352781269,Binance,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+spectra-v1,Spectra V1,SPECTRA,Yield Aggregator,180670.20070190425,Polygon;Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+stader,Stader,SD,Liquid Staking,542189383.1423585,Ethereum;Hedera;Binance;Fantom;Terra2;Near,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+stakehouse,Stakehouse,BSN,Liquid Staking,101495.18007,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+superposition,Superposition,-,Lending,586340.3862418168,Aptos,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+surge,Surge,-,Lending,2990.510194569928,Arbitrum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+sushi-trident,Sushi Trident,-,Dexs,276183.0396718068,Polygon;Optimism;Metis;Bittorrent;Arbitrum;Binance;Avalanche;Kava,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+swissborg,SwissBorg,BORG,CEX,1183472201.6291504,Ethereum;Bitcoin;Solana;Ripple;Binance;Cardano;Hedera;Avalanche;Doge;Near;Tron;Polygon;Cosmos;Injective;Stellar;TON;Arbitrum;Optimism;Sei;Algorand;Celestia;Moonbeam;Sonic;Berachain;Osmosis;xDai;Chiliz;Polkadot,0,0,0,0,1,,,,['certik'],['CertiK'],0
+symbiotic,Symbiotic,-,Restaking,565618218.7652495,Ethereum,0,0,0,0,1,,,,['certik'],['CertiK'],0
+symmetric,Symmetric,SYMM,Dexs,50850.621963812686,xDai;Celo;Taiko;Meter;Telos;Etherlink,0,1,0,4,4,,,,['sherlock'],['Sherlock'],1
+symmetry,Symmetry,-,Indexes,2671609.6509778937,Solana,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+symmio,SYMMIO,SYMM,Derivatives,5686525.628728336,Base;Coti;Binance;Arbitrum;Berachain;Sonic;Mantle;IOTA EVM;Mode,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+taiko-bridge,Taiko Bridge,TAIKO,Canonical Bridge,30165934.920577265,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+tbtc,tBTC,T,Decentralized BTC,541476713.0971974,Bitcoin;Ethereum,0,0,0,0,1,,,,['certik'],['CertiK'],0
+telcoin,Telcoin,TEL,Payments,0.0,Polygon,0,1,0,8,8,,,,['sherlock'],['Sherlock'],1
+teller,Teller,-,Lending,7729523.605116893,Ethereum;Base;Arbitrum;Katana,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+tether-gold,Tether Gold,XAUt,RWA,2266958519.029269,Ethereum;Plasma;Avalanche;Monad;Arbitrum;Celo;Polygon;Ink,0,0,0,0,1,,,,['certik'],['CertiK'],0
+the-graph,The Graph,GRT,Developer Tools,0.0,Ethereum;Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+tigris,Tigris,TIG,Derivatives,9412.61926049734,Polygon;Arbitrum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+union-protocol,Union Protocol,UNION,Uncollateralized Lending,270626.15852935746,Optimism;Ethereum;Base;Arbitrum,0,1,0,3,3,,,,"['code4rena', 'sherlock']","['Code4rena', 'Sherlock']",1
+usdt0,USDT0,-,Bridge,4475173923.039608,Ethereum,0,0,0,0,1,,,,['certik'],['CertiK'],0
+uxd,UXD,UXP,Partially Algorithmic Stablecoin,303879.49811882665,Solana,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+vader-ai,Vader AI,VADER,AI Agents,0.0,Base,0,1,0,3,3,,,,['code4rena'],['Code4rena'],1
+veda,Veda,-,Onchain Capital Allocator,1803702752.2112117,Ethereum;Plasma;Scroll;Hyperliquid L1;Sonic;Base;Arbitrum;Berachain;Binance;BOB,0,0,0,0,1,,,,['certik'],['CertiK'],0
+virtuals-protocol,Virtuals Protocol,VIRTUAL,AI Agents,,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+wild-credit,Wild Credit,WILD,Lending,10003.664450354854,Ethereum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+woofi-swap,WOOFi Swap,WOO,Dexs,7578576.722037386,Avalanche;Polygon;Base;Linea;Mantle;Arbitrum;Optimism;Binance;Sonic;Monad;Berachain;Hyperliquid L1;zkSync Era;Fantom;Ethereum;Polygon zkEVM,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+xdefi,XDeFi,XDEX,Dexs,122079.63280424448,Ethereum,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+y2k-v2,Y2K V2,Y2K,Derivatives,3783.080561326893,Arbitrum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+yaxis,yAxis,YAXIS,Yield Aggregator,397784.0393467834,Ethereum,0,1,0,2,2,,,,['code4rena'],['Code4rena'],1
+yeti-finance,Yeti Finance,YETI,CDP,0.0,Avalanche,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+yieldly,Yieldly,YLDY,Yield,0.0,Algorand,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+yieldoor,Yieldoor,-,Leveraged Farming,351639.43488315126,Ethereum;Sonic;Base,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
+yieldpulse-finance,YieldPulse Finance,YIELD,Farm,168.32937467934346,Pulse,0,1,0,4,4,,,,['code4rena'],['Code4rena'],1
+zetachain,ZetaChain,ZETA,Chain,,,0,1,0,1,1,,,,['code4rena'],['Code4rena'],1
+zivoe,Zivoe,ZVE,RWA,289561.6953206187,Ethereum,0,1,0,2,2,,,,['sherlock'],['Sherlock'],1
