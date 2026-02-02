@@ -65,6 +65,13 @@ outputs/tools/
 scans_slither/
 scans_mythril/
 
+# local datasets / generated data layers
+data_clean/
+data_external/
+data_out/
+data_processed/
+data_benchmark/
+
 ########################################
 # Very large raw contract corpora
 # (keep only lightweight metadata, not full source trees)
