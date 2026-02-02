@@ -1,27 +1,95 @@
+
+
+########################################
+# OS / editor
+########################################
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+.vscode/
+.idea/
+
+########################################
+# Secrets / env (keep templates only)
+########################################
+.env
+*.env
+!.env.example
+
+# accidental key files / weird local key dumps
+*.key
+*.pem
+*API_KEY*.ENV
+*.ENV
+
+########################################
 # Python
+########################################
 __pycache__/
 *.py[cod]
-*.egg-info/
-.ipynb_checkpoints/
+*.pyo
+*.pyd
 .pytest_cache/
-.venv*/
-.env
-.DS_Store
+.mypy_cache/
+.ruff_cache/
 
+.venv/
+venv/
+.envrc
+
+########################################
 # Node
+########################################
 node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
-# Outputs / caches
-data_out/
-data_clean/
+########################################
+# Logs
+########################################
 logs/
-tmp/
 *.log
 
-# Large/raw data (decide what you want tracked)
-# If you DO want to track data_raw, delete this line.
-data_raw/sources/
-.env
+########################################
+# Project-generated outputs / caches
+########################################
+outputs/_cache/
+outputs/checkpoints*.json
+outputs/ckpt_*.json
+outputs/slither_*/
+outputs/figures/
+outputs/tables/
+outputs/tools/
+
+# scans
+scans_slither/
+scans_mythril/
+
+########################################
+# Very large raw contract corpora
+# (keep only lightweight metadata, not full source trees)
+########################################
+data_raw/contracts/source_code/
+data_raw/contracts/vendor/
+data_raw/contracts/outputs/
+data_raw/contracts/data_raw/
+data_raw/contracts/archive_csv/
+
+# large harvested CSVs (reproducible; don’t bloat git)
+data_raw/contracts/fetched_contract_sources*.csv
+
+########################################
+# Large benchmark corpora
+########################################
+data_benchmark/contract_dataset_ethereum/
+data_benchmark/contract_dataset_github/
+
+########################################
+# Optional: local clones / downloaded repos
+########################################
+repos/
+
+########################################
+# Optional: tool-specific
+########################################
+smartcheck/
