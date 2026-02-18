@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x18a192dfe0be1e5e9aa424738fdad800646283b2",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radpie/index.js"
+  },
+  {
+    "address": "0xe05157aa8d14b8ed1d816d505b3d5deeb83ca131",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radpie/index.js"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x310a2694521f75c7b2b64b5937c16ce65c3efe01",
+    "guess": "optimism",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/exactly/index.js"
+  },
+  {
+    "address": "0xaeb62e6f27bc103702e7bc879ae98bcea56f027e",
+    "guess": "optimism",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/exactly/index.js"
+  }
+]

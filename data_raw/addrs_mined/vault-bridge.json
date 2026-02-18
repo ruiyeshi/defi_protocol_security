@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0xbeefb9f61cc44895d8aec381373555a64191a9c4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vault-bridge/index.js"
+  },
+  {
+    "address": "0xc54b4e08c1dcc199fdd35c6b5ab589ffd3428a8d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vault-bridge/index.js"
+  },
+  {
+    "address": "0x31a5684983eee865d943a696aac155363ba024f9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vault-bridge/index.js"
+  },
+  {
+    "address": "0x812b2c6ab3f4471c0e43d4bb61098a9211017427",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vault-bridge/index.js"
+  },
+  {
+    "address": "0x3dd459de96f9c28e3a343b831cbdc2b93c8c4855",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/vault-bridge/index.js"
+  }
+]

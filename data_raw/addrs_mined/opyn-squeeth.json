@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0x64187ae08781b09368e6253f9e94951243a493d5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0x82c427adfdf2d245ec51d8046b41c4ee87f0d29c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0xf1b99e3e573a1a9c5e6b2ce818b617f0e664e86b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0xb46fb07b0c80dbc3f97cae3bfe168acad46df507",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0x5077b7642abf198b4a5b7c4bdce4f03016c7089c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/opyn-squeeth/index.js"
+  },
+  {
+    "address": "0x3b960e47784150f5a63777201ee2b15253d713e8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/opyn-squeeth/index.js"
+  }
+]

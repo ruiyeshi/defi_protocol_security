@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x196ead472583bc1e9af7a05f860d9857e1bd3dcc",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/puffer-unifi/index.js"
+  },
+  {
+    "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/puffer-unifi/index.js"
+  }
+]

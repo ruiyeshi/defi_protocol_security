@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0xa5f8c5dbd5f286960b9d90548680ae5ebff07652",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:pancakeswap-amm/index.js"
+  },
+  {
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:pancakeswap-amm/index.js"
+  },
+  {
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:pancakeswap-amm/index.js"
+  },
+  {
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:pancakeswap-amm/index.js"
+  },
+  {
+    "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:pancakeswap-amm/index.js"
+  }
+]

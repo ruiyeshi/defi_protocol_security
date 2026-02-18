@@ -1,0 +1,30 @@
+protocol_name_raw_x,slug,chain,category_llama,exploit_type,exploit_dt,loss_usd,has_audit_record,last_audit_date_dt,days_since_last_audit,evidence_url,exploit_date,loss_usd_fmt,loss_usd_m,chain_context
+Poly Network,poly-network,"Ethereum,BSC,Polygon",Bridge,Protocol Logic,2021-08-10 00:00:00+00:00,611000000.0,0,,,,2021-08-10,"$611,000,000",$611.0m,Multi-chain
+Portal,portal,Solana,Bridge,Protocol Logic,2022-02-02 00:00:00+00:00,326000000.0,0,,,,2022-02-02,"$326,000,000",$326.0m,Solana
+Euler V1,euler-v1,Ethereum,Lending,Protocol Logic,2023-03-13 00:00:00+00:00,197000000.0,0,,,,2023-03-13,"$197,000,000",$197.0m,EVM
+Nomad,nomad,Ethereum,Bridge,Protocol Logic,2022-08-01 00:00:00+00:00,190000000.0,0,,,,2022-08-01,"$190,000,000",$190.0m,EVM
+Beanstalk,beanstalk,Ethereum,Algo-Stables,Ecosystem,2022-04-17 00:00:00+00:00,181000000.0,0,,,,2022-04-17,"$181,000,000",$181.0m,EVM
+Compound V2,compound-v2,Ethereum,Lending,Protocol Logic,2021-09-29 00:00:00+00:00,147000000.0,0,,,,2021-09-29,"$147,000,000",$147.0m,EVM
+CREAM Lending,cream-lending,Ethereum,Lending,Ecosystem,2021-10-27 00:00:00+00:00,130000000.0,0,,,,2021-10-27,"$130,000,000",$130.0m,EVM
+Balancer V2,balancer-v2,"Ethereum,Arbitrum,Base,Polygon,Sonic,Optimism",Dexs,Protocol Logic,2025-11-03 00:00:00+00:00,128000000.0,0,,,,2025-11-03,"$128,000,000",$128.0m,Multi-chain
+Mango Markets V3,mango-markets-v3,Solana,Derivatives,Ecosystem,2022-10-11 00:00:00+00:00,115000000.0,0,,,,2022-10-11,"$115,000,000",$115.0m,Solana
+Mirror,mirror,Terra,Derivatives,Smart Contract Language,2021-10-08 00:00:00+00:00,90000000.0,0,,,,2021-10-08,"$90,000,000",$90.0m,Other/Unknown
+Orbit Bridge,orbit-bridge,Ethereum,Bridge,Protocol Logic,2023-12-31 00:00:00+00:00,81700000.0,0,,,,2023-12-31,"$81,700,000",$81.7m,EVM
+Rari Capital,rari-capital,"Ethereum,Arbitrum",Yield Aggregator,Ecosystem,2022-05-01 00:00:00+00:00,80000000.0,0,,,,2022-05-01,"$80,000,000",$80.0m,Multi-chain
+Qubit,qubit,BSC,Lending,Protocol Logic,2022-01-28 00:00:00+00:00,80000000.0,0,,,,2022-01-28,"$80,000,000",$80.0m,EVM
+Munchables,munchables,Blast,Farm,Protocol Logic,2024-03-26 00:00:00+00:00,62500000.0,0,,,,2024-03-26,"$62,500,000",$62.5m,Other/Unknown
+Radiant V2,radiant-v2,"BSC,Arbitrum",Lending,Protocol Logic,2024-10-16 00:00:00+00:00,53000000.0,0,,,,2024-10-16,"$53,000,000",$53.0m,Multi-chain
+KyberSwap Elastic,kyberswap-elastic,"Ethereum,Base,Polygon,Optimism,Arbitrum",Dexs,Protocol Logic,2023-11-22 00:00:00+00:00,48000000.0,0,,,,2023-11-22,"$48,000,000",$48.0m,Multi-chain
+Cashio,cashio,Solana,CDP,Protocol Logic,2022-03-23 00:00:00+00:00,48000000.0,0,,,,2022-03-23,"$48,000,000",$48.0m,Solana
+Bunny,bunny,BSC,Yield,Ecosystem,2021-05-19 00:00:00+00:00,45000000.0,0,,,,2021-05-19,"$45,000,000",$45.0m,EVM
+Hedgey,hedgey,"Arbitrum,Ethereum",Payments,Ecosystem,2024-04-19 00:00:00+00:00,44700000.0,0,,,,2024-04-19,"$44,700,000",$44.7m,Multi-chain
+GMX V1 Perps,gmx-v1-perps,Arbitrum,Derivatives,Protocol Logic,2025-07-09 00:00:00+00:00,42000000.0,0,,,,2025-07-09,"$42,000,000",$42.0m,EVM
+Vee Finance,vee-finance,Avalanche,Lending,Ecosystem,2021-09-21 00:00:00+00:00,34000000.0,0,,,,2021-09-21,"$34,000,000",$34.0m,EVM
+MonoX,monox,"Ethereum,Polygon",Dexs,Protocol Logic,2021-11-30 00:00:00+00:00,31400000.0,0,,,,2021-11-30,"$31,400,000",$31.4m,Multi-chain
+Spartan,spartan,BSC,Dexs,Ecosystem,2021-05-02 00:00:00+00:00,30500000.0,0,,,,2021-05-02,"$30,500,000",$30.5m,EVM
+Grim Finance,grim-finance,Fantom,Yield,Ecosystem,2021-12-18 00:00:00+00:00,30000000.0,0,,,,2021-12-18,"$30,000,000",$30.0m,EVM
+Penpie,penpie,Ethereum,Yield,Protocol Logic,2024-09-03 00:00:00+00:00,27000000.0,0,,,,2024-09-03,"$27,000,000",$27.0m,EVM
+ThalaSwap,thalaswap,Aptos,Dexs,Protocol Logic,2024-11-15 00:00:00+00:00,25500000.0,0,,,,2024-11-15,"$25,500,000",$25.5m,Other/Unknown
+Harvest Finance,harvest-finance,Ethereum,Yield Aggregator,Ecosystem,2020-10-26 00:00:00+00:00,25000000.0,0,,,,2020-10-26,"$25,000,000",$25.0m,EVM
+dForce,dforce,Ethereum,Lending,Protocol Logic,2020-04-19 00:00:00+00:00,25000000.0,0,,,,2020-04-19,"$25,000,000",$25.0m,EVM
+xToken,xtoken,Ethereum,Liquidity manager,Ecosystem,2021-05-12 00:00:00+00:00,24000000.0,0,,,,2021-05-12,"$24,000,000",$24.0m,EVM

@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0x71ac0e9a7113130280040d0189d0556f45a8cbb5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x7e844423510a5081de839e600f7960c7ce84eb82",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x57e09c96daee58b77dc771b017de015c38060173",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x5fcea94b96858048433359bb5278a402363328c3",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0xcd7c4f508652f33295f0aed075936cd95a4d2911",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0xd7c6cc5aef7396182c5d7ebdac66ff674f3ddcf4",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x2eea8fba494d5008ba72f80e0091cc74db5f9926",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x8f9958ec0feecccf0fec871b7bbb3d8d0b7a4d3c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0xaba65b87ebedb2d753b37aececd1e168341ee0dd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0xb57a4b3cce8d999a1e6b0357c0a31c3808401b42",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x69a6b3b96b26a15a588081df17f46d61f625741c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0xeff5cd04b461247f5008b35074f45ba0f0b11eff",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/segment-finance/index.js"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/segment-finance/index.js"
+  }
+]

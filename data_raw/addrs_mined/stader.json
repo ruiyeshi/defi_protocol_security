@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0xcf5ea1b38380f6af39068375516daf40ed70d299",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stader/index.js"
+  },
+  {
+    "address": "0x4f4bfa0861f62309934a5551e0b2541ee82fdcf1",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stader/index.js"
+  },
+  {
+    "address": "0x7af4730cc8ebad1a050dcad5c03c33d2793ee91f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stader/index.js"
+  },
+  {
+    "address": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stader/index.js"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resolv/index.js"
+  },
+  {
+    "address": "0x4956b52ae2ff65d74ca2d61207523288e4528f96",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resolv/index.js"
+  },
+  {
+    "address": "0xfe4bce4b3949c35fb17691d8b03c3cadbe2e5e23",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resolv/index.js"
+  },
+  {
+    "address": "0x259338656198ec7a76c729514d3cb45dfbf768a1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/resolv/index.js"
+  }
+]

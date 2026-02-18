@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0xa6cf4bf00fef8866e9f3f61c972ba7c687c6edbf",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/erasure/index.js"
+  },
+  {
+    "address": "0x409ea12e73a10ef166bc063f94aa9bc952835e93",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/erasure/index.js"
+  },
+  {
+    "address": "0x348fa9dcff507b81c7a1d7981244ea92e8c6af29",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/erasure/index.js"
+  },
+  {
+    "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/erasure/index.js"
+  }
+]

@@ -1,0 +1,4 @@
+tool,runnable_contracts_n,scanned_contracts_n,scan_share,source,note
+slither,1500.0,147,0.098,data_raw/slither_raw/slither_detailed_std.csv,security-family filter is applied downstream for RQ1–RQ4
+solhint,,0,0.0,data_raw/solhint/solhint_file_summary.csv,matched to Slither-scanned contracts by address; treated as code-quality proxy
+mythril,12940.0,671,0.05185471406491499,data_raw/contracts/verified_contracts_from_source_cache.csv,scanned count is interim if the batch is still running

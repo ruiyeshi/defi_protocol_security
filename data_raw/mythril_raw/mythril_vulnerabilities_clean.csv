@@ -1,0 +1,1362 @@
+chain,contract_address,mythril_title,severity,mythril_code,row_len,line_no
+ethereum,0x8c81121b15197fa0eeaee1dc75533419dcfd3151,Delegatecall to user-supplied address,High,,4,2
+ethereum,0x8c81121b15197fa0eeaee1dc75533419dcfd3151,Delegatecall to user-supplied address,High,,4,3
+ethereum,0x66be1bc6c6af47900bbd4f3711801be6c2c6cb32,Unprotected Selfdestruct,High,106,5,4
+ethereum,0x83d1b4277454edacf54a14fc586326386648a959,requirement violation,Medium,123,5,5
+ethereum,0xaa137ec3474ab407f3be37b16576227dfe75eb8d,requirement violation,Medium,123,5,6
+ethereum,0xaa137ec3474ab407f3be37b16576227dfe75eb8d,requirement violation,Medium,123,5,7
+arbitrum,0x907e5d334f27a769ef779358089fe5fdaa6cf2bb,Dependence on predictable environment variable,Low,120,5,8
+arbitrum,0x907e5d334f27a769ef779358089fe5fdaa6cf2bb,Dependence on predictable environment variable,Low,116,5,9
+ethereum,0x49690541e3f6e933a9aa3cffee6010a7bb5b72d7,Integer Arithmetic Bugs,High,101,5,10
+ethereum,0x49690541e3f6e933a9aa3cffee6010a7bb5b72d7,Exception State,Medium,110,5,11
+avalanche,0x1f4292cf1c0fda5ef1c3e9d1e59c13bd1808dd10,Dependence on predictable environment variable,Low,116,5,12
+avalanche,0x1f4292cf1c0fda5ef1c3e9d1e59c13bd1808dd10,Dependence on predictable environment variable,Low,116,5,13
+avalanche,0x1f4292cf1c0fda5ef1c3e9d1e59c13bd1808dd10,Dependence on predictable environment variable,Low,116,5,14
+avalanche,0x89a8633bcad3af0951acc5137811ea21a17c37dc,Integer Arithmetic Bugs,High,101,5,15
+avalanche,0x89a8633bcad3af0951acc5137811ea21a17c37dc,Integer Arithmetic Bugs,High,101,5,16
+avalanche,0x89a8633bcad3af0951acc5137811ea21a17c37dc,Integer Arithmetic Bugs,High,101,5,17
+ethereum,0x7a56e1c57c7475ccf742a1832b028f0456652f97,Delegatecall to user-supplied address,High,112,5,18
+ethereum,0x7a56e1c57c7475ccf742a1832b028f0456652f97,Multiple Calls in a Single Transaction,Low,113,5,19
+ethereum,0xd9d920aa40f578ab794426f5c90f6c731d159def,Delegatecall to user-supplied address,High,112,5,20
+ethereum,0xd9d920aa40f578ab794426f5c90f6c731d159def,Multiple Calls in a Single Transaction,Low,113,5,21
+base,0x28c9c71c776a1203000b56c0cca48bef1cd51c53,External Call To User-Supplied Address,Low,107,5,22
+base,0x28c9c71c776a1203000b56c0cca48bef1cd51c53,External Call To User-Supplied Address,Low,107,5,23
+base,0x28c9c71c776a1203000b56c0cca48bef1cd51c53,External Call To User-Supplied Address,Low,107,5,24
+base,0x54016a4848a38f257b6e96331f7404073fd9c32c,External Call To User-Supplied Address,Low,107,5,25
+base,0x54016a4848a38f257b6e96331f7404073fd9c32c,External Call To User-Supplied Address,Low,107,5,26
+base,0x54016a4848a38f257b6e96331f7404073fd9c32c,External Call To User-Supplied Address,Low,107,5,27
+base,0xed8db60acc29e14bc867a497d94ca6e3ceb5ec04,External Call To User-Supplied Address,Low,107,5,28
+base,0xed8db60acc29e14bc867a497d94ca6e3ceb5ec04,External Call To User-Supplied Address,Low,107,5,29
+base,0xed8db60acc29e14bc867a497d94ca6e3ceb5ec04,External Call To User-Supplied Address,Low,107,5,30
+scroll,0x6767f2f2d8c0a63a7a1b3ad2bb890fdc125ccab7,Integer Arithmetic Bugs,High,101,5,31
+scroll,0x6767f2f2d8c0a63a7a1b3ad2bb890fdc125ccab7,Integer Arithmetic Bugs,High,101,5,32
+scroll,0x6767f2f2d8c0a63a7a1b3ad2bb890fdc125ccab7,Integer Arithmetic Bugs,High,101,5,33
+ethereum,0x4082c9647c098a6493fb499eae63b5ce3259c574,Write to an arbitrary storage location,High,124,5,34
+arbitrum,0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0,Delegatecall to user-supplied address,High,112,5,35
+arbitrum,0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0,Multiple Calls in a Single Transaction,Low,113,5,36
+ethereum,0x397c315d64d74d82a731d656f9c4d586d200f90a,Delegatecall to user-supplied address,High,112,5,37
+ethereum,0x397c315d64d74d82a731d656f9c4d586d200f90a,Delegatecall to user-supplied address,High,112,5,38
+ethereum,0x4822d9172e5b76b9db37b75f5552f9988f98a888,Delegatecall to user-supplied address,High,112,5,39
+ethereum,0x4822d9172e5b76b9db37b75f5552f9988f98a888,Delegatecall to user-supplied address,High,112,5,40
+ethereum,0x639f2aece398aa76b07e59ef6abe2cfe32bacb68,Delegatecall to user-supplied address,High,112,5,41
+ethereum,0x639f2aece398aa76b07e59ef6abe2cfe32bacb68,Delegatecall to user-supplied address,High,112,5,42
+ethereum,0xe95a203b1a91a908f9b9ce46459d101078c2c3cb,Delegatecall to user-supplied address,High,112,5,43
+ethereum,0xe95a203b1a91a908f9b9ce46459d101078c2c3cb,Delegatecall to user-supplied address,High,112,5,44
+bsc,0xffdcd49d902d71445b93dcbfa51e2f9797de05c9,Dependence on predictable environment variable,Low,116,5,45
+bsc,0xffdcd49d902d71445b93dcbfa51e2f9797de05c9,External Call To User-Supplied Address,Low,107,5,46
+bsc,0xbc4719d9f347eb1d9551d71862d2cb4db99916f9,Dependence on predictable environment variable,Low,116,5,47
+bsc,0xbc4719d9f347eb1d9551d71862d2cb4db99916f9,Dependence on predictable environment variable,Low,116,5,48
+bsc,0xbc4719d9f347eb1d9551d71862d2cb4db99916f9,Dependence on predictable environment variable,Low,116,5,49
+bsc,0xbc4719d9f347eb1d9551d71862d2cb4db99916f9,Dependence on predictable environment variable,Low,116,5,50
+ethereum,0xa2e996f0cb33575fa0e36e8f62fcd4a9b897aad3,External Call To User-Supplied Address,Low,107,5,51
+arbitrum,0x9482c407d32204462d8cbbc0755e96c39b79878e,Dependence on predictable environment variable,Low,120,5,52
+ethereum,0x9bffad7a6d5f52dbc51cae33e419793c72fd7d9d,Delegatecall to user-supplied address,High,112,5,53
+ethereum,0x9bffad7a6d5f52dbc51cae33e419793c72fd7d9d,Delegatecall to user-supplied address,High,112,5,54
+bsc,0xa5593837af2b99021fe657c80d70d2365f5cfd38,Dependence on predictable environment variable,Low,116,5,55
+arbitrum,0x9373da81f82aba62605a8a03950b9aa188a02bf7,Delegatecall to user-supplied address,High,112,5,56
+arbitrum,0x9373da81f82aba62605a8a03950b9aa188a02bf7,Delegatecall to user-supplied address,High,112,5,57
+arbitrum,0x3a93fcccd2769579efe03d6def2c4468f5f0bd38,Delegatecall to user-supplied address,High,112,5,58
+arbitrum,0x3a93fcccd2769579efe03d6def2c4468f5f0bd38,Delegatecall to user-supplied address,High,112,5,59
+arbitrum,0xca6aca5eabd9fac29404974e1a69a0b69c7f1ea2,Delegatecall to user-supplied address,High,112,5,60
+arbitrum,0xca6aca5eabd9fac29404974e1a69a0b69c7f1ea2,Delegatecall to user-supplied address,High,112,5,61
+arbitrum,0xf6995955e4b0e5b287693c221f456951d612b628,Delegatecall to user-supplied address,High,112,5,62
+arbitrum,0xf6995955e4b0e5b287693c221f456951d612b628,Delegatecall to user-supplied address,High,112,5,63
+polygon,0xac63686230f64bdeaf086fe6764085453ab3023f,Dependence on predictable environment variable,Low,116,5,64
+ethereum,0xd5524179cb7ae012f5b642c1d6d700bbaa76b96b,External Call To User-Supplied Address,Low,107,5,65
+ethereum,0xd5524179cb7ae012f5b642c1d6d700bbaa76b96b,Delegatecall to user-supplied address,High,112,5,66
+ethereum,0xd5524179cb7ae012f5b642c1d6d700bbaa76b96b,Multiple Calls in a Single Transaction,Low,113,5,67
+ethereum,0xd5524179cb7ae012f5b642c1d6d700bbaa76b96b,State access after external call,Medium,107,5,68
+ethereum,0x02fedcff97942fe28e8936cdc3d7a480fdd248f0,Delegatecall to user-supplied address,High,112,5,69
+ethereum,0x02fedcff97942fe28e8936cdc3d7a480fdd248f0,External Call To User-Supplied Address,Low,107,5,70
+bsc,0x25b24b3c47918b7962b3e49c4f468367f73cc0e0,Dependence on predictable environment variable,Low,116,5,71
+bsc,0x25b24b3c47918b7962b3e49c4f468367f73cc0e0,Dependence on predictable environment variable,Low,116,5,72
+bsc,0x25b24b3c47918b7962b3e49c4f468367f73cc0e0,Dependence on predictable environment variable,Low,116,5,73
+bsc,0x25b24b3c47918b7962b3e49c4f468367f73cc0e0,Dependence on predictable environment variable,Low,116,5,74
+bsc,0xe320df552e78d57e95cf1182b6960746d5016561,Dependence on predictable environment variable,Low,116,5,75
+bsc,0xe320df552e78d57e95cf1182b6960746d5016561,Dependence on predictable environment variable,Low,116,5,76
+ethereum,0xc011a72400e58ecd99ee497cf89e3775d4bd732f,External Call To User-Supplied Address,Low,107,5,77
+ethereum,0xc011a72400e58ecd99ee497cf89e3775d4bd732f,State access after external call,Medium,107,5,78
+ethereum,0xc011a72400e58ecd99ee497cf89e3775d4bd732f,External Call To User-Supplied Address,Low,107,5,79
+ethereum,0xc011a72400e58ecd99ee497cf89e3775d4bd732f,Multiple Calls in a Single Transaction,Low,113,5,80
+ethereum,0xc011a72400e58ecd99ee497cf89e3775d4bd732f,State access after external call,Medium,107,5,81
+ethereum,0xf6e2d7f616b67e46d708e4410746e9aab3a4c518,Multiple Calls in a Single Transaction,Low,113,5,82
+bsc,0xf7eee3a8363731c611a24cddfcbcade9c153cfe8,Integer Arithmetic Bugs,High,101,5,83
+bsc,0xf7eee3a8363731c611a24cddfcbcade9c153cfe8,External Call To User-Supplied Address,Low,107,5,84
+bsc,0xf7eee3a8363731c611a24cddfcbcade9c153cfe8,Unprotected Ether Withdrawal,High,105,5,85
+bsc,0xf7eee3a8363731c611a24cddfcbcade9c153cfe8,Transaction Order Dependence,Medium,114,5,86
+bsc,0xf7eee3a8363731c611a24cddfcbcade9c153cfe8,Unprotected Ether Withdrawal,High,105,5,87
+base,0xa73fab6e612aaf9125bf83a683aadcdd6511d3f0,Exception State,Medium,110,5,88
+base,0xa73fab6e612aaf9125bf83a683aadcdd6511d3f0,Exception State,Medium,110,5,89
+ethereum,0x07150e919b4de5fd6a63de1f9384828396f25fdc,Delegatecall to user-supplied address,High,112,5,90
+ethereum,0x07150e919b4de5fd6a63de1f9384828396f25fdc,Delegatecall to user-supplied address,High,112,5,91
+ethereum,0x15ae3846d7183ba27ad5772fec55aeefdd365975,Delegatecall to user-supplied address,High,112,5,92
+ethereum,0x15ae3846d7183ba27ad5772fec55aeefdd365975,Delegatecall to user-supplied address,High,112,5,93
+ethereum,0x6d075df51cdf493fb3aa09f33166a9815339b206,Delegatecall to user-supplied address,High,112,5,94
+ethereum,0x6d075df51cdf493fb3aa09f33166a9815339b206,Delegatecall to user-supplied address,High,112,5,95
+bsc,0x2c358a7c62cdb9d554a65a86eea034bc55d1e715,Delegatecall to user-supplied address,High,112,5,96
+bsc,0x2c358a7c62cdb9d554a65a86eea034bc55d1e715,Delegatecall to user-supplied address,High,112,5,97
+ethereum,0x4f5704d9d2cbccaf11e70b34048d41a0d572993f,External Call To User-Supplied Address,Low,107,5,98
+ethereum,0x4f5704d9d2cbccaf11e70b34048d41a0d572993f,External Call To User-Supplied Address,Low,107,5,99
+ethereum,0x4f5704d9d2cbccaf11e70b34048d41a0d572993f,External Call To User-Supplied Address,Low,107,5,100
+ethereum,0x4f5704d9d2cbccaf11e70b34048d41a0d572993f,External Call To User-Supplied Address,Low,107,5,101
+ethereum,0x4f5704d9d2cbccaf11e70b34048d41a0d572993f,Dependence on predictable environment variable,Low,116,5,102
+arbitrum,0x7fbdeb84d5966c1c325d8cb2e01593d74c9a41cd,Delegatecall to user-supplied address,High,112,5,103
+arbitrum,0x7fbdeb84d5966c1c325d8cb2e01593d74c9a41cd,Delegatecall to user-supplied address,High,112,5,104
+ethereum,0xdfdb7f72c1f195c5951a234e8db9806eb0635346,Exception State,Medium,110,5,105
+ethereum,0xdfdb7f72c1f195c5951a234e8db9806eb0635346,Delegatecall to user-supplied address,High,112,5,106
+optimism,0x03bba86e68c7dd733703cbcd44072082af702d85,Dependence on predictable environment variable,Low,116,5,107
+bsc,0x0c89c0407775dd89b12918b9c0aa42bf96518820,Delegatecall to user-supplied address,High,112,5,108
+bsc,0x0c89c0407775dd89b12918b9c0aa42bf96518820,Delegatecall to user-supplied address,High,112,5,109
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,Dependence on predictable environment variable,Low,116,5,110
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,Exception State,Medium,110,5,111
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,External Call To User-Supplied Address,Low,107,5,112
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,External Call To User-Supplied Address,Low,107,5,113
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,Multiple Calls in a Single Transaction,Low,113,5,114
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,115
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,116
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,117
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,118
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,119
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,120
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,121
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,122
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,123
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,124
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,125
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,126
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,127
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,128
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,129
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,130
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,131
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,State access after external call,Medium,107,5,132
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,External Call To User-Supplied Address,Low,107,5,133
+bsc,0xa36037dc26c5c02e864eba969a312320e6487269,Exception State,Medium,110,5,134
+bsc,0xce93f9827813761665ce348e33768cb1875a9704,Exception State,Medium,110,5,135
+bsc,0xce93f9827813761665ce348e33768cb1875a9704,Exception State,Medium,110,5,136
+bsc,0xce93f9827813761665ce348e33768cb1875a9704,Dependence on predictable environment variable,Low,116,5,137
+bsc,0xce93f9827813761665ce348e33768cb1875a9704,Dependence on predictable environment variable,Low,116,5,138
+ethereum,0x3f6ce1b36e5120bbc59d0cfe8a5ac8b6464ac1f7,Delegatecall to user-supplied address,High,112,5,139
+ethereum,0x3f6ce1b36e5120bbc59d0cfe8a5ac8b6464ac1f7,Multiple Calls in a Single Transaction,Low,113,5,140
+ethereum,0x3f6ce1b36e5120bbc59d0cfe8a5ac8b6464ac1f7,Write to an arbitrary storage location,High,124,5,141
+ethereum,0x450d55a4b4136805b0e5a6bb59377c71fc4facbb,Delegatecall to user-supplied address,High,112,5,142
+ethereum,0x450d55a4b4136805b0e5a6bb59377c71fc4facbb,Multiple Calls in a Single Transaction,Low,113,5,143
+ethereum,0x450d55a4b4136805b0e5a6bb59377c71fc4facbb,Write to an arbitrary storage location,High,124,5,144
+ethereum,0x8adee124447435fe03e3cd24df3f4cae32e65a3e,Delegatecall to user-supplied address,High,112,5,145
+ethereum,0x8adee124447435fe03e3cd24df3f4cae32e65a3e,Delegatecall to user-supplied address,High,112,5,146
+ethereum,0x1a26ef6575b7bbb864d984d9255c069f6c361a14,Delegatecall to user-supplied address,High,112,5,147
+ethereum,0x6fe40f415448d930166f9110d3bbe2146383bc66,Delegatecall to user-supplied address,High,112,5,148
+ethereum,0x6fe40f415448d930166f9110d3bbe2146383bc66,Delegatecall to user-supplied address,High,112,5,149
+ethereum,0x73282a63f0e3d7e9604575420f777361eca3c86a,Delegatecall to user-supplied address,High,112,5,150
+ethereum,0x73282a63f0e3d7e9604575420f777361eca3c86a,Delegatecall to user-supplied address,High,112,5,151
+ethereum,0x98945bc69a554f8b129b09ac8afdc2cc2431c48e,Delegatecall to user-supplied address,High,112,5,152
+ethereum,0x98945bc69a554f8b129b09ac8afdc2cc2431c48e,Delegatecall to user-supplied address,High,112,5,153
+bsc,0xce1ad4e2810e413e2e3684decc58a0bd01c907d9,Dependence on predictable environment variable,Low,116,5,154
+bsc,0xce1ad4e2810e413e2e3684decc58a0bd01c907d9,Dependence on tx.origin,Low,115,5,155
+bsc,0xce1ad4e2810e413e2e3684decc58a0bd01c907d9,Dependence on tx.origin,Low,115,5,156
+ethereum,0x53423b7bf445997e76ad94f820f0559e451a98e2,State access after external call,Low,107,5,157
+ethereum,0x53423b7bf445997e76ad94f820f0559e451a98e2,State access after external call,Low,107,5,158
+ethereum,0x53423b7bf445997e76ad94f820f0559e451a98e2,State access after external call,Low,107,5,159
+bsc,0x843cbc1732ae7d7ba0533c6380989dacec315ffe,Dependence on predictable environment variable,Low,116,5,160
+bsc,0x843cbc1732ae7d7ba0533c6380989dacec315ffe,Dependence on predictable environment variable,Low,116,5,161
+bsc,0x843cbc1732ae7d7ba0533c6380989dacec315ffe,Dependence on predictable environment variable,Low,116,5,162
+bsc,0x843cbc1732ae7d7ba0533c6380989dacec315ffe,Dependence on predictable environment variable,Low,116,5,163
+bsc,0x843cbc1732ae7d7ba0533c6380989dacec315ffe,Dependence on predictable environment variable,Low,116,5,164
+arbitrum,0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d,Integer Arithmetic Bugs,High,101,5,165
+polygon,0xf305012ea754252184f1071c86ae99fac5b40320,Dependence on predictable environment variable,Low,116,5,166
+polygon,0xf305012ea754252184f1071c86ae99fac5b40320,Dependence on predictable environment variable,Low,116,5,167
+avalanche,0xfa12dcb2e1fd72bd92e8255db6a781b2c76adc20,Integer Arithmetic Bugs,High,101,5,168
+arbitrum,0x1058afe66bb5b79c295ccce51016586949bc4e8d,External Call To User-Supplied Address,Low,107,5,169
+arbitrum,0x4e352cf164e64adcbad318c3a1e222e9eba4ce42,Delegatecall to user-supplied address,High,112,5,170
+arbitrum,0x4e352cf164e64adcbad318c3a1e222e9eba4ce42,Delegatecall to user-supplied address,High,112,5,171
+bsc,0xb5102cee1528ce2c760893034a4603663495fd72,Delegatecall to user-supplied address,High,112,5,172
+bsc,0xb5102cee1528ce2c760893034a4603663495fd72,Delegatecall to user-supplied address,High,112,5,173
+ethereum,0xeca82185adce47f39c684352b0439f030f860318,Integer Arithmetic Bugs,High,101,5,174
+ethereum,0xeca82185adce47f39c684352b0439f030f860318,Dependence on predictable environment variable,Low,116,5,175
+ethereum,0xeca82185adce47f39c684352b0439f030f860318,Dependence on predictable environment variable,Low,116,5,176
+ethereum,0x8a14897ea5f668f36671678593fae44ae23b39fb,Dependence on predictable environment variable,Low,116,5,177
+ethereum,0x104f3152d8ebfc3f679392977356962ff36566ac,Delegatecall to user-supplied address,High,112,5,178
+ethereum,0x104f3152d8ebfc3f679392977356962ff36566ac,Delegatecall to user-supplied address,High,112,5,179
+ethereum,0x7a486f809c952a6f8dec8cb0ff68173f2b8ed56c,Delegatecall to user-supplied address,High,112,5,180
+ethereum,0x96c68d861ada016ed98c30c810879f9df7c64154,Delegatecall to user-supplied address,High,112,5,181
+ethereum,0x96c68d861ada016ed98c30c810879f9df7c64154,Delegatecall to user-supplied address,High,112,5,182
+ethereum,0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b,Exception State,Medium,110,5,183
+ethereum,0x000000007a58f5f58e697e51ab0357bc9e260a04,Integer Arithmetic Bugs,High,101,5,184
+ethereum,0x000000007a58f5f58e697e51ab0357bc9e260a04,Dependence on predictable environment variable,Low,116,5,185
+ethereum,0x00bac667a4ccf9089ab1db978238c555c4349545,Delegatecall to user-supplied address,High,112,5,186
+ethereum,0x00bac667a4ccf9089ab1db978238c555c4349545,Delegatecall to user-supplied address,High,112,5,187
+ethereum,0x07d1718ff05a8c53c8f05adaed57c0d672945f9a,Delegatecall to user-supplied address,High,112,5,188
+ethereum,0x07d1718ff05a8c53c8f05adaed57c0d672945f9a,Delegatecall to user-supplied address,High,112,5,189
+ethereum,0x43e54c2e7b3e294de3a155785f52ab49d87b9922,Delegatecall to user-supplied address,High,112,5,190
+ethereum,0x43e54c2e7b3e294de3a155785f52ab49d87b9922,Delegatecall to user-supplied address,High,112,5,191
+ethereum,0x549716f858aeff9cb845d4c78c67a7599b0df240,Delegatecall to user-supplied address,High,112,5,192
+ethereum,0x549716f858aeff9cb845d4c78c67a7599b0df240,Delegatecall to user-supplied address,High,112,5,193
+ethereum,0x59866ec5650e9ba00c51f6d681762b48b0ada3de,Delegatecall to user-supplied address,High,112,5,194
+ethereum,0x59866ec5650e9ba00c51f6d681762b48b0ada3de,Delegatecall to user-supplied address,High,112,5,195
+ethereum,0x606462126e4bd5c4d153fe09967e4c46c9c7fecf,Delegatecall to user-supplied address,High,112,5,196
+ethereum,0x606462126e4bd5c4d153fe09967e4c46c9c7fecf,Delegatecall to user-supplied address,High,112,5,197
+ethereum,0x65d72aa8da931f047169112fcf34f52dbaae7d18,Delegatecall to user-supplied address,High,112,5,198
+ethereum,0x65d72aa8da931f047169112fcf34f52dbaae7d18,Delegatecall to user-supplied address,High,112,5,199
+ethereum,0xb0903ab70a7467ee5756074b31ac88aebb8fb777,Delegatecall to user-supplied address,High,112,5,200
+ethereum,0xb0903ab70a7467ee5756074b31ac88aebb8fb777,Delegatecall to user-supplied address,High,112,5,201
+ethereum,0xd6e3bb7b1d6fa75a71d48cfb10096d59abbf99e1,Delegatecall to user-supplied address,High,112,5,202
+ethereum,0xd6e3bb7b1d6fa75a71d48cfb10096d59abbf99e1,Delegatecall to user-supplied address,High,112,5,203
+ethereum,0xdec800c2b17c9673570fdf54450dc1bd79c8e359,Delegatecall to user-supplied address,High,112,5,204
+ethereum,0xdec800c2b17c9673570fdf54450dc1bd79c8e359,Delegatecall to user-supplied address,High,112,5,205
+ethereum,0x3554fc4998f83967dcab5b2ef858e8e63fefbd26,External Call To User-Supplied Address,Low,107,5,206
+ethereum,0x3554fc4998f83967dcab5b2ef858e8e63fefbd26,Dependence on predictable environment variable,Low,116,5,207
+ethereum,0x3554fc4998f83967dcab5b2ef858e8e63fefbd26,Dependence on predictable environment variable,Low,116,5,208
+ethereum,0x3554fc4998f83967dcab5b2ef858e8e63fefbd26,Dependence on predictable environment variable,Low,116,5,209
+ethereum,0x3554fc4998f83967dcab5b2ef858e8e63fefbd26,Dependence on predictable environment variable,Low,116,5,210
+ethereum,0xbb791bc6106e4d949863e2ab76fc01ac0a9d7816,Delegatecall to user-supplied address,High,112,5,211
+ethereum,0xbb791bc6106e4d949863e2ab76fc01ac0a9d7816,Delegatecall to user-supplied address,High,112,5,212
+bsc,0x9521728bf66a867bc65a93ece4a543d817871eb7,Multiple Calls in a Single Transaction,Low,113,5,213
+bsc,0x9521728bf66a867bc65a93ece4a543d817871eb7,Integer Arithmetic Bugs,High,101,5,214
+ethereum,0x12a580c05466eefb2c467c6b115844cdaf55b255,Delegatecall to user-supplied address,High,112,5,215
+ethereum,0x12a580c05466eefb2c467c6b115844cdaf55b255,Multiple Calls in a Single Transaction,Low,113,5,216
+ethereum,0x12a580c05466eefb2c467c6b115844cdaf55b255,Write to an arbitrary storage location,High,124,5,217
+bsc,0x64f36701138f0e85cc10c34ea535fdbadcb54147,Dependence on predictable environment variable,Low,116,5,218
+bsc,0x64f36701138f0e85cc10c34ea535fdbadcb54147,Dependence on predictable environment variable,Low,116,5,219
+ethereum,0x09ce2b746c32528b7d864a1e3979bd97d2f095ab,Dependence on predictable environment variable,Low,120,5,220
+bsc,0x6ded0f2c886568fb4bb6f04f179093d3d167c9d7,Dependence on predictable environment variable,Low,120,5,221
+ethereum,0x65d4853d663cee114a0aa1c946e95479c53e78c2,External Call To User-Supplied Address,Low,107,5,222
+ethereum,0xb942ca22e0eb0f2524f53f999ae33fd3b2d58e3e,Delegatecall to user-supplied address,High,112,5,223
+ethereum,0xb942ca22e0eb0f2524f53f999ae33fd3b2d58e3e,Delegatecall to user-supplied address,High,112,5,224
+ethereum,0x036e336ea3ac2e255124cf775c4fdab94b2c42e4,Dependence on tx.origin,Low,115,5,225
+ethereum,0x036e336ea3ac2e255124cf775c4fdab94b2c42e4,Dependence on tx.origin,Low,115,5,226
+ethereum,0x036e336ea3ac2e255124cf775c4fdab94b2c42e4,Dependence on tx.origin,Low,115,5,227
+ethereum,0x036e336ea3ac2e255124cf775c4fdab94b2c42e4,Dependence on tx.origin,Low,115,5,228
+ethereum,0x036e336ea3ac2e255124cf775c4fdab94b2c42e4,Dependence on tx.origin,Low,115,5,229
+ethereum,0x0a32749d95217b7ee50127e24711c97849b70c6a,Dependence on tx.origin,Low,115,5,230
+ethereum,0x0a32749d95217b7ee50127e24711c97849b70c6a,Dependence on tx.origin,Low,115,5,231
+ethereum,0x0a32749d95217b7ee50127e24711c97849b70c6a,Dependence on tx.origin,Low,115,5,232
+ethereum,0x0a32749d95217b7ee50127e24711c97849b70c6a,Dependence on tx.origin,Low,115,5,233
+ethereum,0x0a32749d95217b7ee50127e24711c97849b70c6a,Dependence on tx.origin,Low,115,5,234
+ethereum,0x7fc2174670d672ad7f666af0704c2d961ef32c73,Dependence on tx.origin,Low,115,5,235
+ethereum,0x7fc2174670d672ad7f666af0704c2d961ef32c73,Dependence on tx.origin,Low,115,5,236
+ethereum,0x7fc2174670d672ad7f666af0704c2d961ef32c73,Dependence on tx.origin,Low,115,5,237
+ethereum,0x7fc2174670d672ad7f666af0704c2d961ef32c73,Dependence on tx.origin,Low,115,5,238
+ethereum,0x82df1450efd6b504ee069f5e4548f2d5cb229880,Dependence on tx.origin,Low,115,5,239
+ethereum,0x82df1450efd6b504ee069f5e4548f2d5cb229880,Dependence on tx.origin,Low,115,5,240
+ethereum,0x82df1450efd6b504ee069f5e4548f2d5cb229880,Dependence on tx.origin,Low,115,5,241
+ethereum,0x82df1450efd6b504ee069f5e4548f2d5cb229880,Dependence on tx.origin,Low,115,5,242
+bsc,0x002d8563759f5e1eaf8784181f3973288f6856e4,Exception State,Medium,110,5,243
+ethereum,0x8248270620aa532e4d64316017be5e873e37cc09,Integer Arithmetic Bugs,High,101,5,244
+ethereum,0x8248270620aa532e4d64316017be5e873e37cc09,Integer Arithmetic Bugs,High,101,5,245
+ethereum,0x39fbbabf11738317a448031930706cd3e612e1b9,Delegatecall to user-supplied address,High,112,5,246
+ethereum,0x45804880de22913dafe09f4980848ece6ecbaf78,requirement violation,Medium,123,5,247
+ethereum,0x45804880de22913dafe09f4980848ece6ecbaf78,requirement violation,Medium,123,5,248
+ethereum,0x45804880de22913dafe09f4980848ece6ecbaf78,requirement violation,Medium,123,5,249
+ethereum,0x45804880de22913dafe09f4980848ece6ecbaf78,requirement violation,Medium,123,5,250
+ethereum,0x45804880de22913dafe09f4980848ece6ecbaf78,Delegatecall to user-supplied address,High,112,5,251
+ethereum,0x45804880de22913dafe09f4980848ece6ecbaf78,requirement violation,Medium,123,5,252
+ethereum,0x8e870d67f660d95d5be530380d0ec0bd388289e1,requirement violation,Medium,123,5,253
+ethereum,0x8e870d67f660d95d5be530380d0ec0bd388289e1,requirement violation,Medium,123,5,254
+ethereum,0x8e870d67f660d95d5be530380d0ec0bd388289e1,requirement violation,Medium,123,5,255
+ethereum,0x8e870d67f660d95d5be530380d0ec0bd388289e1,requirement violation,Medium,123,5,256
+ethereum,0x8e870d67f660d95d5be530380d0ec0bd388289e1,Delegatecall to user-supplied address,High,112,5,257
+ethereum,0x8e870d67f660d95d5be530380d0ec0bd388289e1,requirement violation,Medium,123,5,258
+base,0xbce6410a175a1c9b1a25d38d7e1a900f8393bc4d,Delegatecall to user-supplied address,High,112,5,259
+bsc,0x08eecf5d03bda3df2467f6af46b160c24d931de7,External Call To User-Supplied Address,Low,107,5,260
+bsc,0x08eecf5d03bda3df2467f6af46b160c24d931de7,Dependence on predictable environment variable,Low,116,5,261
+polygon,0xa88c5693c9c2549a75acd2b44f052f6a5568e918,Unprotected Selfdestruct,High,106,5,262
+ethereum,0x7a455859c5bbe2a87c9c76fb684174b6cd31242e,Delegatecall to user-supplied address,High,112,5,263
+ethereum,0x7a455859c5bbe2a87c9c76fb684174b6cd31242e,Delegatecall to user-supplied address,High,112,5,264
+ethereum,0xd688f6223c11f601420d716d88d8c1ad018711b8,Delegatecall to user-supplied address,High,112,5,265
+ethereum,0xd688f6223c11f601420d716d88d8c1ad018711b8,Delegatecall to user-supplied address,High,112,5,266
+ethereum,0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef,Dependence on predictable environment variable,Low,116,5,267
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,268
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,269
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,270
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,271
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,272
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,273
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,274
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Dependence on tx.origin,Low,115,5,275
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,External Call To User-Supplied Address,Low,107,5,276
+bsc,0x39b46b212bdf15b42b166779b9d1787a68b9d0c3,Integer Arithmetic Bugs,High,101,5,277
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on predictable environment variable,Low,116,5,278
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Exception State,Medium,110,5,279
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,280
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,281
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,282
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,283
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,284
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,285
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,286
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,287
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,288
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on predictable environment variable,Low,116,5,289
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,290
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,291
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on predictable environment variable,Low,116,5,292
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on tx.origin,Low,115,5,293
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on predictable environment variable,Low,116,5,294
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Exception State,Medium,110,5,295
+bsc,0x8cee06119fffecdd560ee83b26cccfe8e2fe6603,Dependence on predictable environment variable,Low,116,5,296
+ethereum,0x1337def1fc06783d4b03cb8c1bf3ebf7d0593fc4,Delegatecall to user-supplied address,High,112,5,297
+bsc,0xe283d0e3b8c102badf5e8166b73e02d96d92f688,Dependence on predictable environment variable,Low,116,5,298
+bsc,0xe283d0e3b8c102badf5e8166b73e02d96d92f688,Integer Arithmetic Bugs,High,101,5,299
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,State access after external call,Medium,107,5,300
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,State access after external call,Medium,107,5,301
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,State access after external call,Medium,107,5,302
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,State access after external call,Medium,107,5,303
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,State access after external call,Medium,107,5,304
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,State access after external call,Medium,107,5,305
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,External Call To User-Supplied Address,Low,107,5,306
+ethereum,0x09fa0d3154363036ea406f254808c53f5f975518,External Call To User-Supplied Address,Low,107,5,307
+ethereum,0x78ab99dae7302ea91e36962f4b23418a89d3a69d,Dependence on predictable environment variable,Low,116,5,308
+ethereum,0x78ab99dae7302ea91e36962f4b23418a89d3a69d,Dependence on predictable environment variable,Low,116,5,309
+polygon,0x7dd45e9be23219fd8ccfc584b652775aba62fdef,Dependence on predictable environment variable,Low,116,5,310
+polygon,0x7dd45e9be23219fd8ccfc584b652775aba62fdef,Dependence on predictable environment variable,Low,116,5,311
+bsc,0x89dd305ffbd8e684c77758288c48cdf4f4abe0f4,Dependence on predictable environment variable,Low,116,5,312
+bsc,0x89dd305ffbd8e684c77758288c48cdf4f4abe0f4,Dependence on predictable environment variable,Low,116,5,313
+arbitrum,0xf67ef5e77b350a81dcba5430bc8be876eda8d591,Exception State,Medium,110,5,314
+arbitrum,0xf67ef5e77b350a81dcba5430bc8be876eda8d591,Exception State,Medium,110,5,315
+arbitrum,0xf67ef5e77b350a81dcba5430bc8be876eda8d591,Exception State,Medium,110,5,316
+arbitrum,0xf67ef5e77b350a81dcba5430bc8be876eda8d591,Exception State,Medium,110,5,317
+polygon,0xfbe0f3a3d1405257bd69691406eafa73f5095723,Exception State,Medium,110,5,318
+polygon,0xfbe0f3a3d1405257bd69691406eafa73f5095723,Exception State,Medium,110,5,319
+polygon,0xfbe0f3a3d1405257bd69691406eafa73f5095723,Exception State,Medium,110,5,320
+polygon,0xfbe0f3a3d1405257bd69691406eafa73f5095723,Exception State,Medium,110,5,321
+ethereum,0x02dc57283fb5ebb5442839010013f5771f16078d,Delegatecall to user-supplied address,High,112,5,322
+ethereum,0x02dc57283fb5ebb5442839010013f5771f16078d,Delegatecall to user-supplied address,High,112,5,323
+bsc,0x4b2542dee16cf8eacf9d5c8f457f0f433fbccaf3,Delegatecall to user-supplied address,High,112,5,324
+bsc,0x4b2542dee16cf8eacf9d5c8f457f0f433fbccaf3,Delegatecall to user-supplied address,High,112,5,325
+polygon,0x6233cbdf22dac3f9aa74f7acb88e9f286782f46b,Delegatecall to user-supplied address,High,112,5,326
+polygon,0x6233cbdf22dac3f9aa74f7acb88e9f286782f46b,Delegatecall to user-supplied address,High,112,5,327
+ethereum,0x6c3ea9036406852006290770bedfcaba0e23a0e8,requirement violation,Medium,123,5,328
+ethereum,0x6c3ea9036406852006290770bedfcaba0e23a0e8,requirement violation,Medium,123,5,329
+ethereum,0x6c3ea9036406852006290770bedfcaba0e23a0e8,requirement violation,Medium,123,5,330
+ethereum,0x6c3ea9036406852006290770bedfcaba0e23a0e8,requirement violation,Medium,123,5,331
+ethereum,0x6c3ea9036406852006290770bedfcaba0e23a0e8,Delegatecall to user-supplied address,High,112,5,332
+ethereum,0x6c3ea9036406852006290770bedfcaba0e23a0e8,requirement violation,Medium,123,5,333
+polygon,0x4ac2735652944fe5c3dd95807287643502e5de51,Delegatecall to user-supplied address,High,112,5,334
+polygon,0x4ac2735652944fe5c3dd95807287643502e5de51,Delegatecall to user-supplied address,High,112,5,335
+ethereum,0x936e6490ed786fd0e0f0c1b1e4e1540b9d41f9ef,Delegatecall to user-supplied address,High,112,5,336
+ethereum,0x936e6490ed786fd0e0f0c1b1e4e1540b9d41f9ef,Delegatecall to user-supplied address,High,112,5,337
+bsc,0xc78248d676debb4597e88071d3d889eca70e5469,Delegatecall to user-supplied address,High,112,5,338
+bsc,0xc78248d676debb4597e88071d3d889eca70e5469,Delegatecall to user-supplied address,High,112,5,339
+bsc,0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7,Delegatecall to user-supplied address,High,112,5,340
+bsc,0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7,Multiple Calls in a Single Transaction,Low,113,5,341
+ethereum,0x0e5caa5c889bdf053c9a76395f62267e653afbb0,Delegatecall to user-supplied address,High,112,5,342
+ethereum,0x0e5caa5c889bdf053c9a76395f62267e653afbb0,Delegatecall to user-supplied address,High,112,5,343
+ethereum,0x1d20671a21112e85b03b00f94fd760de0bef37ba,Delegatecall to user-supplied address,High,112,5,344
+ethereum,0x1d20671a21112e85b03b00f94fd760de0bef37ba,Delegatecall to user-supplied address,High,112,5,345
+ethereum,0x38965311507d4e54973f81475a149c09376e241e,Delegatecall to user-supplied address,High,112,5,346
+ethereum,0x38965311507d4e54973f81475a149c09376e241e,Delegatecall to user-supplied address,High,112,5,347
+ethereum,0x63fe55b3fe3f74b42840788cfbe6229869590f83,Delegatecall to user-supplied address,High,112,5,348
+ethereum,0x63fe55b3fe3f74b42840788cfbe6229869590f83,Delegatecall to user-supplied address,High,112,5,349
+ethereum,0x781ba968d5cc0b40eb592d5c8a9a3a4000063885,Delegatecall to user-supplied address,High,112,5,350
+ethereum,0x781ba968d5cc0b40eb592d5c8a9a3a4000063885,Delegatecall to user-supplied address,High,112,5,351
+ethereum,0xcfeeff214b256063110d3236ea12db49d2df2359,Delegatecall to user-supplied address,High,112,5,352
+ethereum,0xcfeeff214b256063110d3236ea12db49d2df2359,Delegatecall to user-supplied address,High,112,5,353
+ethereum,0xdfac83173a96b06c5d6176638124d028269cfcd2,Delegatecall to user-supplied address,High,112,5,354
+ethereum,0xdfac83173a96b06c5d6176638124d028269cfcd2,Delegatecall to user-supplied address,High,112,5,355
+ethereum,0xed803540037b0ae069c93420f89cd653b6e3df1f,Delegatecall to user-supplied address,High,112,5,356
+ethereum,0xed803540037b0ae069c93420f89cd653b6e3df1f,Delegatecall to user-supplied address,High,112,5,357
+avalanche,0xf2f7ce610a091b94d41d69f4ff1129434a82e2f0,Dependence on predictable environment variable,Low,116,5,358
+gnosis,0x24f2d06446af8d6e89febc205e7936a602a87b60,Delegatecall to user-supplied address,High,112,5,359
+gnosis,0x24f2d06446af8d6e89febc205e7936a602a87b60,Multiple Calls in a Single Transaction,Low,113,5,360
+gnosis,0x24f2d06446af8d6e89febc205e7936a602a87b60,State access after external call,Medium,107,5,361
+gnosis,0x24f2d06446af8d6e89febc205e7936a602a87b60,External Call To User-Supplied Address,Low,107,5,362
+gnosis,0x24f2d06446af8d6e89febc205e7936a602a87b60,External Call To User-Supplied Address,Low,107,5,363
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,364
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,365
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,366
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,367
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,368
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Exception State,Medium,110,5,369
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,370
+arbitrum,0x9d0047e9d09245cb18d2d3ec7d48515a067086b1,Dependence on tx.origin,Low,115,5,371
+ethereum,0xa1d65e8fb6e87b60feccbc582f7f97804b725521,Delegatecall to user-supplied address,High,112,5,372
+ethereum,0xa1d65e8fb6e87b60feccbc582f7f97804b725521,Delegatecall to user-supplied address,High,112,5,373
+bsc,0x701aca29ae0f5d24555f1e8a6cf007541291d110,Delegatecall to user-supplied address,High,112,5,374
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,375
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,376
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,377
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,378
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,379
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,380
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,381
+bsc,0x75fc5839108daf601431801ce960bbf44c476d1a,Exception State,Medium,110,5,382
+ethereum,0x83d0d842e6db3b020f384a2af11bd14787bec8e7,External Call To User-Supplied Address,Low,107,5,383
+ethereum,0x83d0d842e6db3b020f384a2af11bd14787bec8e7,Unprotected Ether Withdrawal,High,105,5,384
+ethereum,0x83d0d842e6db3b020f384a2af11bd14787bec8e7,External Call To User-Supplied Address,Low,107,5,385
+optimism,0x2c7674027e7f1a9ba7e7d107ad33eab3ee7948c2,Delegatecall to user-supplied address,High,112,5,386
+optimism,0x2c7674027e7f1a9ba7e7d107ad33eab3ee7948c2,Delegatecall to user-supplied address,High,112,5,387
+bsc,0x2b9c8b76176957a0448279da9b8cdebe94becd19,Delegatecall to user-supplied address,High,112,5,388
+bsc,0x2b9c8b76176957a0448279da9b8cdebe94becd19,Delegatecall to user-supplied address,High,112,5,389
+arbitrum,0x2e80259c9071b6176205ff5f5eb6f7ec8361b93f,Dependence on predictable environment variable,Low,116,5,390
+arbitrum,0x2e80259c9071b6176205ff5f5eb6f7ec8361b93f,Dependence on predictable environment variable,Low,116,5,391
+arbitrum,0x2e80259c9071b6176205ff5f5eb6f7ec8361b93f,Dependence on predictable environment variable,Low,116,5,392
+arbitrum,0x2e80259c9071b6176205ff5f5eb6f7ec8361b93f,Dependence on predictable environment variable,Low,116,5,393
+bsc,0x882105478f2193001f8fed8399af93f31cc42f85,Delegatecall to user-supplied address,High,112,5,394
+bsc,0x882105478f2193001f8fed8399af93f31cc42f85,Delegatecall to user-supplied address,High,112,5,395
+arbitrum,0x90d11b8de2b30a84cb7e6cf6188581ec08b1bf82,Delegatecall to user-supplied address,High,112,5,396
+arbitrum,0x90d11b8de2b30a84cb7e6cf6188581ec08b1bf82,Delegatecall to user-supplied address,High,112,5,397
+arbitrum,0x958882fda110febd41536e45034bebff2a815006,Delegatecall to user-supplied address,High,112,5,398
+arbitrum,0x958882fda110febd41536e45034bebff2a815006,Delegatecall to user-supplied address,High,112,5,399
+optimism,0x9d66c32e137e618bee9669ae096fd59ba925aaa5,Delegatecall to user-supplied address,High,112,5,400
+optimism,0x9d66c32e137e618bee9669ae096fd59ba925aaa5,Delegatecall to user-supplied address,High,112,5,401
+arbitrum,0xb557c071bae7dc3aa2366cd0fc0477b45eb696f1,Delegatecall to user-supplied address,High,112,5,402
+arbitrum,0xb557c071bae7dc3aa2366cd0fc0477b45eb696f1,Delegatecall to user-supplied address,High,112,5,403
+optimism,0xeab4c6c26a1f296e8e0033ffb817d5311c51299d,Delegatecall to user-supplied address,High,112,5,404
+optimism,0xeab4c6c26a1f296e8e0033ffb817d5311c51299d,Delegatecall to user-supplied address,High,112,5,405
+optimism,0xf96aad4942d8a0394158fd960003397690fb795d,Delegatecall to user-supplied address,High,112,5,406
+optimism,0xf96aad4942d8a0394158fd960003397690fb795d,Delegatecall to user-supplied address,High,112,5,407
+ethereum,0x9be89d2a4cd102d8fecc6bf9da793be995c22541,requirement violation,Medium,123,5,408
+ethereum,0x9be89d2a4cd102d8fecc6bf9da793be995c22541,requirement violation,Medium,123,5,409
+ethereum,0x9be89d2a4cd102d8fecc6bf9da793be995c22541,requirement violation,Medium,123,5,410
+ethereum,0x9be89d2a4cd102d8fecc6bf9da793be995c22541,requirement violation,Medium,123,5,411
+ethereum,0x9be89d2a4cd102d8fecc6bf9da793be995c22541,Delegatecall to user-supplied address,High,112,5,412
+ethereum,0x9be89d2a4cd102d8fecc6bf9da793be995c22541,requirement violation,Medium,123,5,413
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,414
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,External Call To User-Supplied Address,Low,107,5,415
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,416
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,417
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Dependence on predictable environment variable,Low,116,5,418
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,419
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,420
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,421
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,External Call To User-Supplied Address,Low,107,5,422
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Dependence on predictable environment variable,Low,116,5,423
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,424
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Dependence on predictable environment variable,Low,116,5,425
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,426
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Dependence on predictable environment variable,Low,116,5,427
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,428
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,429
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Dependence on predictable environment variable,Low,116,5,430
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Dependence on predictable environment variable,Low,116,5,431
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,432
+ethereum,0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c,Exception State,Medium,110,5,433
+ethereum,0x5eaa10f99e7e6d177ef9f74e519e319aa49f191e,Delegatecall to user-supplied address,High,112,5,434
+ethereum,0x5eaa10f99e7e6d177ef9f74e519e319aa49f191e,Multiple Calls in a Single Transaction,Low,113,5,435
+ethereum,0x5eaa10f99e7e6d177ef9f74e519e319aa49f191e,Write to an arbitrary storage location,High,124,5,436
+bsc,0x57612d60b415ad812da9a7cf5672084796a4ab81,Dependence on predictable environment variable,Low,116,5,437
+polygon,0x8db0a6d1b06950b4e81c4f67d1289fc7b9359c7f,Exception State,Medium,110,5,438
+polygon,0x8db0a6d1b06950b4e81c4f67d1289fc7b9359c7f,Delegatecall to user-supplied address,High,112,5,439
+polygon,0x8db0a6d1b06950b4e81c4f67d1289fc7b9359c7f,Multiple Calls in a Single Transaction,Low,113,5,440
+bsc,0xc0eff7749b125444953ef89682201fb8c6a917cd,External Call To User-Supplied Address,Low,107,5,441
+bsc,0xc0eff7749b125444953ef89682201fb8c6a917cd,State access after external call,Medium,107,5,442
+bsc,0xc0eff7749b125444953ef89682201fb8c6a917cd,External Call To User-Supplied Address,Low,107,5,443
+bsc,0xc0eff7749b125444953ef89682201fb8c6a917cd,Multiple Calls in a Single Transaction,Low,113,5,444
+bsc,0xc0eff7749b125444953ef89682201fb8c6a917cd,State access after external call,Medium,107,5,445
+ethereum,0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208,Dependence on predictable environment variable,Low,120,5,446
+ethereum,0x28fac5334c9f7262b3a3fe707e250e01053e07b5,Delegatecall to user-supplied address,High,112,5,447
+ethereum,0x28fac5334c9f7262b3a3fe707e250e01053e07b5,Delegatecall to user-supplied address,High,112,5,448
+ethereum,0x3391bc034f2935ef0e1e41619445f998b2680d35,Delegatecall to user-supplied address,High,112,5,449
+ethereum,0x3391bc034f2935ef0e1e41619445f998b2680d35,Delegatecall to user-supplied address,High,112,5,450
+ethereum,0x3fe7940616e5bc47b0775a0dccf6237893353bb4,Delegatecall to user-supplied address,High,112,5,451
+ethereum,0x3fe7940616e5bc47b0775a0dccf6237893353bb4,Delegatecall to user-supplied address,High,112,5,452
+ethereum,0x5274891bec421b39d23760c04a6755ecb444797c,Delegatecall to user-supplied address,High,112,5,453
+ethereum,0x5274891bec421b39d23760c04a6755ecb444797c,Delegatecall to user-supplied address,High,112,5,454
+ethereum,0xa14ea0e11121e6e951e87c66afe460a00bcd6a16,Delegatecall to user-supplied address,High,112,5,455
+ethereum,0xa14ea0e11121e6e951e87c66afe460a00bcd6a16,Delegatecall to user-supplied address,High,112,5,456
+ethereum,0xc278041fdd8249fe4c1aad1193876857eea3d68c,Delegatecall to user-supplied address,High,112,5,457
+ethereum,0xc278041fdd8249fe4c1aad1193876857eea3d68c,Delegatecall to user-supplied address,High,112,5,458
+ethereum,0xf52cdcd458bf455aed77751743180ec4a595fd3f,Delegatecall to user-supplied address,High,112,5,459
+ethereum,0xf52cdcd458bf455aed77751743180ec4a595fd3f,Delegatecall to user-supplied address,High,112,5,460
+celo,0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee,Dependence on predictable environment variable,Low,116,5,461
+ethereum,0x595832f8fc6bf59c85c527fec3740a1b7a361269,Exception State,Medium,110,5,462
+ethereum,0x595832f8fc6bf59c85c527fec3740a1b7a361269,Exception State,Medium,110,5,463
+ethereum,0x595832f8fc6bf59c85c527fec3740a1b7a361269,Integer Arithmetic Bugs,High,101,5,464
+optimism,0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0,Dependence on predictable environment variable,Low,116,5,465
+optimism,0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0,Integer Arithmetic Bugs,High,101,5,466
+optimism,0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0,Integer Arithmetic Bugs,High,101,5,467
+optimism,0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0,Integer Arithmetic Bugs,High,101,5,468
+base,0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd,Integer Arithmetic Bugs,High,101,5,469
+base,0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd,Dependence on predictable environment variable,Low,116,5,470
+base,0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd,Integer Arithmetic Bugs,High,101,5,471
+base,0x3b9728bd65ca2c11a817ce39a6e91808cceef6fd,Integer Arithmetic Bugs,High,101,5,472
+base,0x86342d7bbe93cb640a6c57d4781f04d93a695f08,Delegatecall to user-supplied address,High,112,5,473
+base,0xf8fad01b2902ff57460552c920233682c7c011a7,Delegatecall to user-supplied address,High,112,5,474
+ethereum,0x88ff1e5b602916615391f55854588efcbb7663f0,Write to an arbitrary storage location,High,124,5,475
+polygon,0xa239f03cda98a7d2aaaa51e7bf408e5d73399e45,External Call To User-Supplied Address,Low,107,5,476
+polygon,0xa239f03cda98a7d2aaaa51e7bf408e5d73399e45,Integer Arithmetic Bugs,High,101,5,477
+bsc,0xfbe9a4138afdf1fa639a8c2818a0c4513fc4ce4b,External Call To User-Supplied Address,Low,107,5,478
+bsc,0xfbe9a4138afdf1fa639a8c2818a0c4513fc4ce4b,Integer Arithmetic Bugs,High,101,5,479
+ethereum,0xba61f25dd9f2d5f02d01b1c2c1c5f0b14c4b48a3,Delegatecall to user-supplied address,High,112,5,480
+ethereum,0xba61f25dd9f2d5f02d01b1c2c1c5f0b14c4b48a3,Multiple Calls in a Single Transaction,Low,113,5,481
+ethereum,0xba61f25dd9f2d5f02d01b1c2c1c5f0b14c4b48a3,Write to an arbitrary storage location,High,124,5,482
+ethereum,0x065e5de3d3a08c9d14bf79ce5a6d3d0e8794640c,External Call To User-Supplied Address,Low,107,5,483
+ethereum,0xe1b4d34e8754600962cd944b535180bd758e6c2e,External Call To User-Supplied Address,Low,107,5,484
+ethereum,0xe1b4d34e8754600962cd944b535180bd758e6c2e,External Call To User-Supplied Address,Low,107,5,485
+avalanche,0x0ec3126390c606be63a0fa6585e68075f06679c6,Exception State,Medium,110,5,486
+avalanche,0x0ec3126390c606be63a0fa6585e68075f06679c6,Exception State,Medium,110,5,487
+ethereum,0x31f648572b67e60ec6eb8e197e1848cc5f5558de,Delegatecall to user-supplied address,High,112,5,488
+ethereum,0x31f648572b67e60ec6eb8e197e1848cc5f5558de,Delegatecall to user-supplied address,High,112,5,489
+ethereum,0x7e1bdb9ee75b6ef1bcaae3b1de1c616c7b11ef6e,Delegatecall to user-supplied address,High,112,5,490
+ethereum,0x7e1bdb9ee75b6ef1bcaae3b1de1c616c7b11ef6e,Delegatecall to user-supplied address,High,112,5,491
+ethereum,0x827962404d7104202c5aaa6b929115c8211d9596,Delegatecall to user-supplied address,High,112,5,492
+ethereum,0x827962404d7104202c5aaa6b929115c8211d9596,Delegatecall to user-supplied address,High,112,5,493
+bsc,0xbec68a941fecc79e57762e258fd1490f29235d75,Dependence on predictable environment variable,Low,116,5,494
+scroll,0xca4fb5541d0f2899549e5f454155e1b34acc9379,Delegatecall to user-supplied address,High,112,5,495
+scroll,0xca4fb5541d0f2899549e5f454155e1b34acc9379,Delegatecall to user-supplied address,High,112,5,496
+ethereum,0x437cc33344a0b27a429f795ff6b469c72698b291,Delegatecall to user-supplied address,High,112,5,497
+bsc,0x6d290f45a280a688ff58d095de480364069af110,Delegatecall to user-supplied address,High,112,5,498
+bsc,0x6d290f45a280a688ff58d095de480364069af110,Delegatecall to user-supplied address,High,112,5,499
+ethereum,0x2658723bf70c7667de6b25f99fcce13a16d25d08,Delegatecall to user-supplied address,High,112,5,500
+ethereum,0x2658723bf70c7667de6b25f99fcce13a16d25d08,Multiple Calls in a Single Transaction,Low,113,5,501
+ethereum,0x2658723bf70c7667de6b25f99fcce13a16d25d08,Write to an arbitrary storage location,High,124,5,502
+avalanche,0xda33d4b2753b3c2439ca52678e1a506e4c5294d1,External Call To User-Supplied Address,Low,107,5,503
+avalanche,0xda33d4b2753b3c2439ca52678e1a506e4c5294d1,Transaction Order Dependence,Medium,114,5,504
+ethereum,0xdec41db0c33f3f6f3cb615449c311ba22d418a8d,Dependence on predictable environment variable,Low,116,5,505
+optimism,0x298b9b95708152ff6968aafd889c6586e9169f1d,External Call To User-Supplied Address,Low,107,5,506
+optimism,0x298b9b95708152ff6968aafd889c6586e9169f1d,State access after external call,Medium,107,5,507
+optimism,0x298b9b95708152ff6968aafd889c6586e9169f1d,External Call To User-Supplied Address,Low,107,5,508
+optimism,0x298b9b95708152ff6968aafd889c6586e9169f1d,Multiple Calls in a Single Transaction,Low,113,5,509
+optimism,0x298b9b95708152ff6968aafd889c6586e9169f1d,State access after external call,Medium,107,5,510
+optimism,0xc5db22719a06418028a40a9b5e9a7c02959d0d08,External Call To User-Supplied Address,Low,107,5,511
+optimism,0xc5db22719a06418028a40a9b5e9a7c02959d0d08,State access after external call,Medium,107,5,512
+optimism,0xc5db22719a06418028a40a9b5e9a7c02959d0d08,External Call To User-Supplied Address,Low,107,5,513
+optimism,0xc5db22719a06418028a40a9b5e9a7c02959d0d08,Multiple Calls in a Single Transaction,Low,113,5,514
+optimism,0xc5db22719a06418028a40a9b5e9a7c02959d0d08,State access after external call,Medium,107,5,515
+ethereum,0x56072c95faa701256059aa122697b133aded9279,Dependence on predictable environment variable,Low,116,5,516
+polygon,0xa9a779aea33b6f40cfc78a29cf56fc7e6fb329ab,Dependence on predictable environment variable,Low,116,5,517
+ethereum,0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f,Dependence on predictable environment variable,Low,116,5,518
+ethereum,0x21585bbcd5bdc3f5737620cf0db2e51978cf60ac,Dependence on predictable environment variable,Low,116,5,519
+ethereum,0x3b95bc951ee0f553ba487327278cac44f29715e5,Delegatecall to user-supplied address,High,112,5,520
+ethereum,0x3b95bc951ee0f553ba487327278cac44f29715e5,Multiple Calls in a Single Transaction,Low,113,5,521
+ethereum,0x3b95bc951ee0f553ba487327278cac44f29715e5,Write to an arbitrary storage location,High,124,5,522
+ethereum,0x9168765ee952de7c6f8fc6fad5ec209b960b7622,Delegatecall to user-supplied address,High,112,5,523
+ethereum,0x9168765ee952de7c6f8fc6fad5ec209b960b7622,Delegatecall to user-supplied address,High,112,5,524
+avalanche,0x7c08413cbf02202a1c13643db173f2694e0f73f0,Dependence on predictable environment variable,Low,116,5,525
+arbitrum,0xa017b813652b93a0af2887913efcbb4ab250ce65,Delegatecall to user-supplied address,High,112,5,526
+arbitrum,0xa017b813652b93a0af2887913efcbb4ab250ce65,Delegatecall to user-supplied address,High,112,5,527
+optimism,0x8700daec35af8ff88c16bdf0418774cb3d7599b4,External Call To User-Supplied Address,Low,107,5,528
+optimism,0x8700daec35af8ff88c16bdf0418774cb3d7599b4,State access after external call,Medium,107,5,529
+optimism,0x8700daec35af8ff88c16bdf0418774cb3d7599b4,External Call To User-Supplied Address,Low,107,5,530
+optimism,0x8700daec35af8ff88c16bdf0418774cb3d7599b4,Multiple Calls in a Single Transaction,Low,113,5,531
+optimism,0x8700daec35af8ff88c16bdf0418774cb3d7599b4,State access after external call,Medium,107,5,532
+ethereum,0x0ca3a2fbc3d770b578223fbb6b062fa875a2ee75,Delegatecall to user-supplied address,High,112,5,533
+ethereum,0x0ca3a2fbc3d770b578223fbb6b062fa875a2ee75,Multiple Calls in a Single Transaction,Low,113,5,534
+ethereum,0x0ca3a2fbc3d770b578223fbb6b062fa875a2ee75,Write to an arbitrary storage location,High,124,5,535
+polygon,0x176b29289f66236c65c7ac5db2400abb5955df13,Delegatecall to user-supplied address,High,112,5,536
+polygon,0x504722a6eabb3d1573bada9abd585ae177d52e7a,Delegatecall to user-supplied address,High,112,5,537
+polygon,0x82362ec182db3cf7829014bc61e9be8a2e82868a,Dependence on predictable environment variable,Low,120,5,538
+polygon,0x82362ec182db3cf7829014bc61e9be8a2e82868a,Dependence on predictable environment variable,Low,116,5,539
+polygon,0x9f3044f7f9fc8bc9ed615d54845b4577b833282d,Delegatecall to user-supplied address,High,112,5,540
+polygon,0x9f3044f7f9fc8bc9ed615d54845b4577b833282d,Exception State,Medium,110,5,541
+ethereum,0xd46ba6d942050d489dbd938a2c909a5d5039a161,Delegatecall to user-supplied address,High,112,5,542
+ethereum,0xd46ba6d942050d489dbd938a2c909a5d5039a161,Delegatecall to user-supplied address,High,112,5,543
+bsc,0x93fb89601b5c3253b50c8d650c11bdfe5fb7ee3f,Dependence on predictable environment variable,Low,116,5,544
+bsc,0x93fb89601b5c3253b50c8d650c11bdfe5fb7ee3f,Dependence on predictable environment variable,Low,116,5,545
+bsc,0x93fb89601b5c3253b50c8d650c11bdfe5fb7ee3f,Dependence on predictable environment variable,Low,116,5,546
+bsc,0x93fb89601b5c3253b50c8d650c11bdfe5fb7ee3f,Dependence on predictable environment variable,Low,116,5,547
+ethereum,0x2b3f201543adf73160ba42e1a5b7750024f30420,Delegatecall to user-supplied address,High,112,5,548
+ethereum,0x2b3f201543adf73160ba42e1a5b7750024f30420,Multiple Calls in a Single Transaction,Low,113,5,549
+ethereum,0x2b3f201543adf73160ba42e1a5b7750024f30420,Write to an arbitrary storage location,High,124,5,550
+ethereum,0x59625d1fe0eeb8114a4d13c863978f39b3471781,Delegatecall to user-supplied address,High,112,5,551
+ethereum,0x59625d1fe0eeb8114a4d13c863978f39b3471781,Delegatecall to user-supplied address,High,112,5,552
+ethereum,0x0109e9f292516dab3e15efc61811c5e5a7fa5358,Exception State,Medium,110,5,553
+ethereum,0x02ff1f648ff443b5d88214341f0ace6ecfb94cf3,Exception State,Medium,110,5,554
+optimism,0x5616fe2762687cd8a9158c27f62aff84e36821be,Exception State,Medium,110,5,555
+arbitrum,0x73981b0496fc08e9136baf74b79d32a4d4f2a007,Exception State,Medium,110,5,556
+arbitrum,0x7e8cffbe165c6905a8acec0f37b341c00353e8ba,Exception State,Medium,110,5,557
+ethereum,0xa1ebd23c4364e7491633237a0d9359d82c629182,Exception State,Medium,110,5,558
+arbitrum,0xbed575b0feda4f84b71144634693dacc07749471,Exception State,Medium,110,5,559
+ethereum,0xe4cf2d4eb9c01784798679f2fed4cf47cc59a3ec,Exception State,Medium,110,5,560
+ethereum,0x735adbbe72226bd52e818e7181953f42e3b0ff21,Delegatecall to user-supplied address,High,112,5,561
+ethereum,0x735adbbe72226bd52e818e7181953f42e3b0ff21,Multiple Calls in a Single Transaction,Low,113,5,562
+ethereum,0x735adbbe72226bd52e818e7181953f42e3b0ff21,Write to an arbitrary storage location,High,124,5,563
+ethereum,0x8b34b14c7c7123459cf3076b8cb929be097d0c07,Delegatecall to user-supplied address,High,112,5,564
+ethereum,0x8b34b14c7c7123459cf3076b8cb929be097d0c07,Delegatecall to user-supplied address,High,112,5,565
+arbitrum,0x82af49447d8a07e3bd95bd0d56f35241523fbab1,Delegatecall to user-supplied address,High,112,5,566
+arbitrum,0x82af49447d8a07e3bd95bd0d56f35241523fbab1,Delegatecall to user-supplied address,High,112,5,567
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Dependence on predictable environment variable,Low,116,5,568
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Dependence on predictable environment variable,Low,116,5,569
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Dependence on predictable environment variable,Low,116,5,570
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Exception State,Medium,110,5,571
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Exception State,Medium,110,5,572
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Dependence on predictable environment variable,Low,116,5,573
+bsc,0x026d814935a053d10aba9987e4d047aa9369c97e,Dependence on predictable environment variable,Low,116,5,574
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Dependence on predictable environment variable,Low,116,5,575
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Dependence on predictable environment variable,Low,116,5,576
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Dependence on predictable environment variable,Low,116,5,577
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Exception State,Medium,110,5,578
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Exception State,Medium,110,5,579
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Dependence on predictable environment variable,Low,116,5,580
+bsc,0x212a3a41a0e58ccdc86f013b003d4aff805a958c,Dependence on predictable environment variable,Low,116,5,581
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Dependence on predictable environment variable,Low,116,5,582
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Dependence on predictable environment variable,Low,116,5,583
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Dependence on predictable environment variable,Low,116,5,584
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Exception State,Medium,110,5,585
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Exception State,Medium,110,5,586
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Dependence on predictable environment variable,Low,116,5,587
+bsc,0xd5d38f1815b4555527de075a584268e08c5909ea,Dependence on predictable environment variable,Low,116,5,588
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Dependence on predictable environment variable,Low,116,5,589
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Dependence on predictable environment variable,Low,116,5,590
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Dependence on predictable environment variable,Low,116,5,591
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Exception State,Medium,110,5,592
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Exception State,Medium,110,5,593
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Dependence on predictable environment variable,Low,116,5,594
+bsc,0xe5973c042cda75dacd7bf36b3e7c7f1ea2980a25,Dependence on predictable environment variable,Low,116,5,595
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,596
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,597
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,598
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,599
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,600
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,601
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,602
+arbitrum,0xd5b649c7d27c13a2b80425daee8cb6023015dc6b,Exception State,Medium,110,5,603
+bsc,0x8ac9dc3358a2db19fdd57f433ff45d1fc357afb3,Dependence on predictable environment variable,Low,116,5,604
+ethereum,0x04abeda201850ac0124161f037efd70c74ddc74c,Exception State,Medium,110,5,605
+ethereum,0x04abeda201850ac0124161f037efd70c74ddc74c,Integer Arithmetic Bugs,High,101,5,606
+ethereum,0x04abeda201850ac0124161f037efd70c74ddc74c,Integer Arithmetic Bugs,High,101,5,607
+ethereum,0x04abeda201850ac0124161f037efd70c74ddc74c,Exception State,Medium,110,5,608
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,609
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,State access after external call,Medium,107,5,610
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,611
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,Multiple Calls in a Single Transaction,Low,113,5,612
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,State access after external call,Medium,107,5,613
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,614
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,State access after external call,Medium,107,5,615
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,616
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,Multiple Calls in a Single Transaction,Low,113,5,617
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,State access after external call,Medium,107,5,618
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,619
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,620
+ethereum,0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6,External Call To User-Supplied Address,Low,107,5,621
+ethereum,0x1344a36a1b56144c3bc62e7757377d288fde0369,Delegatecall to user-supplied address,High,112,5,622
+ethereum,0x1344a36a1b56144c3bc62e7757377d288fde0369,Delegatecall to user-supplied address,High,112,5,623
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,External Call To User-Supplied Address,Low,107,5,624
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,625
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,626
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,627
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,External Call To User-Supplied Address,Low,107,5,628
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,629
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,630
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,631
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,632
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,633
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,634
+ethereum,0xefe7904b244d0a72dd56ee459fb0f96209aff438,State access after external call,Medium,107,5,635
+ethereum,0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a,Exception State,Medium,110,5,636
+ethereum,0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a,Exception State,Medium,110,5,637
+ethereum,0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a,Exception State,Medium,110,5,638
+ethereum,0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a,Exception State,Medium,110,5,639
+ethereum,0xde7d85157d9714eadf595045cc12ca4a5f3e2adb,External Call To User-Supplied Address,Low,107,5,640
+ethereum,0xc0d4ceb216b3ba9c3701b291766fdcba977cec3a,Dependence on predictable environment variable,Low,116,5,641
+arbitrum,0x86b3353387f560295a8fa7902679735e5f076bd5,Dependence on predictable environment variable,Low,116,5,642
+linea,0x153477989a631b2b28232891d08bc89840abea21,Delegatecall to user-supplied address,High,112,5,643
+polygon,0x193bd80c4ab0e8261db61fc3243f7d9643c05e36,Delegatecall to user-supplied address,High,112,5,644
+arbitrum,0x3e41e099ebb943e0adacf63e5523b7cd9e36c510,Delegatecall to user-supplied address,High,112,5,645
+optimism,0x7a6cbf1c52f1ea604971acc941a76ea8a641b0ab,Delegatecall to user-supplied address,High,112,5,646
+base,0x8b8693ce3fb893426c70bf52858ae58fdfbdc085,Delegatecall to user-supplied address,High,112,5,647
+bsc,0xb4d915feb8b0757792435c8229d4d6aa6ab7e88d,Delegatecall to user-supplied address,High,112,5,648
+ethereum,0xcd21a60fb9f981dc1274f15ecaa250941edabd4e,Delegatecall to user-supplied address,High,112,5,649
+scroll,0xce8c1fcdd440b4fd6e6c236568c74e6022767c97,Delegatecall to user-supplied address,High,112,5,650
+bsc,0x94c62870c8234f4db1629e7378fbca46402c34f8,Dependence on predictable environment variable,Low,116,5,651
+bsc,0x94c62870c8234f4db1629e7378fbca46402c34f8,Dependence on predictable environment variable,Low,116,5,652
+bsc,0x94c62870c8234f4db1629e7378fbca46402c34f8,Dependence on predictable environment variable,Low,120,5,653
+bsc,0x94c62870c8234f4db1629e7378fbca46402c34f8,Dependence on predictable environment variable,Low,120,5,654
+bsc,0x94c62870c8234f4db1629e7378fbca46402c34f8,Dependence on predictable environment variable,Low,120,5,655
+avalanche,0x008e6bf114d686713dc233487e360a158433e519,Delegatecall to user-supplied address,High,112,5,656
+avalanche,0x0240269d999301d03aae390104584f7517f52ecd,Delegatecall to user-supplied address,High,112,5,657
+avalanche,0x02e9bc3ef29a3f51ede6e4c4f70fdcb894cd6cf5,Delegatecall to user-supplied address,High,112,5,658
+polygon,0x067e7586eb8733bf108167c15cbabee4c629c37a,Delegatecall to user-supplied address,High,112,5,659
+polygon,0x0a1efaf7dd833f9d8ef9f2f095bf1d6c725ff110,Delegatecall to user-supplied address,High,112,5,660
+polygon,0x0d553115d2c1e2b734d66de1eba4bae1a88cb175,Delegatecall to user-supplied address,High,112,5,661
+polygon,0x185a1cfdb7173b224d08e61f1cb21fd5fd6ee8cd,Delegatecall to user-supplied address,High,112,5,662
+polygon,0x1a130be9a0e9046936e5461d3e8727b6af7d0c2c,Delegatecall to user-supplied address,High,112,5,663
+avalanche,0x2071fd6779b701aa71c4a48b8f37970160e5fe75,Delegatecall to user-supplied address,High,112,5,664
+polygon,0x248eecc8286a8c6484b4a87e1f32f0bc2d7971d4,Delegatecall to user-supplied address,High,112,5,665
+polygon,0x260e6fb68c787cda2e9ea104f9e3a3923e4119f6,Delegatecall to user-supplied address,High,112,5,666
+avalanche,0x276f74c24cc4443ecb4967db77572be50aed4117,Delegatecall to user-supplied address,High,112,5,667
+avalanche,0x2c858e3181988f2e4458f14768ae204e5bf2ee0e,Delegatecall to user-supplied address,High,112,5,668
+polygon,0x32b750721ad93f62b21402526354d53ac46953c2,Delegatecall to user-supplied address,High,112,5,669
+polygon,0x353856185fbb65a098b971b6d492cc3c245d9a59,Delegatecall to user-supplied address,High,112,5,670
+polygon,0x36d14424cc5a18893e93a0f8fdd42dc40562887e,Delegatecall to user-supplied address,High,112,5,671
+polygon,0x43be6849bc355735d77238acfdbceb7be8673f02,Delegatecall to user-supplied address,High,112,5,672
+avalanche,0x4decafacd4591e52f85e8fe69f82f2400176bb33,Delegatecall to user-supplied address,High,112,5,673
+avalanche,0x54720637fa477ed87cd06f674247a649a5168eb6,Delegatecall to user-supplied address,High,112,5,674
+avalanche,0x55f42961b3ad4e2a08f1780c7434dd8ec5f7fce4,Delegatecall to user-supplied address,High,112,5,675
+avalanche,0x62ca6f1640776070eca70e09d9af27352a43a5d8,Delegatecall to user-supplied address,High,112,5,676
+avalanche,0x6b42a98af10c2e94a6951c94b8ac5b5eeb23c8af,Delegatecall to user-supplied address,High,112,5,677
+polygon,0x7e9da60002daf64778c78ac90dd5bdc9391acb00,Delegatecall to user-supplied address,High,112,5,678
+avalanche,0x8025d4deda0c7512d44438a7dc597612b4108f07,Delegatecall to user-supplied address,High,112,5,679
+polygon,0x849031f78970639f8dc9dc3e962e0d0079d1051c,Delegatecall to user-supplied address,High,112,5,680
+avalanche,0x8922e41342c6160faf4dc40f2c1fcfcd94e98779,Delegatecall to user-supplied address,High,112,5,681
+avalanche,0x897fb124acdf5a685d9258645ffee0058464817a,Delegatecall to user-supplied address,High,112,5,682
+polygon,0x8d20fb2f4f96e897fed7e3e50f8a403afc59da23,Delegatecall to user-supplied address,High,112,5,683
+polygon,0x9767218525a443ae1b04a2a84cf2f6d646c2fa06,Delegatecall to user-supplied address,High,112,5,684
+avalanche,0x9ee877279dfe8e5f20614db88e50cd72b4efdead,Delegatecall to user-supplied address,High,112,5,685
+avalanche,0xb4a805ad532bb92501507c9eac27fd0bae4d68a1,Delegatecall to user-supplied address,High,112,5,686
+polygon,0xbb760a23924a23e5270c659349c753d16e7c1078,Delegatecall to user-supplied address,High,112,5,687
+avalanche,0xd9f63cc588822cd3ef802d900808e946d13ce609,Delegatecall to user-supplied address,High,112,5,688
+avalanche,0xe7c34e1946a10a3a28bed4b0cb5b7f0d85f5368d,Delegatecall to user-supplied address,High,112,5,689
+polygon,0xf020de990036d5ae107860592bde0e53892f1531,Delegatecall to user-supplied address,High,112,5,690
+polygon,0xf1ba3ef65262ee4058462e65a3a09a7571193400,Delegatecall to user-supplied address,High,112,5,691
+avalanche,0xf7aca362510b327bdaca693611353b6a837cbdb2,Delegatecall to user-supplied address,High,112,5,692
+avalanche,0xfd127bc3b6153b043ffd8d7f38272593700b124c,Delegatecall to user-supplied address,High,112,5,693
+polygon,0xfe51de20719d05152ace63a069446bb5c89511db,Delegatecall to user-supplied address,High,112,5,694
+ethereum,0x714bd93ab6ab2f0bcfd2aeaf46a46719991d0d79,Exception State,Medium,110,5,695
+optimism,0xad669b6cf06704e9d3b8d1d85a275623a1bd8288,Dependence on predictable environment variable,Low,116,5,696
+optimism,0xad669b6cf06704e9d3b8d1d85a275623a1bd8288,Dependence on predictable environment variable,Low,116,5,697
+optimism,0xad669b6cf06704e9d3b8d1d85a275623a1bd8288,Dependence on predictable environment variable,Low,116,5,698
+optimism,0xad669b6cf06704e9d3b8d1d85a275623a1bd8288,Dependence on predictable environment variable,Low,116,5,699
+ethereum,0x91493a61ab83b62943e6dcaa5475dd330704cc84,Delegatecall to user-supplied address,High,112,5,700
+ethereum,0xe07ea0436100918f157df35d01dce5c11b16d1f1,Write to an arbitrary storage location,High,124,5,701
+ethereum,0xcee8fcbc9676a08b0a048180d99b41a7f080bb78,Dependence on predictable environment variable,Low,116,5,702
+ethereum,0xcee8fcbc9676a08b0a048180d99b41a7f080bb78,Dependence on predictable environment variable,Low,116,5,703
+bsc,0xe1f1edfbcefb1e924e4a031ed6b4cabc7e570154,Dependence on predictable environment variable,Low,116,5,704
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Exception State,Medium,110,5,705
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on tx.origin,Low,115,5,706
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on predictable environment variable,Low,116,5,707
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on predictable environment variable,Low,116,5,708
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on tx.origin,Low,115,5,709
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on predictable environment variable,Low,116,5,710
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on tx.origin,Low,115,5,711
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on predictable environment variable,Low,116,5,712
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on tx.origin,Low,115,5,713
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Exception State,Medium,110,5,714
+bsc,0x28165e285cb40210f6b896bc937f7322f3a2bee2,Dependence on predictable environment variable,Low,116,5,715
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Exception State,Medium,110,5,716
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on tx.origin,Low,115,5,717
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on predictable environment variable,Low,116,5,718
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on predictable environment variable,Low,116,5,719
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on tx.origin,Low,115,5,720
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on predictable environment variable,Low,116,5,721
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on tx.origin,Low,115,5,722
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on predictable environment variable,Low,116,5,723
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on tx.origin,Low,115,5,724
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Exception State,Medium,110,5,725
+polygon,0xac2b5b9c4696dd96c97d3d8da6f6ff412020566d,Dependence on predictable environment variable,Low,116,5,726
+bsc,0x1215ed20aa507578ca352e195016f289e7a17f3a,Dependence on predictable environment variable,Low,116,5,727
+avalanche,0x0e75cdb914ddcca683357dd94d26caa39bc14b16,Dependence on predictable environment variable,Low,116,5,728
+bsc,0x0c869d0de4f0f3119b96221c0ef4849cb1f1e583,Dependence on predictable environment variable,Low,116,5,729
+bsc,0x0c869d0de4f0f3119b96221c0ef4849cb1f1e583,Dependence on predictable environment variable,Low,116,5,730
+bsc,0x0c869d0de4f0f3119b96221c0ef4849cb1f1e583,Dependence on predictable environment variable,Low,116,5,731
+bsc,0xf54f9e7070a1584532572a6f640f09c606bb9a83,Exception State,Medium,110,5,732
+ethereum,0x034cbb620d1e0e4c2e29845229beac57083b04ec,Delegatecall to user-supplied address,High,112,5,733
+polygon,0x6a974e96a963e9f219915797c4e3b9e2a63ab0e2,Exception State,Medium,110,5,734
+polygon,0x6a974e96a963e9f219915797c4e3b9e2a63ab0e2,Exception State,Medium,110,5,735
+ethereum,0x2bb9cff524c76eb2ea27bc6cdbb93447115d8dcc,State access after external call,Medium,107,5,736
+ethereum,0x2bb9cff524c76eb2ea27bc6cdbb93447115d8dcc,External Call To User-Supplied Address,Low,107,5,737
+ethereum,0x2bb9cff524c76eb2ea27bc6cdbb93447115d8dcc,External Call To User-Supplied Address,Low,107,5,738
+ethereum,0x5406e1136f423602c0685df8802f8ef28b73570d,Delegatecall to user-supplied address,High,112,5,739
+ethereum,0x5406e1136f423602c0685df8802f8ef28b73570d,Delegatecall to user-supplied address,High,112,5,740
+ethereum,0x7fc3ec3574d408f3b59cd88709bacb42575ebf2b,Delegatecall to user-supplied address,High,112,5,741
+ethereum,0x7fc3ec3574d408f3b59cd88709bacb42575ebf2b,Delegatecall to user-supplied address,High,112,5,742
+ethereum,0xb9e10599248f9f3fd35ecd1a098f56dab537ebbe,Delegatecall to user-supplied address,High,112,5,743
+ethereum,0xb9e10599248f9f3fd35ecd1a098f56dab537ebbe,Delegatecall to user-supplied address,High,112,5,744
+ethereum,0xd05497c6e24f7013ab67cdc8fa4d5af48e58ebe9,Delegatecall to user-supplied address,High,112,5,745
+ethereum,0xd05497c6e24f7013ab67cdc8fa4d5af48e58ebe9,Delegatecall to user-supplied address,High,112,5,746
+ethereum,0xebb7ab0b5a219bb395b88dfb1e5ae05ef8fddfa7,Delegatecall to user-supplied address,High,112,5,747
+ethereum,0xebb7ab0b5a219bb395b88dfb1e5ae05ef8fddfa7,Delegatecall to user-supplied address,High,112,5,748
+ethereum,0xb3775fb83f7d12a36e0475abdd1fca35c091efbe,Exception State,Medium,110,5,749
+ethereum,0xb3775fb83f7d12a36e0475abdd1fca35c091efbe,Exception State,Medium,110,5,750
+ethereum,0x3719c6ff935623a7b125952df5d849ef53b08cac,Delegatecall to user-supplied address,High,112,5,751
+ethereum,0x3719c6ff935623a7b125952df5d849ef53b08cac,Delegatecall to user-supplied address,High,112,5,752
+ethereum,0x6a2469944d3f0aa54531dfa6dcb4350f4a150b67,Delegatecall to user-supplied address,High,112,5,753
+ethereum,0x6a2469944d3f0aa54531dfa6dcb4350f4a150b67,Delegatecall to user-supplied address,High,112,5,754
+polygon,0x64af2e5b1f6c0194adc5a0f17bc566a6d30f21e1,Delegatecall to user-supplied address,High,112,5,755
+polygon,0x64af2e5b1f6c0194adc5a0f17bc566a6d30f21e1,Delegatecall to user-supplied address,High,112,5,756
+bsc,0xc25b7244e192d531495c400c64ea914a77e730a2,Dependence on predictable environment variable,Low,116,5,757
+bsc,0xcc238200cffda7a5e2810086c26d5334e64f1155,Dependence on predictable environment variable,Low,116,5,758
+ethereum,0x06af07097c9eeb7fd685c692751d5c66db49c215,Exception State,Medium,110,5,759
+bsc,0xa6e53f07bd410df069e20ced725bdc9135146fe9,Exception State,Medium,110,5,760
+bsc,0xf73d8276c15ce56b2f4aee5920e62f767a7f3aea,Dependence on predictable environment variable,Low,116,5,761
+bsc,0xf73d8276c15ce56b2f4aee5920e62f767a7f3aea,Dependence on predictable environment variable,Low,116,5,762
+ethereum,0x090185f2135308bad17527004364ebcc2d37e5f6,Dependence on predictable environment variable,Low,116,5,763
+ethereum,0x4cbab69108aa72151eda5a3c164ea86845f18438,Delegatecall to user-supplied address,High,112,5,764
+ethereum,0x4cbab69108aa72151eda5a3c164ea86845f18438,Multiple Calls in a Single Transaction,Low,113,5,765
+ethereum,0x4cbab69108aa72151eda5a3c164ea86845f18438,Write to an arbitrary storage location,High,124,5,766
+optimism,0x60daec2fc9d2e0de0577a5c708bcadba1458a833,Delegatecall to user-supplied address,High,112,5,767
+optimism,0x60daec2fc9d2e0de0577a5c708bcadba1458a833,Delegatecall to user-supplied address,High,112,5,768
+optimism,0x7571cc9895d8e997853b1e0a1521ebd8481aa186,Delegatecall to user-supplied address,High,112,5,769
+optimism,0x7571cc9895d8e997853b1e0a1521ebd8481aa186,Delegatecall to user-supplied address,High,112,5,770
+optimism,0xb0be5d911e3bd4ee2a8706cf1fac8d767a550497,Delegatecall to user-supplied address,High,112,5,771
+optimism,0xb0be5d911e3bd4ee2a8706cf1fac8d767a550497,Delegatecall to user-supplied address,High,112,5,772
+optimism,0xe0e112e8f33d3f437d1f895cbb1a456836125952,Delegatecall to user-supplied address,High,112,5,773
+optimism,0xe0e112e8f33d3f437d1f895cbb1a456836125952,Delegatecall to user-supplied address,High,112,5,774
+optimism,0xffbd695bf246c514110f5dae3fa88b8c2f42c411,Delegatecall to user-supplied address,High,112,5,775
+optimism,0xffbd695bf246c514110f5dae3fa88b8c2f42c411,Delegatecall to user-supplied address,High,112,5,776
+bsc,0xbdaa094a95e452c6ba175ce9edfefba04e6a51ac,Dependence on predictable environment variable,Low,116,5,777
+bsc,0xcd7cbc46d083a245b45e22cb4be2c569947ce896,Dependence on predictable environment variable,Low,116,5,778
+bsc,0x88fef82fdf75e32e4bc0e662d67cfcef4838f026,Exception State,Medium,110,5,779
+bsc,0x88fef82fdf75e32e4bc0e662d67cfcef4838f026,Exception State,Medium,110,5,780
+bsc,0x88fef82fdf75e32e4bc0e662d67cfcef4838f026,Exception State,Medium,110,5,781
+bsc,0x88fef82fdf75e32e4bc0e662d67cfcef4838f026,Exception State,Medium,110,5,782
+bsc,0x88fef82fdf75e32e4bc0e662d67cfcef4838f026,Exception State,Medium,110,5,783
+bsc,0x88fef82fdf75e32e4bc0e662d67cfcef4838f026,Exception State,Medium,110,5,784
+ethereum,0xb5d53ec97bed54fe4c2b77f275025c3fc132d770,Exception State,Medium,110,5,785
+ethereum,0xb5d53ec97bed54fe4c2b77f275025c3fc132d770,Exception State,Medium,110,5,786
+ethereum,0xb5d53ec97bed54fe4c2b77f275025c3fc132d770,Exception State,Medium,110,5,787
+ethereum,0xb5d53ec97bed54fe4c2b77f275025c3fc132d770,Exception State,Medium,110,5,788
+ethereum,0xb5d53ec97bed54fe4c2b77f275025c3fc132d770,Exception State,Medium,110,5,789
+ethereum,0xb5d53ec97bed54fe4c2b77f275025c3fc132d770,Exception State,Medium,110,5,790
+arbitrum,0x5c6cba80e5fa3c8d9fd53f17d6f5a7a2edb5fc8c,Multiple Calls in a Single Transaction,Low,113,5,791
+bsc,0x63e77cf206801782239d4f126cfa22b517fb4edb,Multiple Calls in a Single Transaction,Low,113,5,792
+bsc,0x63e77cf206801782239d4f126cfa22b517fb4edb,Integer Arithmetic Bugs,High,101,5,793
+bsc,0x63e77cf206801782239d4f126cfa22b517fb4edb,Integer Arithmetic Bugs,High,101,5,794
+bsc,0x63e77cf206801782239d4f126cfa22b517fb4edb,Integer Arithmetic Bugs,High,101,5,795
+bsc,0x63e77cf206801782239d4f126cfa22b517fb4edb,Integer Arithmetic Bugs,High,101,5,796
+ethereum,0x62edd5f4930ea92dca3fb81689bdd9b9d076b57b,Delegatecall to user-supplied address,High,112,5,797
+ethereum,0x62edd5f4930ea92dca3fb81689bdd9b9d076b57b,Multiple Calls in a Single Transaction,Low,113,5,798
+ethereum,0x62edd5f4930ea92dca3fb81689bdd9b9d076b57b,Write to an arbitrary storage location,High,124,5,799
+ethereum,0x6adb2e268de2aa1abf6578e4a8119b960e02928f,Dependence on predictable environment variable,Low,116,5,800
+ethereum,0x6adb2e268de2aa1abf6578e4a8119b960e02928f,Dependence on predictable environment variable,Low,116,5,801
+ethereum,0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8,Dependence on predictable environment variable,Low,116,5,802
+ethereum,0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8,Dependence on predictable environment variable,Low,116,5,803
+ethereum,0xab167e816e4d76089119900e941befdfa37d6b32,Dependence on predictable environment variable,Low,116,5,804
+ethereum,0xab167e816e4d76089119900e941befdfa37d6b32,Dependence on predictable environment variable,Low,116,5,805
+avalanche,0x7d1232b90d3f809a54eeaeebc639c62df8a8942f,Dependence on predictable environment variable,Low,116,5,806
+bsc,0x7033a512639119c759a51b250bfa461ae100894b,Delegatecall to user-supplied address,High,112,5,807
+bsc,0x7033a512639119c759a51b250bfa461ae100894b,Delegatecall to user-supplied address,High,112,5,808
+ethereum,0xeb9bf100225c214efc3e7c651ebbadcf85177607,Delegatecall to user-supplied address,High,112,5,809
+ethereum,0xeb9bf100225c214efc3e7c651ebbadcf85177607,Multiple Calls in a Single Transaction,Low,113,5,810
+ethereum,0xeb9bf100225c214efc3e7c651ebbadcf85177607,Write to an arbitrary storage location,High,124,5,811
+ethereum,0xe822c3d76ac133f7d9f12c39c1bf28a797624aa9,Delegatecall to user-supplied address,High,112,5,812
+ethereum,0xe822c3d76ac133f7d9f12c39c1bf28a797624aa9,Multiple Calls in a Single Transaction,Low,113,5,813
+ethereum,0xe822c3d76ac133f7d9f12c39c1bf28a797624aa9,Write to an arbitrary storage location,High,124,5,814
+ethereum,0x33c0d33a0d4312562ad622f91d12b0ac47366ee1,Delegatecall to user-supplied address,High,112,5,815
+ethereum,0x33c0d33a0d4312562ad622f91d12b0ac47366ee1,Delegatecall to user-supplied address,High,112,5,816
+bsc,0xdfc7127593c8af1a17146893f10e08528f4c2aa7,Delegatecall to user-supplied address,High,112,5,817
+bsc,0xdfc7127593c8af1a17146893f10e08528f4c2aa7,Delegatecall to user-supplied address,High,112,5,818
+ethereum,0xbd35b9c345fc95ae2952ad257a6c60f2861be5f1,Integer Arithmetic Bugs,High,101,5,819
+ethereum,0xbd35b9c345fc95ae2952ad257a6c60f2861be5f1,Integer Arithmetic Bugs,High,101,5,820
+ethereum,0xef8629d568adca04d0ac52c7388d5377872d7f61,Integer Arithmetic Bugs,High,101,5,821
+ethereum,0xef8629d568adca04d0ac52c7388d5377872d7f61,Integer Arithmetic Bugs,High,101,5,822
+ethereum,0x5d6ac99835b0dd42ed9ffc606170e59f75a88fde,Exception State,Medium,110,5,823
+ethereum,0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2,Dependence on predictable environment variable,Low,116,5,824
+ethereum,0x25ec98773d7b4ced4cafab96a2a1c0945f145e10,Delegatecall to user-supplied address,High,112,5,825
+avalanche,0x4a2b73ebac93d9233bab10a795f04efb9c00d466,Delegatecall to user-supplied address,High,112,5,826
+avalanche,0x4a2b73ebac93d9233bab10a795f04efb9c00d466,Delegatecall to user-supplied address,High,112,5,827
+avalanche,0x54b35c002468a5cc2bd1428c011857d26463ecbc,Delegatecall to user-supplied address,High,112,5,828
+avalanche,0x54b35c002468a5cc2bd1428c011857d26463ecbc,Delegatecall to user-supplied address,High,112,5,829
+avalanche,0x56c194f1fb30f8cdd49e7351fc9c67d8c762a86f,Delegatecall to user-supplied address,High,112,5,830
+avalanche,0x56c194f1fb30f8cdd49e7351fc9c67d8c762a86f,Delegatecall to user-supplied address,High,112,5,831
+avalanche,0x7551a127c41c85e1412efe263cadb49900b0668c,Delegatecall to user-supplied address,High,112,5,832
+avalanche,0x7551a127c41c85e1412efe263cadb49900b0668c,Delegatecall to user-supplied address,High,112,5,833
+avalanche,0x7837c2db2d004eb10e608d95b2efe8cb57fd40b4,Delegatecall to user-supplied address,High,112,5,834
+avalanche,0x7837c2db2d004eb10e608d95b2efe8cb57fd40b4,Delegatecall to user-supplied address,High,112,5,835
+avalanche,0xaa31d7bc8186888d9eebb5524c47268e4bc87496,Dependence on predictable environment variable,Low,116,5,836
+avalanche,0xaa31d7bc8186888d9eebb5524c47268e4bc87496,Dependence on predictable environment variable,Low,116,5,837
+avalanche,0xaa31d7bc8186888d9eebb5524c47268e4bc87496,Dependence on predictable environment variable,Low,116,5,838
+bsc,0x141381f07fa31432243113cda2f617d5d255d39a,Dependence on predictable environment variable,Low,116,5,839
+ethereum,0x0437465dfb5b79726e35f08559b0cbea55bb585c,External Call To User-Supplied Address,Low,107,5,840
+ethereum,0x7c43ea3bb6921e9b1ac53ba06f196efd296b3fa8,Dependence on predictable environment variable,Low,116,5,841
+ethereum,0xea8ddc2f50626f1f8f8c11242d1876710d65ff44,Dependence on predictable environment variable,Low,116,5,842
+ethereum,0x7aa4960908b13d104bf056b23e2c76b43c5aacc8,Delegatecall to user-supplied address,High,112,5,843
+ethereum,0x7aa4960908b13d104bf056b23e2c76b43c5aacc8,Multiple Calls in a Single Transaction,Low,113,5,844
+ethereum,0x7aa4960908b13d104bf056b23e2c76b43c5aacc8,Write to an arbitrary storage location,High,124,5,845
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Integer Arithmetic Bugs,High,101,5,846
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Exception State,Medium,110,5,847
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Exception State,Medium,110,5,848
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Exception State,Medium,110,5,849
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Exception State,Medium,110,5,850
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Exception State,Medium,110,5,851
+ethereum,0x329239599afb305da0a2ec69c58f8a6697f9f88d,Exception State,Medium,110,5,852
+base,0x420000000000000000000000000000000000000a,Delegatecall to user-supplied address,High,112,5,853
+base,0x420000000000000000000000000000000000000a,Delegatecall to user-supplied address,High,112,5,854
+base,0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca,Delegatecall to user-supplied address,High,112,5,855
+base,0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca,Delegatecall to user-supplied address,High,112,5,856
+arbitrum,0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,Delegatecall to user-supplied address,High,112,5,857
+arbitrum,0xff970a61a04b1ca14834a43f5de4533ebddb5cc8,Delegatecall to user-supplied address,High,112,5,858
+ethereum,0xbaac2b4491727d78d2b78815144570b9f2fe8899,Exception State,Medium,110,5,859
+ethereum,0xbaac2b4491727d78d2b78815144570b9f2fe8899,Delegatecall to user-supplied address,High,112,5,860
+ethereum,0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32,External Call To User-Supplied Address,Low,107,5,861
+bsc,0xe49bfc53a195a62d78a941a1967d7b0f83a47c14,Dependence on predictable environment variable,Low,116,5,862
+bsc,0x7536592bb74b5d62eb82e8b93b17eed4eed9a85c,Dependence on predictable environment variable,Low,116,5,863
+bsc,0x7536592bb74b5d62eb82e8b93b17eed4eed9a85c,Exception State,Medium,110,5,864
+bsc,0x7536592bb74b5d62eb82e8b93b17eed4eed9a85c,External Call To User-Supplied Address,Low,107,5,865
+bsc,0x7536592bb74b5d62eb82e8b93b17eed4eed9a85c,Exception State,Medium,110,5,866
+ethereum,0xc77aab3c6d7dab46248f3cc3033c856171878bd5,Dependence on predictable environment variable,Low,116,5,867
+ethereum,0xc77aab3c6d7dab46248f3cc3033c856171878bd5,Exception State,Medium,110,5,868
+ethereum,0xc77aab3c6d7dab46248f3cc3033c856171878bd5,External Call To User-Supplied Address,Low,107,5,869
+ethereum,0xc77aab3c6d7dab46248f3cc3033c856171878bd5,Exception State,Medium,110,5,870
+ethereum,0xdbf72370021babafbceb05ab10f99ad275c6220a,Dependence on predictable environment variable,Low,116,5,871
+ethereum,0xdbf72370021babafbceb05ab10f99ad275c6220a,Exception State,Medium,110,5,872
+ethereum,0xdbf72370021babafbceb05ab10f99ad275c6220a,External Call To User-Supplied Address,Low,107,5,873
+ethereum,0xdbf72370021babafbceb05ab10f99ad275c6220a,Exception State,Medium,110,5,874
+ethereum,0xe2fe530c047f2d85298b07d9333c05737f1435fb,Delegatecall to user-supplied address,High,112,5,875
+ethereum,0xe2fe530c047f2d85298b07d9333c05737f1435fb,Delegatecall to user-supplied address,High,112,5,876
+polygon,0x09315f2577c2bccee0119790f706eb70dd67c2df,Dependence on predictable environment variable,Low,116,5,877
+polygon,0x09315f2577c2bccee0119790f706eb70dd67c2df,Dependence on predictable environment variable,Low,116,5,878
+polygon,0x09315f2577c2bccee0119790f706eb70dd67c2df,Dependence on predictable environment variable,Low,116,5,879
+polygon,0x51cfb74628c7484c9128d979650da2512947e532,Dependence on predictable environment variable,Low,116,5,880
+polygon,0x51cfb74628c7484c9128d979650da2512947e532,Dependence on predictable environment variable,Low,116,5,881
+polygon,0x51cfb74628c7484c9128d979650da2512947e532,Dependence on predictable environment variable,Low,116,5,882
+polygon,0x84b3c86d660d680847258fd20aaa1274cc35eacd,Dependence on predictable environment variable,Low,116,5,883
+polygon,0x84b3c86d660d680847258fd20aaa1274cc35eacd,Dependence on predictable environment variable,Low,116,5,884
+polygon,0xbdb6a789d91815564981db3c7acb015e2577bc60,Dependence on predictable environment variable,Low,116,5,885
+polygon,0xbdb6a789d91815564981db3c7acb015e2577bc60,Dependence on predictable environment variable,Low,116,5,886
+polygon,0xf8bdc7bc282847eeb5d4291ec79172b48526e9de,Dependence on predictable environment variable,Low,116,5,887
+bsc,0x19e6bfc1a6e4b042fb20531244d47e252445df01,Dependence on predictable environment variable,Low,116,5,888
+bsc,0x19e6bfc1a6e4b042fb20531244d47e252445df01,Dependence on tx.origin,Low,115,5,889
+ethereum,0x18aaa7115705e8be94bffebde57af9bfc265b998,Delegatecall to user-supplied address,High,112,5,890
+bsc,0x264a1b3f6db28de4d3dd4ed23ab31a468b0c1a96,Dependence on predictable environment variable,Low,120,5,891
+bsc,0xd0253dbe5606c9fa01db67eb10be5c3675c2b117,Dependence on predictable environment variable,Low,116,5,892
+ethereum,0x6d9cc14a1d36e6ff13fc6efa9e9326fcd12e7903,Delegatecall to user-supplied address,High,112,5,893
+ethereum,0x6d9cc14a1d36e6ff13fc6efa9e9326fcd12e7903,Delegatecall to user-supplied address,High,112,5,894
+ethereum,0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8,Exception State,Medium,110,5,895
+ethereum,0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8,Exception State,Medium,110,5,896
+ethereum,0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8,Exception State,Medium,110,5,897
+ethereum,0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8,Exception State,Medium,110,5,898
+ethereum,0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8,Exception State,Medium,110,5,899
+ethereum,0x1ce7ae555139c5ef5a57cc8d814a867ee6ee33d8,Exception State,Medium,110,5,900
+bsc,0x95a2bbcd64e2859d40e2ad1b5ba49dc0e1abc6c2,Delegatecall to user-supplied address,High,112,5,901
+bsc,0x95a2bbcd64e2859d40e2ad1b5ba49dc0e1abc6c2,Delegatecall to user-supplied address,High,112,5,902
+bsc,0x414a36a4b79ee1d4b454ab798e4179ffc00b1641,Dependence on predictable environment variable,Low,116,5,903
+ethereum,0xfb76e9be55758d0042e003c1e46e186360f0627e,Delegatecall to user-supplied address,High,112,5,904
+ethereum,0xfb76e9be55758d0042e003c1e46e186360f0627e,Multiple Calls in a Single Transaction,Low,113,5,905
+ethereum,0xfb76e9be55758d0042e003c1e46e186360f0627e,State access after external call,Medium,107,5,906
+ethereum,0xfb76e9be55758d0042e003c1e46e186360f0627e,External Call To User-Supplied Address,Low,107,5,907
+ethereum,0xfb76e9be55758d0042e003c1e46e186360f0627e,External Call To User-Supplied Address,Low,107,5,908
+ethereum,0xffe6280ae4e864d9af836b562359fd828ece8020,Delegatecall to user-supplied address,High,112,5,909
+ethereum,0xffe6280ae4e864d9af836b562359fd828ece8020,Multiple Calls in a Single Transaction,Low,113,5,910
+ethereum,0xffe6280ae4e864d9af836b562359fd828ece8020,State access after external call,Medium,107,5,911
+ethereum,0xffe6280ae4e864d9af836b562359fd828ece8020,External Call To User-Supplied Address,Low,107,5,912
+ethereum,0xffe6280ae4e864d9af836b562359fd828ece8020,External Call To User-Supplied Address,Low,107,5,913
+ethereum,0x556ecbb0311d350491ba0ec7e019c354d7723ce0,Delegatecall to user-supplied address,High,112,5,914
+ethereum,0x556ecbb0311d350491ba0ec7e019c354d7723ce0,Multiple Calls in a Single Transaction,Low,113,5,915
+ethereum,0x556ecbb0311d350491ba0ec7e019c354d7723ce0,State access after external call,Medium,107,5,916
+ethereum,0x556ecbb0311d350491ba0ec7e019c354d7723ce0,External Call To User-Supplied Address,Low,107,5,917
+ethereum,0x556ecbb0311d350491ba0ec7e019c354d7723ce0,External Call To User-Supplied Address,Low,107,5,918
+ethereum,0xd9f80bdb37e6bad114d747e60ce6d2aaf26704ae,Delegatecall to user-supplied address,High,112,5,919
+ethereum,0xd9f80bdb37e6bad114d747e60ce6d2aaf26704ae,Multiple Calls in a Single Transaction,Low,113,5,920
+ethereum,0xd9f80bdb37e6bad114d747e60ce6d2aaf26704ae,State access after external call,Medium,107,5,921
+ethereum,0xd9f80bdb37e6bad114d747e60ce6d2aaf26704ae,External Call To User-Supplied Address,Low,107,5,922
+ethereum,0xd9f80bdb37e6bad114d747e60ce6d2aaf26704ae,External Call To User-Supplied Address,Low,107,5,923
+ethereum,0xe7af7c5982e073ac6525a34821fe1b3e8e432099,Delegatecall to user-supplied address,High,112,5,924
+ethereum,0xe7af7c5982e073ac6525a34821fe1b3e8e432099,Multiple Calls in a Single Transaction,Low,113,5,925
+ethereum,0xe7af7c5982e073ac6525a34821fe1b3e8e432099,State access after external call,Medium,107,5,926
+ethereum,0xe7af7c5982e073ac6525a34821fe1b3e8e432099,External Call To User-Supplied Address,Low,107,5,927
+ethereum,0xe7af7c5982e073ac6525a34821fe1b3e8e432099,External Call To User-Supplied Address,Low,107,5,928
+ethereum,0xac9bb427953ac7fddc562adca86cf42d988047fd,Dependence on predictable environment variable,Low,120,5,929
+ethereum,0xac9bb427953ac7fddc562adca86cf42d988047fd,External Call To User-Supplied Address,Low,107,5,930
+ethereum,0xfb633f47a84a1450ee0413f2c32dc1772ccaea3e,Delegatecall to user-supplied address,High,112,5,931
+ethereum,0xfb633f47a84a1450ee0413f2c32dc1772ccaea3e,Multiple Calls in a Single Transaction,Low,113,5,932
+ethereum,0xfb633f47a84a1450ee0413f2c32dc1772ccaea3e,State access after external call,Medium,107,5,933
+ethereum,0xfb633f47a84a1450ee0413f2c32dc1772ccaea3e,External Call To User-Supplied Address,Low,107,5,934
+ethereum,0xfb633f47a84a1450ee0413f2c32dc1772ccaea3e,External Call To User-Supplied Address,Low,107,5,935
+ethereum,0x88536c9b2c4701b8db824e6a16829d5b5eb84440,Dependence on predictable environment variable,Low,116,5,936
+ethereum,0x798d1be841a82a273720ce31c822c61a67a601c3,Delegatecall to user-supplied address,High,112,5,937
+ethereum,0x798d1be841a82a273720ce31c822c61a67a601c3,Delegatecall to user-supplied address,High,112,5,938
+base,0xcde90558fc317c69580deeaf3efc509428df9080,Integer Arithmetic Bugs,High,101,5,939
+ethereum,0xf211b655431c10e72c1caeae37688ae9f7f7a549,Unchecked return value from external call.,Medium,104,5,940
+celo,0x62b8b11039fcfe5ab0c56e502b1c372a3d2a9c7a,Delegatecall to user-supplied address,High,112,5,941
+ethereum,0x44aa9c5a034c1499ec27906e2d427b704b567ffe,Dependence on predictable environment variable,Low,116,5,942
+ethereum,0x44aa9c5a034c1499ec27906e2d427b704b567ffe,Dependence on predictable environment variable,Low,116,5,943
+ethereum,0x44aa9c5a034c1499ec27906e2d427b704b567ffe,Dependence on predictable environment variable,Low,116,5,944
+ethereum,0x44aa9c5a034c1499ec27906e2d427b704b567ffe,External Call To User-Supplied Address,Low,107,5,945
+ethereum,0x44aa9c5a034c1499ec27906e2d427b704b567ffe,Multiple Calls in a Single Transaction,Low,113,5,946
+ethereum,0x44aa9c5a034c1499ec27906e2d427b704b567ffe,Dependence on predictable environment variable,Low,116,5,947
+arbitrum,0xf81ab897e3940e95d749ff2e1f8d38f9b7cbe3cf,Delegatecall to user-supplied address,High,112,5,948
+arbitrum,0xf81ab897e3940e95d749ff2e1f8d38f9b7cbe3cf,Multiple Calls in a Single Transaction,Low,113,5,949
+ethereum,0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31,Integer Arithmetic Bugs,High,101,5,950
+ethereum,0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31,Integer Arithmetic Bugs,High,101,5,951
+ethereum,0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31,Integer Arithmetic Bugs,High,101,5,952
+ethereum,0x3e40d73eb977dc6a537af587d48316fee66e9c8c,Delegatecall to user-supplied address,High,112,5,953
+ethereum,0x3e40d73eb977dc6a537af587d48316fee66e9c8c,Multiple Calls in a Single Transaction,Low,113,5,954
+ethereum,0x3e40d73eb977dc6a537af587d48316fee66e9c8c,State access after external call,Medium,107,5,955
+ethereum,0x3e40d73eb977dc6a537af587d48316fee66e9c8c,External Call To User-Supplied Address,Low,107,5,956
+ethereum,0x3e40d73eb977dc6a537af587d48316fee66e9c8c,External Call To User-Supplied Address,Low,107,5,957
+ethereum,0xa9466eabd096449d650d5aeb0dd3da6f52fd0b19,Integer Arithmetic Bugs,High,101,5,958
+ethereum,0xa9466eabd096449d650d5aeb0dd3da6f52fd0b19,Multiple Calls in a Single Transaction,Low,113,5,959
+ethereum,0x40d73df4f99bae688ce3c23a01022224fe16c7b2,Delegatecall to user-supplied address,High,112,5,960
+ethereum,0x40d73df4f99bae688ce3c23a01022224fe16c7b2,Multiple Calls in a Single Transaction,Low,113,5,961
+ethereum,0x40d73df4f99bae688ce3c23a01022224fe16c7b2,State access after external call,Medium,107,5,962
+ethereum,0x40d73df4f99bae688ce3c23a01022224fe16c7b2,External Call To User-Supplied Address,Low,107,5,963
+ethereum,0x40d73df4f99bae688ce3c23a01022224fe16c7b2,External Call To User-Supplied Address,Low,107,5,964
+ethereum,0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5,Delegatecall to user-supplied address,High,112,5,965
+ethereum,0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5,Delegatecall to user-supplied address,High,112,5,966
+ethereum,0xdd92eb1478d3189707ab7f4a5ace3a615cdd0476,Delegatecall to user-supplied address,High,112,5,967
+ethereum,0xdd92eb1478d3189707ab7f4a5ace3a615cdd0476,Multiple Calls in a Single Transaction,Low,113,5,968
+ethereum,0xdd92eb1478d3189707ab7f4a5ace3a615cdd0476,State access after external call,Medium,107,5,969
+ethereum,0xdd92eb1478d3189707ab7f4a5ace3a615cdd0476,External Call To User-Supplied Address,Low,107,5,970
+ethereum,0xdd92eb1478d3189707ab7f4a5ace3a615cdd0476,External Call To User-Supplied Address,Low,107,5,971
+ethereum,0x4cd0c43b0d53bc318cc5342b77eb6f124e47f526,Exception State,Medium,110,5,972
+ethereum,0x4cd0c43b0d53bc318cc5342b77eb6f124e47f526,Delegatecall to user-supplied address,High,112,5,973
+ethereum,0x75939ceb9fba27a545fe27d1cbd228c29123687c,Delegatecall to user-supplied address,High,112,5,974
+ethereum,0x75939ceb9fba27a545fe27d1cbd228c29123687c,Delegatecall to user-supplied address,High,112,5,975
+ethereum,0xc0c17dd08263c16f6b64e772fb9b723bf1344ddf,Delegatecall to user-supplied address,High,112,5,976
+ethereum,0xc0c17dd08263c16f6b64e772fb9b723bf1344ddf,Delegatecall to user-supplied address,High,112,5,977
+polygon,0x9c891326fd8b1a713974f73bb604677e1e63396d,Dependence on predictable environment variable,Low,120,5,978
+polygon,0x9c891326fd8b1a713974f73bb604677e1e63396d,Dependence on predictable environment variable,Low,116,5,979
+polygon,0x9c891326fd8b1a713974f73bb604677e1e63396d,Dependence on predictable environment variable,Low,120,5,980
+polygon,0x9c891326fd8b1a713974f73bb604677e1e63396d,Dependence on predictable environment variable,Low,120,5,981
+polygon,0x9c891326fd8b1a713974f73bb604677e1e63396d,Dependence on predictable environment variable,Low,116,5,982
+polygon,0x9c891326fd8b1a713974f73bb604677e1e63396d,Dependence on predictable environment variable,Low,116,5,983
+ethereum,0xf65b5c5104c4fafd4b709d9d60a185eae063276c,Delegatecall to user-supplied address,High,112,5,984
+ethereum,0xf65b5c5104c4fafd4b709d9d60a185eae063276c,Delegatecall to user-supplied address,High,112,5,985
+ethereum,0x4f14cdbd815b79e9624121f564f24685c6b1211b,Exception State,Medium,110,5,986
+ethereum,0x4f14cdbd815b79e9624121f564f24685c6b1211b,Delegatecall to user-supplied address,High,112,5,987
+ethereum,0x90de74265a416e1393a450752175aed98fe11517,Delegatecall to user-supplied address,High,112,5,988
+ethereum,0x90de74265a416e1393a450752175aed98fe11517,Delegatecall to user-supplied address,High,112,5,989
+arbitrum,0x1622bf67e6e5747b81866fe0b85178a93c7f86e3,Dependence on predictable environment variable,Low,116,5,990
+ethereum,0xa646e29877d52b9e2de457eca09c724ff16d0a2b,Exception State,Medium,110,5,991
+ethereum,0xbbf0cc1c63f509d48a4674e270d26d80ccaf6022,Exception State,Medium,110,5,992
+avalanche,0xb4fbc7839ce88029c8c1c6274660118e27b6f982,Exception State,Medium,110,5,993
+ethereum,0x3d30b1ab88d487b0f3061f40de76845bec3f1e94,Dependence on predictable environment variable,Low,116,5,994
+ethereum,0x3d30b1ab88d487b0f3061f40de76845bec3f1e94,Dependence on predictable environment variable,Low,116,5,995
+ethereum,0x3d30b1ab88d487b0f3061f40de76845bec3f1e94,Dependence on predictable environment variable,Low,116,5,996
+ethereum,0x3d30b1ab88d487b0f3061f40de76845bec3f1e94,Dependence on predictable environment variable,Low,116,5,997
+ethereum,0x4b4e140d1f131fdad6fb59c13af796fd194e4135,Dependence on predictable environment variable,Low,116,5,998
+ethereum,0x4b4e140d1f131fdad6fb59c13af796fd194e4135,Dependence on predictable environment variable,Low,116,5,999
+ethereum,0x4b4e140d1f131fdad6fb59c13af796fd194e4135,Dependence on predictable environment variable,Low,116,5,1000
+ethereum,0x4b4e140d1f131fdad6fb59c13af796fd194e4135,Dependence on predictable environment variable,Low,116,5,1001
+ethereum,0x2e7fc02be94bc7f0cd69dcab572f64bcc173cd81,Delegatecall to user-supplied address,High,112,5,1002
+ethereum,0x2e7fc02be94bc7f0cd69dcab572f64bcc173cd81,External Call To User-Supplied Address,Low,107,5,1003
+ethereum,0x3c89cd1884e7bef73ca3ef08d2ef6ec338fd8e49,Delegatecall to user-supplied address,High,112,5,1004
+ethereum,0x3c89cd1884e7bef73ca3ef08d2ef6ec338fd8e49,External Call To User-Supplied Address,Low,107,5,1005
+ethereum,0x734eec7930bc84ec5732022b9eb949a81fb89abe,Delegatecall to user-supplied address,High,112,5,1006
+ethereum,0x734eec7930bc84ec5732022b9eb949a81fb89abe,External Call To User-Supplied Address,Low,107,5,1007
+ethereum,0x55c08ca52497e2f1534b59e2917bf524d4765257,Dependence on predictable environment variable,Low,116,5,1008
+ethereum,0xb6ed7644c69416d67b522e20bc294a9a9b405b31,External Call To User-Supplied Address,Low,107,5,1009
+ethereum,0xb6ed7644c69416d67b522e20bc294a9a9b405b31,External Call To User-Supplied Address,Low,107,5,1010
+arbitrum,0x975eb113d580c44aa5676370e2cdf8f56bf3f99f,Integer Arithmetic Bugs,High,101,5,1011
+arbitrum,0x975eb113d580c44aa5676370e2cdf8f56bf3f99f,Integer Arithmetic Bugs,High,101,5,1012
+arbitrum,0xd946188a614a0d9d0685a60f541bba1e8cc421ae,Dependence on predictable environment variable,Low,116,5,1013
+arbitrum,0xed42d47538f6bf191533a9943ceedc13b261809d,Multiple Calls in a Single Transaction,Low,113,5,1014
+arbitrum,0xed42d47538f6bf191533a9943ceedc13b261809d,External Call To User-Supplied Address,Low,107,5,1015
+arbitrum,0xed42d47538f6bf191533a9943ceedc13b261809d,Multiple Calls in a Single Transaction,Low,113,5,1016
+ethereum,0x5a753021ce28cbc5a7c51f732ba83873d673d8cc,Delegatecall to user-supplied address,High,112,5,1017
+ethereum,0x5a753021ce28cbc5a7c51f732ba83873d673d8cc,Delegatecall to user-supplied address,High,112,5,1018
+ethereum,0x686c83aa81ba206354fdcbc2cd282b4531365e29,External Call To User-Supplied Address,Low,107,5,1019
+ethereum,0x686c83aa81ba206354fdcbc2cd282b4531365e29,External Call To User-Supplied Address,Low,107,5,1020
+ethereum,0xeaa3b922e9febca37d1c02d2142a59595094c605,External Call To User-Supplied Address,Low,107,5,1021
+ethereum,0xeaa3b922e9febca37d1c02d2142a59595094c605,External Call To User-Supplied Address,Low,107,5,1022
+ethereum,0x81014f44b0a345033bb2b3b21c7a1a308b35feea,Delegatecall to user-supplied address,High,112,5,1023
+ethereum,0x81014f44b0a345033bb2b3b21c7a1a308b35feea,Multiple Calls in a Single Transaction,Low,113,5,1024
+ethereum,0x81014f44b0a345033bb2b3b21c7a1a308b35feea,Write to an arbitrary storage location,High,124,5,1025
+ethereum,0xca143ce32fe78f1f7019d7d551a6402fc5350c73,Integer Arithmetic Bugs,High,101,5,1026
+ethereum,0xca143ce32fe78f1f7019d7d551a6402fc5350c73,Integer Arithmetic Bugs,High,101,5,1027
+ethereum,0xca143ce32fe78f1f7019d7d551a6402fc5350c73,Integer Arithmetic Bugs,High,101,5,1028
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,High,101,5,1029
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,High,101,5,1030
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,High,101,5,1031
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,High,101,5,1032
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Exception State,Medium,110,5,1033
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,Low,101,5,1034
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,Low,101,5,1035
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,Low,101,5,1036
+ethereum,0xbab61589f963534460e2764a1c0d840b745a9140,Integer Arithmetic Bugs,Low,101,5,1037
+ethereum,0xc73bb871dbf66958242deba79e4db19bc2934513,Integer Arithmetic Bugs,High,101,5,1038
+ethereum,0xc73bb871dbf66958242deba79e4db19bc2934513,Dependence on predictable environment variable,Low,116,5,1039
+ethereum,0xe40e1531a4b56fb65571ad2ca43dc0048a316a2d,Integer Arithmetic Bugs,High,101,5,1040
+ethereum,0xe40e1531a4b56fb65571ad2ca43dc0048a316a2d,Exception State,Medium,110,5,1041
+ethereum,0xe40e1531a4b56fb65571ad2ca43dc0048a316a2d,Exception State,Medium,110,5,1042
+ethereum,0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509,Integer Arithmetic Bugs,High,101,5,1043
+ethereum,0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509,Integer Arithmetic Bugs,High,101,5,1044
+ethereum,0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509,Exception State,Medium,110,5,1045
+ethereum,0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509,External Call To User-Supplied Address,Low,107,5,1046
+arbitrum,0x3e4ffeb394b371aaaa0998488046ca19d870d9ba,Delegatecall to user-supplied address,High,112,5,1047
+ethereum,0xc5bddf9843308380375a611c18b50fb9341f502a,Dependence on predictable environment variable,Low,120,5,1048
+ethereum,0xc5bddf9843308380375a611c18b50fb9341f502a,Dependence on predictable environment variable,Low,116,5,1049
+ethereum,0xd291e7a03283640fdc51b121ac401383a46cc623,Delegatecall to user-supplied address,High,112,5,1050
+ethereum,0xd291e7a03283640fdc51b121ac401383a46cc623,Delegatecall to user-supplied address,High,112,5,1051
+bsc,0x0b53e608bd058bb54748c35148484fd627e6dc0a,Delegatecall to user-supplied address,High,112,5,1052
+bsc,0x0b53e608bd058bb54748c35148484fd627e6dc0a,Delegatecall to user-supplied address,High,112,5,1053
+ethereum,0x02991ee6134dee504668e2227c5879dd78efcdc3,External Call To User-Supplied Address,Low,107,5,1054
+ethereum,0x02991ee6134dee504668e2227c5879dd78efcdc3,External Call To User-Supplied Address,Low,107,5,1055
+ethereum,0x0985c88929a776a2e059615137a48ba5a473e25d,External Call To User-Supplied Address,Low,107,5,1056
+ethereum,0x0985c88929a776a2e059615137a48ba5a473e25d,External Call To User-Supplied Address,Low,107,5,1057
+ethereum,0x18a5a3d575f34e5eba92ac99b0976dbe26f9f869,External Call To User-Supplied Address,Low,107,5,1058
+ethereum,0x18a5a3d575f34e5eba92ac99b0976dbe26f9f869,External Call To User-Supplied Address,Low,107,5,1059
+ethereum,0x396a3f77ee1faf5a3c46e878ba7b7a2dcbe55517,External Call To User-Supplied Address,Low,107,5,1060
+ethereum,0x396a3f77ee1faf5a3c46e878ba7b7a2dcbe55517,External Call To User-Supplied Address,Low,107,5,1061
+base,0x4e2d90f0307a93b54aca31dc606f93fe6b9132d2,External Call To User-Supplied Address,Low,107,5,1062
+base,0x4e2d90f0307a93b54aca31dc606f93fe6b9132d2,External Call To User-Supplied Address,Low,107,5,1063
+ethereum,0x5fde59415625401278c4d41c6befce3790eb357f,External Call To User-Supplied Address,Low,107,5,1064
+ethereum,0x5fde59415625401278c4d41c6befce3790eb357f,External Call To User-Supplied Address,Low,107,5,1065
+ethereum,0x6625ba54dc861e9f5c678983dba5ba96d19a9224,External Call To User-Supplied Address,Low,107,5,1066
+ethereum,0x6625ba54dc861e9f5c678983dba5ba96d19a9224,External Call To User-Supplied Address,Low,107,5,1067
+ethereum,0x69fc3f84fd837217377d9dae0212068ceb65818e,External Call To User-Supplied Address,Low,107,5,1068
+ethereum,0x69fc3f84fd837217377d9dae0212068ceb65818e,External Call To User-Supplied Address,Low,107,5,1069
+ethereum,0x7383c2454d23a1e34b35ba02674be0a41bd5aa56,External Call To User-Supplied Address,Low,107,5,1070
+ethereum,0x7383c2454d23a1e34b35ba02674be0a41bd5aa56,External Call To User-Supplied Address,Low,107,5,1071
+ethereum,0x787f5541ee40cd0c94175251686ddbbcf69a7344,External Call To User-Supplied Address,Low,107,5,1072
+ethereum,0x787f5541ee40cd0c94175251686ddbbcf69a7344,External Call To User-Supplied Address,Low,107,5,1073
+ethereum,0x80e1048ede66ec4c364b4f22c8768fc657ff6a42,External Call To User-Supplied Address,Low,107,5,1074
+ethereum,0x80e1048ede66ec4c364b4f22c8768fc657ff6a42,External Call To User-Supplied Address,Low,107,5,1075
+ethereum,0x8aca0841993ef4c87244d519166e767f49362c21,External Call To User-Supplied Address,Low,107,5,1076
+ethereum,0x8aca0841993ef4c87244d519166e767f49362c21,External Call To User-Supplied Address,Low,107,5,1077
+bsc,0xe229fda620b8a9b98ef184830ee3063f0f86b790,External Call To User-Supplied Address,Low,107,5,1078
+bsc,0xe229fda620b8a9b98ef184830ee3063f0f86b790,External Call To User-Supplied Address,Low,107,5,1079
+bsc,0xe229fda620b8a9b98ef184830ee3063f0f86b790,Multiple Calls in a Single Transaction,Low,113,5,1080
+bsc,0xc6e111637440d1fe9c1ee45d5a1239771b267122,Delegatecall to user-supplied address,High,112,5,1081
+bsc,0xc6e111637440d1fe9c1ee45d5a1239771b267122,Delegatecall to user-supplied address,High,112,5,1082
+ethereum,0x195064d33f09e0c42cf98e665d9506e0dc17de68,External Call To User-Supplied Address,Low,107,5,1083
+ethereum,0x195064d33f09e0c42cf98e665d9506e0dc17de68,State access after external call,Medium,107,5,1084
+ethereum,0x195064d33f09e0c42cf98e665d9506e0dc17de68,State access after external call,Medium,107,5,1085
+ethereum,0x195064d33f09e0c42cf98e665d9506e0dc17de68,External Call To User-Supplied Address,Low,107,5,1086
+polygon,0x29f1e986fca02b7e54138c04c4f503dddd250558,Dependence on predictable environment variable,Low,116,5,1087
+scroll,0x0b79d5117dd22edc1e5f2649ac32746af7ca3445,Exception State,Medium,110,5,1088
+base,0x1e86a593e55215957c4755f1be19a229af3286f6,Exception State,Medium,110,5,1089
+ethereum,0x2e18b825b049c4994370b0db6c35d0100295b96c,Exception State,Medium,110,5,1090
+ethereum,0x31ccdb5bd6322483bebd0787e1dabd1bf1f14946,Exception State,Medium,110,5,1091
+base,0x339685503dd534d27ce4a064314c2e5c7144aa92,Exception State,Medium,110,5,1092
+base,0x39ce2eb762e7bfe19b6ad4d5ba384c67ce4051f0,Exception State,Medium,110,5,1093
+base,0x6809f4881707459ad0287c6467365e3c910e9373,Exception State,Medium,110,5,1094
+base,0x6d5c54f535b073b9c2206baf721af2856e5cd683,Exception State,Medium,110,5,1095
+base,0x8118c33513fec13f8cf488ccb4509190650f0e92,Exception State,Medium,110,5,1096
+base,0x829432679f69dbd8b2575f006ec0129894a39d86,Exception State,Medium,110,5,1097
+base,0xb24dc81f8be7284c76c7cf865b803807b3c2ef55,Exception State,Medium,110,5,1098
+base,0xc27ddd78fc49875fe6f844b72bbf31dfbb099881,Exception State,Medium,110,5,1099
+base,0xe1cd1c2d2e4b44de211d554649bc7dc49ef07784,Exception State,Medium,110,5,1100
+base,0xf1df4f17e34ba710dffc487f73f1e19476e815a6,Exception State,Medium,110,5,1101
+ethereum,0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee,External Call To User-Supplied Address,Low,107,5,1102
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1103
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1104
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1105
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1106
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1107
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1108
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1109
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1110
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Integer Arithmetic Bugs,High,101,5,1111
+ethereum,0x46363c31be0c677bd6f3ed429686753794ee8b97,Dependence on predictable environment variable,Low,116,5,1112
+ethereum,0x470458c91978d2d929704489ad730dc3e3001113,Multiple Calls in a Single Transaction,Low,113,5,1113
+ethereum,0x470458c91978d2d929704489ad730dc3e3001113,Write to an arbitrary storage location,High,124,5,1114
+ethereum,0x0c8c1ab017c3c0c8a48dd9f1db2f59022d190f0b,Delegatecall to user-supplied address,High,112,5,1115
+ethereum,0x0c8c1ab017c3c0c8a48dd9f1db2f59022d190f0b,Delegatecall to user-supplied address,High,112,5,1116
+ethereum,0x27a94869341838d5783368a8503fda5fbcd7987c,Delegatecall to user-supplied address,High,112,5,1117
+ethereum,0x27a94869341838d5783368a8503fda5fbcd7987c,Delegatecall to user-supplied address,High,112,5,1118
+bsc,0x33a32f0ad4aa704e28c93ed8ffa61d50d51622a7,Delegatecall to user-supplied address,High,112,5,1119
+bsc,0x33a32f0ad4aa704e28c93ed8ffa61d50d51622a7,Delegatecall to user-supplied address,High,112,5,1120
+bsc,0x8c925623708a94c7de98a8e83e8200259ff716e0,Delegatecall to user-supplied address,High,112,5,1121
+bsc,0x8c925623708a94c7de98a8e83e8200259ff716e0,Delegatecall to user-supplied address,High,112,5,1122
+polygon,0x1476322919a861e4e2215d87a721b93bd9c9919d,External Call To User-Supplied Address,Low,107,5,1123
+polygon,0x1476322919a861e4e2215d87a721b93bd9c9919d,Exception State,Medium,110,5,1124
+bsc,0x41351c6e23d55ffbf8992059a2033797a333dbc1,External Call To User-Supplied Address,Low,107,5,1125
+bsc,0x41351c6e23d55ffbf8992059a2033797a333dbc1,Exception State,Medium,110,5,1126
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1127
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1128
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1129
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,Multiple Calls in a Single Transaction,Low,113,5,1130
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,Multiple Calls in a Single Transaction,Low,113,5,1131
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1132
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1133
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1134
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1135
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1136
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1137
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1138
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1139
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1140
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1141
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1142
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1143
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1144
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1145
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1146
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1147
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1148
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,Multiple Calls in a Single Transaction,Low,113,5,1149
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1150
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1151
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1152
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1153
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1154
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1155
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,External Call To User-Supplied Address,Low,107,5,1156
+bsc,0x44d3a24fcd9e1f5a35c383889db1c874fab35a54,State access after external call,Medium,107,5,1157
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1158
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1159
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1160
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,Multiple Calls in a Single Transaction,Low,113,5,1161
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1162
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1163
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1164
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1165
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1166
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1167
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1168
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1169
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1170
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1171
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1172
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1173
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1174
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1175
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1176
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1177
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1178
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,Multiple Calls in a Single Transaction,Low,113,5,1179
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1180
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1181
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1182
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1183
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1184
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1185
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,External Call To User-Supplied Address,Low,107,5,1186
+avalanche,0x7f20f17660a5b9565dc7c98efc360e3c7092c72e,State access after external call,Medium,107,5,1187
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1188
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1189
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1190
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,Multiple Calls in a Single Transaction,Low,113,5,1191
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,Multiple Calls in a Single Transaction,Low,113,5,1192
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1193
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1194
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1195
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1196
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1197
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1198
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1199
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1200
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1201
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1202
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1203
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1204
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1205
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1206
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1207
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1208
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1209
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,Multiple Calls in a Single Transaction,Low,113,5,1210
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1211
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1212
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1213
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1214
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1215
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1216
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,External Call To User-Supplied Address,Low,107,5,1217
+bsc,0x85c3c3452b409db107d2f38cf60b2802ef59aaf4,State access after external call,Medium,107,5,1218
+bsc,0x87b4a0b47704c281f6ef2705dc5d57d47ffdd9bf,External Call To User-Supplied Address,Low,107,5,1219
+bsc,0x87b4a0b47704c281f6ef2705dc5d57d47ffdd9bf,Exception State,Medium,110,5,1220
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1221
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1222
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1223
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,Multiple Calls in a Single Transaction,Low,113,5,1224
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,Multiple Calls in a Single Transaction,Low,113,5,1225
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1226
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1227
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1228
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1229
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1230
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1231
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1232
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1233
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1234
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1235
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1236
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1237
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1238
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1239
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1240
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1241
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1242
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,Multiple Calls in a Single Transaction,Low,113,5,1243
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1244
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1245
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1246
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1247
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1248
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1249
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,External Call To User-Supplied Address,Low,107,5,1250
+bsc,0xb3f8a31521833a9bc4e75129a3d203fc9b4802c8,State access after external call,Medium,107,5,1251
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1252
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1253
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1254
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,Multiple Calls in a Single Transaction,Low,113,5,1255
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,Multiple Calls in a Single Transaction,Low,113,5,1256
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1257
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1258
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1259
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1260
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1261
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1262
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1263
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1264
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1265
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1266
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1267
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1268
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1269
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1270
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1271
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1272
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1273
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,Multiple Calls in a Single Transaction,Low,113,5,1274
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1275
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1276
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1277
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1278
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1279
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1280
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,External Call To User-Supplied Address,Low,107,5,1281
+bsc,0xcee0c2f132083175bf5f06c5490c911a21a70461,State access after external call,Medium,107,5,1282
+ethereum,0x1e49892c0d0d4455bbba633eedadd6d26224369e,Exception State,Medium,110,5,1283
+ethereum,0x1e49892c0d0d4455bbba633eedadd6d26224369e,Integer Arithmetic Bugs,High,101,5,1284
+ethereum,0x1e49892c0d0d4455bbba633eedadd6d26224369e,Exception State,Medium,110,5,1285
+ethereum,0x1e49892c0d0d4455bbba633eedadd6d26224369e,Dependence on predictable environment variable,Low,116,5,1286
+ethereum,0x1e49892c0d0d4455bbba633eedadd6d26224369e,Exception State,Medium,110,5,1287
+bsc,0x3e29633846e8b857b7f6d7f293f895186804264b,Dependence on predictable environment variable,Low,116,5,1288
+bsc,0x4e141769366634d9c4e498257fa7ec204d22b634,Dependence on predictable environment variable,Low,116,5,1289
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Exception State,Medium,110,5,1290
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Dependence on predictable environment variable,Low,116,5,1291
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Dependence on predictable environment variable,Low,116,5,1292
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Dependence on predictable environment variable,Low,116,5,1293
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,External Call To User-Supplied Address,Low,107,5,1294
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Dependence on predictable environment variable,Low,116,5,1295
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Exception State,Medium,110,5,1296
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Dependence on predictable environment variable,Low,116,5,1297
+ethereum,0x175d6cbaeff93734ada4c5430815f2208a6b040c,Exception State,Medium,110,5,1298
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Exception State,Medium,110,5,1299
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Dependence on predictable environment variable,Low,116,5,1300
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Dependence on predictable environment variable,Low,116,5,1301
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Dependence on predictable environment variable,Low,116,5,1302
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Dependence on predictable environment variable,Low,116,5,1303
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Exception State,Medium,110,5,1304
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Dependence on predictable environment variable,Low,116,5,1305
+ethereum,0x26572bf2620108cb5006987e6348c07dc4e14a0f,Exception State,Medium,110,5,1306
+ethereum,0x290e5484601986667dc6ca72119f2b85260ca92e,Exception State,Medium,110,5,1307
+ethereum,0x290e5484601986667dc6ca72119f2b85260ca92e,Dependence on predictable environment variable,Low,116,5,1308
+ethereum,0x290e5484601986667dc6ca72119f2b85260ca92e,External Call To User-Supplied Address,Low,107,5,1309
+ethereum,0x44d771d0c998f524ff39ab6df64b72bce1d09566,Dependence on predictable environment variable,Low,116,5,1310
+ethereum,0x44d771d0c998f524ff39ab6df64b72bce1d09566,External Call To User-Supplied Address,Low,107,5,1311
+ethereum,0x44d771d0c998f524ff39ab6df64b72bce1d09566,Dependence on predictable environment variable,Low,116,5,1312
+ethereum,0x4599cda238fb71573fd5a0076c199320e09bcff0,Dependence on predictable environment variable,Low,116,5,1313
+ethereum,0x4599cda238fb71573fd5a0076c199320e09bcff0,External Call To User-Supplied Address,Low,107,5,1314
+ethereum,0x4599cda238fb71573fd5a0076c199320e09bcff0,Dependence on predictable environment variable,Low,116,5,1315
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Exception State,Medium,110,5,1316
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Dependence on predictable environment variable,Low,116,5,1317
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Dependence on predictable environment variable,Low,116,5,1318
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Dependence on predictable environment variable,Low,116,5,1319
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,External Call To User-Supplied Address,Low,107,5,1320
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Dependence on predictable environment variable,Low,116,5,1321
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Exception State,Medium,110,5,1322
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Dependence on predictable environment variable,Low,116,5,1323
+ethereum,0x75e9f410e8d1d7240b67ec6fe35fa37580b814d9,Exception State,Medium,110,5,1324
+ethereum,0x7e537e8b5028a32166f06c8664cde9d608487428,Exception State,Medium,110,5,1325
+ethereum,0x7e537e8b5028a32166f06c8664cde9d608487428,Dependence on predictable environment variable,Low,116,5,1326
+ethereum,0x7e537e8b5028a32166f06c8664cde9d608487428,External Call To User-Supplied Address,Low,107,5,1327
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Exception State,Medium,110,5,1328
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Dependence on predictable environment variable,Low,116,5,1329
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Dependence on predictable environment variable,Low,116,5,1330
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Dependence on predictable environment variable,Low,116,5,1331
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,External Call To User-Supplied Address,Low,107,5,1332
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Dependence on predictable environment variable,Low,116,5,1333
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Exception State,Medium,110,5,1334
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Dependence on predictable environment variable,Low,116,5,1335
+ethereum,0x8d704d4107cbe5ebe8c0236c5506b30bf8bad305,Exception State,Medium,110,5,1336
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Exception State,Medium,110,5,1337
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on tx.origin,Low,115,5,1338
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1339
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on tx.origin,Low,115,5,1340
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1341
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1342
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1343
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on tx.origin,Low,115,5,1344
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1345
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1346
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1347
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,External Call To User-Supplied Address,Low,107,5,1348
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1349
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Exception State,Medium,110,5,1350
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1351
+ethereum,0xc0c135d29ba6bb1ca5f88571a0c45807c3015c64,Dependence on predictable environment variable,Low,116,5,1352
+ethereum,0xd48b633045af65ff636f3c6edd744748351e020d,Dependence on predictable environment variable,Low,116,5,1353
+ethereum,0xd48b633045af65ff636f3c6edd744748351e020d,Dependence on predictable environment variable,Low,116,5,1354
+bsc,0x98051143830fa99848e7059e97acb03b3cc62403,Dependence on predictable environment variable,Low,116,5,1355
+bsc,0x98051143830fa99848e7059e97acb03b3cc62403,Dependence on predictable environment variable,Low,116,5,1356
+bsc,0x98051143830fa99848e7059e97acb03b3cc62403,Dependence on predictable environment variable,Low,116,5,1357
+bsc,0x98051143830fa99848e7059e97acb03b3cc62403,Dependence on predictable environment variable,Low,116,5,1358
+ethereum,0x1a0ad011913a150f69f6a19df447a0cfd9551054,Delegatecall to user-supplied address,High,112,5,1359
+ethereum,0x1a0ad011913a150f69f6a19df447a0cfd9551054,Delegatecall to user-supplied address,High,112,5,1360
+ethereum,0x3e2ea9b92b7e48a52296fd261dc26fd995284631,Multiple Calls in a Single Transaction,Low,113,5,1361
+ethereum,0x3e2ea9b92b7e48a52296fd261dc26fd995284631,Write to an arbitrary storage location,High,124,5,1362

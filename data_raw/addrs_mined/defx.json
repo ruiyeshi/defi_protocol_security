@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x091486f9427cf07942fa17ad7194be3feadfa46d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defx/index.js"
+  },
+  {
+    "address": "0xeaef42356f5893e1043b38b050d6ed6a0231e8b0",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defx/index.js"
+  },
+  {
+    "address": "0x1c0eaa2e6d6a959d510bb7f4e9d112a66cdab8e1",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defx/index.js"
+  },
+  {
+    "address": "0x73e9f16a6c7b9b838f94d9ab87d623cf35c7f133",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defx/index.js"
+  }
+]

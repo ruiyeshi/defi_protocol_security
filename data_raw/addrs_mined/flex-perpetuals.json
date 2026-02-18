@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0x6304ce3f4ef20ec0aab3981d0b4428beeb96c3ac",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0xe248c0bce837b8dfb21fdfa51fb31d22fbbb4380",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x915595336dad62fd1c3600193a16b3f44b44d27e",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x8ae234597bf9670aa854e3928a2b016af2cba33b",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x789e4612f6c2b1c851493f015de0b32b567c281d",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x627e812204e5ab4e2d35836621f958a1e556da67",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x651e03a1a9d1657c870ee22165c331bebaeaed97",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0x053fa05d34c51afc5cb9f162fab3fd675ac06119",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0xbd5e6070e1dd19bd3af24a46cae2634da9f22e5b",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  },
+  {
+    "address": "0xf00e53b7f3112834625f5ad5d47da0e6e427e660",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/flex-perpetuals/addresses.json"
+  }
+]

@@ -1,0 +1,15 @@
+mythril_title,High,Medium,Low,total
+Delegatecall to user-supplied address,356,0,0,356
+Dependence on predictable environment variable,0,0,258,258
+External Call To User-Supplied Address,0,0,188,188
+Exception State,0,166,0,166
+State access after external call,0,152,3,155
+Multiple Calls in a Single Transaction,0,0,66,66
+Integer Arithmetic Bugs,57,0,4,61
+Dependence on tx.origin,0,0,59,59
+requirement violation,0,23,0,23
+Write to an arbitrary storage location,21,0,0,21
+Unprotected Ether Withdrawal,3,0,0,3
+Transaction Order Dependence,0,2,0,2
+Unprotected Selfdestruct,2,0,0,2
+Unchecked return value from external call.,0,1,0,1

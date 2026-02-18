@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0xcc61e9470b5f0ce21a3f6255c73032b47aaea9c0",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/extra-finance-xlend/index.js"
+  },
+  {
+    "address": "0x1566da4640b6a0b32ff309b07b8df6ade40fd98d",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/extra-finance-xlend/index.js"
+  }
+]

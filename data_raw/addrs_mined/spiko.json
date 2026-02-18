@@ -1,0 +1,87 @@
+[
+  {
+    "address": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x903d5990119bc799423e9c25c56518ba7dd19474",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x99f70a0e1786402a6796c6b0aa997ef340a5c6da",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x970e2adc2fdf53aea6b5fa73ca6dc30eafedfe3d",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x4f33acf823e6eeb697180d553ce0c710124c8d59",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x3868d4e336d14d38031cf680329d31e4712e11cc",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0xf695df6c0f3bb45918a7a82e83348fc59517734e",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x021289588cd81dc1ac87ea91e91607eef68303f5",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0xcbeb19549054cc0a6257a77736fc78c367216ce7",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x0e389c83bc1d16d86412476f6103027555c03265",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0xa8de1f55aa0e381cb456e1dcc9ff781ea0079068",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x20ff2f6021ada9edbceaf31b96f9f67b746662a6",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x4f5e0de717daa6aa8de63b1bf2e8d7823ec5b21a",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x04bade88e79a6120f893d64e51006ac6853eceee",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x06472cabc51a3805975b9c60c7dec63897c9a287",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  },
+  {
+    "address": "0x0153d6e0462080bb2842109e9b64f589ef5aa06b",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/spiko/index.js"
+  }
+]

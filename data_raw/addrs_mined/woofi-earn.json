@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000042",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0xf3df0a31ec5ea438150987805e841f960b9471b6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  },
+  {
+    "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/woofi-earn/index.js"
+  }
+]

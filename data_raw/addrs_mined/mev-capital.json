@@ -1,0 +1,727 @@
+[
+  {
+    "address": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x81e064d0eb539de7c3170edf38c1a42cbd752a76",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd3a9cb7312b9c29113290758f5adfe12304cd16a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x5c9f0d8057be5ed36eeeab9b78b9c5c3f8126ab1",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6eb6724d8d3d4ff9e24d872e8c38403169dc05f8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd19e3d00f8547f7d108abfd4bbb015486437b487",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x057ced81348d57aad579a672d521d7b4396e8a61",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x323578c2b24683ca845c68c1e2097697d65e2358",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1fdbd27ba90a7a5385185e3e0b76477202f2cadb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd63070114470f685b75b74d60eec7c1113d33a3d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd50da5f859811a91fd1876c9461fd39c23c747ad",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x749794e985af5a9a384b9cee6d88dab4ce1576a1",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x98cf0b67da0f16e1f8f1a1d23ad8dc64c0c70e0b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x28d24d4380b26a1ef305ad8d8db258159e472f33",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd41830d88dfd08678b0b886e0122193d54b02acc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1265a81d42d513df40d0031f8f2e1346954d665a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x5f7827fdeb7c20b443265fc2f40845b715385ff2",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x5422374b27757da72d5265cc745ea906e0446634",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xda4063ec62c3f3c1d2bdbf7dbfb2b2c906f8e8b2",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xc0a14627d6a23f70c809777ced873238581c1032",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x8e3c0a68f8065dc666065f16cf902596a60d540e",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x5fd13359ba15a84b76f7f87568309040176167cd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xc65433845ecd16688eda196497fa9130d6c47bd8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0f37f1ff51fc2f8a9907ef3e226a12fdc47de4ad",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x73d596efeae0a6833079e4fc999fd5cee55770a5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x70558848f6b31ae03ad5a25868cd3d25e0fe8506",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1af14ebc81e8f92e0da13d2912091d556a4ac47b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x64047dd3288276d70a4f8b5df54668c8403f877f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xdc47953c816531a8ca9e1d461ab53687d48eea26",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xea0f2ea61998346ad39dddef7513ae90915afb3c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0fdf3b986d62be6ae1d5228e5da90ff6f00c15f6",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x9205c82d529a79b941a9df2f621a160891f57a0d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xf60e6e6d8648fdbc2834ef7bc6f5e49ab55bec31",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd25f31806de8d608d05dfeaeb1140c1d365864b3",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x446970400e1787814ca050a4b45ae9d21b3f7ea7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x3b512427ca6345e67101eccb78d9c8508714818c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x4e0554959a631b3d3938ffc158e0a7b2124af9c5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xe2d6a2a16ff6d3bbc4c90736a7e6f7cc3c9b8fa9",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xe3ea69f8661ffac04e269f99c14ba73e2bb10633",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6b6976aa97cd2473b388fa9b9eeb8cca4f5a77a4",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xe00a44e1210bae0eaceeeaf202c349d4b16480fe",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x2306e17c7198282985a95b1ce0f63820846d0290",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xb07bf05af5a13d357aa1220c661bb0fb791bedcb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x463af6add7b5806cf0ea30ec30f2030bf4f05175",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0de3821015518a6179a51d27bc7ed4a0a3c45b52",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1334d0e5ca5855a803998fcc78548142bef36e3b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x01d1a1cd5955b2fefb167e8bc200a00bfada8977",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x9426c7a40d5c9dd709cbc2894a7e6481f265b6bb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xfc1b4e3d8291746ccdeb813805c8912bbe0a7316",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xc5ff8dde483903ffd2fbe5bf54a02b80f2bae7f7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x9913790dd5d3d8389f682a15e4fa90a22891ff49",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6c37d34a895456aa29cabe0cacb60fc56309c7ac",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xa01227a26a7710bc75071286539e47adb6dea417",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xa1150cd4a014e06f5e0a6ec9453fe0208da5adab",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x030b69280892c888670edcdcd8b69fd8026a0bf3",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xb64c014307622eb15046c66ff71d04258f5963dc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x5fde59415625401278c4d41c6befce3790eb357f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xdadeacc03a59639c0ece5ec4ff3bc0d9920a47ec",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x416ec6e04c009f9bae99a47ef836bf2cc64ec93c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd6fd5d4fa64fc7131e0ec3a4a53dc620a0ffc1bc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x164645fbc7220a3b4f8f5c6b473bcf1b6db146dd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xa10c40f9e318b0ed67ecc3499d702d8db9437228",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x3bae96aa06fe7b52f28fd41e544cc76a5f532f81",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xa97087d21d0b470cb1a09255d26e34e1a392cbfd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xdc87d00d83153374e150d17b960fc74aa413d03a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x8eb9f9e97d6a63aab7572ad0d96fa3f09255cce9",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd731f94c778f7c1090e2e0d797150a647de5188a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xc063181747e56c034ac14dc82db663409566fdf6",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x3f93576d13091bfbf6825f7421ef33cc353dc433",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0b14d0bdaf647c541d3887c5b1a4bd64068fcda7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xa60643c90a542a95026c0f1dbdb0615ff42019cf",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x9b33073eb98a9a1eb408dedcd08616fe850b3f09",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6d57dad0f1c4da0c1d5443ae8f7f8a50bdb9cf75",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd538b6aef78e4bdde4fd4576e9e3a403704602bc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xad9e5e2647efb9137b6b8d688d4906fa51476870",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1371dd58ce95ecd624340f072f97212a2661a280",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6d976915bd9de43de1a60c39e128e320dadda000",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x558b16e07b8558b2a54946ca973b7b20b86a8b87",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x3de0ca4af11108c94c9066a935ee67e53b7f9447",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x2cccd307bb616e5f896ab61cae09ef4e5e9fedb7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x413dfb1814a6b5fe4488c49f86e2a74d285ffd5b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x34018ac9dc4b114036ca148aa18c8f75594e5e95",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x4eb3351066494852a03ffbbde40a9776380ce20d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x91e1ec1e948f635c127dad41eae1af899399f15a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1dfb669df5e70d4238f2cc0a9ee3b1a21ff91bc0",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xb758d6ec8111feb9b0ec758a61b7874e5821dffd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x85dba39b85218229a4c3b9b037d05cd6eb4cf05d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xb8064453b25a91d7a4e8b7e7883a817d5742de34",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xbabf4ce18fbab547ad5939deff825f3e2f8d9402",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x826244d9db2a0f438c3190a0f393c13d41ad7a2e",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd98125a23faeb48180e33ca6eef8f128e07418d1",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x107a441c473517a37b03dcd8024c5b63e3cc13df",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x777c95b204e2ed3906885ef09f4531882587b52c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xe54dffd36177975938a3873e522dee535adebe01",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x7593931d08e3baa750ca3cb6a0d0fde6acd65107",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x216f6d6c2ca15f83b656f3e9a8fcdf615dbc1710",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0dd93eb321a768a274d21062067b52527abd4506",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd6f4ee21c946071cf13d773e2ab1e31d44a27a54",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x088241d1c5c951c59fb66083b291b69e3cc27e8c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6402d64f035e18f9834591d3b994dfe41a0f162d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xdd1f54b1edc141f47ec5294ad5aa62243bfa6d59",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd2af7ca672453604c537ca9d6293b224b7744d7a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x8e1650d3343023c527b6a6cc0c2551bb100fe22b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x4851d4891321035729713d43be1f4bb883dffd34",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0806af1762bdd85b167825ab1a64e31cf9497038",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xb38d431e932fea77d1df0ae0dfe4400c97e597b8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x196f3c7443e940911ee2bb88e019fd71400349d9",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x90a804d316a06e00755444d56b9ef52e5c4f4d73",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6832f3090867449c058e1e3088e552e12ab18f9e",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xa5cd24d9792f4f131f5976af935a505d19c8db2b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x9144c0f0614dd0ace859c61cc37e5386d2ada43a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x05d57366b862022f76fe93316e81e9f24218bbfc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1cda7e7b2023c3f3c94aa1999937358fa9d01aab",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xfffc9d22304cf49784e9b31ddbeb066344b2b856",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xeeaab5c863f4b1c5356af138f384adc25cb70da6",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xf6e2ddf7a149c171e591c8d58449e371e6dc7570",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xdbc46ff39cae7f37c39363b0ca474497dad1d3cf",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x08f04a3db30b0cd7e42e61b4e412b1123c52e8a1",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6f2ab32a6487a2996c74ed2b173dfdf3d5eedb58",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xd506f1e4adfcf1196b7c5d2ebf4e858e33d7a93e",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xb936137169d777fcb8b7cf02329620b78fccec0a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xdebdab749330bb976fd10dc52f9a452aaf029028",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x12ac805f4596c3e55bb100b4593a1b8025cd2056",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x8d024593d781b1c86ecd5d0f899d10c5e9de7069",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xc37fa1c70d77bded373c551a92babcee44a9d04e",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x7ad07b280a17ac7af489e487eaaf004b69786a0a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xde604f03e44247b31f71c4fa055f9f3ea08d1271",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xf71b17ccf362b6dcc1b6917a05820477cf7802a0",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6e14a20334724a194d2f8b38162522cad202b986",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x6f11663766bb213003cd74eb09ff4c67145023c5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x0532d4f06ba9b159d0b456662cc488eefe2fe34f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x4c9edf85b8b33198f0c29a799965b6df1ae67435",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0xf2532428472a4cbdf27f20ca39e81da6deb420b5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x8773447e6369472d9b72f064ea62e405216e9084",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  },
+  {
+    "address": "0x45f8cc9a58285b7e7000eb14738346569963179d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mev-capital/index.js"
+  }
+]

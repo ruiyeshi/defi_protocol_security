@@ -1,0 +1,432 @@
+[
+  {
+    "address": "0x3e5b7929c71b4d6fe88c3577382786d6169005d7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x4849bb3f7fcad49437f3107a578e063677424302",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x81ec6e89fd4e45c90ce77c9abbea3629f649c4e9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x8dcba0b75c1038c4babbdc0ff3bd9a8f6979dd13",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xa00d47b4b304792eb07b09233467b690db847c91",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xe46456153cf0e767528f4a4cd3b613d5c4101e48",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xefa2e1e46b83d572d01521c4c64845b0227b6314",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xf28e099827cb05c9c35397859b4b626218c5a1cc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x1e987756305c6506a8687e6ceb85872c48ceaa3b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x2bb779ce585a19a202ccc6e583968431b3f15ea8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x5c796c3cee0ca11e21f707bc3dfea8edda6b197d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x63489c42530234b8f5d1124d2e671129be32b3b5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xb343cc2378dcff9a6f81b4eee3d8ecdc88560f6a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xb957d5a232eebd7c4c4b0a1af9f2043430304e65",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xc1b384610a90513ea599bb15fefa3d5bffb2a790",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xec07dd093007aae16508f76c07d26217b7db9f1b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x2cbc4487f0b489d554b72b2e7f9679c3cd1efbc2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x06d3ae1cfe7d3d27b8b9f541e2d76e5f33778923",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x242dd049be49e795cd60f0da812deef7cf4104dc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x7166f0509bd1deedf90e42046025d929078089b4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x6817f1adf8fc29f5cf23ba814cee18120f5e88b7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x65151e7a82c4415a73756608e2c66b39a57dca12",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x16875107bb3ce4b0c120c95b3b8d3f94d799c0ef",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x838d141bdbeceaa2eb1c576b6a4309f26f795cf2",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xffce6db18f18d711ef7bf45b501a6b652b44bc43",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xd448ac2a2d9c85010459e5f5bf81931e5bc40ec3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x7f0997bc0ee78553ddab736d945b7ba10fe38b2e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x94d81405985a4c34eac4945d2b98c74258edd07f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xe8f4895df06a0c69a9ba87509efdbbfbafe86c2d",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x7c80be56a6f23a3e598822648baafd7524fe1239",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xdd14d0c651c63e1eea5bd8b250cf99757425d68f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xc90073e1cabcf5069e00c5a6cb10023c9e1d5c4f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xb7e5e74b52b9ada1042594cfd8abbdee506cc6c5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x15ed28e9396fa906b2a2bca0c729d7cced7c646e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xcc5c1540683aff992201d8922df44898e1cc9806",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x01a464e2bf76bd4a3a50073026ff2335584d67d8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x1c1ccd7199afb175b425e9a1a910a3326f73faa3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x3d5fcbed1c9b6c9b0f6dea1ded55b161a6efef31",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x4b28550846405a7825247f54070b568c2ece3eeb",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xcf49f93ff15b0ab9d336f1d5c8697f12d95012c4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0xd9de9f15994182518a688933d09787a9a9fb5bc9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x83f22f87f504f8b9f10eb73ab05c58a0973b6681",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x7f2ffc27618afded2813e457953514c54778fa1c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/blacklist.js"
+  },
+  {
+    "address": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xcf083be4164828f00cae704ec15a36d711491284",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x684d8c187be836171a1af8d533e4724893031828",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xb07c75e3db03eb69f047b92274019912014ba78e",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x1a645bfb46b00bb2dce6a1a517d7de2999155fe4",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xfb8bd40c0a13d141b26ee190ca87991ec54932e9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xcaf3fb1b03f1d71a110167327f5106be82bee209",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x359f20ad0f42d75a5077e65f30274cabe6f4f01a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x1c6e968f2e6c9dec61db874e28589fd5ce3e1f2c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x71539d09d3890195dda87a6198b98b75211b72f3",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xac2ee06a14c52570ef3b9812ed240bce359772e7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x111eeeb6bfab9e8d0e87e45db15031d89846e5d7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x78a2251f1aaeaa8fc1eafcc379663cca3f894708",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x6ef065573cd3fff4c375d4d36e6ca93cd6e3d499",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x734d84631f00dc0d3fcd18b04b6cf42bfd407074",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x268bb0220ab61abd9bd42c5db49470bb3e6b0b2f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xc6366efd0af1d09171fe0ebf32c7943bb310832a",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x420dd381b31aef6683db6b902084cb0ffece40da",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xed8db60acc29e14bc867a497d94ca6e3ceb5ec04",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x3e84d913803b02a4a7f027165e8ca42c14c0fde7",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x8909dc15e40173ff4699343b6eb8132c65e18ec6",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x92af10c685d2cf4cd845388c5f45ac5dc97c5024",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x074568f090e93194289c2c2bf285ee7f60b485a9",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x6c041ff2d25310a2751c57555265f2364caca195",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x9ad6c38be94206ca50bb0d90783181662f0cfa10",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xefa94de7a4656d787667c749f7e1223d71e9fd88",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x48168439ca4ef9e95975e3e2488bfcbd8fb1a80c",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x1899d3b1e62a1e52cab440ef065d6a6cdfcf1125",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x28e22d8c807b6e6c0eca4373fc3b9920453ceeee",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x317371f126680734d7db2ace2d751ffc0bd4b771",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x2b965fdf04f9e9beef1659464ef3a0094a68d923",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xa19c51d91891d3df7c13ed22a2f89d328a82950f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xddd9845ba0d8f38d3045f804f67a1a8b9a528fcc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x543cc9542314e0bec710eccd03586006df355d83",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x05c1be79d3ac21cc4b727eed58c9b2ff757f5663",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0xb84bba16a3a332ac2e66aa4508db1efd300cde2b",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x2da25e7446a70d7be65fd4c053948becaa6374c8",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x1d3258b9c35198454c1f44e89003de5851748cc5",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  },
+  {
+    "address": "0x0f929c29dce303f96b1d4104505f2e60ee795cac",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v2/index.js"
+  }
+]

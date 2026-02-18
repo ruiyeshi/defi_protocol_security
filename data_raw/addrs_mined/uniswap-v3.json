@@ -1,0 +1,342 @@
+[
+  {
+    "address": "0xb17d69c91135516b0256c67e8bd32cd238b56161",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xa850478adaace4c08fc61de44d8cf3b64f359bec",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x055284a4ca6532ecc219ac06b577d540c686669d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x8c0411f2ad5470a66cb2e9c64536cfb8dcd54d51",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x277667eb3e34f134adf870be9550e9f323d0dc24",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x4c83a7f819a5c37d64b4c5a2f8238ea082fa1f4e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x290a6a7460b308ee3f19023d2d00de604bcf5b42",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x4b5ab61593a2401b1075b90c04cbcdd3f87ce011",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x582d23c7ec6b59afd041a522ff64ff081e8c0d2d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xaf44e10ed87d90f28bff2d1fbef1f64b090f5ebb",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xdfef6416ea3e6ce587ed42aa7cb2e586362cbbfa",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x7e9c15c43f0d6c4a12e6bdff7c7d55d0f80e3e23",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x1111111becab3c8866712ebf23fc4741010b8dce",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x77777777b79f2fa437bf526169f98aa0c884c4b7",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xd4d2f4110878a33ea5b97f0665e518253446161a",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x8d52c2d70a7c28a9daac2ff12ad9bfbf041cd318",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xd5302a8ead77b85ea3326b45f4714e0b3432b233",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xc951ab482ff11d8df636742e1f1c3fc8037427a9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xbf7970d56a150cd0b60bd08388a4a75a27777777",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x33128a8fc17869897dce68ed026d694621f6fdfd",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xafe208a311b21f13ef87e33a90049fc17a7acdec",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x28f1158795a3585caaa3cd6469cd65382b89bb70",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x8fda5a7a8dca67bbcdd10f02fa0649a937215422",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xffcd7aed9c627e82a765c3247d562239507f6f1b",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xaf37ec98a00fd63689cf3060bf3b6784e00cad82",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x70c62c8b8e801124a4aa81ce07b637a3e83cb919",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x792edade80af5fc680d96a2ed80a44247d2cf6fd",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x31fafd4889fa1269f7a13a66ee0fb458f27d72a9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x06d830e15081f65923674268121ff57cc54e4e23",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x740b1c1de25031c31ff4fc9a62f554a55cdc1bad",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x75fc67473a91335b5b8f8821277262a13b38c9b3",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x0d922fb1bc191f64970ac40376643808b4b74df9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xff83c3c800fec21de45c5ec30b69ddd5ee60dfc2",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xe32f7dd7e3f098d518ff19a22d5f028e076489b1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xcb2436774c3e191c85056d248ef4260ce5f27a9d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x7a5028bda40e7b173c278c5342087826455ea25a",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x346239972d1fa486fc4a521031bc81bfb7d6e8a4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x1f98400000000000000000000000000000000003",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xe0704db90bcaa1eafc00e958ff815ab7aa11ef47",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x454050c4c9190390981ac4b8d5afcd7ac65eeffa",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x204faca1764b154221e35c0d20abb3c525710498",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x760afe86e5de5fa0ee542fc7b7b713e1c5425701",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x7314af7d05e054e96c44d7923e68d66475ffaab8",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xd1fdf0144be118c30a53e1d08cc1e61d600e508e",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x55ff62567f09906a85183b866df84bf599a4bf70",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x02c282f60fb2f3299458c2b85eb7e303b25fc6f0",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x14af1f2f02dccb1e43402339099a05a5e363b83c",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x03f490ae5b59e428e6692059d0dca1b87ed42ae1",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x4701f80124f5ebf6846a43929b22a917bc30b2ca",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x0c6d9d0f82ed2e0b86c4d3e9a9febf95415d1b76",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xc809d13e9ea08f296d3b32d4c69d46ff90f73fd8",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x6d9115a21863ce31b44cd231e4c4ccc87566222f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0x3fd993e02095478ec7272d949f5c63dfece7eed8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xa8235e34eba238ccf1cf952f853e1a095637be92",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xc87f5d3ed6c61582bc4b866202c0953730121615",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  },
+  {
+    "address": "0xff8b5ea09291191f6eca3ea3d827daa094cebc75",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:uniswap-v3/index.js"
+  }
+]

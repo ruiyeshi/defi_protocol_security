@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0x548f93779fbc992010c07467cbaf329dd5f059b7",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x9fac7b75f367d5b35a6d6d0a09572efcc3d406c5",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x38e5be3501687500e6338217276069d16178077e",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x3085f25cbb5f34531229077baac20b9ef2ae85cb",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0xa2242d0a8b0b5c1a487abfc03cd9fef6262badca",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x2d5875ab0efb999c1f49c798acb9efbd1cfbf63c",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0xf9fc0b2859f9b6d33fd1cea5b0a9f1d56c258178",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x773f34397d5f378d993f498ee646ffe4184e00a3",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0xccbf79aa51919f1711e40293a32bbc71f8842fc3",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x6c72adbdc1029ee901dc97c5604487285d972a4f",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0xe771b4e273df31b85d7a7ae0efd22fb44bdd0633",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  },
+  {
+    "address": "0x952adbb385296dcf86a668f7eaa02df7eb684439",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/bmx-classic-perps/index.js"
+  }
+]

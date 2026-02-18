@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x2d3cd7b81c93f188f3cb8ad87c8acc73d6226e3a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/reflexer/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/reflexer/index.js"
+  },
+  {
+    "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/reflexer/index.js"
+  },
+  {
+    "address": "0xcc88a9d330da1133df3a7bd823b95e52511a6962",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/reflexer/index.js"
+  },
+  {
+    "address": "0x4554482d41000000000000000000000000000000",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/reflexer/index.js"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x47ecfb57ded0160d66103a6a201c5f30f7cc7d13",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/prime-protocol/index.js"
+  },
+  {
+    "address": "0x30095b6616eb637b72f86e9613cdacf18c11ed8d",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/prime-protocol/index.js"
+  },
+  {
+    "address": "0xd7af46089c5ed25871b770f18a2ff1c07929abfa",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/prime-protocol/index.js"
+  },
+  {
+    "address": "0x9ee26206bc1143668ad56498b8c7a621bfa27c00",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/prime-protocol/index.js"
+  }
+]

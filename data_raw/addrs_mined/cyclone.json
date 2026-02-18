@@ -1,0 +1,177 @@
+[
+  {
+    "address": "0xdc71bc29d12960a3ee5452fac6f033a1b8e756fb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x37d9c7f451e5c619a7d4ca01e06761eb7dae6f89",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xd619c8da0a58b63be7fa69b4cc648916fe95fa1b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x52609307f2f6c43b7df63364ef65718d299ac246",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xb6e9ea062a7719846bc9e3e3ae8712e74faad376",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xa38b6742cef9573f7f97c387278fa31482539c3d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x09f03488291063a8f3c67d2aab7002419d11c113",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x92a737097d711bec4c31351997254e98e5f0d430",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xecf30fbecfa642012f54212a3be92eef1e48edac",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xd90a6bf8439ef7214cf00da83e926068b6a507ec",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x810ee35443639348adbbc467b33310d2ab43c168",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x66b5e322dc31f8c7a33ffd23975163795f8d16c7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x79459751f6882868d1299bfa412428488b434541",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x9678e42cebeb63f23197d726b29b1cb20d0064e5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xbe19d541389c9d3e03efc08f3d5008e8c9cc42a5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xacf00a84559f536ba64064a4c73b74698013ef36",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x1381b170681074fedaf1c4e35be1880bc4e85c4a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xb80d026a7faa8c35def0e430f9b36163ac949c19",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x4d7b88403aa2f502bf289584160db01ca442426c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xfa886fe8d27b284525974ddc6e2c0cb858a57251",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xf87aed04889a1dd0159d9c22b0d57b345ab16ddd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x0ad3bee1ee270339c921fb20686bfd90245ee5d8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x3fe04320885e6124231254c802004871be681218",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xdfbdf24b8019ef44f321de54d456ddd216e73163",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x84abcb2832be606341a50128aeb1db43aa017449",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xa8c187d8773bc9e49a10554715ff49bdcf39d55d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x6ea88502bc127ef1a7f45fac6b7168fc0633ba51",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x3e2c1b4dfa868a6ffd8cdc20d7bfa9abb4462284",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x87059fdff1dc655acf8652ba530d89f38de22f16",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0xb5aee5f2743a9f4abce9c964d1530e3e96725be7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  },
+  {
+    "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cyclone/contracts.json"
+  }
+]

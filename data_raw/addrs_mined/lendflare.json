@@ -1,0 +1,297 @@
+[
+  {
+    "address": "0x4c3c78cebc9cc87436deed2782998bc002f2b69f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x51cec58171863ea82ce3b99a190f3843fe7aabf5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x85b7cc4fd8767651c752d9ea76fc7dd388e391a0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x49849c98ae39fff122806c06791fa73784fb3675",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x2d3a0eca75c429b00627af759a14223c34bf910f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xb19059ebb43466c323583928285a49f558e572fd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x99b496d54848f2a98c4aa0b934f23b0f5c298e31",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xa3d87fffce63b53e0d54faa1cc983b7eb0b74a9c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x247b24e945d604c896165ccb2f15e190560f2133",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x06325440d014e39736583c165c2963ba99faf14e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xc0e4f5758e218762960bca9706fc7b6cf337e3c2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xaa17a236f2badc98ddc0cf999abb47d47fc0a6cf",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x86ca9713762c04e10d2e2057952b91917dc650f2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x53a901d48795c58f485cbb38df08fa96a24669d5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xccbc7fcc994db1d8f5fff17104532c0e0e78b449",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xc25a3a3b969415c80451098fa907ec722572917f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x518802d8764c2823610a619be95bf089aa121ba5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xa91d85b2e9fe1f0371559a9a7dcb1bbe1acf9587",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xd632f22692fac7611d2aa1c0d552930d43caed3b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x86b26838f03c3724cb9a9d4d165df052c401a257",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x1aef73d49dedc4b1778d0706583995958dc862e6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xeae58fd59225a192ed897c3c8b382727dc322335",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x94e131324b6054c0d789b190b2dac504e4361b53",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x8856738191dcf0b582e491bea99e880ab734f4e6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x2cb79c6bb40346a08ad7a7baf65a8b4315876e26",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x43b4fdfd4ff969587185cdb6f0bd875c5fc83f8c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x6f114a680915b3335c65225b7f61e2021419b24b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xd2967f45c4f384deea880f807be904762a3dea07",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x0e44e003ca8b7a2dd0742286fc1a3fad754a5450",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x4f3e8f405cf5afc05d68142f3783bdfe13811522",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xa16d36ea387aee0f625425ada2540d1a95dc2440",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x97e2768e8e73511ca874545dc5ff8067eb19b787",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x83ec519b6121ea1b6ae05177e7e9f9c046a5fe20",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x4807862aa8b2bf68830e4c8dc86d0e9a998e085a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x8f48eb0d8c298abbc68be5dece86c6faa4e33497",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x5b5cfe992adac0c9d48e05854b2d91c73a003858",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x7fb09845695f6bd88f4a0752e6a539a2209b6707",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xc2ee6b0334c261ed60c72f6054450b61b8f18e35",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x83d6e9ba460130d82194620ca0b16d025064d139",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x3a664ab939fd8482048609f652f9a0b0677337b9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x7538345c421467a2a58cbe9fa3dfbdeb6fb2c15a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x7eb40e450b9655f4b3cc4259bcc731c63ff55ae6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xd8252a4ec16de33fad1c69f2d3e80e9f7b8cef12",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x2fe94ea3d5d4a175184081439753de15aef9d614",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x47a2eec0d7502ba1fec0cae0eeaff64dcf28af60",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x410e3e86ef427e30b9235497143881f717d93c2a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xe1c0b5302e5a627141746acb1025c43f9fe87ca8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x64eda51d3ad40d56b9dfc5554e06f94e1dd786fd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x1acc3ffb27c31c541695ff75b21569cfaedca877",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0xde5331ac4b3630f94853ff322b66407e0d6331e8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x0d66b49a68affddcdadddfe06cd6369307b2ba46",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/convexBooster.js"
+  },
+  {
+    "address": "0x10a377ba353cd480e43800018a27742054904c1a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/supplyBooster.js"
+  },
+  {
+    "address": "0x2fbe41e4861b5d0936aa01bb32bd3402d34f11fa",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/supplyBooster.js"
+  },
+  {
+    "address": "0xcc29655c9f9a211fb11c25d905306aa93a685ef3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/supplyBooster.js"
+  },
+  {
+    "address": "0x6d18e830a938f0eaf206f1bd80b79a851e5f37a3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/lendflare/supplyBooster.js"
+  }
+]

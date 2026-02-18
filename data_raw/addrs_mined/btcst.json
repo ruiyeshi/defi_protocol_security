@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0x18a144b11fee170230177a481ba5c2532c0279bd",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0xea17a97705bb74b2c6270830943b7663890d7ceb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0x216944baf1182e49252223e78b783fe7d5a02223",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0xdc06e57f3987fedda1567b49791e78b4712e8a28",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0x68c59c11601bcc6bc515137ad8063382446cba77",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0xb94b8e65fd03a7c5cb5bc39c604563ab8f800d21",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0x2cd1075682b0fccaadd0ca629e138e64015ba11c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0xe550a593d09fbc8dcd557b5c88cea6946a8b404a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  },
+  {
+    "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/btcst/index.js"
+  }
+]

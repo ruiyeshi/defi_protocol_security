@@ -1,0 +1,102 @@
+[
+  {
+    "address": "0x631e58246a88c3957763e1469cb52f93bc1ddcf2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0x748a0f458b9e71061ca0ac543b984473f203e1cb",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0xf17d23136b4fead139f54fb766c8795faae09660",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0x9232a548dd9e81bac65500b5e0d918f8ba93675c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0x37aeb332d6e57112f1bfe36923a7ee670ee9278b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0xb73f303472c4fd4ff3b9f59ce0f9b13e47fbfd19",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/liquis/index.js"
+  },
+  {
+    "address": "0xb5087f95643a9a4069471a28d32c569d9bd57fe4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x7ea6930a9487ce8d039f7cc89432435e6d5acb23",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0xd58dd6def2d0e8e16ffc537c7f269719e19b9fe4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x4cc39af0d46b0f66fd33778c6629a696bdc310a0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x901c8aa6a61f74ac95e7f397e22a0ac7c1242218",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x03c6f0ca0363652398abfb08d154f114e61c4ad8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x627fee87d0d9d2c55098a06ac805db8f98b158aa",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x9d43ccb1ad7e0081cc8a8f1fd54d16e54a637e30",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x85c0db72927cf20896ed1332a14c4e2818c1eba9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  },
+  {
+    "address": "0x271b96395f53fb14cdd41c654ef15e83de57dedf",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/liquis/index.js"
+  }
+]

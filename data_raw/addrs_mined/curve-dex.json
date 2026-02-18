@@ -1,0 +1,227 @@
+[
+  {
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x249848beca43ac405b8102ec90dd5f22ca513c06",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x965f84d915a9efa2dd81b653e3ae736555d945f4",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x331b9182088e2a7d6d3fe4742aba1fb231aecc56",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xdc24316b9ae028f1497c275eb9192a3ea0f67022",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x6eb2dc694eb516b16dc9fbc678c60052bbdd7d80",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xa1f8a6807c402e4a15ef4eba36528a3fed24e577",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x960ea3e3c7fb317332d990873d354e18d7645590",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x326290a1b0004eee78fa6ed4f1d8f4b2523ab669",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x6a6283ab6e31c2aec3fa08697a8f806b740660b2",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x13b876c26ad6d21cb87ae459eaf6d7a1b788a113",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x66e335622ad7a6c9c72c98dbfcce684996a20ef9",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x3e3c6c7db23cddef80b694679aaf1bcd9517d0ae",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xfc1e8bf3e81383ef07be24c3fd146745719de48d",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xb755b949c126c04e0348dd881a5cf55d424742b2",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xa138341185a9d0429b0021a11fb717b225e13e1f",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x9848482da3ee3076165ce6497eda906e66bb85c5",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xff6dd348e6eecea2d81d4194b60c5157cd9e64f4",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xe9123cbc5d1ea65301d417193c40a72ac8d53501",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x056c6c5e684cec248635ed86033378cc444459b0",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xacc15dc74880c9944775448304b263d191c6077f",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xbaaa1f5dba42c3389bdbc2c9d2de134f5cd0dc89",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x9f2fe3500b1a7e285fdc337acace94c480e00130",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x29a3d66b30bc4ad674a4fdaf27578b64f6afbfe7",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1",
+    "guess": "gnosis",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  },
+  {
+    "address": "0xa13a9247ea42d743238089903570127dda72fe44",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:curve-dex/triggerEnrichment.js"
+  },
+  {
+    "address": "0x99c88ad7dc566616548adde8ed3effa730eb6c34",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:curve-dex/triggerEnrichment.js"
+  },
+  {
+    "address": "0xf3aeb3abba741f0eece8a1b1d2f11b85899951cb",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:curve-dex/triggerEnrichment.js"
+  },
+  {
+    "address": "0x13c6bed5aa16823aba5bba691caec63788b19d9d",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/search:curve-dex/triggerEnrichment.js"
+  },
+  {
+    "address": "0x38dd6b3c096c8cbe649fa0039cc144f333be8e61",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/search:curve-dex/index.js"
+  }
+]

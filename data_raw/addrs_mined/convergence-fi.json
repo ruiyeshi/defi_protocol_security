@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0xb0afc8363b8f36e0cce5d54251e20720ffaeaee7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/convergence-fi/index.js"
+  },
+  {
+    "address": "0xa3a8cda21f50b6737385e46fc9495a9998b05ff0",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/convergence-fi/index.js"
+  },
+  {
+    "address": "0x97effb790f2fbb701d88f89db4521348a2b77be8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/convergence-fi/index.js"
+  },
+  {
+    "address": "0x4b3bd8906083bde267a79e4131af7a6f723960c8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/convergence-fi/index.js"
+  },
+  {
+    "address": "0x865e59ebc3ee9edd5656cd79b382f5153e466545",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/convergence-fi/index.js"
+  },
+  {
+    "address": "0x2191df768ad71140f9f3e96c1e4407a4aa31d082",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/convergence-fi/index.js"
+  }
+]

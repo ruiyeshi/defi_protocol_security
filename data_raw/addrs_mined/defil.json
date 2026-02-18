@@ -1,0 +1,117 @@
+[
+  {
+    "address": "0xb685bfdad9da7093168ab75204bbcadf0c69c823",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x036cf3821ea246e935feef1c29ed8ddffac1dbb0",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x9e08bd9a1e3880902688b32d563046cab74d2f2f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x312c6ffe7743b964be6da9131e662af5bac55199",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x01aabbad98a7638b7f8d65e7ec42560f1afbbf0c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x6b0c7d013cc0b461490287cc20aa9f34f950a6a6",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x09ce2b746c32528b7d864a1e3979bd97d2f095ab",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x2a2cb9ba73289d4d068bd57d3c26165dad5cb628",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0xd372a3221021df72eda38f77117d3a95f057e163",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0xa2f6a219a51b4682e34a13a94c160d6c79cdca35",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x7393aa9de6585ae2ec5e18abffe1ed07123d0e87",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x272257bb03a2b99978a1e6badeba7ccba444d285",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x22b475f3e93390b7e523873ad7073337f4e56c2c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0xde6239b3138910c68f318e799b3d332925e9929f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x6b9ee349810e660dda9e3557c7a7412e5424ea39",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x6c753ca90bad578504314699580c8b01e067a765",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x6b6811a710f07b8ac430f6e172833e87c4bd8716",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x6ded0f2c886568fb4bb6f04f179093d3d167c9d7",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x3558c47c0f2309197857689d84cb620405e2c54d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0xecf6aa34b19e31311eb92768888bddd25aa72933",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x3ce2669c9aaf8e717c739b1e9100fa792ad23835",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  },
+  {
+    "address": "0x899e2a220cbc6eb1ab154211353eded74bc1e266",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/defil/contracts.json"
+  }
+]

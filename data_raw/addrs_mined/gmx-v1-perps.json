@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x321f653eed006ad1c29d174e17d96351bde22649",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0xd2d1162512f927a7e282ef43a362659e4f2a728f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x908c4d94d34924765f1edc22a1dd098397c59dd4",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x4e971a87900b931ff39d1aad67697f49835400b6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x1addd80e6039594ee970e5872d247bf0414c8903",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0xe1ae4d4b06a5fe1fc288f6b4cd72f9f8323b107f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x4d268a7d4c16ceb5a606c173bd974984343fea13",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x2bd10f8e93b3669b6d42e74eeedc65dd1b0a1342",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x9e295b5b976a184b14ad8cd72413ad846c299660",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x4277f8f2c384827b5273592ff7cebd9f2c1ac258",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  },
+  {
+    "address": "0x01234181085565ed162a948b6a5e88758cd7c7b8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/gmx-v1-perps/index.js"
+  }
+]

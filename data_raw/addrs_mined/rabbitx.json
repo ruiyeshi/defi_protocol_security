@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0xfc7f884de22a59c0009c91733196b012aecb8f41",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x3b8f6d6970a24a58b52374c539297ae02a3c4ae4",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x7fab440a0251da67b316d2c0431e3ccf4520cd42",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x1171651a1917c7de22cf2047d1d7cb9d97039811",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x0c378fb17e87b180256a87e3f671cd83bf3236db",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x3ba925fdeae6b46d0bb4d424d829982cb2f7309e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x212f3a03b0e67f2d0afc7bca138707cf9fd6a0e6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x67dba61709d78806395acdba3ef9df686af5dc24",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x236bb48fcf61ce996b2c8c196a9258c176100c7d",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0xac63e55a9d6b331987072f98bedf216f51370e28",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x07607d79bc28669bbf7ec6cfc7ae68aa6964c762",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  },
+  {
+    "address": "0x2e89ecf3945fcbda70770f59f3833ac7d08b83c0",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/rabbitx/index.js"
+  }
+]

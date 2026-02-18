@@ -1,0 +1,337 @@
+[
+  {
+    "address": "0x4ff3262ba2983ee8950d9d082f03277a58bf7eb1",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/impermax-v3/index.js"
+  },
+  {
+    "address": "0x175712cd666fbcfe8b69866a3088d7bf17a47685",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/impermax-v3/index.js"
+  },
+  {
+    "address": "0x870fd2c2b502db53d3c9e19ab99725c1129fc120",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/impermax-v3/index.js"
+  },
+  {
+    "address": "0x50e7116c4a9624a2d562ee0ab5209f3834c15e14",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/impermax-v3/index.js"
+  },
+  {
+    "address": "0x171d48161223a3ddb4659e093291f8f32f4e95ef",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/impermax-v3/index.js"
+  },
+  {
+    "address": "0x3e5b7929c71b4d6fe88c3577382786d6169005d7",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x4849bb3f7fcad49437f3107a578e063677424302",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x81ec6e89fd4e45c90ce77c9abbea3629f649c4e9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x8dcba0b75c1038c4babbdc0ff3bd9a8f6979dd13",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xa00d47b4b304792eb07b09233467b690db847c91",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xe46456153cf0e767528f4a4cd3b613d5c4101e48",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xefa2e1e46b83d572d01521c4c64845b0227b6314",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xf28e099827cb05c9c35397859b4b626218c5a1cc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x1e987756305c6506a8687e6ceb85872c48ceaa3b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x2bb779ce585a19a202ccc6e583968431b3f15ea8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x5c796c3cee0ca11e21f707bc3dfea8edda6b197d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x63489c42530234b8f5d1124d2e671129be32b3b5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xb343cc2378dcff9a6f81b4eee3d8ecdc88560f6a",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xb957d5a232eebd7c4c4b0a1af9f2043430304e65",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xc1b384610a90513ea599bb15fefa3d5bffb2a790",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xec07dd093007aae16508f76c07d26217b7db9f1b",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x2cbc4487f0b489d554b72b2e7f9679c3cd1efbc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x06d3ae1cfe7d3d27b8b9f541e2d76e5f33778923",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x242dd049be49e795cd60f0da812deef7cf4104dc",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x7166f0509bd1deedf90e42046025d929078089b4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x6817f1adf8fc29f5cf23ba814cee18120f5e88b7",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x65151e7a82c4415a73756608e2c66b39a57dca12",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x16875107bb3ce4b0c120c95b3b8d3f94d799c0ef",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x838d141bdbeceaa2eb1c576b6a4309f26f795cf2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xffce6db18f18d711ef7bf45b501a6b652b44bc43",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xd448ac2a2d9c85010459e5f5bf81931e5bc40ec3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x7f0997bc0ee78553ddab736d945b7ba10fe38b2e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x94d81405985a4c34eac4945d2b98c74258edd07f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xe8f4895df06a0c69a9ba87509efdbbfbafe86c2d",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x7c80be56a6f23a3e598822648baafd7524fe1239",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xdd14d0c651c63e1eea5bd8b250cf99757425d68f",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xb7e5e74b52b9ada1042594cfd8abbdee506cc6c5",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x15ed28e9396fa906b2a2bca0c729d7cced7c646e",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xcc5c1540683aff992201d8922df44898e1cc9806",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x01a464e2bf76bd4a3a50073026ff2335584d67d8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x1c1ccd7199afb175b425e9a1a910a3326f73faa3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x3d5fcbed1c9b6c9b0f6dea1ded55b161a6efef31",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x4b28550846405a7825247f54070b568c2ece3eeb",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0xcf49f93ff15b0ab9d336f1d5c8697f12d95012c4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x83f22f87f504f8b9f10eb73ab05c58a0973b6681",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x7f2ffc27618afded2813e457953514c54778fa1c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/blacklist.js"
+  },
+  {
+    "address": "0x4936b5aafe83611aa2fa926a683973ddb48ce7f1",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xc2da400cf63e9a01680c8fe14ab360098a35dcd8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xf159c02bff0617a58d8e5b811aa63ca3aea0bb04",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x62b45128b3c2783d5b1f86e6db92c9aa43eed6af",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x7838a0329cff90434424952411d5ffe687360f49",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xad9cfebb7666f2698ca9d836ed8cbeb0545a4263",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xa1d0f86d74bb7c832308c640b504b8525168ed62",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x0988cc53b8ddd625c20e382f1af2f9c385e4f9a3",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x5e68e1bde6699bae9cab165b35989e5acc6b7e67",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xf7408ba0aaf8ca80d4442731415bbe2156da8958",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xfbfbd1c9e05c114684bc447da5182fe09315e038",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x49967493310250254aee27f0abd2c97b45cb1509",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xdd8761dec5df366a6af7fe4e15b8f3888c0a905c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x835da504befedc85404ad6a11df278049bc56d12",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xcae4a89a26aadbe63a20d575259386d3f3dd4e5c",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xdb6a07a55177724e27a47f39fb1f73dba2d7e07a",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x80e019cb1e5b3cb42c66b45974290cfd28fbfe18",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x16507321843166033894da01547bf48483a9abc8",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x6859e20754ffbf93a81428f3da55c9f0eb723b2a",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0xf35c95bd8869f4ae4b68a97e25462c3db08e9468",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  },
+  {
+    "address": "0x738f2d9a7c52f91c4f2fdf515fb8aad951c22cd9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/impermax-v3/index.js"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x346778989a9f57480ec3fee15f2cd68409c73a62",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/index.js"
+  },
+  {
+    "address": "0xd3b63e603a78786facf65ff22e79701f3e824881",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/index.js"
+  },
+  {
+    "address": "0x02d641d7b021b1cd7a2c361ac35b415ae8263be0",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/index.js"
+  },
+  {
+    "address": "0x8c25ec843c12fbfddc7e25d66869f8639e200217",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/index.js"
+  },
+  {
+    "address": "0x052c40b4e8f16df5238457f3a7b3b0eeaa49c6bc",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/utils.js"
+  },
+  {
+    "address": "0xaf306be8419cf059642acdba3b4e79a5ae893101",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/utils.js"
+  },
+  {
+    "address": "0xc7b72e5d860034288c9335d4d325da4272fe50c9",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/utils.js"
+  },
+  {
+    "address": "0x8c730f64aa369eed69ddf7eea39c78bf0afd3f9f",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/utils.js"
+  },
+  {
+    "address": "0xc9cb494657425f350af0948b8509efdd62162692",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/virtue/utils.js"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "address": "0x8b53ab2c0df3230ea327017c91eb909f815ad113",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x0b53e608bd058bb54748c35148484fd627e6dc0a",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x8e7e9ea9023b81457ae7e6d2a51b003d421e5408",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0xa300a84d8970718dac32f54f61bd568142d8bcf4",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x52eacd19e38d501d006d2023c813d7e37f025f37",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0xa377ecf53253275125d0a150af195186271f6a56",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0xbae8d153331129eb40e390a7dd485363135fce22",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x1adc34af68e970a93062b67344269fd341979eb0",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x44c324970e5cbc5d4c3f3b7604cbc6640c2dcfbf",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x7e7e1d8757b241aa6791c089314604027544ce43",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x7b933e1c1f44be9fb111d87501baada7c8518abe",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x983a727aa3491ab251780a13acb5e876d3f2b1d8",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0xc171ebe1a2873f042f1dddd9327d00527ca29882",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x15962427a9795005c640a6bf7f99c2ba1531ad6d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x0385f851060c09a552f1a28ea3f612660256cbaa",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x5675546eb94c2c256e6d7c3f7dcab59bea3b0b8b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x6f87b39a2e36f205706921d81a6861b655db6358",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  },
+  {
+    "address": "0x82afc965e4e18009dd8d5af05cfaa99bf0e605df",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/unitus/index.js"
+  }
+]

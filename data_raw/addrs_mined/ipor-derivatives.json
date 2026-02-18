@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xcc3fc4c9ba7f8b8aa433bc586d390a70560ff366",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ipor-derivatives/index.js"
+  },
+  {
+    "address": "0xde645ab0560e5a413820234d9dded5f4a55ff6dd",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ipor-derivatives/index.js"
+  },
+  {
+    "address": "0xe9331948766593ee9cebbb426fae317b44daf0f2",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ipor-derivatives/index.js"
+  }
+]

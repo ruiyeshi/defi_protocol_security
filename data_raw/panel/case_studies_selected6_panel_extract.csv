@@ -1,0 +1,7 @@
+case,slug,exploit_year,exploit_date,loss_usd,exploit_type,audited_strict_by_year_end,reviewed_broad_by_year_end,contest_by_year_end,security_event_by_year_end
+Poly Network,poly-network,2021,2021-08-10 00:00:00+00:00,611000000.0,Protocol Logic,0,0,0,0
+Portal/Wormhole,portal,2022,2022-02-02 00:00:00+00:00,326000000.0,Protocol Logic,1,0,0,0
+Nomad,nomad,2022,2022-08-01 00:00:00+00:00,190000000.0,Protocol Logic,0,0,0,0
+Beanstalk,beanstalk,2022,2022-04-17 00:00:00+00:00,181000000.0,Ecosystem,0,0,0,0
+Mango Markets v3,mango-markets-v3,2022,2022-10-11 00:00:00+00:00,115000000.0,Ecosystem,0,0,0,0
+Qubit,qubit,2022,2022-01-28 00:00:00+00:00,80000000.0,Protocol Logic,0,0,0,0

@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0x74165b89fd8e9b91a109a4e71662f27eeba61e98",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x9b69b06272980fa6bad9d88680a71e3c3beb32c6",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x1d7928452009e03af2e3a2b5931d5d5876cb0c21",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x2b5d9adea07b590b638ffc165792b2c610eda649",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x581fa684d0ec11ccb46b1d92f1f24c8a3f95c0ca",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0xb47b790076050423888cde9ebb2d5cb86544f327",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0xc1cc256846224e8c0ba530692c338a99fbc27cb5",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x232594e7f0096ba7ddabcd8689cb0d994694eb26",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/config.js"
+  },
+  {
+    "address": "0x7dc91cbd6cb5a3e6a95eed713aa6bf1d987146c8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cakepie/index.js"
+  }
+]

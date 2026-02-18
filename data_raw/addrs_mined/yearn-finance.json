@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x0a7e7d210c45c4abba183c1d0551b53ad1756eca",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:yearn-finance/tonbridge.js"
+  },
+  {
+    "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:yearn-finance/tonbridge.js"
+  },
+  {
+    "address": "0x1ffefd8036409cb6d652bd610de465933b226917",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:yearn-finance/tonbridge.js"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000042",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/search:yearn-finance/index.js"
+  },
+  {
+    "address": "0x5f18c75abdae578b483e5f43f12a39cf75b973a9",
+    "guess": "optimism",
+    "context": "DefiLlama/yield-server/search:yearn-finance/index.js"
+  }
+]

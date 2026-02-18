@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x850034064016d9105d8719b3e06c30789e5e87fc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stablehodl/index.js"
+  },
+  {
+    "address": "0x528d46b5780879e28cf410c0b86d991a38fe64aa",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stablehodl/index.js"
+  },
+  {
+    "address": "0x109d3042a3c682f94107b3818e93b3ade2a47544",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/stablehodl/index.js"
+  }
+]

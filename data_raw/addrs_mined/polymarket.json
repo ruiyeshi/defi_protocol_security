@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x4d97dcd97ec945f40cf65f87097ace5ea0476045",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:polymarket/polymarket.js"
+  },
+  {
+    "address": "0x3a3bd7bb9528e159577f7c2e685cc81a765002e2",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:polymarket/polymarket.js"
+  }
+]

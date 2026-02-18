@@ -1,0 +1,287 @@
+[
+  {
+    "address": "0x71ef7eda2be775e5a7aa8afd02c45f059833e9d2",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x2be717340023c9e14c1bb12cb3ecbcfd3c3fb038",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x94812f2eea03a49869f95e1b5868c6f3206ee3d3",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xd70254c3bad29504789714a7c69d60ec1127375c",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x9a9072302b775ffbd3db79a7766e75cf82bcac0a",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x59e710215d45f584f44c0fee83da6d43d762d857",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x959fa710ccbb22c7ce1e59da82a247e686629310",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x0acc14dcff35b731a3f9bd70dcba3c97c44edba0",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x5158ae44c1351682b3dc046541edf84bf28c8ca4",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x4417a9b33ba8dd6fc9dfd8274b401afd42299aa3",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x49950319abe7ce5c3a6c90698381b45989c99b46",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xbb2b9780bdb4ccc168947050dffc3181503c4d18",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xa0d844742b4abbbc43d8931a6edb00c56325aa18",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x19f245782b1258cf3e11eda25784a378cc18c108",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x4341620757bee7eb4553912fafc963e59c949147",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xdb8ee6d1114021a94a045956bbeecf35d13a30f2",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xc53edeafb6d502daec5a7015d67936cea0cd0f52",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x49420311b518f3d0c94e897592014de53831cfa3",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xa900a17a49bc4d442ba7f72c39fa2108865671f0",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x1de166df671ae6db4c4c98903df88e8007593748",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xa4442b665d4c6dbc6ea43137b336e3089f05626c",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xf1bbecd6acf648540eb79588df692c6b2f0fbc09",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x9c2a4f9c5471fd36be3bbd8437a33935107215a1",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x3d9669de9e3e98db41a1cbf6dc23446109945e3c",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x9c201024a62466f9157b2daadda9326207addd29",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xc462eb5587062e2f2391990b8609d2428d8cf598",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xe00b2b2ca7ac347bc7ca82fe5cff0f76222ff375",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xe30965acd0ee1ce2e0cd0acbfb3596bd6fc78a51",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xbd06905590b6e1b6ac979fc477a0aebb58d52371",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x0e5a87047f871050c0d713321deb0f008a41c495",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x751911bda88efcf412326abe649b7a3b28c4dede",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x079f84161642d81aafb67966123c9949f9284bf5",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x014e08f05ac11bb532be62774a4c548368f59779",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xfc6b82668e10aff62f208c492fc95ef1fa9c0426",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x9d62e30c6cb7964c99314dcf5f847e36fcb29ca9",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x84341b650598002d427570298564d6701733c805",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x74109171033f662d5b898a7a2fcab2f1ef80c201",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x53b1d15b24d93330b2fd359c798de7183255e7f2",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x50549be7e21c3dc0db03c3abab83e1a78d07e6e0",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xb2918350826c1fb3c8b25a553b5d49611698206f",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xc63b18fc9025acc7830b9df05e5a0b208940a3ee",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xaec01bb498bec2fe8f3416314d5e0db7ec76576b",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x2527e8cc363ef3fd470c6320b22956021cacd149",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xe4c5aeb87762789f854b3bae7515cf00d77a1f5e",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x863dccaad60a1105f4b948c67895b4f0411c4497",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x9f4089ea33773a090ac514934517990df04ae5a7",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x10f07df86f5c3cb16f0ca62bd8239a4954eed2df",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x3e14b5d5187efe86ea99422f7696db5408a5e372",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xfb3323e24743caf4add0fdccfb268565c0685556",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x01ab485a0fae0667be36ab876c95adc1a2a5e449",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x8fb3d4a94d0aa5d6edaac3ed82b59a27f56d923a",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x05c9c6417f246600f8f5f49fca9ee991bff73d13",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xb1402333b12fc066c3d7f55d37944d5e281a3e8b",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xafb4a254d125b0395610fdc8f1d022936c7b166b",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0xa6ba5f1164dc66f9c5bdce33a6d2fc70be8da108",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  },
+  {
+    "address": "0x9cfee81970aa10cc593b83fb96eaa9880a6df715",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/ionic-protocol/index.js"
+  }
+]

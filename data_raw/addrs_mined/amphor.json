@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0x3b022edecd65b63288704a6fa33a8b9185b5096b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x2791eb5807d69fe10c02eed6b4dc12bac0701744",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0xc4a324fdf8a2495776b4d6ca46599b5a52f96489",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0xf97ecda5f9ff31d83f635a6ea70d2d3b9c8f2e00",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x0498b85fb4ec85ef5efe82513aa9daf767358a15",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x920f17e741029d904936c58a545dffc72f82c079",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0xcdc51f2b0e5f0906f2fd5f557de49d99c34df54e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x06824c27c8a0dbde5f72f770ec82e3c0fd4dcec3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x06ecfaade8fcb8c1bc58cb05104604282f8a8144",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x361a027e660844f336d5fa07e4cb38c40d5880d9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/amphor/index.js"
+  },
+  {
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/amphor/index.js"
+  },
+  {
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/amphor/index.js"
+  }
+]

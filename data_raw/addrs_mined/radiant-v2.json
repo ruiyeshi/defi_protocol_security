@@ -1,0 +1,197 @@
+[
+  {
+    "address": "0xdd109cb6f2b2aeebce01727a31d99e3149aa7e41",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x76ba3ec5f5adbf1c58c91e86502232317eea72de",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x32df62dc3aed2cd6224193052ce665dc18165841",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x1e8323a513e099322aa435d172f1e7836fc620a5",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x4fd9f7c5ca0829a656561486bada018505dfcb5e",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x346575fc7f07e6994d76199e41d13dc1575322e1",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0xe969066f2ccce3145f62f669f151c6d566068ba2",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x28e395a54a64284dba39652921cd99924f4e3797",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0xcf7b51ce5755513d4be016b0e28d6edeffa1d52a",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x3eaf348cf1fec09c0f8d4f52ad3b8d894206b724",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0xd87f8a52a91680c993ece968b281bf92505a3741",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x8a76639fe8e390ed16ea88f87beb46d6a5328254",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x3fec9583827431f622a4b188b6c57cffe8655b8e",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x32f9460386a842e43e3e09fa92bb77412aabf42b",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0xf3007f6d241ebf00140b94d92849b5acf0d36133",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x6ef47f768aeae173712fe6a662666b1dbb08c66f",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x0c19836ccd6eacb9e21693e1f27bde10218b6701",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x6b712099ab3eb192f11e4964b35de8baa7b15299",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x6b392cebb1c7f0d93d8cf99a25a21c118b347a16",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x16910ec43fe08190ad228910b58656243c675822",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x8e4660b30d09c94ea77795727c55d69799a9abd1",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x486a97dd8341c7590238b583580c78dc9151b8a6",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0xc4a09dd3dcc7d95e0bd525eff7f2968514de23b2",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x260000459e0d1c46ade027e552adc911e0742b50",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x17042a220b138b203f67fdf62fa7add8cb16ccaa",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0xd111c7da1ebdf4d2ff2d234a61a806b03187cec9",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x520411c27a950b731e0d4d5350e0caea51b1426f",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/radiant-v2/index.js"
+  },
+  {
+    "address": "0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0xf4b1486dd74d07706052a33d31d7c0aafd0659e1",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x596b0cc4c5094507c50b579a662fe7e7b094a2cc",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0xebc85d44cefb1293707b11f707bd3cec34b4d5fa",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x091d52cace1edc5527c99cdcfa6937c1635330e4",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0xd50cf00b6e600dd036ba8ef475677d816d6c4281",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x2f9d57e97c3dfed8676e605bc504a48e0c5917e9",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x7c16abb090d3fb266e9d17f60174b632f4229933",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x63764769da006395515c3f8aff9c91a809ef6607",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x30798cfe2cca822321ceed7e6085e633aabc492f",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0x07d2dc09a1cbdd01e5f6ca984b060a3ff31b9eaf",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  },
+  {
+    "address": "0xe7f252d19ab96254144fbb0d94ebc0ff7ea0c541",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/radiant-v2/index.js"
+  }
+]

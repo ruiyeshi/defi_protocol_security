@@ -1,0 +1,8 @@
+metric,value
+issue_instances,1361
+unique_contracts_with_any_issue,487
+high_instances,439
+medium_instances,344
+low_instances,578
+top_category,Delegatecall to user-supplied address
+top_category_count,356

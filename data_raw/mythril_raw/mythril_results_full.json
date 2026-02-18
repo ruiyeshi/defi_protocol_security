@@ -1,0 +1,15 @@
+{
+  "input": "data_raw/contracts/verified_contracts_from_source_cache.csv",
+  "rows_total": 12940,
+  "start": 0,
+  "limit": 0,
+  "skip_existing": true,
+  "contracts_scanned": 11689,
+  "contracts_with_issues": 483,
+  "issues": 1355,
+  "out_csv": "/Users/ruiyeshi/defi_protocol_security/outputs/mythril_vulnerabilities.csv",
+  "out_jsonl": "data_raw/mythril_raw/mythril_issues_full.jsonl",
+  "scan_dir": "/Users/ruiyeshi/defi_protocol_security/data_raw/scans_mythril",
+  "index": "/Users/ruiyeshi/defi_protocol_security/data_raw/mythril_raw/mythril_processed_index.txt",
+  "processed_in_index": 11892
+}

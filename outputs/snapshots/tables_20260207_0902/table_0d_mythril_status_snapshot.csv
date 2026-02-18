@@ -1,0 +1,2 @@
+state,row_index,processed_in_index,scanned,issues,input,out_jsonl
+running,2654,2416,2271,205,data_raw/contracts/verified_contracts_from_source_cache.csv,data_raw/mythril_raw/mythril_issues_full.jsonl

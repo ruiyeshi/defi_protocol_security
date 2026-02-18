@@ -1,0 +1,137 @@
+[
+  {
+    "address": "0xa6e02b4445db933fcd125a449448326d6505b189",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x79af88101ab5589ab0f92a2bbabe2bae1c602806",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xd5f051ff82d90d086b57842e6aae8f2faa80cb1c",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xe12382e046db998de89af19ca799cbb757106781",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xc5bd913ee3befd4721c609177f29a8770acd7242",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x41d9036454be47d3745a823c4aacd0e29cfb0f71",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x1b5668ca8edfc8af5dcb9de014b4b08ed5d0615f",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x3111653db0e7094b111b8e435df9193b62c2c576",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xd6572c7cd671ecf75d920adcd200b00343959600",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xa97fe3e9c1d3be7289030684ed32a6710d2d02ba",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xeea3a032f381ab1e415e82fe08ebeb20f513c42c",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x7122985656e38bdc0302db86685bb972b145bd3c",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xc178ae294bc3623e6dfdf07c9ca79c6db692f032",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xba43f3c8733b0515b5c23dff46f47af6eb46f85c",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x19727db22cba70b1fee40337aba69d83c6741caf",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x40a25786937ecc0643e78ca40df02db4dff27bb0",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xf8aed4da2598d3df878488f40d982d6ecc8b13ad",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x0a80028d73faaee6e57484e3335befda0de7f455",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x7ab202c0161357ca4c8fd2e09adfcd45f3aafb41",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x4f64a90409b8361cde7c3103e87e9c8511501c5a",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x57912d26a5285bc5d614bbf4e9be0e42406ede54",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x25ab3efd52e6470681ce037cd546dc60726948d3",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0xf9775085d726e782e83585033b58606f7731ab18",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  },
+  {
+    "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/free-protocol/index.js"
+  }
+]

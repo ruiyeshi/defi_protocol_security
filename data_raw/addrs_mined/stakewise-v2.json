@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stakewise-v2/index.js"
+  },
+  {
+    "address": "0x2a261e60fb14586b474c208b1b7ac6d0f5000306",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stakewise-v2/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stakewise-v2/index.js"
+  },
+  {
+    "address": "0x575b153fd68e97b63239f63ca929196a4e398b81",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:stakewise-v2/index.js"
+  }
+]

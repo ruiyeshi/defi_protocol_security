@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/stable-jack-v1/index.js"
+  },
+  {
+    "address": "0xdc325ad34c762c19faab37d439fbf219715f9d58",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/stable-jack-v1/index.js"
+  },
+  {
+    "address": "0x600466c3c707a75129c7b7bc280e5a00c219fef0",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/stable-jack-v1/index.js"
+  },
+  {
+    "address": "0xabe7a9dfda35230ff60d1590a929ae0644c47dc1",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/stable-jack-v1/index.js"
+  },
+  {
+    "address": "0x0363a3debe776de575c36f524b7877db7dd461db",
+    "guess": "avalanche",
+    "context": "DefiLlama/yield-server/src/adaptors/stable-jack-v1/index.js"
+  }
+]

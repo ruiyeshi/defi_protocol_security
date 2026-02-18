@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0xe3d17c7e840ec140a7a51aca351a482231760824",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/scream/index.js"
+  },
+  {
+    "address": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/scream/index.js"
+  },
+  {
+    "address": "0x260e596dabe3afc463e75b6cc05d8c46acacfb09",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/scream/index.js"
+  },
+  {
+    "address": "0x3d3094aec3b63c744b9fe56397d36be568faebdf",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/scream/index.js"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x5ab5fe7d04cfdefb9daf61f6f569a58a53d05ee1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentora/index.js"
+  },
+  {
+    "address": "0xe78c246ea973389f55baeadf71e04750d50417d1",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sentora/index.js"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "address": "0x81889aec6fdc400ec9786516c3adc14d59fc361e",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:unit/index.js"
+  },
+  {
+    "address": "0x0100000000000000000000000000000000000000",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:unit/aave.js"
+  },
+  {
+    "address": "0x3a0ca721fc364424566385a1aa271ed508cc2c09",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:unit/aave.js"
+  },
+  {
+    "address": "0xa4c8d221d8bb851f83aadd0223a8900a6921a349",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:unit/v2.js"
+  },
+  {
+    "address": "0x1125c5f53c72efd175753d427aa116b972aa5537",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:unit/wanswap.js"
+  },
+  {
+    "address": "0x0cdd860ca594982443e737ac7a0b84f18c477e05",
+    "guess": "base",
+    "context": "DefiLlama/DefiLlama-Adapters/search:unit/unclesam.js"
+  },
+  {
+    "address": "0x99e8269ddd5c7af0f1b3973a591b47e8e001bcac",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x9f9384ef6a1a76ae1a95df483be4b0214fda0ef9",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x5ccf60c7e10547c5389e9cbff543e5d0db9f4fec",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x193d899fa6755af844f1760530adf99b66f73154",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0xd4efe420526ee7d819398b324e35cace9aa79f9c",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x49c6ed3ca10db9b36515da2052085dfb8b4863d3",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0xe5282245f3abf855492ed9843bb25cd728993488",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x4d4d4fd27367894a1fa91e19576db99826267ecf",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x9b8132c65008c300f60fb4b91ebb5bd710c0c8a4",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0xd5cca8591d67180b9031f521d1858161918102f4",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x6e9c1f88a960fe63387eb4b71bc525a9313d8461",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/constants.js"
+  },
+  {
+    "address": "0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/index.js"
+  },
+  {
+    "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+    "guess": null,
+    "context": "DefiLlama/yield-server/search:unit/index.js"
+  }
+]

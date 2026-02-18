@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x1b4d3b0421ddc1eb216d230bc01527422fb93103",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mendi-finance/index.js"
+  },
+  {
+    "address": "0x150b1e51738cdf0ccfe472594c62d7d6074921ca",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mendi-finance/index.js"
+  },
+  {
+    "address": "0xcf8dedcdc62317beaedfbee3c77c08425f284486",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mendi-finance/index.js"
+  },
+  {
+    "address": "0x43e8809ea748eff3204ee01f08872f063e44065f",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/mendi-finance/index.js"
+  },
+  {
+    "address": "0x3b9b9364bf69761d308145371c38d9b558013d40",
+    "guess": "linea",
+    "context": "DefiLlama/yield-server/src/adaptors/mendi-finance/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "linea",
+    "context": "DefiLlama/yield-server/src/adaptors/mendi-finance/index.js"
+  }
+]

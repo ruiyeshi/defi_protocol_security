@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0x1be87d273d47c3832ab7853812e9a995a4de9eea",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0xe93131620945a1273b48f57f453983d270b62dc7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0x9be2cf73e62dd3b5df4334d9a36888394822a33f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  },
+  {
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/mortgagefi/index.js"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "address": "0x91a154f9ad33da7e889c4b6fe4a9f9c3fc6b6081",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  },
+  {
+    "address": "0x8fa7490cedb7207281a5ceabee12773046de664e",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  },
+  {
+    "address": "0xd1ed35a3ee043683a1833509de8f2c1a0d8777b7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  },
+  {
+    "address": "0xf7ca7384cc6619866749955065f17bedd3ed80bc",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  },
+  {
+    "address": "0x85dde4a11cf366fb56e05cafe2579e7119d5bc2f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  },
+  {
+    "address": "0x9f6054971d530eb0ae2b52a788da94e5da2f4546",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  },
+  {
+    "address": "0x08ef39b0d87d91d1f3e3b3e6793a4ba13a764420",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/futureswap/index.js"
+  }
+]

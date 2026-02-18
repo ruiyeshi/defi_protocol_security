@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x0c3c1c532f1e39edf36be9fe0be1410313e074bf",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0xf1d7cc64fb4452f05c498126312ebe29f30fbcf9",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x9e5a52f57b3038f1b8eee45f28b3c1967e22799c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x8909dc15e40173ff4699343b6eb8132c65e18ec6",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x79a530c8e2fa8748b7b40dd3629c0520c2ccf03f",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x0f797dc7efaea995bb916f268d919d0a1950ee3c",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x1f98400000000000000000000000000000000002",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  },
+  {
+    "address": "0x182a927119d56008d921126764bf884221b10f59",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/uniswap-v2/index.js"
+  }
+]

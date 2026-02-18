@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/search:aerodrome-slipstream/index.js"
+  },
+  {
+    "address": "0x92294d631e995f1dd9cee4097426e6a71ab87bcf",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/search:aerodrome-slipstream/index.js"
+  },
+  {
+    "address": "0x6d2d739bf37dfd93d804523c2dfa948eaf32f8e1",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/search:aerodrome-slipstream/index.js"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x0a0846c978a56d6ea9d2602eeb8f977b21f3207f",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/tetu-earn/index.js"
+  },
+  {
+    "address": "0xca9c8fba773caafe19e6140ec0a7a54d996030da",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/tetu-earn/index.js"
+  },
+  {
+    "address": "0x00379dd90b2a337c4652e286e4fbceadef940a21",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/tetu-earn/index.js"
+  },
+  {
+    "address": "0xa4eb2e1284d9e30fb656fe6b34c1680ef5d4cbfc",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/tetu-earn/index.js"
+  },
+  {
+    "address": "0x65c9d9d080714cda7b5d58989dc27f897f165179",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/tetu-earn/index.js"
+  },
+  {
+    "address": "0x255707b70bf90aa112006e1b07b9aea6de021424",
+    "guess": "fantom",
+    "context": "DefiLlama/yield-server/src/adaptors/tetu-earn/index.js"
+  }
+]

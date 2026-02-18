@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xc8140da31e6bca19b287cc35531c2212763c2059",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/renzo/index.js"
+  },
+  {
+    "address": "0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/renzo/index.js"
+  },
+  {
+    "address": "0x6dcfbf4729890043dfd34a93a2694e5303ba2703",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/renzo/index.js"
+  }
+]

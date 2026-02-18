@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0x4def5abcfba7babe04472ee4835f459daf4bd45f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x5854c7693459c6e316a96565776b72d94ee0e5fd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0xb04e166fd5d7078bb7b3412406609fd92855a08f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x38f20ad5a233c1b2c91ce987853ff3201540db53",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0xc824a08db624942c5e5f330d56530cd1598859fd",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x11eaa7a46afe1023f47040691071e174125366c8",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x9694ab1b52e51e56390ec5fd3e6f78daae97c312",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x4f4f221ff09b01dfd2ef2206da581262b04b9858",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x7a56e1c57c7475ccf742a1832b028f0456652f97",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  },
+  {
+    "address": "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/search:concrete/index.js"
+  }
+]

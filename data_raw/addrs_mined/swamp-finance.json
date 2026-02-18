@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x33adbf5f1ec364a4ea3a5ca8f310b597b8afdee3",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:swamp-finance/index.js"
+  },
+  {
+    "address": "0xc5a49b4cbe004b6fd55b30ba1de6ac360ff9765d",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:swamp-finance/index.js"
+  }
+]

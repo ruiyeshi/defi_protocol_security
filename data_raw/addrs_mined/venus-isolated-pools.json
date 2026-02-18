@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0xfd36e2c2a6789db23113685031d7f16329158384",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/venus-isolated-pools/index.js"
+  },
+  {
+    "address": "0x687a01ecf6d3907658f7a7c714749fac32336d1b",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/venus-isolated-pools/index.js"
+  },
+  {
+    "address": "0x317c1a5739f39046e20b08ac9beea3f10fd43326",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/venus-isolated-pools/index.js"
+  }
+]

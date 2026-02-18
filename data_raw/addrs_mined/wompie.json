@@ -1,0 +1,67 @@
+[
+  {
+    "address": "0xa3b615667cbd33cfc69843bf11fbb2a1d926bd46",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x0e7eb5fb8d4e1e9c872ebf7072383cf97434d2e2",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x9b69b06272980fa6bad9d88680a71e3c3beb32c6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0xd06716e1ff2e492cc5034c2e81805562dd3b45fa",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x664cc2bcae1e057eb1ec379598c5b743ad9db6e7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x5833b55498be2689b1789de53d1b76cdf9abe0c2",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x536599497ce6a35fc65c7503232fec71a84786b9",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x21804fb90593458630298f10a85094cb6d3b07db",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0xa61f74247455a40b01b0559ff6274441fafa22a3",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  },
+  {
+    "address": "0x509fd25ee2ac7833a017f17ee8a6fb4aaf947876",
+    "guess": "arbitrum",
+    "context": "DefiLlama/yield-server/src/adaptors/wompie/config.js"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x7e97fa6893871a2751b5fe961978dccb2c201e65",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x250cf7c82bac7cb6cf899b6052979d4b5ba1f9ca",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0xa60643c90a542a95026c0f1dbdb0615ff42019cf",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x4b6f1c9e5d470b97181786b26da0d0945a7cf027",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x5c0c306aaa9f877de636f4d5822ca9f2e81563ba",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x940098b108fb7d0a7e374f6eded7760787464609",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x1a996cb54bb95462040408c06122d45d6cdb6096",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x2ba39e5388ac6c702cb29aea78d52aa66832f1ee",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x2514a2ce842705ead703d02fabfd8250bfcfb8bd",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0xe4783824593a50bfe9dc873204cec171ebc62de0",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x407d3d942d0911a2fea7e22417f81e27c02d6c6f",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/arbitrum.js"
+  },
+  {
+    "address": "0x4e65fe4dba92790696d040ac24aa414708f5c0ab",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xf42f5795d9ac7e9d757db633d693cd548cfd9169",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xb7890cee6cf4792cdcc13489d36d9d42726ab863",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x616a4e1db48e22028f6bbf20444cd3b8e3273738",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xe74c499fa461af1844fca84204490877787ced56",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xee8f4ec5672f09119b96ab6fb59c27e1b7e44b61",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xc0c5689e6f4d256e861f65465b691aeecc0deb12",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x236919f11ff9ea9550a4287696c2fc9e18e6e890",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x23479229e52ab6aad312d0b03df9f33b46753b5e",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xbeef010f9cb27031ad51e3333f9af9c6b1228183",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x3128a0f7f0ea68e7b7c9b00afa7e41045828e858",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xb125e6687d4313864e53df431d5425969c15eb2f",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xedc817a28e8b93b03976fbd4a3ddbc9f7d176c22",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x90613e167d42ca420942082157b42af6fc6a8087",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x0d877dc7c8fa3ad980dfdb18b48ec9f8768359c4",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xc777031d50f632083be7080e51e390709062263e",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x1c4a802fd6b591bb71daa01d8335e43719048b24",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x28a002a98f4da7a7b541b5e4d7a42e0f64e4aef1",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/base.js"
+  },
+  {
+    "address": "0x322e1d5384aa4ed66aeca770b95686271de61dc3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x4e216c15697c1392fe59e1014b009505e05810df",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x5954ce6671d97d24b782920ddcdbb4b1e63ab2de",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x7e88ae5e50474a48dea4c42a634aa7485e7caa62",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0xa18a8f100f2c976044f2f84fae1ee9f807ae7893",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x6030ad53d90ec2fb67f3805794dbb3fa5fd6eb64",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x4935fadb17df859667cc4f7bfe6a8cb24f86f8d0",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0xf6f87073cf8929c206a77b0694619dc776f89885",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x592d1e187729c76efacc6dffb9355bd7bf47b2a7",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x196f3c7443e940911ee2bb88e019fd71400349d9",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x3d9e5462a940684073eed7e4a13d19ae0dcd13bc",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x3f5ea53d1160177445b1898afbb16da111182418",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x18d2d54f42ba720851bae861b98a0f4b079e6027",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x84ecc6be573f15991736131f924f7bf571ed3b60",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x9731842ed581816913933c01de142c7ee412a8c8",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x3ab07241db5e87e45edca012ddf4bde84c078920",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x2405243576fdff777d54963bca4782180287b6a1",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x54ca9aad90324c022bbed0a94b7380c03aa5884a",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x724a6716bf9ca384584beb51a2ea07564c7fdd69",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x7a89614b596720d4d0f51a69d6c1d55db97e9aab",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/helpers.js"
+  },
+  {
+    "address": "0x5d72a9d9a9510cd8cbdba12ac62593a58930a948",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/plasma.js"
+  },
+  {
+    "address": "0x1dd4b13fcae900c60a350589be8052959d2ed27b",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/plasma.js"
+  },
+  {
+    "address": "0xe818ad0d20d504c55601b9d5e0e137314414dec4",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/plasma.js"
+  },
+  {
+    "address": "0xa5eed1615cd883dd6883ca3a385f525e3beb4e79",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/plasma.js"
+  },
+  {
+    "address": "0x66be42a0bda425a8c3b3c2cf4f4cb9edfcaed21d",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/zyfai/plasma.js"
+  }
+]

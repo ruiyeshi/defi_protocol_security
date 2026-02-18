@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x1344a36a1b56144c3bc62e7757377d288fde0369",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/notional-v3/index.js"
+  },
+  {
+    "address": "0x6e7058c91f85e0f6db4fc9da2ca41241f5e4263f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/notional-v3/index.js"
+  },
+  {
+    "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/notional-v3/index.js"
+  },
+  {
+    "address": "0xc87a900078f04c45b7f14e46c520d4a6f37296b0",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/notional-v3/index.js"
+  }
+]

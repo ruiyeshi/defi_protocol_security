@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x1080808080f145b14228443212e62447c112adad",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/boros/index.js"
+  },
+  {
+    "address": "0x8080808080dab95efed788a9214e400ba552def6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/boros/index.js"
+  }
+]

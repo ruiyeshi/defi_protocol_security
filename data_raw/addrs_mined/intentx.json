@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x083267d20dbe6c2b0a83bd0e601dc2299ed99015",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/search:intentx/intentx.js"
+  },
+  {
+    "address": "0x8ab178c07184ffd44f0adff4ea2ce6cfc33f3b86",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/search:intentx/intentx.js"
+  },
+  {
+    "address": "0xecbd0788bb5a72f9dfdac1ffeaaf9b7c2b26e456",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/search:intentx/intentx.js"
+  },
+  {
+    "address": "0x141269e29a770644c34e05b127ab621511f20109",
+    "guess": "blast",
+    "context": "DefiLlama/DefiLlama-Adapters/search:intentx/intentx.js"
+  }
+]

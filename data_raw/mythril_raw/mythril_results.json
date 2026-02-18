@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "chain": "ethereum",
+      "contract_address": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
+      "severity": "High",
+      "title": "Delegatecall to user-supplied address",
+      "swc": "112"
+    },
+    {
+      "chain": "ethereum",
+      "contract_address": "0x8c81121b15197fa0eeaee1dc75533419dcfd3151",
+      "severity": "High",
+      "title": "Delegatecall to user-supplied address",
+      "swc": "112"
+    }
+  ]
+}

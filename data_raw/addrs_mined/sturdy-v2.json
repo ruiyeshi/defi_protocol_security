@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x69764e3e0671747a7768a1c1afb7c0c39868cc9e",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sturdy-v2/index.js"
+  },
+  {
+    "address": "0xf0382a9eca5276d7b4bbcc503e4159c046c120ec",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sturdy-v2/index.js"
+  },
+  {
+    "address": "0xd67da8636ae87b0cecbda2e66db58d4839722b52",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sturdy-v2/index.js"
+  },
+  {
+    "address": "0x9dc7b2130e478c5810dc0cdbd46b9d479b2e1ac4",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sturdy-v2/index.js"
+  },
+  {
+    "address": "0x4534f53a81416a83f6baf5ac63c94aed1fea1303",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sturdy-v2/index.js"
+  },
+  {
+    "address": "0x49b50f508091b57dae0d072f21f5cc78d6d94903",
+    "guess": "linea",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/sturdy-v2/index.js"
+  }
+]

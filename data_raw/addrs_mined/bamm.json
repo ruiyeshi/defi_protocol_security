@@ -1,0 +1,112 @@
+[
+  {
+    "address": "0x60312e01a2acd1dac68838c949c1d20c609b20cf",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x3f30c2381cd8b917dd96eb2f1a4f96d91324bbed",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x4554482d41000000000000000000000000000000",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0xbf698df5591caf546a7e087f5806e216afed666a",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0xeae019ef845a4ffdb8829210de5d30ac6fbb5371",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x66017d22b0f8556afdd19fc67041899eb65a21bb",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0xedc7905a491ff335685e2f2f1552541705138a3d",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x6d62d6af9b82cdfa3a7d16601ddbcf8970634d22",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x04208f296039f482810b550ae0d68c3e1a5eb719",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x24099000ae45558ce4d049ad46ddaaf71429b168",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0xe4e43864ea18d5e5211352a4b810383460ab7fcc",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x607312a5c671d0c511998171e634de32156e69d0",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x103f2ca2148b863942397dbc50a425cc4f4e9a27",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x2c7a9d9919f042c4c120199c69e126124d09be7c",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x998bf304ce9cb215f484aa39d1177b8210078f49",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x0f0dd66d2d6c1f3b140037018958164c6ab80d56",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x1ecf1b0de9b4c2d01554062ea2fab84b1917b41d",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x2da13538056aff0bfc81d3a4c6364b0a7e0f9feb",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0x19928170d739139bfbbb6614007f8eeed17db0ba",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0xdd179d5bf71b884793f1c213ffbdd702f399ecaa",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  },
+  {
+    "address": "0xaa74c0492db7661d6ca52145205534061f8470cb",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:bamm/index.js"
+  }
+]

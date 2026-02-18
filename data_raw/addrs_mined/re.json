@@ -1,0 +1,97 @@
+[
+  {
+    "address": "0x584967356bad1499c10a8695522983f2fb7d88f3",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/realt.js"
+  },
+  {
+    "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x669b6723d8cf1ce664bc1005646a26dc8563e5c7",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x39985d64b122f9089340cf1ab39d756e3ca74f0f",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x5fa057966fb12c9e89bf603661ce3133bd3cbf8b",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x5c6f3a0d2a8a921fa473a22c71a84504b43c0da6",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0xb767c1faca04dd9eabe20e307c52e81c37bfb1a1",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x326b7cccba7370fad44a7ce82bee71b6504576b0",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x6a45918d754b167d3e492a10a6ddf81e6c24e455",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0xbbc2bbd0335d0c60160e9b3fb7102602510eac03",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0x2ee9261f7a4226fec96b2a0c64c0613bf5367a12",
+    "guess": "fantom",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/retreeb.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:re/README.md"
+  },
+  {
+    "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:re/README.md"
+  },
+  {
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:re/README.md"
+  },
+  {
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/search:re/README.md"
+  },
+  {
+    "address": "0x3185b7c3a4e646fb23c6c04d979e61da7871b5c1",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:re/index.js"
+  },
+  {
+    "address": "0xd476ce848c61650e3051f7571f3ae437fe9a32e0",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:re/index.js"
+  },
+  {
+    "address": "0x868a943ca49a63eb0456a00ae098d470915eea0d",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:re/index.js"
+  },
+  {
+    "address": "0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:re/index.js"
+  }
+]

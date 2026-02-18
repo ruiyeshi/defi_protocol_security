@@ -1,0 +1,47 @@
+[
+  {
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0xe9d69cdd6fe41e7b621b4a688c5d1a68cb5c8adc",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  },
+  {
+    "address": "0x4279e31cc369bbcc2faf022b382b080e32a8e689",
+    "guess": "base",
+    "context": "DefiLlama/yield-server/src/adaptors/harmonix-finance/index.js"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "address": "0x8b46cb994218767f07c86ba62fecafdcb19cc001",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x17f453846e407409c22621d465d2838f7dce22ae",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x1982b2f5814301d4e9a8b0201555376e62f82428",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0xf63b34710400cad3e044cffdcab00a0f32e33ecf",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x1cb9cf5439dced63d8f5b7f1a5bf9834d8076a9a",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0xea1132120ddcdda2f119e99fa7a27a0d036f7ac9",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x80ca0d8c38d2e2bcbab66aa1648bd1c7160500fe",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x1d734a02ef1e1f5886e66b0673b71af5b53ffa94",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x15cbff12d53e7bde3f1618844caaef99b2836d2a",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0xf362fea9659cf036792c9cb02f8ff8198e21b4cb",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  },
+  {
+    "address": "0x5c0401e81bc07ca70fad469b451682c0d747ef1c",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/cian-automation/index.js"
+  }
+]

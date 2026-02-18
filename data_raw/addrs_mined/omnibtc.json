@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0x6ce8b223c47b5037d6791819694b32619ab0edfa",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0x53ecc006a0073b3351e9e38d94f052e3864c7935",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0x68953027738216a63b39d55b18c02fed5c329dfa",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0x233ddece6a96c49ece6ad9ae820690fe62a28975",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0xc3eb696184b8927d677d8ab390a26563de4798c3",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0xaa8b23b45cb51ce8f49d7757ff27ba397d05b6fc",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0xc44c290e66e79ae208d998635f6fc24837f3c554",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  },
+  {
+    "address": "0x0519147e1a604f764c0dca833671f5283c618f23",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/omnibtc/index.js"
+  }
+]

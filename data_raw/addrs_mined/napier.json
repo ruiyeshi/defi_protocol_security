@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0x17354e8e7518599c7f6b7095a6706766e4e4dc61",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/napier/v1.js"
+  },
+  {
+    "address": "0x83ce9e95118b48dfed91632e1bb848f1d4ee12e3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/napier/v1.js"
+  },
+  {
+    "address": "0x0000001afbca1e8cf82fe458b33c9954a65b987b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/napier/v2.js"
+  },
+  {
+    "address": "0x000000488f0fb672cec8ec4b90980e7c6e492e22",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/napier/v2.js"
+  },
+  {
+    "address": "0x43a42a2627e2eabb0a72e5fab92586a1ef1fde9b",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/napier/v2.js"
+  }
+]

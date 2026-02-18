@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0x01bff41798a0bcf287b996046ca68b395dbc1071",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0x1b64b9025eebb9a6239575df9ea4b9ac46d4d193",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0x2775d5105276781b4b85ba6ea6a6653beed1dd32",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0xf50258d3c1dd88946c567920b986a12e65b50dac",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  },
+  {
+    "address": "0x40461291347e1ecbb09499f3371d3f17f10d7159",
+    "guess": "polygon",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/tether-gold/index.js"
+  }
+]

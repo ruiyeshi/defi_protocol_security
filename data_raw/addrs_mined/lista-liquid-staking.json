@@ -1,0 +1,17 @@
+[
+  {
+    "address": "0x1adb950d8bb3da4be104211d5ab038628e477fe6",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:lista-liquid-staking/index.js"
+  },
+  {
+    "address": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:lista-liquid-staking/index.js"
+  },
+  {
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "guess": "bsc",
+    "context": "DefiLlama/yield-server/search:lista-liquid-staking/index.js"
+  }
+]

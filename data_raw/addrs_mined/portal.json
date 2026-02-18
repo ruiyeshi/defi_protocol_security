@@ -1,0 +1,1117 @@
+[
+  {
+    "address": "0x0e9bd42de657ff590d214ccc8d4f94b77d2bd908",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x30a25cc9c9eade4d4d9e9349be6e68c3411367d3",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x9c7beba8f6ef6643abd725e45a4e8387ef260649",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb8f275fbf7a959f4bce59999a2ef122a099e81a8",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xf98b660adf2ed7d9d9d9daacc2fb0cace4f21835",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb3f4d70c6a18cc0f2d1205dbf3b21cb73e1b0592",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xa67c48f86fc6d0176dca38883ca8153c76a532c7",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4b3a2187648902082db0a44e8235d57f3f23dd10",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x5aa5f7f84ed0e5db0a4a85c3947ea16b53352fd4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe75c7e85fe6add07077467064ad15847e6ba9877",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe6e5f3d264117e030c21920356641dbd5b3d660c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x63d71e79adf0886c989a23b04a0e86f1489b6bc3",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x7bd3ffe9f0c9cf08fd60e102fea455a6ea580276",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x292fc50e4eb66c3f6514b9e402dbc25961824d62",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xed0c95ebe5a3e687cb2224687024fec6518e683e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4f5456d4d0764473dfca1ffbb8524c151c4f19b9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x9e758b8a98a42d612b3d38b66a22074dc03d7370",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x1a6b3a62391eccaaa992ade44cd4afe6bec8cff1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x7f9fbf9bdd3f4105c478b996b648fe6e828a1e98",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x01a3c8e513b758ebb011f7afaf6c37616c9c24d9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x722e8bdd2ce80a4422e880164f2079488e115365",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x1bdd8878252daddd3af2ba30628813271294edc0",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x482deb2f7b9608a80ea91e71f06380e9891501c6",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xee981b2459331ad268cc63ce6167b446af4161f8",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x5300000000000000000000000000000000000004",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xc4d46e8402f476f269c379677c99f18e22ea030e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xa53e005cecd3d7c89a4ae814617cc14828b6527e",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x420000000000000000000000000000000000000a",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xd8db4fb1fef63045a443202d506bcf30ef404160",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xdef886c55a79830c47108eeb9c37e78a49684e41",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe5b3562a0fa9ec3e718c96ffe349e1280d2be591",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x6b6301dcba742e2320dd083a8d8fdbab9527484b",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x318c2b9a03c37702742c3d40c72e4056e430135a",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x74c9f2b00581f1b11aa7ff05aa9f608b7389de67",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb52e582263c1d0189b3cc1402c1b7205b7f2e9ba",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x4300000000000000000000000000000000000004",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x8280a4e7d5b3b658ec4580d3bc30f5e50454f169",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x1b49ecf1a8323db4abf48b2f5efaa33f7ddab3fc",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x8dc71561414cdca6dca7c1ded1abd04af474d189",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x8034ab88c3512246bf7894f57c834dddbd1de01f",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xcb0ddc112ef317271266c83d7179bf9186b9c658",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x1e4bf3cabd7707089138dd5a545b077413fa83fc",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x0cbe0df132a6c6b4a2974fa1b7fb953cf0cc798a",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x8a7f930003bedd63a1ebd99c5917fd6ae7e3dedf",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xa8a59d73388d0c4344a7b0ba287ddb654227c38a",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xfc00000000000000000000000000000000000001",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xbb859e225ac8fb6be1c7e38d87b767e95fef0ebd",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xaa5b845f8c9c047779bedf64829601d8b264076c",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x2e818e50b913457015e1277b43e469b63ac5d3d7",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe34c91815d7fc18a9e2148bcd4241d0a5848b693",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xbc10000000000000000000000000000000000000",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x3439153eb7af838ad19d56e1571fbd09333c2809",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xab11329560fa9c9c860bb21a9342215a1265bbb0",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x48b62137edfa95a428d35c09e44256a739f6b557",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "guess": "gnosis",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/config.js"
+  },
+  {
+    "address": "0x7a56e1c57c7475ccf742a1832b028f0456652f97",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x8db2350d78abc13f5673a411d4700bcf87864dde",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xcfc5bd99915aaa815401c5a41a927ab7a38d29cf",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xab13b8eecf5aa2460841d75da5d5d861fd5b8a39",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xf6680ea3b480ca2b72d96ea13ccaf2cfd8e6908c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x153feaddc48871108e286de3304b9597c817b456",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x327082dd216ff625748b13e156b9d1a5d3dd41f2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x818ca2e217e060ad17b7bd0124a483a1f66930a9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x201c44b426d85fb2c382563483140825fd81b9b5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x31bfa2054b7199f936733f9054dbce259a3c335a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x9945a0da3dc74e364da4ea96946c99336013eeb5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0xbf79e16872fad92c16810ddd2a7b9b6858c7b756",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x3a683fdc022b26d755c70e9ed7cfcc446658018b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x91228a48aea4e4071b9c6444eb08b021399cff7c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0xa3eafd5021f6b9c36fd02ed58aa1d015f2238791",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0xa845c1034cd077bd8d32be0447239c7e4be6cb21",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0xb393c898b3d261c362a4987cae5a833232aa666e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x173ca6770aa56eb00511dac8e6e13b3d7f16a5a5",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0xacb721d989c095c64a24d16dfd23b08d738e2552",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x75fa7d8ba6bed4a68774c758a5e43cfb6633d9d6",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x2ca315f4329654614d1e8321f9c252921192c5f2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x4268c34da6ad41a4cdeaa25cdef6531ed0c9a1a2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x2fc7167c3baff89e2805aef72636ccd98ee6bbb2",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x32339fa037f7ae1dfff25e13c6451a80289d61f4",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0xc6bb661eda683bdc792b3e456a206a92cc3cb92e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x9bd504b1445fdb8f4a643453ec1459bb9a2f988a",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x54ae64e2092749fb8d25470ffc1d4d6a19c6f2ab",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x083196549637faf95c91eccd157e60430e69e1a7",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x4306f921c982766810cf342775fd79aa2d0d0e24",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/zilliqa.js"
+  },
+  {
+    "address": "0x4fe8c658f268842445ae8f95d4d6d8cfd356a8c8",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x6026a85e11bd895c934af02647e8c7b4ea2d9808",
+    "guess": "avalanche",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xe2ce6ab80874fa9fa2aae65d277dd6b8e65c9de0",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xb30d8c4216e1f21f27444d2ffaee3ad577808678",
+    "guess": "bsc",
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xc0ba93d4aaf90d39924402162ee4a213300d1d60",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x37f750b7cc259a2f741af45294f6a16572cf5cad",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xe10fd4788a76d19ba0110b1bfda5e13d35ed4359",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xebf0536356256f8ff2a5eb6c65800839801d8b95",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xc668583dcbdc9ae6fa3ce46462758188adfdfc24",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x4730ff6bc3008a40cf74d660d3f20d5b51646da3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x9f4adbd0af281c69a582eb2e6fa2a594d4204cae",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x9438e7281d7e3e99a9dd21e0ead9c6a254e17ab2",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x74ef28d635c6c5800dd3cd62d4c4f8752daacb09",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x2def4285787d58a2f811af24755a8150622f4361",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x122013fd7df1c6f636a5bb8f03108e876548b455",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x4ff08e2a4e7114af4b575aef9250144f95790982",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x9906589ea8fd27504974b7e8201df5bbde986b03",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xef4229c8c3250c675f21bcefa42f58efbff6002a",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x39b6f09ef97db406ab78d869471adb2384c494e3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xf3f65dfe0c8c8f2986da0fec159abe6fd4e700b4",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x274dd2df039f1f6131419c82173d97770e6af6b7",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xaefc4e8cf655a182e8346b24c8abce45616ee0d2",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x20d7274c5af4f9de6e8c93025e44af3979d9ab2b",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xcce0d62ce14fb3e4363eb92db37ff3630836c252",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x1bfc26ce035c368503fae319cc2596716428ca44",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x68b239b415970dd7a5234a9701cbb5bfab544c7c",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xa5037661989789d0310ac2b796fa78f1b01f195d",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xd7bf6946b740930c60131044bd2f08787e1ddbd4",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x0986b42f5f9c42feeef66fc23eba9ea1164c916d",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x730e677f39c4ca96012c394b9da09a025e922f81",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xa2f0e57d4ceacf025e81c76f28b9ad6e9fbe8735",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xeadf4a7168a82d30ba0619e64d5bcf5b30b45226",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x07e137e5605e15c93f22545868fa70cecfcbbffe",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xfc9e2c63370d8deb3521922a7b2b60f4cff7e75a",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x301a61d01a63c8d670c2b8a43f37d12ef181f997",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xaffd8d6b5e5a0e25034dd3d075532f9ce01c305c",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x23c95678862a229fac088bd9705622d78130bc3e",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xd8761dd6c7cb54febd33add699f5e4440b62e01b",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xec8e37876fd9de919b58788b87a078e546149f87",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x02db089fb09fda92e05e92afcd41d9aafe9c7c7c",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xb4aa2986622249b1f45eb93f28cfca2b2606d809",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x18d71b8664e69d6dd61c79247dbf12bfaaf66c10",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x63c1914bf00a9b395a2bf89aada55a5615a3656e",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xafee90ab6a2d3b265262f94f6e437e7f6d94e26e",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x2080aaa167e2225e1fc9923250ba60e19a180fb2",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xcc82628f6a8defa1e2b0ad7ed448bef3647f7941",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xf5b454cf47caca418d95930aa03975ee4bf409bc",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x19260b9b573569ddb105780176547875fe9feda3",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xbe50a3013a1c94768a1abb78c3cb79ab28fc1ace",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x8cd0e2f11ed2e896a8307280deeee15b27e46bbe",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xe0f2cc70e52f05edb383313393d88df2937da55a",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xe919f65739c26a42616b7b8eedc6b5524d1e3ac4",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x846b784ab5302155542c1b3952b54305f220fd84",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xdbf27fd2a702cc02ac7acf0aea376db780d53247",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xc7a4c6ef4a16dc24634cc2a951ba5fec4398f7e0",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x0ff04189ef135b6541e56f7c638489de92e9c778",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x635aec36c4b61bac5eb1c3eee191147d006f8a21",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x413ffcc28e6cdde7e93625ef4742810fe9738578",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xe74abf23e1fdf7acbec2f3a30a772ef77f1601e1",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x4d6b17828d0173668e8eb730106444556a98c0f9",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x382ed834c6b7dbd10e4798b08889eaed1455e820",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x56072d4832642db29225da12d6fd1290e4744682",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x2642ab16bfb7a8b36ee42c9cba2289c4ca9f33b9",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x81b6a3d9f725ab5d706d9e552b128bc5bb0b58a1",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x57f008172cf89b972db3db7dd032e66be4af1a8c",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0xfa3df877f98ac5ecd87456a7accaa948462412f0",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  },
+  {
+    "address": "0x552b9aa0eee500c60f09456e49fbc1096322714c",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/search:portal/index.js"
+  }
+]

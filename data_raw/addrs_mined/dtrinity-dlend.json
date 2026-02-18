@@ -1,0 +1,27 @@
+[
+  {
+    "address": "0xfb3adf4c845fd6352d24f3f0981eb7954401829c",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dtrinity-dlend/index.js"
+  },
+  {
+    "address": "0x788d96f655735f52c676a133f4dfc53cec614d4a",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dtrinity-dlend/index.js"
+  },
+  {
+    "address": "0xb245f8321e7a4938def8bdb2d5e2e16481268c42",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dtrinity-dlend/index.js"
+  },
+  {
+    "address": "0x53a6abb52b2f968fa80df6a894e4f1b1020da975",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dtrinity-dlend/index.js"
+  },
+  {
+    "address": "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e",
+    "guess": null,
+    "context": "DefiLlama/DefiLlama-Adapters/projects/dtrinity-dlend/index.js"
+  }
+]

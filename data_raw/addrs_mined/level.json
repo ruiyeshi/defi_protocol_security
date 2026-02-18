@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0xa5abfb56a78d2bd4689b25b8a77fd49bb0675874",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/level/index.js"
+  },
+  {
+    "address": "0x5ae081b6647aef897dec738642089d4bda93c0e7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/level/index.js"
+  },
+  {
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/level/index.js"
+  },
+  {
+    "address": "0x70f16782010fa7ddf032a6aacdeed05ac6b0bc85",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/level/index.js"
+  },
+  {
+    "address": "0x32b7bf19cb8b95c27e644183837813d4b595dcc6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/level/index.js"
+  },
+  {
+    "address": "0x0180dee5df18ebf76642e50faaef426f7b2874f7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/level/index.js"
+  }
+]

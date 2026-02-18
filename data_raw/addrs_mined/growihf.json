@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x1e37a337ed460039d1b15bd3bc489de789768d5e",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/growihf/index.js"
+  },
+  {
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/growihf/index.js"
+  }
+]

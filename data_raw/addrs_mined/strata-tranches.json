@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x3d7d6fdf07ee548b939a80edbc9b2256d0cdc003",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/strata-tranches/index.js"
+  },
+  {
+    "address": "0xc58d044404d8b14e953c115e67823784dea53d8f",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/strata-tranches/index.js"
+  }
+]

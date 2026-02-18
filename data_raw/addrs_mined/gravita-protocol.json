@@ -1,0 +1,57 @@
+[
+  {
+    "address": "0x4928c8f8c20a1e3c295dddbe05095a9abbdb3d14",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0x441f6b484fd60c31b3ca9c61014030b0403f805a",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0xf7cc67326f9a1d057c1e4b110ef6c680b13a1f53",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0xc8a25ea0cbd92a6f787aeed8387e04559053a9f8",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0x326398de2db419ee39f97600a5eee97093cf3b27",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0x6b42581ac12f442503dfb3dff2bc75ed83850637",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0x4f39f12064d83f6dd7a2bdb0d53af8be560356a6",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0xbb22d59b73d7a6f3a8a83a214becc67eb3b511fe",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0x1db1afd9552eeb28e2e36597082440598b7f1320",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/gravita-protocol/index.js"
+  },
+  {
+    "address": "0xdb5dacb1dfbe16326c3656a88017f0cb4ece0977",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/gravita-protocol/index.js"
+  },
+  {
+    "address": "0x15f74458ae0bfdaa1a96ca1aa779d715cc1eefe4",
+    "guess": "ethereum",
+    "context": "DefiLlama/yield-server/src/adaptors/gravita-protocol/index.js"
+  }
+]

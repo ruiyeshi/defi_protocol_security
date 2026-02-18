@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x35a398425d9f1029021a92bc3d2557d42c8588d7",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pirex/index.js"
+  },
+  {
+    "address": "0x9a592b4539e22eeb8b2a3df679d572c7712ef999",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pirex/index.js"
+  },
+  {
+    "address": "0x0eac365e4d7de0e293078bd771ba7d0ba9a4c892",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pirex/index.js"
+  },
+  {
+    "address": "0x4277f8f2c384827b5273592ff7cebd9f2c1ac258",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pirex/index.js"
+  },
+  {
+    "address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pirex/index.js"
+  },
+  {
+    "address": "0x10978db3885ba79bf1bc823e108085fb88e6f02f",
+    "guess": "arbitrum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/pirex/index.js"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "address": "0x1d20635535307208919f0b67c3b2065965a85aa9",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0x30838619c55b787bafc3a4cd9aea851c1cfb7b19",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0x35db1f3a6a6f07f82c76fcc415db6cfb1a7df833",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0x9571997a66d63958e1b3de9647c22bd6b9e7228c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0x216400ba362d8fce640085755e47075109718c8b",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0x5e23dc409fc2f832f83cec191e245a191a4bcc5c",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0xb65ec550ff356eca6150f733ba9b954b2e0ca488",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0xa252eee9bde830ca4793f054b506587027825a8e",
+    "guess": "ethereum",
+    "context": "DefiLlama/DefiLlama-Adapters/projects/canto-lending/index.js"
+  },
+  {
+    "address": "0x826551890dc65655a0aceca109ab11abdbd7a07b",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/canto-lending/index.js"
+  },
+  {
+    "address": "0xee602429ef7ece0a13e4ffe8dbc16e101049504c",
+    "guess": null,
+    "context": "DefiLlama/yield-server/src/adaptors/canto-lending/index.js"
+  }
+]
